@@ -11,12 +11,12 @@ localization_priority: Priority
 ms.collection: FastTrack
 ms.assetid: cf8ecce3-713f-4943-8217-afca0ce31434
 description: Khi bạn mua bất kỳ dịch vụ Office 365 (như chi tiết trong phần dịch vụ đủ điều kiện sau đây), FastTrack chuyên cung cấp hướng dẫn cho bạn để onboard Office 365 và bắt đầu làm việc sử dụng của họ.
-ms.openlocfilehash: fc77165f725ab48dd16237c62f11589792df39cf
-ms.sourcegitcommit: a754d02f1dea1a2147f716a2cbebda7b68141777
+ms.openlocfilehash: 2a3d1c0b010a24429da884956d1dd785df656e5f
+ms.sourcegitcommit: c993f9ed7adf792a123e7c59d1bb280776b9cf02
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 10/01/2018
-ms.locfileid: "25445185"
+ms.lasthandoff: 10/15/2018
+ms.locfileid: "25565566"
 ---
 # <a name="eligible-services-and-plans"></a>Dịch vụ đủ điều kiện và kế hoạch
 
@@ -45,9 +45,9 @@ FastTrack Trung tâm hỗ trợ [dịch vụ Office 365](https://go.microsoft.co
 - Office 365 ProPlus
 - Microsoft StaffHub
     
-## <a name="eligible-commercial-plans"></a>Kế hoạch thương mại đủ điều kiện
+## <a name="eligible-plans"></a>Kế hoạch hội đủ điều kiện
 
-Bạn phải mua giấy phép ít nhất 50 từ danh sách các kế hoạch hội đủ điều kiện sau (bao gồm cả kế hoạch Office 365 Đức tương đương) để nhận được dịch vụ FastTrack:
+Bạn phải mua ít nhất 150 giấy phép từ danh sách sau đây kế hoạch hội đủ điều kiện để nhận được dịch vụ FastTrack:
   
  **Office 365**
   
@@ -66,12 +66,22 @@ Bạn phải mua giấy phép ít nhất 50 từ danh sách các kế hoạch h�
 - Office 365 F1 chính phủ Hoa Kỳ\*
 - Office 365 ProPlus
     
+ **Giáo dục Office 365**
+  
+- Office 365 A3
+- Office 365 A5
+
  **Doanh nghiệp Microsoft 365**
   
 - Microsoft 365 E3\*\*\*
 - Microsoft 365 E5\*\*\*
 - Doanh nghiệp Microsoft 365\*\*\*
     
+ **Giáo dục Microsoft 365**
+  
+- Microsoft 365 A3\*\*\*
+- Microsoft 365 A5\*\*\*
+
  **Trao đổi trực tuyến**
   
 - Kế hoạch trao đổi trực tuyến 1
@@ -106,27 +116,9 @@ Bạn phải mua giấy phép ít nhất 50 từ danh sách các kế hoạch h�
     
  **Yammer**
   
-- Yammer doanh nghiệp
-    
-## <a name="eligible-education-plans"></a>Kế hoạch giáo dục đủ điều kiện
-
-FastTrack có dịch vụ cho Office 365 Beta dành cho giáo dục và Microsoft 365 cho giáo dục nếu bạn mua tối thiểu là 1000 giấy phép từ danh sách dưới đây đủ điều kiện kế hoạch:
-  
- **Giáo dục Office 365**
-  
-- Office 365 A3
-- Office 365 A5
-    
- **Giáo dục Microsoft 365**
-  
-- Microsoft 365 A3\*\*\*
-- Microsoft 365 A5\*\*\*
-    
+- Yammer doanh nghiệp 
 > [!NOTE]
-> Nếu bạn mua hoặc tái lập Office 365 A5 trước 12/1/2017, 50 chỗ là chỗ ngồi trả tiền tối thiểu yêu cầu trong suốt thời gian đăng ký hiện tại của bạn đủ điều kiện cho lợi ích FastTrack. Nếu bạn mua hoặc tái lập Office 365 A5 sau 12/1/2017, 1000 chỗ ngồi là yêu cầu chỗ ngồi trả tiền tối thiểu để đủ điều kiện cho lợi ích FastTrack. 
-  
-> [!NOTE]
-> Kế hoạch có sẵn miễn phí (như Office 365 A1 hoặc kế hoạch lợi ích sử dụng cho sinh viên) không đủ điều kiện để được hỗ trợ FastTrack. 
+> Đủ điều kiện cho lợi ích Trung tâm FastTrack dựa trên mua giấy phép trả tiền cho các kế hoạch hội đủ điều kiện được đề cập trước đó. Kế hoạch có sẵn miễn phí (giống như Office 365 A1, Office 365 phi lợi nhuận kinh doanh yếu tố cần thiết, và học sinh sử dụng kế hoạch lợi ích) không đủ điều kiện để được hỗ trợ FastTrack. 
   
 ## <a name="ineligible-plans"></a>Không đủ điều kiện kế hoạch
 
