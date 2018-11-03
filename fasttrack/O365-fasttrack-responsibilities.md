@@ -1,9 +1,9 @@
 ---
-title: Trách nhiệm FastTrack
+title: Trách nhiệm của FastTrack
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 10/01/2018
+ms.date: 11/2/2018
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
@@ -11,14 +11,14 @@ localization_priority: Priority
 ms.collection: FastTrack
 ms.assetid: 9840bd79-fb09-4f8e-b7c9-e96dfdcd3a33
 description: FastTrack chuyên gia có trách nhiệm sau đây trong onboarding.
-ms.openlocfilehash: 813fc4c1f4fdb48bdae8184b9afc0528dcb4feb7
-ms.sourcegitcommit: a754d02f1dea1a2147f716a2cbebda7b68141777
+ms.openlocfilehash: 2c02450376b3a64e1e7e63b966d284f3223567f9
+ms.sourcegitcommit: a8717ee240040292872bc0231f1fb2a22b846806
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 10/01/2018
-ms.locfileid: "25445211"
+ms.lasthandoff: 11/01/2018
+ms.locfileid: "25895649"
 ---
-# <a name="fasttrack-responsibilities"></a>Trách nhiệm FastTrack
+# <a name="fasttrack-responsibilities"></a>Trách nhiệm của FastTrack
 
 FastTrack chuyên gia có trách nhiệm sau đây trong onboarding.\*
   
@@ -103,6 +103,7 @@ Cung cấp hướng dẫn về:
 - Cho phép định tuyến email giữa hệ thống nhắn tin mã nguồn và Office 365 môi trường. 
 - Cấu hình các tính năng bảo vệ trực tuyến trao đổi (bao gồm trao đổi trực tuyến nâng cao đe dọa tính năng bảo vệ nếu có đăng ký của bạn) và xác minh bản ghi MX trỏ tới Office 365 Beta dành cho tất cả các xác nhận mail kích hoạt tên miền.
 - Cấu hình thiết lập lai hoặc giữa tổ chức Exchange tại chỗ duy nhất và Office 365 *hoặc* giữa nhiều tổ chức Exchange tại chỗ và Office 365. 
+- Đặt cấu hình hộp thư khách hàng (Outlook cho Windows, Outlook trên web và Outlook cho iOS và Android).
     
 Để biết thêm chi tiết về trách nhiệm di chuyển dữ liệu, hãy xem [Di chuyển dữ liệu](O365-data-migration.md).
   
@@ -191,7 +192,7 @@ Cung cấp hướng dẫn về:
 
 Cung cấp hướng dẫn về:
 - Giải quyết vấn đề triển khai.
-- Gán giấy phép người dùng cuối bằng cách sử dụng trung tâm quản trị Office 365 và Windows PowerShell.
+- Gán giấy phép người dùng cuối bằng cách sử dụng [Trung tâm quản trị Microsoft 365](https://go.microsoft.com/fwlink/?linkid=2032704) và Windows PowerShell.
 - Tải và cài đặt khách hàng máy tính để bàn trực tuyến dự án từ cổng thông tin.   
 - Cấu hình cài đặt bản Cập Nhật bằng cách sử dụng các mẫu công cụ triển khai Office hoặc chính sách nhóm.
 - Thiết lập một máy chủ duy nhất phân phối ngay trong khuôn viên cho khách hàng máy tính để bàn trực tuyến dự án, bao gồm các hướng dẫn cho việc tạo ra một tập tin configuration.xml cho công cụ triển khai Office 2016. 
@@ -205,9 +206,9 @@ Cung cấp hướng dẫn về cách chuyển đổi mạng Yammer cơ bản duy
 
 Cung cấp hướng dẫn về:
 - Giải quyết vấn đề triển khai.
-- Gán giấy phép người dùng cuối bằng cách sử dụng trung tâm quản trị Office 365 và Windows PowerShell.
+- Gán giấy phép người dùng cuối bằng cách sử dụng [Trung tâm quản trị Microsoft 365](https://go.microsoft.com/fwlink/?linkid=2032704) và Windows PowerShell.
 - Cài đặt Office 365 ProPlus từ cổng Office 365 bằng cách sử dụng chuột để chạy.
-- Cài đặt ứng dụng Office Mobile (như Outlook Mobile, từ điện thoại di động, điện thoại di động Excel và PowerPoint di động) trên iOS, Android hoặc Windows Mobile thiết bị. 
+- Cài đặt ứng dụng Office Mobile (như Outlook cho iOS và Android, từ điện thoại di động, điện thoại di động Excel và PowerPoint di động) trên iOS, Android hoặc Windows Mobile thiết bị. 
 - Cấu hình cài đặt bản Cập Nhật bằng cách sử dụng các mẫu công cụ triển khai Office 2016 hoặc chính sách nhóm.
 - Thiết lập một máy chủ duy nhất phân phối ngay trong khuôn viên cho Office 365 ProPlus, bao gồm hỗ trợ với việc tạo ra một tập tin configuration.xml để sử dụng với công cụ triển khai văn phòng.
 - Triển khai bằng cách sử dụng hệ thống Trung tâm quản lý cấu hình, bao gồm hỗ trợ với việc tạo ra các hệ thống quản lý cấu hình Trung tâm bao bì.
@@ -220,5 +221,11 @@ Cung cấp hướng dẫn về:
 - Các tính năng sản phẩm cốt lõi.
 - Tải về địa điểm cho Microsoft StaffHub.
     
+## <a name="outlook-for-ios-and-android"></a>Outlook cho iOS và Android
+
+Cung cấp hướng dẫn về:
+- Tải về Outlook vào thiết bị Android và iOS.
+- Cấu hình tài khoản email trong Outlook.
+
 \*Thông tin về FastTrack trách nhiệm cho Office 365 Beta dành cho chúng tôi chính phủ, xem [FastTrack trách nhiệm cho chính phủ Hoa Kỳ Office 365](US-Gov-appendix-fasttrack-responsibilities.md).
 

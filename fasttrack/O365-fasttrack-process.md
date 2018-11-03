@@ -1,9 +1,9 @@
 ---
-title: Quá trình FastTrack
+title: Quy trình FastTrack
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 10/01/2018
+ms.date: 11/2/2018
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
@@ -11,14 +11,14 @@ localization_priority: Priority
 ms.collection: FastTrack
 ms.assetid: 34e2f038-4778-4ab0-a6b5-d46fa85de3e8
 description: Quá trình FastTrack cung cấp dịch vụ nhận con nuôi onboarding và người sử dụng.
-ms.openlocfilehash: 3a41e1a41bae421472af6c5d8645808410a0664f
-ms.sourcegitcommit: a754d02f1dea1a2147f716a2cbebda7b68141777
+ms.openlocfilehash: d5f2ec3442dabda1cff09577a65992942e09611e
+ms.sourcegitcommit: a8717ee240040292872bc0231f1fb2a22b846806
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 10/01/2018
-ms.locfileid: "25445171"
+ms.lasthandoff: 11/01/2018
+ms.locfileid: "25895673"
 ---
-# <a name="the-fasttrack-process"></a>Quá trình FastTrack
+# <a name="the-fasttrack-process"></a>Quy trình FastTrack
 
 Quá trình FastTrack cung cấp dịch vụ nhận con nuôi onboarding và người sử dụng. 
   
@@ -38,8 +38,15 @@ Sơ đồ sau minh hoạ quá trình onboarding.
   
 ![Thời gian biểu cho việc sử dụng lợi ích Onboarding](media/O365-Onboarding-Timeline.png)
   
-Bạn có thể nhận được trợ giúp thông qua các trung tâm quản trị Office 365 hoặc [FastTrack trang web](https://go.microsoft.com/fwlink/?linkid=780698). Để được giúp đỡ thông qua Trung tâm quản trị Office 365, quản trị của bạn đăng nhập vào Trung tâm quản trị và sau đó nhấp vào các **cần giúp đỡ?** widget. Để được giúp đỡ thông qua [trang web FastTrack](https://go.microsoft.com/fwlink/?linkid=780698), đăng nhập, bấm vào **dịch vụ**và điền vào mẫu **Yêu cầu trợ giúp cho Office 365** . 
-    
+Bạn có thể nhận được trợ giúp thông qua các [Trung tâm quản trị Microsoft 365](https://go.microsoft.com/fwlink/?linkid=2032704) hoặc [FastTrack trang web](https://go.microsoft.com/fwlink/?linkid=780698). 
+
+Để được giúp đỡ thông qua [Trung tâm quản trị Microsoft 365](https://go.microsoft.com/fwlink/?linkid=2032704), quản trị của bạn đăng nhập vào Trung tâm quản trị và sau đó nhấp vào các **cần giúp đỡ?** widget. 
+
+Để được giúp đỡ thông qua [trang web FastTrack](https://go.microsoft.com/fwlink/?linkid=780698): 
+1.  Đăng nhập vào [trang web FastTrack](https://go.microsoft.com/fwlink/?linkid=780698). 
+2.  Chọn **FastTrack**.
+3.  Chọn **dịch vụ**.
+4.  Điền vào mẫu **yêu cầu để được hỗ trợ với Microsoft 365** . 
 > [!NOTE]
 >  Nếu bạn có một đối tác được liệt kê trong Office 365 thuê nhà của bạn, bạn sẽ không thấy tùy chọn này. Xin vui lòng tham khảo ý kiến đối tác của bạn để được trợ giúp. 
   
@@ -47,7 +54,13 @@ Bạn có thể nhận được trợ giúp thông qua các trung tâm quản tr
     
  Một khi bắt đầu hỗ trợ onboarding, chúng tôi thiết lập một lịch trình các cuộc họp trực tuyến.
     
-Đối tác cũng có thể giúp đỡ thông qua [trang web FastTrack](https://go.microsoft.com/fwlink/?linkid=780698) thay mặt cho một khách hàng. Để làm như vậy, các đối tác đăng nhập vào các trang web, chọn hồ sơ khách hàng, nhấp **dịch vụ**và hoàn tất các biểu mẫu **Yêu cầu trợ giúp cho Office 365** . 
+Đối tác cũng có thể giúp đỡ thông qua [trang web FastTrack](https://go.microsoft.com/fwlink/?linkid=780698) thay mặt cho một khách hàng. Để làm như vậy:
+1.  Đăng nhập vào [trang web FastTrack](https://go.microsoft.com/fwlink/?linkid=780698). 
+2.  Chọn **FastTrack**.
+3.  Chọn **khách hàng của tôi**.
+4.  Tìm kiếm khách hàng của bạn hoặc chọn chúng từ danh sách khách hàng của bạn.
+5.  Chọn **dịch vụ**.
+6.  Điền vào mẫu **yêu cầu để được hỗ trợ với Microsoft 365** . 
 
 Bảng sau liệt kê các vai trò và trách nhiệm đối với quá trình.
     
