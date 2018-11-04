@@ -1,9 +1,9 @@
 ---
-title: Trung tâm FastTrack lợi ích tổng quan
+title: Tổng quan về Lợi ích Trung tâm FastTrack
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 10/01/2018
+ms.date: 11/2/2018
 ms.audience: ITPro
 ms.topic: overview
 f1_keywords:
@@ -13,16 +13,16 @@ localization_priority: Priority
 ms.collection: FastTrack
 ms.assetid: ac467db0-3118-41fa-a93d-bb5de1e414d5
 description: Khi bạn mua bất kỳ dịch vụ Windows 10 hay Microsoft 365, FastTrack chuyên cung cấp tư vấn và khắc phục hướng dẫn triển khai để Windows 10 và Office 365 ProPlus và ở lại up-to-không có chi phí bổ sung (với một đăng ký đủ điều kiện).
-ms.openlocfilehash: 493e38ad0e091c77eec78bd2e388f8429fe223c0
-ms.sourcegitcommit: a754d02f1dea1a2147f716a2cbebda7b68141777
+ms.openlocfilehash: 603873c06dcc1ed0c11031f4e8e6093b62c92fbd
+ms.sourcegitcommit: a8717ee240040292872bc0231f1fb2a22b846806
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 10/01/2018
-ms.locfileid: "25445191"
+ms.lasthandoff: 11/01/2018
+ms.locfileid: "25895625"
 ---
-# <a name="assistance-offered-and-eligible-plans"></a>Hỗ trợ cung cấp và hội đủ điều kiện kế hoạch   
+# <a name="assistance-offered-and-eligible-plans"></a>Hỗ trợ được cung cấp và gói đủ điều kiện   
 
-Khi bạn mua bất kỳ dịch vụ Windows 10 hay Microsoft 365 (như chi tiết trong phần **hội đủ điều kiện kế hoạch** sau), FastTrack chuyên cung cấp tư vấn và khắc phục hướng dẫn triển khai để Windows 10 và Office 365 ProPlus và ở lại thông tin mới nhất tại không có chi phí bổ sung (với một đăng ký đủ điều kiện).
+Khi bạn mua bất kỳ dịch vụ Windows 10 hay Microsoft 365 (như chi tiết trong phần **hội đủ điều kiện kế hoạch** sau), FastTrack chuyên cung cấp tư vấn và khắc phục hướng dẫn nếu bạn gặp vấn đề tương thích ứng dụng khi bạn triển khai để Windows 10 và Office 365 ProPlus và ở lại up-to-không có chi phí bổ sung (với một đăng ký đủ điều kiện).
 
 Để được giúp đỡ, hoàn thành [máy tính để bàn ứng dụng đảm bảo các yêu cầu dịch vụ](https://go.microsoft.com/fwlink/?linkid=2022721).
 

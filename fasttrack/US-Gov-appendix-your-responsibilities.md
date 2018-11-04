@@ -3,7 +3,7 @@ title: Trách nhiệm của bạn cho Office 365 chính phủ Hoa Kỳ
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 10/01/2018
+ms.date: 11/2/2018
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
@@ -11,12 +11,12 @@ localization_priority: None
 ms.collection: FastTrack
 ms.assetid: 64c7c548-87af-496b-b48e-04b9fa9f54f8
 description: Bạn có trách nhiệm sau đây trong onboarding.
-ms.openlocfilehash: 9ee2523bc85838322aac8d1461a01daca9f84651
-ms.sourcegitcommit: a754d02f1dea1a2147f716a2cbebda7b68141777
+ms.openlocfilehash: 7df072dd5206ba2ba22b5a1be50f3c716ca0482b
+ms.sourcegitcommit: a8717ee240040292872bc0231f1fb2a22b846806
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 10/01/2018
-ms.locfileid: "25445181"
+ms.lasthandoff: 11/01/2018
+ms.locfileid: "25895709"
 ---
 # <a name="your-responsibilities-for-office-365-us-government"></a>Trách nhiệm của bạn cho Office 365 chính phủ Hoa Kỳ
 

@@ -1,32 +1,48 @@
 ---
-title: Dịch vụ đủ điều kiện và kế hoạch
+title: Dịch vụ và gói đủ điều kiện
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 10/01/2018
+ms.date: 11/2/2018
 ms.audience: ITPro
 ms.topic: overview
 ms.service: o365-administration
 localization_priority: Priority
 ms.collection: FastTrack
 ms.assetid: cf8ecce3-713f-4943-8217-afca0ce31434
-description: Khi bạn mua bất kỳ dịch vụ Office 365 (như chi tiết trong phần dịch vụ đủ điều kiện sau đây), FastTrack chuyên cung cấp hướng dẫn cho bạn để onboard Office 365 và bắt đầu làm việc sử dụng của họ.
-ms.openlocfilehash: 2a3d1c0b010a24429da884956d1dd785df656e5f
-ms.sourcegitcommit: c993f9ed7adf792a123e7c59d1bb280776b9cf02
+description: Khi bạn mua bất kỳ dịch vụ Office 365, FastTrack chuyên cung cấp các hướng dẫn để bạn có thể trên tàu cho Office 365 và bắt đầu làm việc sử dụng của họ.
+ms.openlocfilehash: b363cd679a86896f24597ad713749bf762877691
+ms.sourcegitcommit: a8717ee240040292872bc0231f1fb2a22b846806
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 10/15/2018
-ms.locfileid: "25565566"
+ms.lasthandoff: 11/01/2018
+ms.locfileid: "25895589"
 ---
-# <a name="eligible-services-and-plans"></a>Dịch vụ đủ điều kiện và kế hoạch
+# <a name="eligible-services-and-plans"></a>Dịch vụ và gói đủ điều kiện
 
 Khi bạn mua bất kỳ dịch vụ Office 365 (như chi tiết trong phần **dịch vụ đủ điều kiện** sau đây), FastTrack chuyên cung cấp hướng dẫn cho bạn để onboard Office 365 và bắt đầu làm việc sử dụng của họ. 
   
-- Bạn có thể nhận được trợ giúp thông qua các trung tâm quản trị Office 365 hoặc [FastTrack trang web](https://go.microsoft.com/fwlink/?linkid=780698). Để được giúp đỡ thông qua Trung tâm quản trị Office 365, quản trị của bạn đăng nhập vào Trung tâm quản trị và sau đó nhấp vào các **cần giúp đỡ?** widget. Để được giúp đỡ thông qua [trang web FastTrack](https://go.microsoft.com/fwlink/?linkid=780698), đăng nhập, bấm vào **dịch vụ**và điền vào mẫu **Yêu cầu trợ giúp cho Office 365** .   
+Bạn có thể nhận được trợ giúp thông qua các [Trung tâm quản trị Microsoft 365](https://go.microsoft.com/fwlink/?linkid=2032704) hoặc [FastTrack trang web](https://go.microsoft.com/fwlink/?linkid=780698). 
+
+Để được giúp đỡ thông qua [Trung tâm quản trị Microsoft 365](https://go.microsoft.com/fwlink/?linkid=2032704), quản trị của bạn đăng nhập vào Trung tâm quản trị và sau đó nhấp vào các **cần giúp đỡ?** widget. 
+
+Để được giúp đỡ thông qua [trang web FastTrack](https://go.microsoft.com/fwlink/?linkid=780698): 
+1.  Đăng nhập vào [trang web FastTrack](https://go.microsoft.com/fwlink/?linkid=780698). 
+2.  Chọn **FastTrack**.
+3.  Chọn **dịch vụ**.
+4.  Điền vào mẫu **yêu cầu để được hỗ trợ với Microsoft 365** .
     > [!NOTE]
     >  Nếu bạn có một đối tác được liệt kê trong Office 365 thuê nhà của bạn, bạn sẽ không thấy tùy chọn này. Xin vui lòng tham khảo ý kiến đối tác của bạn để được trợ giúp. 
-- Đối tác cũng có thể giúp đỡ thông qua [trang web FastTrack](https://go.microsoft.com/fwlink/?linkid=780698) thay mặt cho một khách hàng. Để làm như vậy, các đối tác đăng nhập vào các trang web, chọn hồ sơ khách hàng, nhấp **dịch vụ**và hoàn tất các biểu mẫu **Yêu cầu trợ giúp cho Office 365** . 
-- Bạn cũng có thể yêu cầu FastTrack Trung tâm trợ giúp từ [FastTrack trang web](https://go.microsoft.com/fwlink/?linkid=780698) trong danh sách các dịch vụ sẵn có cho người thuê nhà của bạn. 
+
+Đối tác cũng có thể giúp đỡ thông qua [trang web FastTrack](https://go.microsoft.com/fwlink/?linkid=780698) thay mặt cho một khách hàng. Để làm như vậy:
+1.  Đăng nhập vào [trang web FastTrack](https://go.microsoft.com/fwlink/?linkid=780698). 
+2.  Chọn **FastTrack**.
+3.  Chọn **khách hàng của tôi**.
+4.  Tìm kiếm khách hàng của bạn hoặc chọn chúng từ danh sách khách hàng của bạn.
+5.  Chọn **dịch vụ**.
+6.  Điền vào mẫu **yêu cầu để được hỗ trợ với Microsoft 365** .
+
+Bạn cũng có thể yêu cầu FastTrack Trung tâm trợ giúp từ [FastTrack trang web](https://go.microsoft.com/fwlink/?linkid=780698) trong danh sách các dịch vụ sẵn có cho người thuê nhà của bạn. 
 > [!NOTE]
 > Môi trường tại chỗ của bạn phải vượt qua kiểm tra FastTrack Trung tâm trước khi FastTrack chuyên gia có thể đưa ra bất kỳ hướng dẫn. 
   
@@ -47,7 +63,7 @@ FastTrack Trung tâm hỗ trợ [dịch vụ Office 365](https://go.microsoft.co
     
 ## <a name="eligible-plans"></a>Kế hoạch hội đủ điều kiện
 
-Bạn phải mua ít nhất 150 giấy phép từ danh sách sau đây kế hoạch hội đủ điều kiện để nhận được dịch vụ FastTrack:
+Bạn phải mua *ít* 150 giấy phép từ danh sách sau đây kế hoạch hội đủ điều kiện để nhận được dịch vụ FastTrack:
   
  **Office 365**
   

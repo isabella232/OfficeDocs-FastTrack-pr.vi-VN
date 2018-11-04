@@ -1,9 +1,9 @@
 ---
-title: Trung tâm FastTrack lợi ích tổng quan
+title: Tổng quan về Lợi ích Trung tâm FastTrack
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 10/01/2018
+ms.date: 11/2/2018
 ms.audience: ITPro
 ms.topic: overview
 f1_keywords:
@@ -13,28 +13,28 @@ localization_priority: Priority
 ms.collection: FastTrack
 ms.assetid: ac467db0-3118-41fa-a93d-bb5de1e414d5
 description: Với FastTrack Trung tâm lợi ích cho Office 365, bạn làm việc từ xa với FastTrack chuyên gia để có được môi trường Office 365 của bạn đã sẵn sàng cho việc sử dụng và kế hoạch triển khai và sử dụng trong tổ chức của bạn. Để tìm hiểu thêm về điều kiện, hãy xem FastTrack Trung tâm lợi ích cho Office 365.
-ms.openlocfilehash: 0ce6c1545af6802e40fbf017bbc09784b4f31a4e
-ms.sourcegitcommit: a754d02f1dea1a2147f716a2cbebda7b68141777
+ms.openlocfilehash: 0696e4b7f46b91123046c90a5297c22300a9bc0e
+ms.sourcegitcommit: a8717ee240040292872bc0231f1fb2a22b846806
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 10/01/2018
-ms.locfileid: "25445193"
+ms.lasthandoff: 11/01/2018
+ms.locfileid: "25895565"
 ---
-# <a name="fasttrack-center-benefit-overview"></a>Trung tâm FastTrack lợi ích tổng quan
+# <a name="fasttrack-center-benefit-overview"></a>Tổng quan về Lợi ích Trung tâm FastTrack
 
 Với FastTrack Trung tâm lợi ích cho Office 365, bạn làm việc từ xa với FastTrack chuyên gia để có được môi trường Office 365 của bạn đã sẵn sàng cho việc sử dụng và kế hoạch triển khai và sử dụng trong tổ chức của bạn. Để tìm hiểu thêm về điều kiện, hãy xem [FastTrack Trung tâm lợi ích cho Office 365](O365-fasttrack-benefit-for-office-365.md).
   
 Chúng tôi bao gồm các chủ đề sau:
-- [Quá trình FastTrack](O365-fasttrack-process.md) 
-- [Sự mong đợi môi trường nguồn](O365-source-environment-expectations.md)
-- [Onboarding và di chuyển giai đoạn](O365-onboarding-and-migration.md)
+- [Quy trình FastTrack](O365-fasttrack-process.md) 
+- [Kỳ vọng về môi trường nguồn](O365-source-environment-expectations.md)
+- [Giai đoạn triển khai và di chuyển](O365-onboarding-and-migration.md)
 - [Di chuyển dữ liệu](O365-data-migration.md)
-- [Trách nhiệm FastTrack](O365-fasttrack-responsibilities.md)
+- [Trách nhiệm của FastTrack](O365-fasttrack-responsibilities.md)
 - [Trách nhiệm của bạn](O365-your-responsibilities.md) 
-- [Phụ lục A – di cư từ IBM Domino trao đổi trực tuyến](O365-from-ibm-domino-to-exchange-online.md)
-- [Phụ lục B - FastTrack Trung tâm lợi ích bổ sung](O365-fasttrack-additional-benefits.md)
-- [Phụ lục C - Trung tâm FastTrack HIPAA thỏa thuận liên kết kinh doanh](O365-hipaa-business-associate-agreement.md)
-- [Phụ lục D - FastTrack Trung tâm lợi ích tổng quan cho Office 365 chính phủ Hoa Kỳ](US-Gov-appendix-overview.md)
+- [Phụ lục A - Di chuyển từ IBM Domino sang Exchange Online](O365-from-ibm-domino-to-exchange-online.md)
+- [Phụ lục B - Lợi ích bổ sung của Trung tâm FastTrack](O365-fasttrack-additional-benefits.md)
+- [Phụ lục C - Thỏa thuận Liên kết Kinh doanh HIPAA của Trung tâm FastTrack](O365-hipaa-business-associate-agreement.md)
+- [Phụ lục D - Tổng quan về Lợi ích Trung tâm FastTrack dành cho Office 365 US Government](US-Gov-appendix-overview.md)
     
 Người thuê nhà Office 365 của bạn được tạo ra tại hoàn thành onboarding. Giấy phép người dùng có thể truy cập vào Office 365 bằng cách sử dụng một trong các tuỳ chọn nhận dạng sau:
 - Đám mây các danh tính với duy nhất các tài khoản Office 365.

@@ -1,23 +1,23 @@
 ---
-title: Phụ lục B - FastTrack Trung tâm lợi ích bổ sung
+title: Phụ lục B - Lợi ích bổ sung của Trung tâm FastTrack
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 10/01/2018
+ms.date: 11/2/2018
 ms.audience: ITPro
 ms.topic: article
 ms.service: o365-administration
 localization_priority: Priority
 ms.assetid: 880b4cf1-e778-4725-af25-7fb6fe10c504
 description: Khách hàng mua tối thiểu 20.000 giấy phép cho một người thuê nhà Exchange Online có đủ điều kiện cho các dịch vụ bổ sung FastTrack Trung tâm. Xem dịch vụ đủ điều kiện và kế hoạch để biết thêm chi tiết.
-ms.openlocfilehash: 4928a18106bb85cfa48ea7e0c1c1f0edec0ef718
-ms.sourcegitcommit: a754d02f1dea1a2147f716a2cbebda7b68141777
+ms.openlocfilehash: 264c3c9d7a301688655da9be518368adb926ba9e
+ms.sourcegitcommit: a8717ee240040292872bc0231f1fb2a22b846806
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 10/01/2018
-ms.locfileid: "25445187"
+ms.lasthandoff: 11/01/2018
+ms.locfileid: "25895721"
 ---
-# <a name="appendix-b---fasttrack-center-additional-benefit"></a>Phụ lục B - FastTrack Trung tâm lợi ích bổ sung
+# <a name="appendix-b---fasttrack-center-additional-benefit"></a>Phụ lục B - Lợi ích bổ sung của Trung tâm FastTrack
 
 Khách hàng mua tối thiểu 20.000 giấy phép cho một người thuê nhà Exchange Online có đủ điều kiện cho các dịch vụ bổ sung FastTrack Trung tâm. Xem [dịch vụ đủ điều kiện và kế hoạch](O365-eligible-services-and-plans.md) để biết thêm chi tiết. 
   

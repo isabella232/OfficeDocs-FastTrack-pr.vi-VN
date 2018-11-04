@@ -1,24 +1,24 @@
 ---
-title: Onboarding và di chuyển giai đoạn
+title: Giai đoạn triển khai và di chuyển
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 10/01/2018
+ms.date: 11/2/2018
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: Priority
 ms.collection: FastTrack
 ms.assetid: 9481440c-f99a-40eb-9955-b1398d9acab7
-description: Office 365 onboarding có bốn giai đoạn chính — bắt đầu, Assess, Remediate, và cho phép. Bạn có thể làm theo các giai đoạn với một giai đoạn di chuyển dữ liệu tùy chọn như trong hình dưới đây.
-ms.openlocfilehash: 082e8c7f6e1be83cfb4a980b1b1632d0c3f12724
-ms.sourcegitcommit: a754d02f1dea1a2147f716a2cbebda7b68141777
+description: Office 365 onboarding có bốn giai đoạn chính — bắt đầu, Assess, Remediate, và cho phép. Bạn có thể làm theo các giai đoạn với một giai đoạn di chuyển dữ liệu tùy chọn.
+ms.openlocfilehash: b98b8fe8e2f6542edc04923d72ff7b0dc38ef3fb
+ms.sourcegitcommit: a8717ee240040292872bc0231f1fb2a22b846806
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 10/01/2018
-ms.locfileid: "25445229"
+ms.lasthandoff: 11/01/2018
+ms.locfileid: "25895757"
 ---
-# <a name="onboarding-and-migration-phases"></a>Onboarding và di chuyển giai đoạn
+# <a name="onboarding-and-migration-phases"></a>Giai đoạn triển khai và di chuyển
 
 Office 365 onboarding có bốn giai đoạn chính — bắt đầu, Assess, Remediate, và cho phép. Bạn có thể làm theo các giai đoạn với một giai đoạn di chuyển dữ liệu tùy chọn như trong hình dưới đây.
   
@@ -33,12 +33,25 @@ Nhiệm vụ chi tiết cho từng giai đoạn, xem [FastTrack trách nhiệm](
 
 Sau khi bạn mua số thích hợp và các loại giấy phép, theo sự hướng dẫn từ các email xác nhận mua hàng để liên kết các giấy phép cho người thuê nhà của bạn hiện tại hoặc mới. 
   
-Bạn có thể nhận được trợ giúp thông qua các trung tâm quản trị Office 365 hoặc [FastTrack trang web](https://go.microsoft.com/fwlink/?linkid=780698). Để được giúp đỡ thông qua Trung tâm quản trị Office 365, quản trị của bạn đăng nhập vào Trung tâm quản trị và sau đó nhấp vào các **cần giúp đỡ?** widget. Để được giúp đỡ thông qua [trang web FastTrack](https://go.microsoft.com/fwlink/?linkid=780698), đăng nhập, bấm vào **dịch vụ**và điền vào mẫu **Yêu cầu trợ giúp cho Office 365** . 
-    
+Bạn có thể nhận được trợ giúp thông qua các [Trung tâm quản trị Microsoft 365](https://go.microsoft.com/fwlink/?linkid=2032704) hoặc [FastTrack trang web](https://go.microsoft.com/fwlink/?linkid=780698). 
+
+Để được giúp đỡ thông qua [Trung tâm quản trị Microsoft 365](https://go.microsoft.com/fwlink/?linkid=2032704), quản trị của bạn đăng nhập vào Trung tâm quản trị và sau đó nhấp vào các **cần giúp đỡ?** widget. 
+
+Để được giúp đỡ thông qua [trang web FastTrack](https://go.microsoft.com/fwlink/?linkid=780698): 
+1.  Đăng nhập vào [trang web FastTrack](https://go.microsoft.com/fwlink/?linkid=780698). 
+2.  Chọn **FastTrack**.
+3.  Chọn **dịch vụ**.
+4.  Điền vào mẫu **yêu cầu để được hỗ trợ với Microsoft 365** . 
 > [!NOTE]
 >  Nếu bạn có một đối tác được liệt kê trong Office 365 thuê nhà của bạn, bạn sẽ không thấy tùy chọn này. Xin vui lòng tham khảo ý kiến đối tác của bạn để được trợ giúp. 
   
-Đối tác cũng có thể giúp đỡ thông qua [trang web FastTrack](https://go.microsoft.com/fwlink/?linkid=780698) thay mặt cho một khách hàng. Để làm như vậy, các đối tác đăng nhập vào các trang web, chọn hồ sơ khách hàng, nhấp **dịch vụ**và hoàn tất các biểu mẫu **Yêu cầu trợ giúp cho Office 365** . 
+Đối tác cũng có thể giúp đỡ thông qua [trang web FastTrack](https://go.microsoft.com/fwlink/?linkid=780698) thay mặt cho một khách hàng. Để làm như vậy:
+1.  Đăng nhập vào [trang web FastTrack](https://go.microsoft.com/fwlink/?linkid=780698). 
+2.  Chọn **FastTrack**.
+3.  Chọn **khách hàng của tôi**.
+4.  Tìm kiếm khách hàng của bạn hoặc chọn chúng từ danh sách khách hàng của bạn.
+5.  Chọn **dịch vụ**.
+6.  Điền vào mẫu **yêu cầu để được hỗ trợ với Microsoft 365** .
 
 Bạn cũng có thể yêu cầu FastTrack Trung tâm trợ giúp từ [FastTrack trang web](https://go.microsoft.com/fwlink/?linkid=780698) trong danh sách các dịch vụ sẵn có cho người thuê nhà của bạn. 
     
@@ -94,6 +107,7 @@ Onboarding cho một hoặc nhiều dịch vụ đủ điều kiện có thể b
 - Thiết lập DNS, bao gồm tự động phát hiện yêu cầu, khung chính sách người gửi (SPF) và bản ghi MX (khi cần). 
 - Thiết lập email dòng chảy giữa các nguồn của bạn nhắn tin môi trường và Exchange Online (khi cần).
 - Thực hiện di chuyển thư từ nguồn của bạn nhắn tin môi trường cho Office 365.
+- Đặt cấu hình hộp thư khách hàng (Outlook cho Windows, Outlook trên web và Outlook cho iOS và Android).
     > [!NOTE]
     > Để biết thêm chi tiết về di chuyển thư và dữ liệu, hãy xem [Di chuyển dữ liệu](O365-data-migration.md). 
   
@@ -162,7 +176,7 @@ Cho Skype cho kinh doanh trực tuyến, chúng tôi cung cấp hướng dẫn c
 
 Đối với dự án trực tuyến chuyên nghiệp và bảo hiểm trực tuyến dự án, chúng tôi cung cấp hướng dẫn cho:
 - Giải quyết vấn đề triển khai.
-- Gán giấy phép người dùng cuối bằng cách sử dụng trung tâm quản trị Office 365 và Windows PowerShell.  
+- Gán giấy phép người dùng cuối bằng cách sử dụng [Trung tâm quản trị Microsoft 365](https://go.microsoft.com/fwlink/?linkid=2032704) và Windows PowerShell.  
 - Cài đặt khách hàng máy tính để bàn trực tuyến dự án từ cổng Office 365 bằng cách sử dụng chuột để chạy.
 - Cấu hình cài đặt bản Cập Nhật bằng cách sử dụng công cụ triển khai văn phòng.  
 - Thiết lập một máy chủ duy nhất phân phối ngay trong khuôn viên cho khách hàng máy tính để bàn trực tuyến dự án, bao gồm hỗ trợ với việc tạo ra một tập tin configuration.xml để sử dụng với công cụ triển khai văn phòng.  
@@ -178,7 +192,7 @@ Cho Yammer, chúng tôi cung cấp hướng dẫn cho phép Dịch vụ Yammer d
 
 Đối với Office 365 ProPlus, chúng tôi cung cấp hướng dẫn cho:
 - Giải quyết vấn đề triển khai.   
-- Gán giấy phép người dùng cuối bằng cách sử dụng trung tâm quản trị Office 365 và Windows PowerShell. 
+- Gán giấy phép người dùng cuối bằng cách sử dụng [Trung tâm quản trị Microsoft 365](https://go.microsoft.com/fwlink/?linkid=2032704) và Windows PowerShell. 
 - Cài đặt Office 365 ProPlus từ cổng Office 365 bằng cách sử dụng chuột để chạy.   
 - Cài đặt ứng dụng Office Mobile (như Outlook Mobile, từ điện thoại di động, điện thoại di động Excel và PowerPoint di động) trên iOS, Android hoặc Windows Mobile thiết bị.   
 - Cấu hình cài đặt bản Cập Nhật bằng cách sử dụng công cụ triển khai văn phòng.   
@@ -197,6 +211,9 @@ Cho Yammer, chúng tôi cung cấp hướng dẫn cho phép Dịch vụ Yammer d
     
 ![Microsoft StaffHub onboarding bước](media/e8857c93-1db9-4940-90d1-b3a1b3f0c650.png)
   
+## <a name="outlook-for-ios-and-android"></a>Outlook cho iOS và Android
 
-  
+Đối với Outlook cho iOS và Android, chúng tôi cung cấp hướng dẫn cho:
+- Tải về Outlook cho iOS và Android từ Apple App Store và Google Play.
+- Cấu hình tài khoản và truy cập vào hộp thư Exchange Online.
 
