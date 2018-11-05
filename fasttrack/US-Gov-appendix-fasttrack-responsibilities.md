@@ -3,7 +3,7 @@ title: FastTrack trách nhiệm cho Office 365 chính phủ Hoa Kỳ
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 10/01/2018
+ms.date: 11/2/2018
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
@@ -11,12 +11,12 @@ localization_priority: None
 ms.collection: FastTrack
 ms.assetid: 9840bd79-fb09-4f8e-b7c9-e96dfdcd3a33
 description: FastTrack chuyên gia có trách nhiệm sau đây trong onboarding.
-ms.openlocfilehash: 76e585f7573708a9c2a78ecf4870a8cf5faaaf33
-ms.sourcegitcommit: a754d02f1dea1a2147f716a2cbebda7b68141777
+ms.openlocfilehash: 573856cf2de70bc84f52df7962fa4e7be68172a4
+ms.sourcegitcommit: a8717ee240040292872bc0231f1fb2a22b846806
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 10/01/2018
-ms.locfileid: "25445227"
+ms.lasthandoff: 11/01/2018
+ms.locfileid: "25895553"
 ---
 # <a name="fasttrack-responsibilities-for-office-365-us-government"></a>FastTrack trách nhiệm cho Office 365 chính phủ Hoa Kỳ
 
@@ -200,7 +200,7 @@ Cung cấp hướng dẫn về cách chuyển đổi mạng Yammer cơ bản duy
 
 Cung cấp hướng dẫn về:
 - Giải quyết vấn đề triển khai.   
-- Gán giấy phép người dùng cuối bằng cách sử dụng trung tâm quản trị Office 365 và Windows PowerShell.  
+- Gán giấy phép người dùng cuối bằng cách sử dụng [Trung tâm quản trị Microsoft 365](https://go.microsoft.com/fwlink/?linkid=2032704) và Windows PowerShell.  
 - Cài đặt Office 365 ProPlus từ cổng Office 365 bằng cách sử dụng chuột để chạy.   
 - Cài đặt ứng dụng Office Mobile (như Outlook Mobile, từ điện thoại di động, điện thoại di động Excel và PowerPoint di động) trên iOS, Android hoặc Windows Mobile thiết bị.   
 - Cấu hình cài đặt bản Cập Nhật bằng cách sử dụng các mẫu công cụ triển khai Office 2016 hoặc chính sách nhóm.   
