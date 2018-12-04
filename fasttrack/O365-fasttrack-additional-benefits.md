@@ -3,19 +3,19 @@ title: Phụ lục B - Lợi ích bổ sung của Trung tâm FastTrack
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 11/2/2018
+ms.date: 12/4/2018
 ms.audience: ITPro
 ms.topic: article
 ms.service: o365-administration
 localization_priority: Priority
 ms.assetid: 880b4cf1-e778-4725-af25-7fb6fe10c504
 description: Khách hàng mua tối thiểu 20.000 giấy phép cho một người thuê nhà Exchange Online có đủ điều kiện cho các dịch vụ bổ sung FastTrack Trung tâm. Xem dịch vụ đủ điều kiện và kế hoạch để biết thêm chi tiết.
-ms.openlocfilehash: 264c3c9d7a301688655da9be518368adb926ba9e
-ms.sourcegitcommit: a8717ee240040292872bc0231f1fb2a22b846806
+ms.openlocfilehash: 73307846da4c45bcee64c5e9a9c21d1a3e806fe6
+ms.sourcegitcommit: 3ecf2619868abc13716701393831dd0c24e00d9d
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 11/01/2018
-ms.locfileid: "25895721"
+ms.lasthandoff: 12/03/2018
+ms.locfileid: "27133092"
 ---
 # <a name="appendix-b---fasttrack-center-additional-benefit"></a>Phụ lục B - Lợi ích bổ sung của Trung tâm FastTrack
 
@@ -47,7 +47,7 @@ Cho Skype cho kinh doanh trực tuyến, chúng tôi cung cấp hướng dẫn c
 - Triển khai đóng gói bằng cách sử dụng trình quản lý cấu hình Trung tâm hệ thống.  
 - Triển khai và đặt cấu hình văn phòng từ xa để cung cấp các giải pháp cho các ứng dụng tương thích và hướng dẫn cho bạn để đánh giá việc sử dụng các tài liệu văn phòng kinh doanh quan trọng.
     
-## <a name="fasttrack-responsibilities"></a>Trách nhiệm FastTrack
+## <a name="fasttrack-responsibilities"></a>Trách nhiệm của FastTrack
 
 FastTrack chuyên gia có trách nhiệm sau đây trong onboarding. Đây có thể thêm vào hoặc thay thế các hoạt động quy định tại [FastTrack trách nhiệm](O365-fasttrack-responsibilities.md).
   

@@ -3,7 +3,7 @@ title: Di chuyển dữ liệu
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 11/2/2018
+ms.date: 12/4/2018
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
@@ -11,12 +11,12 @@ localization_priority: Priority
 ms.collection: FastTrack
 ms.assetid: e0c40008-4373-48d3-96bb-08f0afd08248
 description: FastTrack chuyên cung cấp hướng dẫn về các bước để di chuyển dữ liệu sang Office 365. Điều này là có sẵn cho tất cả các khách hàng đủ điều kiện với các dịch vụ Office 365 Beta dành cho Exchange Online, OneDrive cho doanh nghiệp, và SharePoint Online.
-ms.openlocfilehash: cf4093bbaa775c0d4be1bac2fa895aa6b48f83fc
-ms.sourcegitcommit: a8717ee240040292872bc0231f1fb2a22b846806
+ms.openlocfilehash: 253a0a33727581f6531b95685dc27375e685dc4c
+ms.sourcegitcommit: 3ecf2619868abc13716701393831dd0c24e00d9d
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 11/01/2018
-ms.locfileid: "25895781"
+ms.lasthandoff: 12/03/2018
+ms.locfileid: "27133164"
 ---
 # <a name="data-migration"></a>Di chuyển dữ liệu
 
@@ -219,6 +219,9 @@ Bạn thực hiện những điều sau đây trong quá trình di chuyển:
 - Tiến hành khắc phục sau di chuyển di chuyển (nếu có).
 - Kế hoạch và thực hiện thay đổi thông tin người dùng cuối và quản lý (nếu có).   
 - Quản trị và cấu hình bất kỳ thay đổi nào để hệ thống nguồn và các thiết bị cần thiết để hoàn thành các hoạt động đánh giá và di chuyển.
+
+> [!NOTE]
+> Microsoft không thể đảm bảo tốc độ di chuyển file.
     
 ## <a name="migration-to-onedrive-for-business"></a>Di chuyển đến OneDrive cho doanh nghiệp
 
@@ -294,5 +297,6 @@ Bạn thực hiện những điều sau đây trong quá trình di chuyển:
 - Kế hoạch và thực hiện thay đổi thông tin người dùng cuối và quản lý (nếu có).  
 - Quản trị và cấu hình bất kỳ thay đổi nào để hệ thống nguồn và các thiết bị cần thiết để hoàn thành các hoạt động đánh giá và di chuyển.
     
-  
+> [!NOTE]
+> Microsoft không thể đảm bảo tốc độ di chuyển file.  
 

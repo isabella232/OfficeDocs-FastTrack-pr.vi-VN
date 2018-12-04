@@ -1,9 +1,9 @@
 ---
-title: Tổng quan về Lợi ích Trung tâm FastTrack
+title: 'Đảm bảo Ứng dụng Máy tính '
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 11/2/2018
+ms.date: 12/4/2018
 ms.audience: ITPro
 ms.topic: overview
 f1_keywords:
@@ -12,13 +12,13 @@ ms.service: o365-administration
 localization_priority: Priority
 ms.collection: FastTrack
 ms.assetid: ac467db0-3118-41fa-a93d-bb5de1e414d5
-description: FastTrack Trung tâm lợi ích cho Windows 10 cung cấp truy cập đến máy tính để bàn ứng dụng đảm bảo-một dịch vụ mới được thiết kế để địa chỉ các vấn đề với Windows 10 và Office 365 ProPlus app tương thích.
-ms.openlocfilehash: 09d76a0744fc07f412d1ec7e217c6f5cad69b21b
-ms.sourcegitcommit: a8717ee240040292872bc0231f1fb2a22b846806
+description: FastTrack Trung tâm lợi ích cho Windows 10 cung cấp truy cập đến máy tính để bàn ứng dụng đảm bảo-một dịch vụ được thiết kế để địa chỉ các vấn đề với Windows 10 và Office 365 ProPlus tương thích ứng dụng.
+ms.openlocfilehash: b18b27a191ced81d9d84088f383f9fbdca51f082
+ms.sourcegitcommit: 3ecf2619868abc13716701393831dd0c24e00d9d
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 11/01/2018
-ms.locfileid: "25895601"
+ms.lasthandoff: 12/03/2018
+ms.locfileid: "27132924"
 ---
 # <a name="desktop-app-assure"></a>Đảm bảo Ứng dụng Máy tính 
 
