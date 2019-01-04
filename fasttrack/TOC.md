@@ -1,7 +1,7 @@
 # [Lợi ích Trung tâm FastTrack dành cho Microsoft 365](M365-fasttrack-benefit-overview.md)
+## [Dịch vụ và gói đủ điều kiện](M365-eligible-services-and-plans.md)
 ## [Lợi ích Trung tâm FastTrack dành cho Office 365](O365-fasttrack-benefit-for-office-365.md)
-### [Dịch vụ và gói đủ điều kiện](O365-eligible-services-and-plans.md)
-### [Tổng quan về Lợi ích Trung tâm FastTrack](O365-fasttrack-benefit-overview.md)
+### [Tổng quan về Lợi ích của Trung tâm FastTrack](O365-fasttrack-benefit-overview.md)
 #### [Quy trình FastTrack](O365-fasttrack-process.md)
 #### [Kỳ vọng về môi trường nguồn](O365-source-environment-expectations.md)
 #### [Giai đoạn triển khai và di chuyển](O365-onboarding-and-migration.md)
@@ -12,22 +12,13 @@
 #### [Phụ lục B - Lợi ích bổ sung của Trung tâm FastTrack](O365-fasttrack-additional-benefits.md)
 #### [Phụ lục C - Thỏa thuận Liên kết Kinh doanh HIPAA của Trung tâm FastTrack](O365-hipaa-business-associate-agreement.md)
 #### [Phụ lục D - Tổng quan về Lợi ích Trung tâm FastTrack dành cho Office 365 US Government](US-Gov-appendix-overview.md)
-## 
-  [Lợi ích của Trung tâm FastTrack dành cho Enterprise Mobility + Security (EMS)](https://docs.microsoft.com/en-us/enterprise-mobility-security/Solutions/enterprise-mobility-fasttrack-program?toc=/fasttrack/fasttrack/toc.json)
-### 
-  [Dịch vụ và gói đủ điều kiện cho Lợi ích Trung tâm FastTrack](https://docs.microsoft.com/en-us/enterprise-mobility-security/Solutions/fasttrack-center-benefit-for-enterprise-mobility-suite-ems?toc=/fasttrack/fasttrack/toc.json)
-### 
-  [Quy trình Lợi ích của Trung tâm FastTrack dành cho Enterprise Mobility + Security (EMS)](https://docs.microsoft.com/en-us/enterprise-mobility-security/Solutions/fasttrack-center-benefit-process-for-enterprise-mobility-suite-ems?toc=/fasttrack/fasttrack/toc.json)
-#### 
-  [Tổng quan về Lợi ích của Trung tâm FastTrack](https://docs.microsoft.com/en-us/enterprise-mobility-security/Solutions/fasttrack-center-benefit-process-for-ems-overview?toc=/fasttrack/fasttrack/toc.json)
-#### 
-  [Kỳ vọng về môi trường nguồn](https://docs.microsoft.com/en-us/enterprise-mobility-security/Solutions/fasttrack-center-benefit-process-for-ems-environment-expectations?toc=/fasttrack/fasttrack/toc.json)
-#### 
-  [Các giai đoạn triển khai](https://docs.microsoft.com/en-us/enterprise-mobility-security/Solutions/fasttrack-center-benefit-process-for-ems-phases?toc=/fasttrack/fasttrack/toc.json)
-#### 
-  [Trách nhiệm của FastTrack](https://docs.microsoft.com/en-us/enterprise-mobility-security/Solutions/fasttrack-center-benefit-process-for-ems-fasttrack-responsibilities?toc=/fasttrack/fasttrack/toc.json)
-#### 
-  [Trách nhiệm của bạn](https://docs.microsoft.com/en-us/enterprise-mobility-security/Solutions/fasttrack-center-benefit-process-for-ems-your-responsibilities?toc=/fasttrack/fasttrack/toc.json)
+## [Lợi ích của Trung tâm FastTrack dành cho Enterprise Mobility + Security (EMS)](https://docs.microsoft.com/en-us/enterprise-mobility-security/Solutions/enterprise-mobility-fasttrack-program?toc=/fasttrack/fasttrack/toc.json)
+### [Quy trình Lợi ích của Trung tâm FastTrack dành cho Enterprise Mobility + Security (EMS)](https://docs.microsoft.com/en-us/enterprise-mobility-security/Solutions/fasttrack-center-benefit-process-for-enterprise-mobility-suite-ems?toc=/fasttrack/fasttrack/toc.json)
+#### [Tổng quan về Lợi ích của Trung tâm FastTrack](https://docs.microsoft.com/en-us/enterprise-mobility-security/Solutions/fasttrack-center-benefit-process-for-ems-overview?toc=/fasttrack/fasttrack/toc.json)
+#### [Kỳ vọng về môi trường nguồn](https://docs.microsoft.com/en-us/enterprise-mobility-security/Solutions/fasttrack-center-benefit-process-for-ems-environment-expectations?toc=/fasttrack/fasttrack/toc.json)
+#### [Các giai đoạn triển khai](https://docs.microsoft.com/en-us/enterprise-mobility-security/Solutions/fasttrack-center-benefit-process-for-ems-phases?toc=/fasttrack/fasttrack/toc.json)
+#### [Trách nhiệm của FastTrack](https://docs.microsoft.com/en-us/enterprise-mobility-security/Solutions/fasttrack-center-benefit-process-for-ems-fasttrack-responsibilities?toc=/fasttrack/fasttrack/toc.json)
+#### [Trách nhiệm của bạn](https://docs.microsoft.com/en-us/enterprise-mobility-security/Solutions/fasttrack-center-benefit-process-for-ems-your-responsibilities?toc=/fasttrack/fasttrack/toc.json)
 ## [Lợi ích của Trung tâm FastTrack dành cho Windows 10](Win-10-fasttrack-benefit-for-Windows-10.md)
 ### [Đảm bảo Ứng dụng Máy tính ](Win-10-desktop-app-assure.md)
-#### [Hỗ trợ được cung cấp và gói đủ điều kiện](Win-10-daa-assistance-offered-and-plans.md)
+#### [Nội dung hỗ trợ được cung cấp](Win-10-daa-assistance-offered.md)
