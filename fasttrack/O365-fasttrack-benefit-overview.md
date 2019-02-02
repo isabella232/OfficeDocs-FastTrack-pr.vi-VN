@@ -3,7 +3,7 @@ title: Tổng quan về Lợi ích của Trung tâm FastTrack
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 12/4/2018
+ms.date: 2/2/2019
 ms.audience: ITPro
 ms.topic: overview
 f1_keywords:
@@ -11,14 +11,13 @@ f1_keywords:
 ms.service: o365-administration
 localization_priority: Priority
 ms.collection: FastTrack
-ms.assetid: ac467db0-3118-41fa-a93d-bb5de1e414d5
 description: Với FastTrack Trung tâm lợi ích cho Office 365, bạn làm việc từ xa với FastTrack chuyên gia để có được môi trường Office 365 của bạn đã sẵn sàng cho việc sử dụng và kế hoạch triển khai và sử dụng trong tổ chức của bạn. Để tìm hiểu thêm về điều kiện, hãy xem FastTrack Trung tâm lợi ích cho Office 365.
-ms.openlocfilehash: bd793ea54d8ac36522e574a139e3841b1df760b6
-ms.sourcegitcommit: 3ecf2619868abc13716701393831dd0c24e00d9d
+ms.openlocfilehash: e97523c9205344b8f5e6ee77be9db0bc2c950e0a
+ms.sourcegitcommit: 0a8250d759e010cff6958016267f29acb0b7e17c
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 12/03/2018
-ms.locfileid: "27133032"
+ms.lasthandoff: 02/01/2019
+ms.locfileid: "29696717"
 ---
 # <a name="fasttrack-center-benefit-overview"></a>Tổng quan về Lợi ích của Trung tâm FastTrack
 
@@ -51,7 +50,7 @@ Người thuê nhà Office 365 của bạn được tạo ra tại hoàn thành 
     > [!NOTE]
     > Triển khai AD FS và WAP và cấu hình được thực hiện bằng cách sử dụng [thuật sĩ cấu hình Azure quảng cáo kết nối](https://go.microsoft.com/fwlink/?linkid=844794) từ môi trường tại chỗ của bạn. 
   
-- Giấy phép người dùng bây giờ có thể truy cập [dịch vụ đủ điều kiện và kế hoạch](O365-eligible-services-and-plans.md).
+- Giấy phép người dùng bây giờ có thể truy cập [dịch vụ đủ điều kiện và kế hoạch](M365-eligible-services-and-plans.md).
     
 
  

@@ -3,7 +3,7 @@ title: Lợi ích của Trung tâm FastTrack dành cho Office 365
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 12/4/2018
+ms.date: 2/2/2019
 ms.audience: ITPro
 ms.topic: overview
 f1_keywords:
@@ -11,16 +11,15 @@ f1_keywords:
 ms.service: o365-administration
 localization_priority: Priority
 ms.collection: FastTrack
-ms.assetid: cb4d7c0f-ad86-4134-a5fe-92a250cd3003
 description: Bạn sử dụng các lợi ích Trung tâm FastTrack cho Office 365 khi bạn mua giấy phép tối thiểu 150 cho một dịch vụ đủ điều kiện hoặc kế hoạch cho bạn thuê nhà Office 365. Bạn sau đó làm việc với FastTrack chuyên gia đánh giá, remediate, sử, và lái xe cách sử dụng các dịch vụ đó. Các chuyên gia cũng cung cấp hướng dẫn di chuyển.
-ms.openlocfilehash: d8252e28903f88250056dbc20b49dac3fef0fb7f
-ms.sourcegitcommit: 3ecf2619868abc13716701393831dd0c24e00d9d
+ms.openlocfilehash: 73363c63590545b7ede05b068a7bbd38fbc9cb0d
+ms.sourcegitcommit: 0a8250d759e010cff6958016267f29acb0b7e17c
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 12/03/2018
-ms.locfileid: "27132948"
+ms.lasthandoff: 02/01/2019
+ms.locfileid: "29696645"
 ---
-# <a name="fasttrack-center-benefit-for-office-365"></a>Lợi ích của Trung tâm FastTrack dành cho Office 365
+# <a name="fasttrack-center-benefit-for-office-365"></a>Lợi ích Trung tâm FastTrack dành cho Office 365
 
 Bạn sử dụng lợi ích Trung tâm FastTrack cho Office 365 khi bạn mua *tối thiểu* 150 giấy phép cho một dịch vụ đủ điều kiện hoặc kế hoạch cho bạn thuê nhà Office 365. Bạn sau đó làm việc với FastTrack chuyên gia đánh giá, remediate, sử, và lái xe cách sử dụng các dịch vụ đó. Các chuyên gia cũng cung cấp hướng dẫn di chuyển. 
   
@@ -29,7 +28,7 @@ Bạn sử dụng lợi ích Trung tâm FastTrack cho Office 365 khi bạn mua *
   
 Để đủ điều kiện cho các trung tâm FastTrack di chuyển dịch vụ, thuê nhà Office 365 của bạn phải có 500 hay nhiều giấy phép. Để biết thêm thông tin, hãy xem [Di chuyển dữ liệu](O365-data-migration.md).
   
-Để tìm hiểu thêm về kế hoạch và đủ điều kiện Dịch vụ, hãy xem [dịch vụ đủ điều kiện và kế hoạch](O365-eligible-services-and-plans.md).
+Để tìm hiểu thêm về kế hoạch và đủ điều kiện Dịch vụ, hãy xem [dịch vụ đủ điều kiện và kế hoạch](M365-eligible-services-and-plans.md).
   
 Để tìm hiểu về quá trình FastTrack Trung tâm và những người chịu trách nhiệm cho những gì, xem [FastTrack Trung tâm lợi ích tổng quan](O365-fasttrack-benefit-overview.md).
   

@@ -3,20 +3,19 @@ title: Di chuyển dữ liệu
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 12/4/2018
+ms.date: 2/2/2019
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: Priority
 ms.collection: FastTrack
-ms.assetid: e0c40008-4373-48d3-96bb-08f0afd08248
 description: FastTrack chuyên cung cấp hướng dẫn về các bước để di chuyển dữ liệu sang Office 365. Điều này là có sẵn cho tất cả các khách hàng đủ điều kiện với các dịch vụ Office 365 Beta dành cho Exchange Online, OneDrive cho doanh nghiệp, và SharePoint Online.
-ms.openlocfilehash: 253a0a33727581f6531b95685dc27375e685dc4c
-ms.sourcegitcommit: 3ecf2619868abc13716701393831dd0c24e00d9d
+ms.openlocfilehash: 6c14e9177d4630a0a7ba5c33c9405b660d08cd26
+ms.sourcegitcommit: 0a8250d759e010cff6958016267f29acb0b7e17c
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 12/03/2018
-ms.locfileid: "27133164"
+ms.lasthandoff: 02/01/2019
+ms.locfileid: "29696885"
 ---
 # <a name="data-migration"></a>Di chuyển dữ liệu
 
@@ -49,20 +48,30 @@ Bảng sau mô tả những gì được dự kiến sẽ di chuyển trong môi
    
 ## <a name="migration-to-exchange-online"></a>Di chuyển sang Exchange Online
 
- **Cho phép để di chuyển**
+### <a name="enable-to-migrate"></a>Cho phép để di chuyển
   
 Nếu bạn dùng Microsoft để di chuyển các email của bạn, chúng tôi cung cấp các hướng dẫn để cho phép cả hai Exchange Online và môi trường nguồn cho di chuyển. Tùy thuộc vào môi trường nguồn, chúng tôi có thể thực hiện các bước kích hoạt khác nhau. Chúng tôi cung cấp hướng dẫn cho bạn bằng cách sử dụng một sự kết hợp các công cụ và tài liệu hướng dẫn và thực hiện nhiệm vụ cấu hình nơi mà áp dụng và khả thi. Đối tượng áp dụng các thông số, chúng ta sau đó di chuyển các hộp thư, giám sát các công việc và cung cấp báo cáo trạng thái.
   
 Microsoft có thể yêu cầu truy nhập phù hợp và cho phép hệ thống mail của bạn để thực hiện các hoạt động di chuyển.
   
- **Chính sách nhập cư và các bước**
+### <a name="migration-policy-and-steps"></a>Chính sách nhập cư và các bước
   
-- Di chuyển được thực hiện trên chuẩn prescheduled 24 giờ một ngày, năm (5) ngày làm việc cơ sở tuần (24 x 5) trong khe thời gian di chuyển được xác định trước. Một "khe thời gian di chuyển" còn được gọi là "lô di chuyển."    
-- Hiện có ba lô di chuyển mỗi ngày di chuyển. Hiện có 5 di chuyển ngày trong một tuần từ thứ hai 2:00 AM giờ phối hợp (UTC) đến nửa đêm thứ sáu UTC. Điều này có nghĩa rằng việc di chuyển theo lịch trình cuối thứ sáu 8:00 PM UTC.
-- Di chuyển tất cả sử dụng các công cụ dựa trên đám mây di chuyển.
-- Microsoft có thể yêu cầu truy nhập phù hợp và cho phép hệ thống mail của bạn để thực hiện các hoạt động di chuyển.
+> [!NOTE]
+> Một khe thời gian di chuyển cũng được gọi là một lô di chuyển.
+
+#### <a name="commercial-and-uk-government"></a>Thương mại và chính phủ Vương Quốc Anh
+
+Di chuyển được thực hiện trên một tiêu chuẩn prescheduled 24 giờ một ngày, bảy (7) ngày làm việc trong tuần (24 x 7) cơ sở xác định trước khe thời gian di chuyển. Hiện có ba lô di chuyển mỗi ngày di chuyển.
+
+#### <a name="us-governmentdod"></a>Bộ quốc phòng Mỹ/chính phủ Hoa Kỳ
+
+Di chuyển được thực hiện trên chuẩn prescheduled 24 giờ một ngày, năm (5) ngày làm việc cơ sở tuần (24 x 5) trong khe thời gian di chuyển được xác định trước. Hiện có ba lô di chuyển mỗi ngày di chuyển. Hiện có 5 di chuyển ngày trong một tuần từ thứ hai 2:00 AM giờ phối hợp (UTC) đến nửa đêm thứ sáu UTC. Điều này có nghĩa rằng việc di chuyển theo lịch trình cuối thứ sáu 8:00 PM UTC.
+
+#### <a name="germany-microsoft-cloud-deutschland-mcd"></a>Đức Microsoft Cloud Deutschland (MCD)
+
+Di chuyển được thực hiện trên chuẩn prescheduled 9 giờ một ngày, năm (5) ngày làm việc cơ sở tuần (9 x 5) trong khe thời gian di chuyển được xác định trước. Đó là một lô di chuyển mỗi ngày di chuyển. Có năm di chuyển ngày trong tuần từ thứ hai 12:00 PM UTC Thứ sáu 21:00 PM UTC.
     
- **Cuối cùng**
+ ### <a name="end-state"></a>Cuối cùng
   
 Nhà nước dự kiến sẽ kết thúc sau khi lô di chuyển bao gồm:
 - Dữ liệu từ hộp thư nguồn theo lịch trình phù hợp và đủ điều kiện trong môi trường nguồn được di chuyển sang Office 365. 
@@ -108,8 +117,7 @@ Bạn thực hiện những điều sau đây trong quá trình di chuyển:
 - Xử lý tất cả các thông tin liên lạc với người dùng cuối.  
 - Cài đặt mức độ thích hợp của phần mềm khách hàng theo nguyên tắc Office 365. Để biết thêm thông tin, hãy xem [Office 365 Beta dành cho doanh nghiệp](https://go.microsoft.com/fwlink/?linkid=2005429). 
 - Xác thực SMTP mail định tuyến cùng tồn tại giữa nguồn nhắn tin môi trường và văn phòng 365 Exchange Online nếu có.
-- Cung cấp một lịch trình ở một phương pháp được xác định và một danh sách các hộp thư cụ thể để di chuyển cho từng sự kiện di chuyển tối thiểu 14 ngày trước. Cho ghi chú quá trình di chuyển, hãy chắc chắn để cung cấp lịch trình 21 ngày trước.
-- Thêm vào lịch trình mới hoặc dời các hộp thư là lên đến 10% đã lên kế hoạch hộp thư cho đến ba ngày trước khi lô di chuyển. Điều này phải tương ứng với lô cuối cùng di chuyển.  
+- Cung cấp một lịch trình ở một phương pháp được xác định và một danh sách các hộp thư cụ thể để di chuyển cho từng sự kiện di chuyển tối thiểu là ba (3) ngày trước. Cho ghi chú quá trình di chuyển, hãy chắc chắn để cung cấp lịch trình 21 ngày trước.
 - Thả hộp thư từ lịch trình cho đến 24 giờ trước các lô di chuyển. Điều này phải tương ứng với lô cuối cùng di chuyển.
 - Lịch trình một mục tiêu trung bình số lượng hộp thư trong một khoảng thời gian 24 giờ như được liệt kê trong bảng sau.
     
@@ -145,30 +153,33 @@ Bạn cần phải tuân theo quy trình tiêu chuẩn di chuyển và tham gia 
   
 ## <a name="migration-to-sharepoint-online"></a>Chuyển đổi sang SharePoint Online
 
- **Cho phép để di chuyển**
+### <a name="enable-to-migrate"></a>Cho phép để di chuyển
   
 Nếu bạn dùng Microsoft để di chuyển dữ liệu của bạn, chúng tôi cung cấp các hướng dẫn để kích hoạt SharePoint Online và môi trường nguồn cho di chuyển. Tùy thuộc vào nguồn gốc, chúng tôi có thể thực hiện các bước kích hoạt khác nhau. Chúng tôi cung cấp hướng dẫn cho bạn bằng cách sử dụng một sự kết hợp các công cụ và tài liệu hướng dẫn và thực hiện nhiệm vụ cấu hình nơi mà áp dụng và khả thi.
   
 Bạn cần cung cấp quyền truy cập thích hợp và cho phép cho Microsoft để thực hiện một số hoạt động.
   
- **Chính sách nhập cư và các bước**
+### <a name="migration-policy-and-steps"></a>Chính sách nhập cư và các bước
   
-- Di chuyển được nhắm mục tiêu\* để hoàn thành trên lịch trình tiêu chuẩn dựa trên nguồn gốc di cư như thể hiện trong bảng sau: 
-    
-|||
-|:-----|:-----|
-|**Nguồn** <br/> |**Lịch trình chính sách** <br/> |
-|**Chia sẻ tập tin, hộp**  <br/> | 24 x 5 dựa trên các lô di chuyển được xác định trước.  <br/>  Ba lô di chuyển mỗi ngày di chuyển.  <br/>  Có những năm di chuyển ngày trong một tuần từ thứ hai 2:00 AM UTC vào nửa đêm thứ sáu UTC.  <br/>  Cửa sổ di chuyển theo lịch trình cuối cùng là thứ sáu 8:00 PM UTC.  <br/> |
-   
-* Lập kế hoạch dựa trên một kích thước giả định số liệu và yếu tố môi trường. Một số nội dung dự kiến có thể không thể di chuyển trong một cửa sổ duy nhất di chuyển.
-    
-- Di chuyển được thực hiện trên cơ sở 24 x 5 tiêu chuẩn trước theo lịch trình trong lô di chuyển được xác định trước.
-- Hiện có ba lô di chuyển mỗi ngày di chuyển. Có những năm di chuyển ngày trong một tuần từ thứ hai 2:00 AM UTC vào nửa đêm thứ sáu UTC. Điều này có nghĩa rằng việc di chuyển theo lịch trình cuối thứ sáu 8:00 PM UTC.  
-- Di chuyển tất cả yêu cầu truy nhập phù hợp và cho phép để môi trường nguồn.  
+> [!NOTE]
+> Một khe thời gian di chuyển cũng được gọi là một lô di chuyển.
+
+#### <a name="commercial-and-uk-government"></a>Thương mại và chính phủ Vương Quốc Anh
+
+Di chuyển được thực hiện trên một tiêu chuẩn prescheduled 24 giờ một ngày, bảy (7) ngày làm việc trong tuần (24 x 7) cơ sở xác định trước khe thời gian di chuyển. Hiện có ba lô di chuyển mỗi ngày di chuyển.
+
+#### <a name="us-governmentdod"></a>Bộ quốc phòng Mỹ/chính phủ Hoa Kỳ
+
+Di chuyển được thực hiện trên chuẩn prescheduled 24 giờ một ngày, năm (5) ngày làm việc cơ sở tuần (24 x 5) trong khe thời gian di chuyển được xác định trước. Hiện có ba lô di chuyển mỗi ngày di chuyển. Hiện có 5 di chuyển ngày trong một tuần từ thứ hai 2:00 AM giờ phối hợp (UTC) đến nửa đêm thứ sáu UTC. Điều này có nghĩa rằng việc di chuyển theo lịch trình cuối thứ sáu 8:00 PM UTC.
+
+#### <a name="germany-microsoft-cloud-deutschland-mcd"></a>Đức Microsoft Cloud Deutschland (MCD)
+
+Di chuyển được thực hiện trên chuẩn prescheduled 9 giờ một ngày, năm (5) ngày làm việc cơ sở tuần (9 x 5) trong khe thời gian di chuyển được xác định trước. Đó là một lô di chuyển mỗi ngày di chuyển. Có năm di chuyển ngày trong tuần từ thứ hai 12:00 PM UTC Thứ sáu 21:00 PM UTC.
+
 - Di chuyển tất cả là tùy thuộc vào hạn ngạch SharePoint Online được nêu trong [trực tuyến SharePoint và OneDrive cho doanh nghiệp phần mềm ranh giới và giới hạn](https://go.microsoft.com/fwlink/?LinkID=616612).   
 - Số lượng tổng thể di chuyển dữ liệu sẽ bị ràng buộc đến 75% của dung lượng lưu trữ tổng thể SharePoint Online mà bạn có quyền (bao gồm lưu trữ bổ sung, bạn có thể mua riêng).
     
- **Cuối cùng**
+ ### <a name="end-state"></a>Cuối cùng
   
 Nhà nước dự kiến sẽ kết thúc sau khi lô di chuyển bao gồm: 
 - Dữ liệu từ các nguồn theo lịch trình phù hợp và đủ điều kiện trong môi trường nguồn được di chuyển sang SharePoint Online.   
@@ -189,12 +200,14 @@ FastTrack chuyên gia thực hiện những điều sau đây trong quá trình 
 - Cung cấp điều kiện tiên quyết cho các công cụ đánh giá và di chuyển như được áp dụng cho các kịch bản.   
 - Cung cấp các điều kiện tiên quyết để di chuyển đội truy cập mã nguồn và mục tiêu môi trường với mục đích đánh giá và di chuyển.   
 - Cung cấp công cụ đánh giá để thực hiện đánh giá môi trường nguồn mục tiêu, hoặc cung cấp hướng dẫn về làm thế nào để sử dụng nguồn gốc nền tảng hàm để tạo báo cáo đánh giá.   
+- Cung cấp một lịch trình trong một phương pháp được xác định và một danh sách các dữ liệu người dùng cụ thể để di chuyển cho từng sự kiện di chuyển ít nhất bảy (7) ngày trước.
+- Thả người sử dụng dữ liệu từ lịch trình cho đến 24 giờ trước các lô di chuyển. Điều này phải tương ứng với lô cuối cùng di chuyển.
 - Hỗ trợ triển khai và chạy công cụ đánh giá và di chuyển (nếu có).   
 - Đặt cấu hình di chuyển cơ sở hạ tầng để chuẩn bị cho di chuyển nội dung (khi áp dụng).    
 - Tiến hành một thử nghiệm hạn chế di chuyển để xác nhận di chuyển cơ sở hạ tầng và điều kiện tiên quyết cần thiết.   
 - Cung cấp out-of-the-box tiêu SharePoint Online các trang web như là một phần của di chuyển.    
 - Tiến hành một thí điểm di chuyển trước khi di chuyển tốc độ.   
-- Cung cấp hướng dẫn về lập kế hoạch di chuyển cho các kịch bản đã chọn.   
+- Cung cấp hướng dẫn về lập kế hoạch di chuyển cho các kịch bản đã chọn. 
 - Tiến hành vận tốc di chuyển làn sóng của các nội dung theo lịch trình di chuyển do khách hàng cung cấp và xác nhận bởi FastTrack tài nguyên.   
 - Cung cấp kết quả di chuyển sau mỗi cửa sổ di chuyển.   
 - Tham gia vào vận tốc di chuyển vấn đề phân loại và cung cấp hướng dẫn về lựa chọn khắc phục tiềm năng.   
@@ -213,7 +226,7 @@ Bạn thực hiện những điều sau đây trong quá trình di chuyển:
 - Cung cấp các điều kiện tiên quyết và thực hiện các hoạt động cần thiết để hỗ trợ đánh giá và di chuyển.   
 - Cài đặt công cụ cung cấp cho FastTrack đánh giá và hoàn thành đánh giá dữ liệu thu thập hoạt động (nếu có).   
 - Cài đặt phần mềm cung cấp cho FastTrack di cư tại chỗ (nếu có).   
-- Hoàn thành các hoạt động khắc phục được nêu trong báo cáo khắc phục FastTrack cung cấp (nếu có).    
+- Hoàn thành các hoạt động khắc phục được nêu trong báo cáo khắc phục FastTrack cung cấp (nếu có).  
 - Cung cấp một lịch trình di chuyển bằng cách sử dụng FastTrack mẫu và hướng dẫn.   
 - Đảm bảo chất lượng tiến hành di chuyển và người dùng chấp nhận thử nghiệm.   
 - Tiến hành khắc phục sau di chuyển di chuyển (nếu có).
@@ -225,27 +238,33 @@ Bạn thực hiện những điều sau đây trong quá trình di chuyển:
     
 ## <a name="migration-to-onedrive-for-business"></a>Di chuyển đến OneDrive cho doanh nghiệp
 
- **Cho phép để di chuyển**
+ ### <a name="enable-to-migrate"></a>Cho phép để di chuyển
   
 Nếu bạn dùng Microsoft để di chuyển dữ liệu của bạn, chúng tôi cung cấp các hướng dẫn để cho phép cả OneDrive cho doanh nghiệp và môi trường nguồn cho di chuyển. Tùy thuộc vào nguồn gốc, chúng tôi có thể thực hiện các bước kích hoạt khác nhau. Chúng tôi giúp bạn với một số hoạt động bằng cách sử dụng một sự kết hợp của các công cụ, tài liệu hướng dẫn và hướng dẫn, và bằng cách thực hiện cấu hình nhiệm vụ nơi mà áp dụng và khả thi.
   
 Bạn có thể cần cung cấp quyền truy cập thích hợp và cho phép cho Microsoft để thực hiện một số hoạt động. Nếu bạn không cung cấp quyền truy cập và/hoặc cấp phép, bạn cần phải thực hiện một số nhiệm vụ được xác định với sự hướng dẫn từ Microsoft. 
   
- **Chính sách nhập cư và các bước**
+### <a name="migration-policy-and-steps"></a>Chính sách nhập cư và các bước
   
-- Di chuyển được nhắm mục tiêu\* để hoàn thành trên lịch trình tiêu chuẩn dựa trên nguồn gốc di cư như thể hiện trong bảng sau: 
-    
-|||
-|:-----|:-----|
-|**Nguồn** <br/> |**Lịch trình chính sách** <br/> |
-|**Chia sẻ tập tin, hộp, Google Drive**  <br/> | 24 x 5 dựa trên các lô di chuyển được xác định trước.  <br/>  Ba lô di chuyển mỗi ngày di chuyển.  <br/>  Có những năm di chuyển ngày trong một tuần từ thứ hai 2:00 AM UTC vào nửa đêm thứ sáu UTC.  <br/>  Cửa sổ di chuyển theo lịch trình cuối cùng là thứ sáu 8:00 PM UTC.  <br/> |
-   
-* Lập kế hoạch dựa trên một kích thước giả định số liệu và yếu tố môi trường. Một số nội dung dự kiến có thể không thể di chuyển trong một cửa sổ duy nhất di chuyển.
+> [!NOTE]
+> Một khe thời gian di chuyển cũng được gọi là một lô di chuyển.
+
+#### <a name="commercial-and-uk-government"></a>Thương mại và chính phủ Vương Quốc Anh
+
+Di chuyển được thực hiện trên một tiêu chuẩn prescheduled 24 giờ một ngày, bảy (7) ngày làm việc trong tuần (24 x 7) cơ sở xác định trước khe thời gian di chuyển. Hiện có ba lô di chuyển mỗi ngày di chuyển.
+
+#### <a name="us-governmentdod"></a>Bộ quốc phòng Mỹ/chính phủ Hoa Kỳ
+
+Di chuyển được thực hiện trên chuẩn prescheduled 24 giờ một ngày, năm (5) ngày làm việc cơ sở tuần (24 x 5) trong khe thời gian di chuyển được xác định trước. Hiện có ba lô di chuyển mỗi ngày di chuyển. Hiện có 5 di chuyển ngày trong một tuần từ thứ hai 2:00 AM giờ phối hợp (UTC) đến nửa đêm thứ sáu UTC. Điều này có nghĩa rằng việc di chuyển theo lịch trình cuối thứ sáu 8:00 PM UTC.
+
+#### <a name="germany-microsoft-cloud-deutschland-mcd"></a>Đức Microsoft Cloud Deutschland (MCD)
+
+Di chuyển được thực hiện trên chuẩn prescheduled 9 giờ một ngày, năm (5) ngày làm việc cơ sở tuần (9 x 5) trong khe thời gian di chuyển được xác định trước. Đó là một lô di chuyển mỗi ngày di chuyển. Có năm di chuyển ngày trong tuần từ thứ hai 12:00 PM UTC Thứ sáu 21:00 PM UTC.
     
 - Di chuyển tất cả yêu cầu truy nhập phù hợp và cho phép để môi trường nguồn.   
 - Di chuyển tất cả là tùy thuộc vào OneDrive cho doanh nghiệp hạn ngạch nêu trong [trực tuyến SharePoint và OneDrive cho doanh nghiệp: giới hạn và ranh giới phần mềm](https://go.microsoft.com/fwlink/?LinkId=698855).
     
- **Cuối cùng**
+ ### <a name="end-state"></a>Cuối cùng
   
 Nhà nước dự kiến sẽ kết thúc sau khi lô di chuyển bao gồm:  
 - Dữ liệu từ các nguồn theo lịch trình phù hợp và đủ điều kiện trong môi trường nguồn được di chuyển đến OneDrive cho doanh nghiệp.  
@@ -267,6 +286,8 @@ FastTrack chuyên gia thực hiện những điều sau đây trong quá trình 
 - Cung cấp điều kiện tiên quyết cho các công cụ đánh giá và di chuyển như được áp dụng cho các kịch bản.  
 - Cung cấp các điều kiện tiên quyết để di chuyển đội truy cập mã nguồn và mục tiêu môi trường với mục đích đánh giá và di chuyển.   
 - Cung cấp công cụ đánh giá để thực hiện đánh giá môi trường nguồn mục tiêu, hoặc cung cấp hướng dẫn về làm thế nào để sử dụng nguồn gốc nền tảng hàm để tạo báo cáo đánh giá.    
+- Cung cấp một lịch trình trong một phương pháp được xác định và một danh sách các dữ liệu người dùng cụ thể để di chuyển cho từng sự kiện di chuyển ít nhất bảy (7) ngày trước.
+- Thả người sử dụng dữ liệu từ lịch trình cho đến 24 giờ trước các lô di chuyển. Điều này phải tương ứng với lô cuối cùng di chuyển.
 - Hỗ trợ triển khai và chạy công cụ đánh giá và di chuyển (nếu có).   
 - Đặt cấu hình di chuyển cơ sở hạ tầng để chuẩn bị cho di chuyển nội dung (khi áp dụng).    
 - Tiến hành một thử nghiệm hạn chế di chuyển để xác nhận di chuyển cơ sở hạ tầng và điều kiện tiên quyết cần thiết.    

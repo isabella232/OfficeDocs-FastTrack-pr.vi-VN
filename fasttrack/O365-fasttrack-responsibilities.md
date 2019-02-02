@@ -3,20 +3,19 @@ title: Trách nhiệm FastTrack
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 12/4/2018
+ms.date: 2/2/2019
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: Priority
 ms.collection: FastTrack
-ms.assetid: 9840bd79-fb09-4f8e-b7c9-e96dfdcd3a33
 description: FastTrack chuyên gia có trách nhiệm sau đây trong onboarding.
-ms.openlocfilehash: 27961b81a4add1342ba194c2e3d04c93aca32ca5
-ms.sourcegitcommit: 3ecf2619868abc13716701393831dd0c24e00d9d
+ms.openlocfilehash: e90c9e54b62f57c27ba1424f5d2fb84d7b56626e
+ms.sourcegitcommit: 0a8250d759e010cff6958016267f29acb0b7e17c
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 12/03/2018
-ms.locfileid: "27133104"
+ms.lasthandoff: 02/01/2019
+ms.locfileid: "29696837"
 ---
 # <a name="fasttrack-responsibilities"></a>Trách nhiệm FastTrack
 
@@ -46,17 +45,17 @@ FastTrack chuyên gia có trách nhiệm sau đây trong onboarding.\*
 - Thiết lập thời gian cho các hoạt động khắc phục.
 - Cung cấp một danh sách kiểm tra khắc phục. 
 - Đánh giá các hiện tại SharePoint Server 2013 hoặc SharePoint Server 2016 cơ sở hạ tầng bao gồm:
-  - Điều kiện tiên quyết cho SharePoint Online Hybrid. 
-  - Trên cơ sở hạ tầng sẵn sàng cho tính năng SharePoint Online Hybrid.
+  - Điều kiện tiên quyết cho SharePoint Online lai. 
+  - Trên cơ sở hạ tầng chuẩn bị sẵn sàng cho SharePoint Online kết hợp tính năng.
   - Truy cập vào hai điểm cuối yêu cầu SharePoint Online.
   - Khán giả cho OneDrive cho doanh nghiệp lai. 
-- Đánh giá hiện tại Lync hoặc Skype cho kinh doanh trực tuyến cơ sở hạ tầng bao gồm:
-  - Hỗ trợ Skype cho doanh nghiệp khách hàng triển khai chiến lược.
+- Đánh giá hiện tại Lync, Skype cho kinh doanh trực tuyến, hoặc Microsoft Teams cơ sở hạ tầng bao gồm:
+  - Hỗ trợ Skype cho khách hàng kinh doanh hoặc đội khách hàng triển khai chiến lược.
   - Truy cập vào hai điểm cuối.
   - Chất lượng kết nối.
   - Băng thông này ước tính.
   - Điều kiện tiên quyết để hỗ trợ các cấu hình máy chủ phân chia tên miền.
-  - Sẵn sàng chiến đấu của người dùng được xác định để chuyển sang Skype cho kinh doanh trực tuyến.
+  - Sẵn sàng chiến đấu của người dùng được xác định để chuyển sang Skype cho kinh doanh trực tuyến hoặc đội.
 - Đánh giá cơ sở hạ tầng nhắn tin, bao gồm: 
   - Tổng thể gửi lưu lượng và nguyên tắc định tuyến.
   - Truy cập máy khách (bao gồm cả hiện tại hai điểm cuối truy cập khách hàng được công bố).
@@ -101,7 +100,7 @@ Cung cấp hướng dẫn về:
 Cung cấp hướng dẫn về:
 - Tạo hoặc Cập Nhật bản ghi DNS. 
 - Cho phép định tuyến email giữa hệ thống nhắn tin mã nguồn và Office 365 môi trường. 
-- Cấu hình các tính năng bảo vệ trực tuyến trao đổi (bao gồm trao đổi trực tuyến nâng cao đe dọa tính năng bảo vệ nếu có đăng ký của bạn) và xác minh bản ghi MX trỏ tới Office 365 Beta dành cho tất cả các xác nhận mail kích hoạt tên miền.
+- Đặt cấu hình Exchange Online Protection, data loss protection (DLP) và Office 365 thư mã hóa (OME) tính năng (bao gồm trao đổi trực tuyến nâng cao đe dọa tính năng bảo vệ nếu có đăng ký của bạn) và xác minh bản ghi MX trỏ tới Office 365 Beta dành cho tất cả các xác nhận mail kích hoạt tên miền.
 - Cấu hình thiết lập lai hoặc giữa tổ chức Exchange tại chỗ duy nhất và Office 365 *hoặc* giữa nhiều tổ chức Exchange tại chỗ và Office 365. 
 - Đặt cấu hình hộp thư khách hàng (Outlook cho Windows, Outlook trên web và Outlook cho iOS và Android).
     
@@ -117,11 +116,11 @@ Cung cấp hướng dẫn về:
 - Cho phép các trang web cá nhân và các tính năng xã hội.
 - Cấu hình các tính năng của SharePoint Online. 
 - Cung cấp các di chuyển dữ liệu nếu dịch vụ di chuyển FastTrack Trung tâm dữ liệu được sử dụng, và nếu bạn đáp ứng đủ điều kiện.
-- Đánh giá tại chỗ SharePoint trang trại cơ sở hạ tầng cấu hình cần thiết cho SharePoint Online Hybrid. 
+- Đánh giá tại chỗ SharePoint trang trại cơ sở hạ tầng cấu hình cần thiết cho SharePoint Online lai. 
 - Sử dụng các công cụ và tự động hóa cho:
   - Định cấu hình ứng dụng dịch vụ tìm chỗ đám mây. 
   - Cấu hình sự tin tưởng giữa SharePoint tại chỗ và đám mây môi trường.
-- Cấu hình các trang web SharePoint chỗ để sử dụng tính năng SharePoint Online Hybrid.
+- Cấu hình các trang web SharePoint chỗ sử dụng SharePoint Online kết hợp tính năng.
     
 ## <a name="onedrive-for-business"></a>OneDrive cho doanh nghiệp
 
@@ -137,9 +136,35 @@ Cung cấp hướng dẫn về:
 - Gán giấy phép người dùng cuối. 
 - Thiết lập đối tượng SharePoint Online để kiểm soát và chi phối được OneDrive cho doanh nghiệp. 
 - Triển khai OneDrive cho doanh nghiệp đồng bộ khách hàng máy tính để bàn.   
-- Làm thế nào để cấu hình SharePoint Online Hybrid OneDrive cho chuyển hướng kinh doanh (SharePoint 2013 và SharePoint 2016 chỉ).
+- Làm thế nào để cấu hình SharePoint Online hybrid OneDrive cho chuyển hướng kinh doanh (SharePoint 2013 và SharePoint 2016 chỉ).
 - Di chuyển dữ liệu nếu dịch vụ di chuyển FastTrack Trung tâm dữ liệu được sử dụng, và nếu bạn đáp ứng đủ điều kiện.
     
+## <a name="microsoft-teams"></a>Microsoft đội
+
+Cung cấp hướng dẫn về:
+- Xác nhận yêu cầu tối thiểu.
+- Cấu hình tường lửa của cảng.
+- Thiết lập DNS.  
+- Xác nhận các đội được kích hoạt trên của bạn thuê nhà Office 365.
+- Cho phép hoặc vô hiệu hóa người dùng giấy phép.
+- Đội khách hàng phân phối.
+- NÓ tính năng quản trị và chuyên nghiệp.
+- Các tính năng sản phẩm cốt lõi.
+- Khách hàng thành công mẫu.
+- Tạo các tài khoản liên kết để hỗ trợ các thiết bị hệ thống phòng (tối đa 10 tài khoản). 
+- Cho phép định tuyến trực tiếp.
+- Tạo điều kiện cho hội nghị truyền âm thanh.
+- Tổ chức các thiết lập cho các thiết lập mặc định cầu hội nghị.
+- Nhiệm vụ của một cây cầu hội nghị để cấp phép người dùng.
+- Cho phép hệ thống điện thoại.
+- Cho phép hệ thống điện thoại và gọi kế hoạch onboarding (tại các thị trường có sẵn).
+- Gán số để cấp phép người dùng.
+- Địa phương số porting hướng dẫn thông qua giao diện người dùng đến 999.
+- Số porting SR hỗ trợ địa phương hơn 999. 
+- Cho phép các đội sống sự kiện. 
+- Thiết lập tổ chức và hội nhập vào Microsoft Stream.
+
+
 ## <a name="skype-for-business-online"></a>Skype cho doanh nghiệp trực tuyến
 
 Cung cấp hướng dẫn về:
@@ -158,19 +183,6 @@ Cung cấp hướng dẫn về:
 - Tạo điều kiện cho Skype cho doanh nghiệp họp phát sóng:
   - Tạo điều kiện cho Skype để được hướng dẫn onboarding phát sóng cuộc họp kinh doanh.
   - Tổ chức các thiết lập cho các liên kết với cuộc họp phát sóng dịch vụ.
-    
-## <a name="microsoft-teams"></a>Microsoft đội
-
-Cung cấp hướng dẫn về:
-- Xác nhận yêu cầu tối thiểu.
-- Cấu hình tường lửa của cảng.
-- Thiết lập DNS.  
-- Xác nhận các Teams Microsoft được kích hoạt trên của bạn thuê nhà Office 365.
-- Cho phép hoặc vô hiệu hóa người dùng giấy phép.
-- ««Microsoft Teams khách hàng phân phối.
-- NÓ tính năng quản trị và chuyên nghiệp.
-- Các tính năng sản phẩm cốt lõi.
-- Khách hàng thành công mẫu.
     
 ## <a name="power-bi"></a>Sức mạnh BI
 
@@ -194,7 +206,7 @@ Cung cấp hướng dẫn về:
 - Giải quyết vấn đề triển khai.
 - Gán giấy phép người dùng cuối bằng cách sử dụng [Trung tâm quản trị Microsoft 365](https://go.microsoft.com/fwlink/?linkid=2032704) và Windows PowerShell.
 - Tải và cài đặt khách hàng máy tính để bàn trực tuyến dự án từ cổng thông tin.   
-- Cấu hình cài đặt bản Cập Nhật bằng cách sử dụng các mẫu công cụ triển khai Office hoặc chính sách nhóm.
+- Cấu hình cài đặt bản Cập Nhật bằng cách sử dụng các mẫu công cụ triển khai Office 365 hoặc chính sách nhóm.
 - Thiết lập một máy chủ duy nhất phân phối ngay trong khuôn viên cho khách hàng máy tính để bàn trực tuyến dự án, bao gồm các hướng dẫn cho việc tạo ra một tập tin configuration.xml cho công cụ triển khai Office 2016. 
 - Kết nối khách hàng máy tính để bàn trực dự án để dự án trực tuyến.
     
@@ -210,7 +222,7 @@ Cung cấp hướng dẫn về:
 - Cài đặt Office 365 ProPlus từ cổng Office 365 bằng cách sử dụng chuột để chạy.
 - Cài đặt ứng dụng Office Mobile (như Outlook cho iOS và Android, từ điện thoại di động, điện thoại di động Excel và PowerPoint di động) trên iOS, Android hoặc Windows Mobile thiết bị. 
 - Cấu hình cài đặt bản Cập Nhật bằng cách sử dụng các mẫu công cụ triển khai Office 2016 hoặc chính sách nhóm.
-- Thiết lập một máy chủ duy nhất phân phối ngay trong khuôn viên cho Office 365 ProPlus, bao gồm hỗ trợ với việc tạo ra một tập tin configuration.xml để sử dụng với công cụ triển khai văn phòng.
+- Thiết lập một máy chủ duy nhất phân phối ngay trong khuôn viên cho Office 365 ProPlus, bao gồm hỗ trợ với việc tạo ra một tập tin configuration.xml để sử dụng với công cụ triển khai Office 365.
 - Triển khai bằng cách sử dụng hệ thống Trung tâm quản lý cấu hình, bao gồm hỗ trợ với việc tạo ra các hệ thống quản lý cấu hình Trung tâm bao bì.
     
 ## <a name="microsoft-staffhub"></a>Microsoft StaffHub

@@ -1,9 +1,9 @@
 ---
-title: Trung tâm FastTrack lợi ích cho Microsoft 365
+title: Lợi ích Trung tâm FastTrack dành cho Microsoft 365
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 12/22/2018
+ms.date: 2/2/2019
 ms.audience: ITPro
 ms.topic: overview
 f1_keywords:
@@ -12,14 +12,14 @@ ms.service: m365-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: FastTrack cho Microsoft 365 cung cấp hướng dẫn lập kế hoạch, triển khai và nhận con nuôi bao gồm các truy cập từ xa để Microsoft kỹ thuật chuyên môn, tốt nhất thực tiễn, công cụ và tài nguyên. FastTrack cho Microsoft 365 giúp tổ chức và đối tác của họ đẩy nhanh việc triển khai và đạt được người dùng cuối nhận con nuôi của Office 365, Windows 10, và tính di động doanh nghiệp + bảo mật.
-ms.openlocfilehash: ea942aa0a2648da8c18b747388f51e35fb400801
-ms.sourcegitcommit: ee7e68fc6608a54180979facec4417bd40c7f0e8
+ms.openlocfilehash: 272b2aab2900f8d9febd24b22a9a2642d7b24ff8
+ms.sourcegitcommit: 0a8250d759e010cff6958016267f29acb0b7e17c
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 12/21/2018
-ms.locfileid: "27407529"
+ms.lasthandoff: 02/01/2019
+ms.locfileid: "29696621"
 ---
-# <a name="fasttrack-center-benefit-for-microsoft-365"></a>Trung tâm FastTrack lợi ích cho Microsoft 365
+# <a name="fasttrack-center-benefit-for-microsoft-365"></a>Lợi ích Trung tâm FastTrack dành cho Microsoft 365
 
 Lợi ích Trung tâm FastTrack cho Microsoft 365 cung cấp hướng dẫn lập kế hoạch, triển khai và nhận con nuôi bao gồm các truy cập từ xa để Microsoft kỹ thuật chuyên môn, tốt nhất thực tiễn, công cụ và tài nguyên. FastTrack cho Microsoft 365 giúp tổ chức và đối tác của họ đẩy nhanh việc triển khai và đạt được người dùng cuối nhận con nuôi của Office 365 + an ninh, doanh nghiệp tính di động và Windows 10. Bao gồm trong đăng ký của bạn đủ điều kiện Microsoft 365 tại không có chi phí bổ sung, FastTrack có thể giúp bạn trên tàu với các dịch vụ Microsoft 365, di chuyển dữ liệu, bảo vệ tổ chức của bạn khỏi các đe dọa cybersecurity, sử làm việc theo nhóm hiệu quả và kịp thiết bị và ứng dụng của bạn cho đến nay. Điều này bao gồm:
 
@@ -29,7 +29,7 @@ Lợi ích Trung tâm FastTrack cho Microsoft 365 cung cấp hướng dẫn lậ
   
 Để tìm hiểu thêm, hãy xem:
 
-- [Lợi ích của Trung tâm FastTrack dành cho Office 365](https://go.microsoft.com/fwlink/?linkid=2044752) 
+- [Lợi ích Trung tâm FastTrack dành cho Office 365](https://go.microsoft.com/fwlink/?linkid=2044752) 
 - [Trung tâm FastTrack lợi ích cho doanh nghiệp vận động + bảo mật](https://go.microsoft.com/fwlink/?linkid=2005312)
 - [Lợi ích của Trung tâm FastTrack dành cho Windows 10](https://go.microsoft.com/fwlink/?linkid=2044661) 
 

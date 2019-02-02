@@ -3,19 +3,19 @@ title: Dịch vụ và gói đủ điều kiện
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 1/3/2019
+ms.date: 2/2/2019
 ms.audience: ITPro
 ms.topic: overview
 ms.service: m365-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: Khi bạn mua bất kỳ dịch vụ Microsoft 365, FastTrack chuyên cung cấp hướng dẫn cho bạn để onboard để Microsoft 365 và bắt đầu làm việc sử dụng của họ.
-ms.openlocfilehash: 167568338d4d4a9e1132761c821fcaa63868bc0a
-ms.sourcegitcommit: 661b0a8110714395c120949a9182e7cd48a0b5fa
+ms.openlocfilehash: 37e898664c2718eb3fffaae96a93a5ace3f95fc5
+ms.sourcegitcommit: 0a8250d759e010cff6958016267f29acb0b7e17c
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 01/02/2019
-ms.locfileid: "27472810"
+ms.lasthandoff: 02/01/2019
+ms.locfileid: "29696813"
 ---
 # <a name="eligible-services-and-plans"></a>Dịch vụ và gói đủ điều kiện
 
@@ -30,19 +30,17 @@ Bạn có thể nhận được trợ giúp thông qua các [Trung tâm quản t
 
 Để được giúp đỡ thông qua [trang web FastTrack](https://go.microsoft.com/fwlink/?linkid=780698): 
 1.  Đăng nhập vào [trang web FastTrack](https://go.microsoft.com/fwlink/?linkid=780698). 
-2.  Chọn **FastTrack**.
-3.  Chọn **dịch vụ**.
-4.  Điền vào mẫu **yêu cầu để được hỗ trợ với Microsoft 365** .
+2.  Chọn **dịch vụ**.
+3.  Điền vào mẫu **yêu cầu để được hỗ trợ với Microsoft 365** .
     > [!NOTE]
     >  Nếu bạn có một đối tác được liệt kê trong Office 365 thuê nhà của bạn, bạn sẽ không thấy tùy chọn này. Xin vui lòng tham khảo ý kiến đối tác của bạn để được trợ giúp. 
 
 Đối tác cũng có thể giúp đỡ thông qua [trang web FastTrack](https://go.microsoft.com/fwlink/?linkid=780698) thay mặt cho một khách hàng. Để làm như vậy:
 1.  Đăng nhập vào [trang web FastTrack](https://go.microsoft.com/fwlink/?linkid=780698). 
-2.  Chọn **FastTrack**.
-3.  Chọn **khách hàng của tôi**.
-4.  Tìm kiếm khách hàng của bạn hoặc chọn chúng từ danh sách khách hàng của bạn.
-5.  Chọn **dịch vụ**.
-6.  Điền vào mẫu **yêu cầu để được hỗ trợ với Microsoft 365** .
+2.  Chọn **khách hàng của tôi**.
+3.  Tìm kiếm khách hàng của bạn hoặc chọn chúng từ danh sách khách hàng của bạn.
+4.  Chọn **dịch vụ**.
+5.  Điền vào mẫu **yêu cầu để được hỗ trợ với Microsoft 365** .
 
 Bạn cũng có thể yêu cầu FastTrack Trung tâm trợ giúp từ [FastTrack trang web](https://go.microsoft.com/fwlink/?linkid=780698) trong danh sách các dịch vụ sẵn có cho người thuê nhà của bạn. 
 
@@ -56,8 +54,8 @@ FastTrack Trung tâm cung cấp hỗ trợ cho các dịch vụ sau:
 - Trao đổi trực tuyến
 - SharePoint Online
 - OneDrive cho doanh nghiệp
-- Skype cho doanh nghiệp trực tuyến
 - Microsoft đội
+- Skype cho doanh nghiệp trực tuyến
 - Sức mạnh BI
 - Dự án trực tuyến
 - Yammer doanh nghiệp 
@@ -71,9 +69,9 @@ FastTrack Trung tâm cung cấp hỗ trợ cho các dịch vụ sau:
   
  **Doanh nghiệp Microsoft 365**
 
-- Microsoft 365 E3
-- Microsoft 365 E5
-- Doanh nghiệp Microsoft 365
+- Microsoft 365 E3\*
+- Microsoft 365 E5\*
+- Doanh nghiệp Microsoft 365\*
     
  **Giáo dục Microsoft 365**
 
@@ -134,9 +132,9 @@ FastTrack Trung tâm cung cấp hỗ trợ cho các dịch vụ sau:
     
  **Skype cho doanh nghiệp trực tuyến**
   
--  Hệ thống điện thoại 
--  Gọi kế hoạch 
--  Âm thanh hội nghị truyền hình 
+-  Hệ thống điện thoại\*\*\* 
+-  Gọi kế hoạch\*\*\* 
+-  Âm thanh hội nghị truyền hình\*\*\*
 -  Skype cho kế hoạch kinh doanh trực tuyến 1  
 -  Skype cho kế hoạch kinh doanh Online 2
     
@@ -147,6 +145,8 @@ FastTrack Trung tâm cung cấp hỗ trợ cho các dịch vụ sau:
 \*Chỉ có sẵn cho các dịch vụ đám mây FastTrack, đủ điều kiện và các tính năng được mô tả trong mô tả quyền lợi này.
 
 \*\*Để biết thêm chi tiết về lợi ích FastTrack cho chính phủ Mỹ, nhìn thấy [Chính phủ Hoa Kỳ Office 365](https://aka.ms/aboutgovcloud).
+
+\*\*\*Có thể được sử dụng cho cả hai Skype cho kinh doanh trực tuyến và người dùng Microsoft Teams được cấp phép.
 
 > [!NOTE]
 > Đủ điều kiện cho lợi ích Trung tâm FastTrack dựa trên mua giấy phép trả tiền cho các kế hoạch hội đủ điều kiện được đề cập trước đó. 

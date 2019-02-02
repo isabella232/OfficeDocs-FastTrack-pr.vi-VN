@@ -1,9 +1,9 @@
 ---
-title: Hỗ trợ cung cấp
+title: Nội dung hỗ trợ được cung cấp
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 1/3/2019
+ms.date: 2/2/2019
 ms.audience: ITPro
 ms.topic: overview
 f1_keywords:
@@ -12,14 +12,14 @@ ms.service: m365-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: Khi bạn mua bất kỳ dịch vụ Windows 10 hay Microsoft 365, FastTrack chuyên cung cấp tư vấn và khắc phục hướng dẫn triển khai để Windows 10 và Office 365 ProPlus và ở lại up-to-không có chi phí bổ sung (với một đăng ký đủ điều kiện).
-ms.openlocfilehash: 895807ab93688552e200eb6aba6d1c77b982db87
-ms.sourcegitcommit: 661b0a8110714395c120949a9182e7cd48a0b5fa
+ms.openlocfilehash: d7d79c78102d229d15e0b55dfc18d1063371ef17
+ms.sourcegitcommit: 0a8250d759e010cff6958016267f29acb0b7e17c
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 01/02/2019
-ms.locfileid: "27472798"
+ms.lasthandoff: 02/01/2019
+ms.locfileid: "29696633"
 ---
-# <a name="assistance-offered"></a>Hỗ trợ cung cấp  
+# <a name="assistance-offered"></a>Nội dung hỗ trợ được cung cấp  
 
 Khi bạn mua bất kỳ dịch vụ Windows 10 hay Microsoft 365 (như chi tiết trong [dịch vụ đủ điều kiện và kế hoạch](M365-eligible-services-and-plans.md)), FastTrack chuyên cung cấp tư vấn và khắc phục hướng dẫn nếu bạn gặp vấn đề tương thích ứng dụng khi bạn triển khai để Windows 10 và Office 365 ProPlus và ở lại up-to-không có chi phí bổ sung (với một đăng ký đủ điều kiện).
 
@@ -39,6 +39,12 @@ FastTrack cung cấp hỗ trợ cho những điều sau đây:
     - Ứng dụng máy tính để bàn và web Windows 10.
 > [!NOTE]
 > FastTrack làm cho mọi nỗ lực hợp lý để giải quyết vấn đề tương thích. 
+
+> [!NOTE]
+> FastTrack không remediate Phiên bản cũ của ứng dụng ISV nếu có phiên bản mới hơn được hỗ trợ trong Windows 10.
+
+> [!NOTE]
+> FastTrack không remediate các phiên bản cũ hơn của bên thứ ba thêm trong phần mềm nếu nhà cung cấp phần mềm có phiên bản mới hơn được hỗ trợ trong Office 365 ProPlus.
 
 ## <a name="out-of-scope"></a>Ra khỏi phạm vi
 
