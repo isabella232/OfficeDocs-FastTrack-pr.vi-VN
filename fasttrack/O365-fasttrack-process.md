@@ -3,20 +3,19 @@ title: Quy trình FastTrack
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 12/4/2018
+ms.date: 2/2/2019
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: Priority
 ms.collection: FastTrack
-ms.assetid: 34e2f038-4778-4ab0-a6b5-d46fa85de3e8
 description: Quá trình FastTrack cung cấp dịch vụ nhận con nuôi onboarding và người sử dụng.
-ms.openlocfilehash: d4e090f6a9e692ae3de2238b9626a78bc806ccfe
-ms.sourcegitcommit: 3ecf2619868abc13716701393831dd0c24e00d9d
+ms.openlocfilehash: 401faec69b6d33cd4f07814c6e598cc5e5ccf359
+ms.sourcegitcommit: 0a8250d759e010cff6958016267f29acb0b7e17c
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 12/03/2018
-ms.locfileid: "27133020"
+ms.lasthandoff: 02/01/2019
+ms.locfileid: "29696741"
 ---
 # <a name="the-fasttrack-process"></a>Quy trình FastTrack
 
@@ -44,9 +43,8 @@ Bạn có thể nhận được trợ giúp thông qua các [Trung tâm quản t
 
 Để được giúp đỡ thông qua [trang web FastTrack](https://go.microsoft.com/fwlink/?linkid=780698): 
 1.  Đăng nhập vào [trang web FastTrack](https://go.microsoft.com/fwlink/?linkid=780698). 
-2.  Chọn **FastTrack**.
-3.  Chọn **dịch vụ**.
-4.  Điền vào mẫu **yêu cầu để được hỗ trợ với Microsoft 365** . 
+2.  Chọn **dịch vụ**.
+3.  Điền vào mẫu **yêu cầu để được hỗ trợ với Microsoft 365** . 
 > [!NOTE]
 >  Nếu bạn có một đối tác được liệt kê trong Office 365 thuê nhà của bạn, bạn sẽ không thấy tùy chọn này. Xin vui lòng tham khảo ý kiến đối tác của bạn để được trợ giúp. 
   
@@ -56,11 +54,10 @@ Bạn có thể nhận được trợ giúp thông qua các [Trung tâm quản t
     
 Đối tác cũng có thể giúp đỡ thông qua [trang web FastTrack](https://go.microsoft.com/fwlink/?linkid=780698) thay mặt cho một khách hàng. Để làm như vậy:
 1.  Đăng nhập vào [trang web FastTrack](https://go.microsoft.com/fwlink/?linkid=780698). 
-2.  Chọn **FastTrack**.
-3.  Chọn **khách hàng của tôi**.
-4.  Tìm kiếm khách hàng của bạn hoặc chọn chúng từ danh sách khách hàng của bạn.
-5.  Chọn **dịch vụ**.
-6.  Điền vào mẫu **yêu cầu để được hỗ trợ với Microsoft 365** . 
+2.  Chọn **khách hàng của tôi**.
+3.  Tìm kiếm khách hàng của bạn hoặc chọn chúng từ danh sách khách hàng của bạn.
+4.  Chọn **dịch vụ**.
+5.  Điền vào mẫu **yêu cầu để được hỗ trợ với Microsoft 365** . 
 
 Bảng sau liệt kê các vai trò và trách nhiệm đối với quá trình.
     
