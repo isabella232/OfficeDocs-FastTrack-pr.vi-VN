@@ -3,20 +3,19 @@ title: Onboarding và di chuyển giai đoạn cho văn phòng chính phủ Hoa 
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 12/4/2018
+ms.date: 2/2/2019
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: None
 ms.collection: FastTrack
-ms.assetid: 9481440c-f99a-40eb-9955-b1398d9acab7
 description: Onboarding Office 365 Beta dành cho Office 365 Beta dành cho chúng tôi chính phủ có bốn giai đoạn chính — bắt đầu, Assess, Remediate, và cho phép. Bạn có thể làm theo các giai đoạn với một giai đoạn di chuyển dữ liệu tùy chọn như trong hình dưới đây.
-ms.openlocfilehash: 7484350fd3bc5c3999e925b8d2d863e09c284f7a
-ms.sourcegitcommit: 3ecf2619868abc13716701393831dd0c24e00d9d
+ms.openlocfilehash: 259f7f175b369aed5ed9089ff7dff0efc5797963
+ms.sourcegitcommit: 0a8250d759e010cff6958016267f29acb0b7e17c
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 12/03/2018
-ms.locfileid: "27133080"
+ms.lasthandoff: 02/01/2019
+ms.locfileid: "29696777"
 ---
 # <a name="onboarding-and-migration-phases-for-office-365-us-government"></a>Onboarding và di chuyển giai đoạn cho văn phòng chính phủ Hoa Kỳ 365
 
@@ -118,7 +117,7 @@ Nhất trực tuyến SharePoint và OneDrive cho doanh nghiệp, chúng tôi cu
 - Thiết lập DNS.   
 - Cấu hình tường lửa của cảng.   
 - Cung cấp người dùng và giấy phép.   
-- Cấu hình tính năng SharePoint lai, như lai tìm, trang web hybrid, lai phân loại, loại nội dung, tạo ra trang web tự phục vụ lai (SharePoint Server 2013 chỉ), mở rộng ứng dụng launcher, lai OneDrive cho doanh nghiệp, và các trang web extranet.
+- Cấu hình tính năng lai SharePoint, như lai tìm, trang web hybrid, lai phân loại, loại nội dung, tạo ra trang web tự phục vụ lai (SharePoint Server 2013 chỉ), mở rộng ứng dụng launcher, lai OneDrive cho doanh nghiệp, và các trang web extranet.
     
 FastTrack chuyên cung cấp hướng dẫn về di chuyển dữ liệu sang Office 365 bằng cách sử dụng một sự kết hợp các công cụ và tài liệu hướng dẫn và thực hiện nhiệm vụ cấu hình nơi mà áp dụng và khả thi.
   
@@ -187,8 +186,8 @@ Cho Yammer, chúng tôi cung cấp hướng dẫn cho phép Dịch vụ Yammer d
 - Gán giấy phép người dùng cuối bằng cách sử dụng [Trung tâm quản trị Microsoft 365](https://go.microsoft.com/fwlink/?linkid=2032704) và Windows PowerShell.    
 - Cài đặt Office 365 ProPlus từ cổng Office 365 bằng cách sử dụng chuột để chạy.    
 - Cài đặt ứng dụng Office Mobile (như Outlook Mobile, từ điện thoại di động, điện thoại di động Excel và PowerPoint di động) trên iOS, Android hoặc Windows Mobile thiết bị.   
-- Cấu hình cài đặt bản Cập Nhật bằng cách sử dụng công cụ triển khai văn phòng.    
-- Thiết lập một máy chủ duy nhất phân phối ngay trong khuôn viên cho Office 365 ProPlus, bao gồm hỗ trợ với việc tạo ra một tập tin configuration.xml để sử dụng với công cụ triển khai văn phòng.    
+- Cấu hình cài đặt bản Cập Nhật bằng cách sử dụng công cụ triển khai Office 365.    
+- Thiết lập một máy chủ duy nhất phân phối ngay trong khuôn viên cho Office 365 ProPlus, bao gồm hỗ trợ với việc tạo ra một tập tin configuration.xml để sử dụng với công cụ triển khai Office 365.    
 - Triển khai bằng cách sử dụng Microsoft hệ thống Trung tâm cấu hình quản lý, bao gồm hỗ trợ với việc tạo ra các hệ thống quản lý cấu hình Trung tâm bao bì.
     
 ![Office ProPlus onboarding bước](media/O365-Onboarding-Enable-OProPlus.png)

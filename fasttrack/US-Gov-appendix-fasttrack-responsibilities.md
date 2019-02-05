@@ -3,20 +3,19 @@ title: FastTrack trách nhiệm cho Office 365 chính phủ Hoa Kỳ
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 12/4/2018
+ms.date: 2/2/2019
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: None
 ms.collection: FastTrack
-ms.assetid: 9840bd79-fb09-4f8e-b7c9-e96dfdcd3a33
 description: FastTrack chuyên gia có trách nhiệm sau đây trong onboarding.
-ms.openlocfilehash: 9a126fe0d75d2342384172c2930b05c46cc2ff0b
-ms.sourcegitcommit: 3ecf2619868abc13716701393831dd0c24e00d9d
+ms.openlocfilehash: bfdbd890dd357c22ea80fd01cdf47903cccb868e
+ms.sourcegitcommit: 0a8250d759e010cff6958016267f29acb0b7e17c
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 12/03/2018
-ms.locfileid: "27133128"
+ms.lasthandoff: 02/01/2019
+ms.locfileid: "29696789"
 ---
 # <a name="fasttrack-responsibilities-for-office-365-us-government"></a>FastTrack trách nhiệm cho Office 365 chính phủ Hoa Kỳ
 
@@ -46,8 +45,8 @@ FastTrack chuyên gia có trách nhiệm sau đây trong onboarding.
 - Thiết lập thời gian cho các hoạt động khắc phục.
 - Cung cấp một danh sách kiểm tra khắc phục.   
 - Đánh giá các hiện tại SharePoint Server 2013 hoặc SharePoint Server 2016 cơ sở hạ tầng bao gồm:  
-  - Điều kiện tiên quyết cho SharePoint Online Hybrid.  
-  - Trên cơ sở hạ tầng sẵn sàng cho tính năng SharePoint Online Hybrid.  
+  - Điều kiện tiên quyết cho SharePoint Online lai.  
+  - Trên cơ sở hạ tầng chuẩn bị sẵn sàng cho SharePoint Online kết hợp tính năng.  
   - Truy cập vào hai điểm cuối yêu cầu SharePoint Online. 
   - Khán giả cho OneDrive cho doanh nghiệp lai.    
 - Đánh giá hiện tại Lync hoặc Skype cho kinh doanh trực tuyến cơ sở hạ tầng bao gồm:  
@@ -115,11 +114,11 @@ Cung cấp hướng dẫn về:
 - Cho phép các trang web cá nhân và các tính năng xã hội.   
 - Cấu hình các tính năng của SharePoint Online.    
 - Cung cấp các di chuyển dữ liệu nếu dịch vụ di chuyển FastTrack Trung tâm dữ liệu được sử dụng, và nếu bạn đáp ứng đủ điều kiện.  
-- Đánh giá tại chỗ SharePoint trang trại cơ sở hạ tầng cấu hình cần thiết cho SharePoint Online Hybrid.    
+- Đánh giá tại chỗ SharePoint trang trại cơ sở hạ tầng cấu hình cần thiết cho SharePoint Online lai.    
 - Sử dụng các công cụ và tự động hóa cho: 
   - Định cấu hình ứng dụng dịch vụ tìm chỗ đám mây.    
   - Cấu hình sự tin tưởng giữa SharePoint tại chỗ và đám mây môi trường.   
-- Cấu hình các trang web SharePoint chỗ để sử dụng tính năng SharePoint Online Hybrid.
+- Cấu hình các trang web SharePoint chỗ sử dụng SharePoint Online kết hợp tính năng.
     
 ## <a name="onedrive-for-business"></a>OneDrive cho doanh nghiệp
 
@@ -135,7 +134,7 @@ Cung cấp hướng dẫn về:
 - Gán giấy phép người dùng cuối.   
 - Thiết lập đối tượng SharePoint Online để kiểm soát và chi phối được OneDrive cho doanh nghiệp.    
 - Triển khai OneDrive cho doanh nghiệp đồng bộ khách hàng máy tính để bàn.   
-- Làm thế nào để cấu hình SharePoint Online Hybrid OneDrive cho chuyển hướng kinh doanh (SharePoint 2013 và SharePoint 2016 chỉ).  
+- Làm thế nào để cấu hình SharePoint Online hybrid OneDrive cho chuyển hướng kinh doanh (SharePoint 2013 và SharePoint 2016 chỉ).  
 - Di chuyển dữ liệu nếu dịch vụ di chuyển FastTrack Trung tâm dữ liệu được sử dụng, và nếu bạn đáp ứng đủ điều kiện.
     
 ## <a name="skype-for-business-online"></a>Skype cho doanh nghiệp trực tuyến
@@ -204,7 +203,7 @@ Cung cấp hướng dẫn về:
 - Cài đặt Office 365 ProPlus từ cổng Office 365 bằng cách sử dụng chuột để chạy.   
 - Cài đặt ứng dụng Office Mobile (như Outlook Mobile, từ điện thoại di động, điện thoại di động Excel và PowerPoint di động) trên iOS, Android hoặc Windows Mobile thiết bị.   
 - Cấu hình cài đặt bản Cập Nhật bằng cách sử dụng các mẫu công cụ triển khai Office 2016 hoặc chính sách nhóm.   
-- Thiết lập một máy chủ duy nhất phân phối ngay trong khuôn viên cho Office 365 ProPlus, bao gồm hỗ trợ với việc tạo ra một tập tin configuration.xml để sử dụng với công cụ triển khai văn phòng.   
+- Thiết lập một máy chủ duy nhất phân phối ngay trong khuôn viên cho Office 365 ProPlus, bao gồm hỗ trợ với việc tạo ra một tập tin configuration.xml để sử dụng với công cụ triển khai Office 365.   
 - Triển khai bằng cách sử dụng hệ thống Trung tâm quản lý cấu hình, bao gồm hỗ trợ với việc tạo ra các hệ thống quản lý cấu hình Trung tâm bao bì.
 
     

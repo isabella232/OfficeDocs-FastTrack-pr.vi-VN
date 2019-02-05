@@ -3,23 +3,22 @@ title: Phụ lục B - Lợi ích bổ sung của Trung tâm FastTrack
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 12/4/2018
+ms.date: 2/2/2019
 ms.audience: ITPro
 ms.topic: article
 ms.service: o365-administration
 localization_priority: Priority
-ms.assetid: 880b4cf1-e778-4725-af25-7fb6fe10c504
 description: Khách hàng mua tối thiểu 20.000 giấy phép cho một người thuê nhà Exchange Online có đủ điều kiện cho các dịch vụ bổ sung FastTrack Trung tâm. Xem dịch vụ đủ điều kiện và kế hoạch để biết thêm chi tiết.
-ms.openlocfilehash: 73307846da4c45bcee64c5e9a9c21d1a3e806fe6
-ms.sourcegitcommit: 3ecf2619868abc13716701393831dd0c24e00d9d
+ms.openlocfilehash: abdb722bdb69945a1a90d8cae3fe71a5259e9dc9
+ms.sourcegitcommit: 0a8250d759e010cff6958016267f29acb0b7e17c
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 12/03/2018
-ms.locfileid: "27133092"
+ms.lasthandoff: 02/01/2019
+ms.locfileid: "29696729"
 ---
 # <a name="appendix-b---fasttrack-center-additional-benefit"></a>Phụ lục B - Lợi ích bổ sung của Trung tâm FastTrack
 
-Khách hàng mua tối thiểu 20.000 giấy phép cho một người thuê nhà Exchange Online có đủ điều kiện cho các dịch vụ bổ sung FastTrack Trung tâm. Xem [dịch vụ đủ điều kiện và kế hoạch](O365-eligible-services-and-plans.md) để biết thêm chi tiết. 
+Khách hàng mua tối thiểu 20.000 giấy phép cho một người thuê nhà Exchange Online có đủ điều kiện cho các dịch vụ bổ sung FastTrack Trung tâm. Xem [dịch vụ đủ điều kiện và kế hoạch](M365-eligible-services-and-plans.md) để biết thêm chi tiết. 
   
 ## <a name="onboarding-and-migration-phases"></a>Onboarding và di chuyển giai đoạn
 
@@ -43,7 +42,7 @@ Cho Skype cho kinh doanh trực tuyến, chúng tôi cung cấp hướng dẫn c
 
 Đối với Office 365 ProPlus, chúng tôi cung cấp các hướng dẫn sau đây: 
 - Đánh giá và lập kế hoạch tập trung vào việc chuẩn bị môi trường của bạn cho triển khai ban đầu và quản lý các Cập Nhật phù hợp với thực tiễn tốt nhất của Microsoft. 
-- Việc phát triển triển khai cấu hình và cài đặt bản Cập Nhật bằng cách sử dụng công cụ triển khai văn phòng. 
+- Việc phát triển triển khai cấu hình và cài đặt bản Cập Nhật bằng cách sử dụng công cụ triển khai Office 365. 
 - Triển khai đóng gói bằng cách sử dụng trình quản lý cấu hình Trung tâm hệ thống.  
 - Triển khai và đặt cấu hình văn phòng từ xa để cung cấp các giải pháp cho các ứng dụng tương thích và hướng dẫn cho bạn để đánh giá việc sử dụng các tài liệu văn phòng kinh doanh quan trọng.
     
