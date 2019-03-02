@@ -3,7 +3,7 @@ title: 'Đảm bảo Ứng dụng Máy tính '
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 2/2/2019
+ms.date: 03/02/2019
 ms.audience: ITPro
 ms.topic: overview
 f1_keywords:
@@ -12,12 +12,12 @@ ms.service: m365-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: FastTrack Trung tâm lợi ích cho Windows 10 cung cấp truy cập đến máy tính để bàn ứng dụng đảm bảo-một dịch vụ được thiết kế để địa chỉ các vấn đề với Windows 10 và Office 365 ProPlus tương thích ứng dụng.
-ms.openlocfilehash: 31f65f3cf74ef45c9be47ce2d1dbabbd081e8253
-ms.sourcegitcommit: 0a8250d759e010cff6958016267f29acb0b7e17c
+ms.openlocfilehash: 5f0501efb04214a09d7f220b424e29c80e8dbf6d
+ms.sourcegitcommit: 5abb49be2bfa99110f17245839c3468318b8a3db
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 02/01/2019
-ms.locfileid: "29696657"
+ms.lasthandoff: 03/01/2019
+ms.locfileid: "30355134"
 ---
 # <a name="desktop-app-assure"></a>Đảm bảo Ứng dụng Máy tính 
 

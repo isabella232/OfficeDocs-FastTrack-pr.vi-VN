@@ -3,7 +3,7 @@ title: Lợi ích Trung tâm FastTrack dành cho Microsoft 365
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 2/2/2019
+ms.date: 03/02/2019
 ms.audience: ITPro
 ms.topic: overview
 f1_keywords:
@@ -12,12 +12,12 @@ ms.service: m365-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: FastTrack cho Microsoft 365 cung cấp hướng dẫn lập kế hoạch, triển khai và nhận con nuôi bao gồm các truy cập từ xa để Microsoft kỹ thuật chuyên môn, tốt nhất thực tiễn, công cụ và tài nguyên. FastTrack cho Microsoft 365 giúp tổ chức và đối tác của họ đẩy nhanh việc triển khai và đạt được người dùng cuối nhận con nuôi của Office 365, Windows 10, và tính di động doanh nghiệp + bảo mật.
-ms.openlocfilehash: 272b2aab2900f8d9febd24b22a9a2642d7b24ff8
-ms.sourcegitcommit: 0a8250d759e010cff6958016267f29acb0b7e17c
+ms.openlocfilehash: e0ac93c1debcffe644117054c6fda2d8ac2d5b60
+ms.sourcegitcommit: 5abb49be2bfa99110f17245839c3468318b8a3db
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 02/01/2019
-ms.locfileid: "29696621"
+ms.lasthandoff: 03/01/2019
+ms.locfileid: "30355122"
 ---
 # <a name="fasttrack-center-benefit-for-microsoft-365"></a>Lợi ích Trung tâm FastTrack dành cho Microsoft 365
 
@@ -29,11 +29,9 @@ Lợi ích Trung tâm FastTrack cho Microsoft 365 cung cấp hướng dẫn lậ
   
 Để tìm hiểu thêm, hãy xem:
 
-- [Lợi ích Trung tâm FastTrack dành cho Office 365](https://go.microsoft.com/fwlink/?linkid=2044752) 
-- [Trung tâm FastTrack lợi ích cho doanh nghiệp vận động + bảo mật](https://go.microsoft.com/fwlink/?linkid=2005312)
-- [Lợi ích của Trung tâm FastTrack dành cho Windows 10](https://go.microsoft.com/fwlink/?linkid=2044661) 
-
-Bạn có thể cũng khám phá dịch vụ FastTrack và [yêu cầu hỗ trợ](https://go.microsoft.com/fwlink/p/?LinkId=2003903) từ FastTrack hôm nay.
+- [Lợi ích Trung tâm FastTrack dành cho Office 365](O365-fasttrack-benefit-for-office-365.md) 
+- [Trung tâm FastTrack lợi ích cho doanh nghiệp vận động + bảo mật](EMS-fasttrack-benefit-for-EMS.md)
+- [Trung tâm FastTrack lợi ích cho Windows 10](Win-10-fasttrack-benefit-for-Windows-10.md) Bạn có thể cũng khám phá dịch vụ FastTrack và [yêu cầu hỗ trợ](https://go.microsoft.com/fwlink/p/?LinkId=2003903) từ FastTrack hôm nay.
 
 FastTrack là đối tác của bạn cho sự thành công của Microsoft 365.
   

@@ -3,7 +3,7 @@ title: Nội dung hỗ trợ được cung cấp
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 2/2/2019
+ms.date: 03/02/2019
 ms.audience: ITPro
 ms.topic: overview
 f1_keywords:
@@ -12,12 +12,12 @@ ms.service: m365-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: Khi bạn mua bất kỳ dịch vụ Windows 10 hay Microsoft 365, FastTrack chuyên cung cấp tư vấn và khắc phục hướng dẫn triển khai để Windows 10 và Office 365 ProPlus và ở lại up-to-không có chi phí bổ sung (với một đăng ký đủ điều kiện).
-ms.openlocfilehash: d7d79c78102d229d15e0b55dfc18d1063371ef17
-ms.sourcegitcommit: 0a8250d759e010cff6958016267f29acb0b7e17c
+ms.openlocfilehash: 071d1bdc76f2d450f7c9dde88f1e07858c3af36d
+ms.sourcegitcommit: 5abb49be2bfa99110f17245839c3468318b8a3db
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 02/01/2019
-ms.locfileid: "29696633"
+ms.lasthandoff: 03/01/2019
+ms.locfileid: "30355194"
 ---
 # <a name="assistance-offered"></a>Nội dung hỗ trợ được cung cấp  
 
@@ -26,6 +26,9 @@ Khi bạn mua bất kỳ dịch vụ Windows 10 hay Microsoft 365 (như chi ti�
 Để được giúp đỡ, hoàn thành [máy tính để bàn ứng dụng đảm bảo các yêu cầu dịch vụ](https://go.microsoft.com/fwlink/?linkid=2022721).
 
 Đối tác cũng có thể giúp đỡ thông qua [trang web FastTrack](https://go.microsoft.com/fwlink/?linkid=780698) thay mặt cho một khách hàng. Để làm như vậy, các đối tác ký vào các trang web, chọn hồ sơ khách hàng, nhấp **dịch vụ**và hoàn thành hình thức **yêu cầu để được hỗ trợ cho máy tính để bàn ứng dụng đảm bảo** .
+
+> [!NOTE]
+> Hỗ trợ được cung cấp trong truyền thống Trung Quốc và tiếng Trung giản thể (tài nguyên nói tiếng quan thoại chỉ), tiếng Anh, Pháp, Đức, ý, Nhật, Hàn Quốc, tiếng Bồ Đào Nha (Brazil), và tiếng Tây Ban Nha. 
 
 ## <a name="assistance"></a>Hỗ trợ
 
@@ -40,19 +43,17 @@ FastTrack cung cấp hỗ trợ cho những điều sau đây:
 > [!NOTE]
 > FastTrack làm cho mọi nỗ lực hợp lý để giải quyết vấn đề tương thích. 
 
-> [!NOTE]
-> FastTrack không remediate Phiên bản cũ của ứng dụng ISV nếu có phiên bản mới hơn được hỗ trợ trong Windows 10.
-
-> [!NOTE]
-> FastTrack không remediate các phiên bản cũ hơn của bên thứ ba thêm trong phần mềm nếu nhà cung cấp phần mềm có phiên bản mới hơn được hỗ trợ trong Office 365 ProPlus.
-
 ## <a name="out-of-scope"></a>Ra khỏi phạm vi
 
 FastTrack không cung cấp hỗ trợ cho:
-- Hàng tồn kho ứng dụng và thử nghiệm để xác định những gì không và không làm việc trên Windows 10. Để biết thêm chi tiết, xem [Khách hàng yêu cầu đánh giá máy tính để bàn hiện đại](https://go.microsoft.com/fwlink/?linkid=2053818).
+- Hàng tồn kho ứng dụng và thử nghiệm để xác định những gì không và không làm việc trên Windows 10 và Office 365 ProPlus. Để được hướng dẫn thêm về quá trình này, hãy truy cập [Trung tâm triển khai máy tính để bàn hiện đại](https://go.microsoft.com/fwlink/?linkid=2080140). Nếu bạn đang quan tâm đến việc đánh giá chuyên sâu nâng cấp sẵn sàng chiến đấu, hoàn thành hình thức [Khách hàng yêu cầu đánh giá máy tính để bàn hiện đại](https://go.microsoft.com/fwlink/?linkid=2053818) .
 - Nghiên cứu ứng dụng bên thứ ba ISV cho báo cáo khả năng tương thích và hỗ trợ Windows 10. Để biết thêm chi tiết, hãy xem [Đã sẵn sàng cho Windows](https://go.microsoft.com/fwlink/?linkid=2054580).
 - Ứng dụng chỉ có đóng gói dịch vụ. Tuy nhiên, các máy tính để bàn ứng dụng đảm bảo đội gói ứng dụng mà chúng tôi có remediated cho Windows 10 để đảm bảo họ có thể được triển khai trong môi trường của khách hàng.
-    > [!NOTE]
-    > Microsoft không thể thay đổi vào mã nguồn của bạn. Tuy nhiên, nhóm nghiên cứu máy tính để bàn ứng dụng đảm bảo có thể cung cấp hướng dẫn cho nhà phát triển ứng dụng nếu mã nguồn có sẵn cho các ứng dụng của bạn.
 
-
+Trách nhiệm của khách hàng bao gồm:
+- Tạo ra một hàng tồn kho ứng dụng.
+- Phê chuẩn những ứng dụng trên Windows 10 và Office 365 ProPlus.
+> [!NOTE]
+> Microsoft không thể thay đổi vào mã nguồn của bạn. Tuy nhiên, nhóm nghiên cứu máy tính để bàn ứng dụng đảm bảo có thể cung cấp hướng dẫn cho nhà phát triển ứng dụng nếu mã nguồn có sẵn cho các ứng dụng của bạn.[!NOTE]
+> FastTrack không remediate Phiên bản cũ của ứng dụng, add-in hoặc macro ISV nếu có phiên bản mới hơn được hỗ trợ trong Windows 10 và Office 365 ProPlus.[!NOTE]
+> Liên hệ với một [đối tác của Microsoft](https://go.microsoft.com/fwlink/?linkid=2080150) để trợ giúp với các dịch vụ được xác định là ra khỏi phạm vi.

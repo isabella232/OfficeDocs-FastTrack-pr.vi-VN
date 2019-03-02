@@ -3,7 +3,7 @@ title: Lợi ích của Trung tâm FastTrack dành cho Office 365
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 2/2/2019
+ms.date: 03/02/2019
 ms.audience: ITPro
 ms.topic: overview
 f1_keywords:
@@ -12,12 +12,12 @@ ms.service: o365-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: Bạn sử dụng các lợi ích Trung tâm FastTrack cho Office 365 khi bạn mua giấy phép tối thiểu 150 cho một dịch vụ đủ điều kiện hoặc kế hoạch cho bạn thuê nhà Office 365. Bạn sau đó làm việc với FastTrack chuyên gia đánh giá, remediate, sử, và lái xe cách sử dụng các dịch vụ đó. Các chuyên gia cũng cung cấp hướng dẫn di chuyển.
-ms.openlocfilehash: 73363c63590545b7ede05b068a7bbd38fbc9cb0d
-ms.sourcegitcommit: 0a8250d759e010cff6958016267f29acb0b7e17c
+ms.openlocfilehash: 4b3cd472783781342265797ebf3b71cc9debc8cf
+ms.sourcegitcommit: 5abb49be2bfa99110f17245839c3468318b8a3db
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 02/01/2019
-ms.locfileid: "29696645"
+ms.lasthandoff: 03/01/2019
+ms.locfileid: "30355146"
 ---
 # <a name="fasttrack-center-benefit-for-office-365"></a>Lợi ích Trung tâm FastTrack dành cho Office 365
 
@@ -32,7 +32,7 @@ Bạn sử dụng lợi ích Trung tâm FastTrack cho Office 365 khi bạn mua *
   
 Để tìm hiểu về quá trình FastTrack Trung tâm và những người chịu trách nhiệm cho những gì, xem [FastTrack Trung tâm lợi ích tổng quan](O365-fasttrack-benefit-overview.md).
   
-Bạn đang tìm kiếm [FastTrack Trung tâm lợi ích cho doanh nghiệp vận động + bảo mật](https://go.microsoft.com/fwlink/?linkid=2005312)? Nó bao gồm các thông tin về:
+Bạn đang tìm kiếm [FastTrack Trung tâm lợi ích cho doanh nghiệp vận động + bảo mật](EMS-fasttrack-benefit-for-EMS.md)? Nó bao gồm các thông tin về:
   
 - Microsoft dành    
 - Azure Active Directory Premium 
