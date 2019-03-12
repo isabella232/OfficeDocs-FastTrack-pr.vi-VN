@@ -3,25 +3,25 @@ title: Trách nhiệm FastTrack
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 2/2/2019
+ms.date: 03/02/2019
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: FastTrack chuyên gia có trách nhiệm sau đây trong onboarding.
-ms.openlocfilehash: e90c9e54b62f57c27ba1424f5d2fb84d7b56626e
-ms.sourcegitcommit: 0a8250d759e010cff6958016267f29acb0b7e17c
+ms.openlocfilehash: 3cac0971d2658c1df005eae91116ecfb2a6dd02e
+ms.sourcegitcommit: 5abb49be2bfa99110f17245839c3468318b8a3db
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 02/01/2019
-ms.locfileid: "29696837"
+ms.lasthandoff: 03/01/2019
+ms.locfileid: "30355278"
 ---
 # <a name="fasttrack-responsibilities"></a>Trách nhiệm FastTrack
 
 FastTrack chuyên gia có trách nhiệm sau đây trong onboarding.\*
   
-## <a name="general"></a>Chung 
+## <a name="general"></a>Tổng quát
 
 - Cung cấp sự hỗ trợ từ xa hỗ trợ cho bạn trong kế hoạch phát triển và thực hiện thành công, và các hoạt động yêu cầu cấu hình như là chi tiết trong các mô tả giai đoạn.
 - Cung cấp tài liệu hướng dẫn có sẵn và phần mềm công cụ, admin console và script để cung cấp các hướng dẫn để bạn có thể làm giảm hoặc loại bỏ cấu hình nhiệm vụ, và các nguồn lực lập kế hoạch thành công. 

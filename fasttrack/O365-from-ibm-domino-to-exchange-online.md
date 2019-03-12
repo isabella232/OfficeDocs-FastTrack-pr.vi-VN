@@ -3,19 +3,19 @@ title: Phụ lục A - Di chuyển từ IBM Domino sang Exchange Online
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 2/2/2019
+ms.date: 03/02/2019
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: 'Di chuyển từ IBM Domino để trao đổi trực tuyến bao gồm một vài khía cạnh quan trọng, bao gồm cả những gì sẽ xảy ra vào giai đoạn sau đây:'
-ms.openlocfilehash: e2a4a06dd37c9a8eb5c04330cbde7f9dfff830b2
-ms.sourcegitcommit: 0a8250d759e010cff6958016267f29acb0b7e17c
+ms.openlocfilehash: 2b8bad92665f92abaa718b78151ad49b3920bac3
+ms.sourcegitcommit: 5abb49be2bfa99110f17245839c3468318b8a3db
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 02/01/2019
-ms.locfileid: "29696825"
+ms.lasthandoff: 03/01/2019
+ms.locfileid: "30355242"
 ---
 # <a name="appendix-a---migration-from-ibm-domino-to-exchange-online"></a>Phụ lục A - Di chuyển từ IBM Domino sang Exchange Online
 
@@ -28,13 +28,13 @@ Di chuyển từ IBM Domino để trao đổi trực tuyến bao gồm một và
     
 ## <a name="identities"></a>Danh tính
 
-Bạn chịu trách nhiệm cho việc tạo và quản lý danh tính (đám mây duy nhất, đồng bộ, hoặc được liên kết với Active Directory tại chỗ của họ). Bạn phải hoàn thành lập bản đồ nhận dạng (nếu không đã trình bày) giữa Domino và Active Directory tại chỗ hoặc Azure AD trong giai đoạn đầu của onboarding.
+Bạn chịu trách nhiệm cho việc tạo và quản lý danh tính (đám mây duy nhất, đồng bộ, hoặc được liên kết với Active Directory tại chỗ của họ). Bạn phải hoàn thành lập bản đồ nhận dạng (nếu không đã trình bày) giữa Domino và trên cơ sở hoạt động thư mục hoặc Azure Active Directory trong giai đoạn đầu của onboarding.
   
 ## <a name="coexistence"></a>Cùng tồn tại
 
 Lợi ích Trung tâm FastTrack cho Office 365 cung cấp hai chiều luồng thư giữa các môi trường Domino tại chỗ và Exchange Online cho mọi khách hàng.
   
-## <a name="migration"></a>Di chuyển
+## <a name="migration"></a>Di chuyển
 
 Quá trình FastTrack Trung tâm tiêu chuẩn cho di chuyển từ Domino để trao đổi trực tuyến liên quan đến trước dàn Domino dữ liệu Azure trước khi di chuyển đến hộp thư Exchange Online. Di cư FastTrack yêu cầu hoạt động được thực hiện ở các giai đoạn khác nhau của onboarding của nhân viên Trung tâm FastTrack và bạn. Chúng tôi bao gồm các hoạt động này trong các phần sau.
   
@@ -87,10 +87,10 @@ Quá trình FastTrack Trung tâm tiêu chuẩn cho di chuyển từ Domino để
 - Remediate môi trường Domino dựa trên nguyên tắc Trung tâm FastTrack cung cấp (ví dụ, thiết lập bất kỳ điều khoản yêu cầu được xác định là mất tích trong các tập tin thư).  
 - Đảm bảo rằng hộp thư Domino dưới kích thước tối đa cho phép thông qua di chuyển.
     > [!NOTE]
-    >  Mặc dù FastTrack di chuyển hộp thư đến 85% của tổng số cho phép nhắm mục tiêu kích thước, cố gắng để di chuyển hộp thư lớn hơn 2 GB mang các rủi ro bổ sung như:    <br/> Kéo dài thời gian của quá trình di chuyển.<br/> Sử dụng các nguồn tài nguyên khác được sử dụng để di chuyển các hộp thư khác.<br/> Sự gia tăng đáng kể trong tỷ lệ lỗi. 
+    >  Mặc dù FastTrack di chuyển hộp thư đến 85% của tổng số cho phép nhắm mục tiêu kích thước, cố gắng để di chuyển hộp thư lớn hơn 2 GB mang các rủi ro bổ sung như:    <br/> Kéo dài thời gian của quá trình di chuyển.    <br/> Sử dụng các nguồn tài nguyên khác được sử dụng để di chuyển các hộp thư khác.    <br/> Sự gia tăng đáng kể trong tỷ lệ lỗi. 
 - Chuẩn bị các thư trong cơ sở dữ liệu và kiểm soát truy cập danh sách (ACLs) cho di chuyển. Bạn phải thực hiện một số bước khắc phục thành công di chuyển thư trong cơ sở dữ liệu và quyền của mình để một hộp thư dùng chung trong Exchange Online. Một vài trong số các bước này là như sau: 
   - Loại bỏ các mục thư trong cơ sở dữ liệu hiện có trong thư mục Domino và tạo hồ sơ người mới.
-  - Tạo nhóm bảo mật phổ quát kích hoạt thư trong Active Directory tại chỗ được đồng bộ hoá với Office 365 Azure quảng cáo và sử dụng để đặt cấu hình quyền truy cập vào hộp thư dùng chung trong Exchange Online. Này chuyển các quyền thiết lập trên cơ sở dữ liệu thư ở trên vào hộp thư dùng chung trong Exchange Online.
+  - Tạo nhóm bảo mật phổ quát kích hoạt thư trong Active Directory tại chỗ được đồng bộ hoá với Office 365 Azure Active Directory và sử dụng để đặt cấu hình quyền truy cập vào hộp thư dùng chung trong Exchange Online. Này chuyển các quyền thiết lập trên cơ sở dữ liệu thư ở trên vào hộp thư dùng chung trong Exchange Online.
     
 > [!NOTE]
 > Người dùng cuối chuẩn bị sẵn sàng và đào tạo cho hệ thống mới nhắn tin và khách hàng có thể được bắt đầu bây giờ. 

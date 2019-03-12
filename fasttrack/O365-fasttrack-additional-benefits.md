@@ -3,18 +3,18 @@ title: Phụ lục B - Lợi ích bổ sung của Trung tâm FastTrack
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 2/2/2019
+ms.date: 03/02/2019
 ms.audience: ITPro
 ms.topic: article
 ms.service: o365-administration
 localization_priority: Priority
 description: Khách hàng mua tối thiểu 20.000 giấy phép cho một người thuê nhà Exchange Online có đủ điều kiện cho các dịch vụ bổ sung FastTrack Trung tâm. Xem dịch vụ đủ điều kiện và kế hoạch để biết thêm chi tiết.
-ms.openlocfilehash: abdb722bdb69945a1a90d8cae3fe71a5259e9dc9
-ms.sourcegitcommit: 0a8250d759e010cff6958016267f29acb0b7e17c
+ms.openlocfilehash: ec2525fed0b1a61df07fd1d32ca76224232a15d1
+ms.sourcegitcommit: 5abb49be2bfa99110f17245839c3468318b8a3db
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 02/01/2019
-ms.locfileid: "29696729"
+ms.lasthandoff: 03/01/2019
+ms.locfileid: "30355254"
 ---
 # <a name="appendix-b---fasttrack-center-additional-benefit"></a>Phụ lục B - Lợi ích bổ sung của Trung tâm FastTrack
 
@@ -50,7 +50,7 @@ Cho Skype cho kinh doanh trực tuyến, chúng tôi cung cấp hướng dẫn c
 
 FastTrack chuyên gia có trách nhiệm sau đây trong onboarding. Đây có thể thêm vào hoặc thay thế các hoạt động quy định tại [FastTrack trách nhiệm](O365-fasttrack-responsibilities.md).
   
-## <a name="general"></a>Chung 
+## <a name="general"></a>Tổng quát
 
 - Cung cấp hỗ trợ từ xa hỗ trợ cho bạn trong kế hoạch phát triển, thực hiện và yêu cầu cấu hình các hoạt động như chi tiết trong [giai đoạn Onboarding và chuyển đổi](#onboarding-and-migration-phases)thành công.
     

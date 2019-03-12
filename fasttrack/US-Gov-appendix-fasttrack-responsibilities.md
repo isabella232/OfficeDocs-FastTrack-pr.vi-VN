@@ -3,25 +3,25 @@ title: FastTrack trách nhiệm cho Office 365 chính phủ Hoa Kỳ
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 2/2/2019
+ms.date: 03/02/2019
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: None
 ms.collection: FastTrack
 description: FastTrack chuyên gia có trách nhiệm sau đây trong onboarding.
-ms.openlocfilehash: bfdbd890dd357c22ea80fd01cdf47903cccb868e
-ms.sourcegitcommit: 0a8250d759e010cff6958016267f29acb0b7e17c
+ms.openlocfilehash: 2989b841d247ec1e05f8e033a7000e2b2a756e24
+ms.sourcegitcommit: 5abb49be2bfa99110f17245839c3468318b8a3db
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 02/01/2019
-ms.locfileid: "29696789"
+ms.lasthandoff: 03/01/2019
+ms.locfileid: "30355290"
 ---
 # <a name="fasttrack-responsibilities-for-office-365-us-government"></a>FastTrack trách nhiệm cho Office 365 chính phủ Hoa Kỳ
 
 FastTrack chuyên gia có trách nhiệm sau đây trong onboarding.
   
-## <a name="general"></a>Chung 
+## <a name="general"></a>Tổng quát
 
 - Cung cấp sự hỗ trợ từ xa hỗ trợ cho bạn trong kế hoạch phát triển và thực hiện thành công, và các hoạt động yêu cầu cấu hình như là chi tiết trong các mô tả giai đoạn.
 - Cung cấp tài liệu hướng dẫn có sẵn và phần mềm công cụ, admin console và script để cung cấp các hướng dẫn để bạn có thể làm giảm hoặc loại bỏ cấu hình nhiệm vụ, và các nguồn lực lập kế hoạch thành công. 
@@ -82,8 +82,10 @@ Cung cấp hướng dẫn về:
       - Cấu hình Azure Active Directory ñöôïc xác thực, nếu cần thiết (không có sẵn trong kế hoạch GCC cao hay bộ quốc phòng Mỹ).
       - Cấu hình Azure Active Directory liền mạch đơn đăng nhập (SSO), nếu cần thiết (không có sẵn trong kế hoạch GCC cao hay bộ quốc phòng Mỹ).
     > [!NOTE]
-    > Azure Active Directory ñöôïc xác thực rừng nhiều môi trường được hỗ trợ nếu có tín thác rừng giữa rừng Active Directory của bạn và nếu tên hậu tố định tuyến được cấu hình đúng. Bổ sung các đại lý có thể được cài đặt trên nhiều máy chủ tại chỗ để cung cấp sẵn sàng cao cho các yêu cầu đăng nhập. Để biết thêm thông tin, hãy xem [Azure Active Directory ñöôïc xác thực: nhanh chóng bắt đầu](https://go.microsoft.com/fwlink/?linkid=860094) và [Azure Active Directory liên tục đăng nhập đơn: nhanh chóng bắt đầu](https://go.microsoft.com/fwlink/?linkid=860095).[!NOTE]
-    > Để biết thêm chi tiết về giới hạn pass-through xác thực, hãy xem [Azure Active Directory ñöôïc xác thực: hạn chế hiện tại](https://go.microsoft.com/fwlink/?linkid=860356).[!NOTE]
+    > Azure Active Directory ñöôïc xác thực rừng nhiều môi trường được hỗ trợ nếu có tín thác rừng giữa rừng Active Directory của bạn và nếu tên hậu tố định tuyến được cấu hình đúng. Bổ sung các đại lý có thể được cài đặt trên nhiều máy chủ tại chỗ để cung cấp sẵn sàng cao cho các yêu cầu đăng nhập. Để biết thêm thông tin, hãy xem [Azure Active Directory ñöôïc xác thực: nhanh chóng bắt đầu](https://go.microsoft.com/fwlink/?linkid=860094) và [Azure Active Directory liên tục đăng nhập đơn: nhanh chóng bắt đầu](https://go.microsoft.com/fwlink/?linkid=860095). 
+    > [!NOTE]
+    > Để biết thêm chi tiết về giới hạn pass-through xác thực, hãy xem [Azure Active Directory ñöôïc xác thực: hạn chế hiện tại](https://go.microsoft.com/fwlink/?linkid=860356). 
+    > [!NOTE]
     > Để biết thêm chi tiết về vấn đề này liền mạch SSO, hãy xem [Khắc phục sự cố Azure Active Directory liên tục đăng nhập đơn](https://go.microsoft.com/fwlink/?linkid=841926). 
 - Cho một khu rừng duy nhất khi liên danh tính là mục tiêu: 
   - Cài đặt và cấu hình các AD FS cho xác thực miền địa phương với Office 365 trong một cấu hình trang web duy nhất, chịu lỗi, nếu cần thiết.  

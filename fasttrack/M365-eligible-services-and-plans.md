@@ -3,19 +3,19 @@ title: Dịch vụ và gói đủ điều kiện
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 2/2/2019
+ms.date: 03/02/2019
 ms.audience: ITPro
 ms.topic: overview
 ms.service: m365-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: Khi bạn mua bất kỳ dịch vụ Microsoft 365, FastTrack chuyên cung cấp hướng dẫn cho bạn để onboard để Microsoft 365 và bắt đầu làm việc sử dụng của họ.
-ms.openlocfilehash: 37e898664c2718eb3fffaae96a93a5ace3f95fc5
-ms.sourcegitcommit: 0a8250d759e010cff6958016267f29acb0b7e17c
+ms.openlocfilehash: 25223a7e738a679ac2d110f05e87ebcf571ac03c
+ms.sourcegitcommit: 5abb49be2bfa99110f17245839c3468318b8a3db
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 02/01/2019
-ms.locfileid: "29696813"
+ms.lasthandoff: 03/01/2019
+ms.locfileid: "30355302"
 ---
 # <a name="eligible-services-and-plans"></a>Dịch vụ và gói đủ điều kiện
 
@@ -71,6 +71,7 @@ FastTrack Trung tâm cung cấp hỗ trợ cho các dịch vụ sau:
 
 - Microsoft 365 E3\*
 - Microsoft 365 E5\*
+- Microsoft 365 E5 an ninh\*
 - Doanh nghiệp Microsoft 365\*
     
  **Giáo dục Microsoft 365**
@@ -167,7 +168,7 @@ FastTrack Trung tâm cung cấp hỗ trợ cho các dịch vụ sau:
 |**Microsoft nâng cao mối đe dọa phân tích**   |        Hạn chế. Hội đủ điều kiện chỉ khi mua như là một kế hoạch độc lập. Để làm điều này, hãy vào [Microsoft 365 FastTrack cổng](https://go.microsoft.com/fwlink/p/?LinkId=2003903).    |
 |**Microsoft Cloud ứng dụng bảo mật**    |       Hạn chế. Hội đủ điều kiện chỉ khi mua như là một kế hoạch độc lập. Để làm điều này, hãy vào [Microsoft 365 FastTrack cổng](https://go.microsoft.com/fwlink/p/?LinkId=2003903).    |
 
-Để biết thêm chi tiết, hãy xem [FastTrack Trung tâm lợi ích cho doanh nghiệp vận động + bảo mật](https://go.microsoft.com/fwlink/?linkid=2005312).
+Để biết thêm chi tiết, hãy xem [FastTrack Trung tâm lợi ích cho doanh nghiệp vận động + bảo mật](EMS-fasttrack-benefit-for-EMS.md).
 
 ## <a name="eligible-windows-10-plans"></a>Đủ điều kiện kế hoạch Windows 10
 

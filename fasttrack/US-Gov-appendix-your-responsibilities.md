@@ -3,25 +3,25 @@ title: Trách nhiệm của bạn cho Office 365 chính phủ Hoa Kỳ
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 2/2/2019
+ms.date: 03/02/2019
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: None
 ms.collection: FastTrack
 description: Bạn có trách nhiệm sau đây trong onboarding.
-ms.openlocfilehash: 9a4c5d05fd068d797a168ba4b9fb8a63d5185cf8
-ms.sourcegitcommit: 0a8250d759e010cff6958016267f29acb0b7e17c
+ms.openlocfilehash: 39737115cb4ff157782d559d1125a8edbc76cf40
+ms.sourcegitcommit: 5abb49be2bfa99110f17245839c3468318b8a3db
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 02/01/2019
-ms.locfileid: "29696693"
+ms.lasthandoff: 03/01/2019
+ms.locfileid: "30355218"
 ---
 # <a name="your-responsibilities-for-office-365-us-government"></a>Trách nhiệm của bạn cho Office 365 chính phủ Hoa Kỳ
 
 Bạn có trách nhiệm sau đây trong onboarding.
   
-## <a name="general"></a>Chung 
+## <a name="general"></a>Tổng quát
 
 - Phát triển và thực hiện các kế hoạch thành công của bạn.   
 - Cung cấp cho bất kỳ cải tiến và tích hợp cho người thuê nhà Office 365 của bạn vượt ra ngoài các tùy chọn cấu hình được liệt kê ở đây.    
