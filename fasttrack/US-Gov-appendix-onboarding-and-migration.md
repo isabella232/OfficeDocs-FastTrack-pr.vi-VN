@@ -3,19 +3,19 @@ title: Onboarding và di chuyển giai đoạn cho văn phòng chính phủ Hoa 
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 03/02/2019
+ms.date: 04/02/2019
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: None
 ms.collection: FastTrack
 description: Onboarding Office 365 Beta dành cho Office 365 Beta dành cho chúng tôi chính phủ có bốn giai đoạn chính — bắt đầu, Assess, Remediate, và cho phép. Bạn có thể làm theo các giai đoạn với một giai đoạn di chuyển dữ liệu tùy chọn như trong hình dưới đây.
-ms.openlocfilehash: 60f931d6c558709e34dd638304a77c739efb43c4
-ms.sourcegitcommit: 5abb49be2bfa99110f17245839c3468318b8a3db
+ms.openlocfilehash: 24134f7c13ff251351ffdcd50e532fa6153207f9
+ms.sourcegitcommit: 8d1fbbfc6b05522ea1259149349548f072fefcac
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 03/01/2019
-ms.locfileid: "30355266"
+ms.lasthandoff: 04/01/2019
+ms.locfileid: "31016990"
 ---
 # <a name="onboarding-and-migration-phases-for-office-365-us-government"></a>Onboarding và di chuyển giai đoạn cho văn phòng chính phủ Hoa Kỳ 365
 

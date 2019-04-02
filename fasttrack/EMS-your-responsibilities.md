@@ -5,19 +5,19 @@ keywords: ''
 author: andredm7
 ms.author: andredm
 manager: ''
-ms.date: 03/02/2019
+ms.date: 04/02/2019
 ms.topic: article
 ms.prod: ''
 ms.service: microsoft-intune
 ms.assetid: 0590b7b2-0965-437b-b3ca-bd55de1abb09
 ms.reviewer: ''
 ms.suite: ems
-ms.openlocfilehash: 614f8b31cfd4a49ce01520efb2315a5e7237dcda
-ms.sourcegitcommit: 5abb49be2bfa99110f17245839c3468318b8a3db
+ms.openlocfilehash: 7256128e17ab47f1383102b33fe2d86d47c4b226
+ms.sourcegitcommit: 8d1fbbfc6b05522ea1259149349548f072fefcac
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 03/01/2019
-ms.locfileid: "30359810"
+ms.lasthandoff: 04/01/2019
+ms.locfileid: "31016942"
 ---
 # <a name="your-responsibilities"></a>Trách nhiệm của bạn
 
@@ -120,7 +120,7 @@ Bạn có trách nhiệm sau đây trong onboarding.
 -   Cho phép các dịch vụ khác nhau cho một hướng dẫn từ đội FastTrack.
 
 > [!NOTE]
-> **Muốn tìm hiểu thêm?** Thấy [doanh nghiệp di động + bảo mật](https://www.microsoft.com/en-us/cloud-platform/enterprise-mobility)
+> **Bạn muốn tìm hiểu thêm?** Thấy [doanh nghiệp di động + bảo mật](https://www.microsoft.com/en-us/cloud-platform/enterprise-mobility)
 
 ## <a name="see-also"></a>Xem thêm
 

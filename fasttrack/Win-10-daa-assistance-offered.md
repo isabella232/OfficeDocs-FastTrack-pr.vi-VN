@@ -3,7 +3,7 @@ title: Nội dung hỗ trợ được cung cấp
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 03/02/2019
+ms.date: 04/02/2019
 ms.audience: ITPro
 ms.topic: overview
 f1_keywords:
@@ -12,12 +12,12 @@ ms.service: m365-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: Khi bạn mua bất kỳ dịch vụ Windows 10 hay Microsoft 365, FastTrack chuyên cung cấp tư vấn và khắc phục hướng dẫn triển khai để Windows 10 và Office 365 ProPlus và ở lại up-to-không có chi phí bổ sung (với một đăng ký đủ điều kiện).
-ms.openlocfilehash: 071d1bdc76f2d450f7c9dde88f1e07858c3af36d
-ms.sourcegitcommit: 5abb49be2bfa99110f17245839c3468318b8a3db
+ms.openlocfilehash: ac175893fe4afb2aa553740d0e85dceeb6582d69
+ms.sourcegitcommit: 8d1fbbfc6b05522ea1259149349548f072fefcac
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 03/01/2019
-ms.locfileid: "30355194"
+ms.lasthandoff: 04/01/2019
+ms.locfileid: "31016883"
 ---
 # <a name="assistance-offered"></a>Nội dung hỗ trợ được cung cấp  
 
@@ -46,7 +46,7 @@ FastTrack cung cấp hỗ trợ cho những điều sau đây:
 ## <a name="out-of-scope"></a>Ra khỏi phạm vi
 
 FastTrack không cung cấp hỗ trợ cho:
-- Hàng tồn kho ứng dụng và thử nghiệm để xác định những gì không và không làm việc trên Windows 10 và Office 365 ProPlus. Để được hướng dẫn thêm về quá trình này, hãy truy cập [Trung tâm triển khai máy tính để bàn hiện đại](https://go.microsoft.com/fwlink/?linkid=2080140). Nếu bạn đang quan tâm đến việc đánh giá chuyên sâu nâng cấp sẵn sàng chiến đấu, hoàn thành hình thức [Khách hàng yêu cầu đánh giá máy tính để bàn hiện đại](https://go.microsoft.com/fwlink/?linkid=2053818) .
+- Hàng tồn kho ứng dụng và thử nghiệm để xác định những gì không và không làm việc trên Windows 10 và Office 365 ProPlus. Để được hướng dẫn thêm về quá trình này, truy cập vào [Máy tính để bàn triển khai Trung tâm](https://go.microsoft.com/fwlink/?linkid=2080140). Nếu bạn đang quan tâm đến việc đánh giá chuyên sâu nâng cấp sẵn sàng chiến đấu, hoàn thành hình thức [Khách hàng yêu cầu đánh giá máy tính để bàn hiện đại](https://go.microsoft.com/fwlink/?linkid=2053818) .
 - Nghiên cứu ứng dụng bên thứ ba ISV cho báo cáo khả năng tương thích và hỗ trợ Windows 10. Để biết thêm chi tiết, hãy xem [Đã sẵn sàng cho Windows](https://go.microsoft.com/fwlink/?linkid=2054580).
 - Ứng dụng chỉ có đóng gói dịch vụ. Tuy nhiên, các máy tính để bàn ứng dụng đảm bảo đội gói ứng dụng mà chúng tôi có remediated cho Windows 10 để đảm bảo họ có thể được triển khai trong môi trường của khách hàng.
 
@@ -54,6 +54,8 @@ Trách nhiệm của khách hàng bao gồm:
 - Tạo ra một hàng tồn kho ứng dụng.
 - Phê chuẩn những ứng dụng trên Windows 10 và Office 365 ProPlus.
 > [!NOTE]
-> Microsoft không thể thay đổi vào mã nguồn của bạn. Tuy nhiên, nhóm nghiên cứu máy tính để bàn ứng dụng đảm bảo có thể cung cấp hướng dẫn cho nhà phát triển ứng dụng nếu mã nguồn có sẵn cho các ứng dụng của bạn.[!NOTE]
-> FastTrack không remediate Phiên bản cũ của ứng dụng, add-in hoặc macro ISV nếu có phiên bản mới hơn được hỗ trợ trong Windows 10 và Office 365 ProPlus.[!NOTE]
+> Microsoft không thể thay đổi vào mã nguồn của bạn. Tuy nhiên, nhóm nghiên cứu máy tính để bàn ứng dụng đảm bảo có thể cung cấp hướng dẫn cho nhà phát triển ứng dụng nếu mã nguồn có sẵn cho các ứng dụng của bạn.
+> [!NOTE]
+> FastTrack không remediate Phiên bản cũ của ứng dụng, add-in hoặc macro ISV nếu có phiên bản mới hơn được hỗ trợ trong Windows 10 và Office 365 ProPlus.
+> [!NOTE]
 > Liên hệ với một [đối tác của Microsoft](https://go.microsoft.com/fwlink/?linkid=2080150) để trợ giúp với các dịch vụ được xác định là ra khỏi phạm vi.
