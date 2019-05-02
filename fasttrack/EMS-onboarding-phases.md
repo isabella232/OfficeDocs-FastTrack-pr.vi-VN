@@ -5,23 +5,23 @@ keywords: ''
 author: andredm7
 ms.author: andredm
 manager: ''
-ms.date: 04/09/2019
+ms.date: 05/02/2019
 ms.topic: article
 ms.prod: ''
 ms.service: microsoft-intune
 ms.assetid: e51f030b-8b08-4fea-96c9-d4ded435a264
 ms.reviewer: ''
 ms.suite: ems
-ms.openlocfilehash: 1e849f562316f3b8854dacf199889a2a8486b5bc
-ms.sourcegitcommit: 48d77313a4f035c81b9ad10bc2a415e1c7db23c5
+ms.openlocfilehash: eb7f106437f51283b36185bd8e19ab8821ba0f4f
+ms.sourcegitcommit: ccdd833af651980ea6ac655bf32b4262474b35d4
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 04/10/2019
-ms.locfileid: "31767301"
+ms.lasthandoff: 05/01/2019
+ms.locfileid: "33513565"
 ---
 # <a name="onboarding-phases"></a>Giai đoạn Onboarding
 
-Khi bạn sử dụng các [dịch vụ đủ điều kiện và kế hoạch](M365-eligible-services-and-plans.md) để có được Microsoft Azure Active Directory Premium và Microsoft Intune sẵn sàng cho việc sử dụng, có nhiều giai đoạn tham gia vào quá trình. Phần sau đây mô tả mỗi giai đoạn của quá trình onboarding.
+Khi bạn sử dụng các [dịch vụ đủ điều kiện và kế hoạch](M365-eligible-services-and-plans.md) để có được Microsoft Azure Active Directory Premium, Microsoft Intune và bảo vệ thông tin Azure đã sẵn sàng cho sử dụng, có nhiều giai đoạn tham gia vào quá trình. Phần sau đây mô tả mỗi giai đoạn của quá trình onboarding.
 
 Onboarding có bốn giai đoạn chính:
 
@@ -82,7 +82,7 @@ Khi tất cả các hoạt động khắc phục được hoàn thành, dự án
 
 **Sử giai đoạn - khả năng cốt lõi**
 
-Lõi onboarding liên quan đến dịch vụ cung cấp và người thuê nhà và danh tính tích hợp. Nó cũng bao gồm các bước để cung cấp một nền tảng cho onboarding dịch vụ trực tuyến như Azure quảng cáo phí bảo hiểm và dành.
+Lõi onboarding liên quan đến dịch vụ cung cấp và người thuê nhà và danh tính tích hợp. Nó cũng bao gồm các bước để cung cấp một nền tảng cho onboarding các dịch vụ trực tuyến như Azure quảng cáo phí bảo hiểm, dành và bảo vệ thông tin Azure.
 
 ![Onboarding sử giai đoạn - khả năng cốt lõi](./media/ft-enable-phase-core-01.png)
 
@@ -269,6 +269,23 @@ FastTrack cũng cung cấp cho bạn hướng dẫn trên làm thế nào để 
 ![Onboarding sử giai đoạn - dành](./media/ft-enable-phase_intune_mdm-mam_cloudonly.png)
 
 ![Onboarding sử giai đoạn - đồng quản lý](./media/ft-9-enable-phase-comanagement.png)
+
+#### <a name="enable-phase--azure-information-protection"></a>Sử giai đoạn-bảo vệ thông tin Azure
+
+Bảo vệ thông tin xanh cung cấp hỗ trợ cho: 
+
+- Khách hàng sẽ tự động phân loại và ghi nhãn thông tin trong các ứng dụng văn phòng (như Word, PowerPoint, Excel và Outlook) chạy trên Windows và sử dụng các khách hàng bảo vệ thông tin Azure. 
+- Tập tin ở phần còn lại sử dụng máy quét Azure bảo vệ thông tin.
+- Email trong quá cảnh bằng cách sử dụng quy tắc dòng chảy thư Exchange Online. 
+
+Hỗ trợ cũng được cung cấp cho khách hàng những người muốn áp dụng bảo vệ bằng cách sử dụng dịch vụ quản lý quyền Microsoft Azure (Azure RMS), Office 365 thư mã hóa (OME) và ngăn ngừa mất dữ liệu (DLP). 
+
+Khách hàng được cung cấp hướng dẫn về làm thế nào để: 
+
+- Kích hoạt và đặt cấu hình người thuê nhà của họ.
+- Tạo và thiết lập các chính sách và nhãn.
+- Áp dụng bảo vệ thông tin tài liệu. 
+
 
 > [!NOTE]
 > **Muốn tìm hiểu thêm?** xem [doanh nghiệp di động + bảo mật](https://www.microsoft.com/en-us/cloud-platform/enterprise-mobility).

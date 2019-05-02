@@ -5,22 +5,22 @@ keywords: ''
 author: andredm7
 ms.author: andredm
 manager: ''
-ms.date: 04/02/2019
+ms.date: 05/02/2019
 ms.topic: article
 ms.prod: ''
 ms.service: microsoft-intune
 ms.assetid: dd221c87-6bf7-4af8-845a-dc4c3a4f2334
 ms.reviewer: ''
 ms.suite: ems
-ms.openlocfilehash: a2d3f601c1395b908d2ad8fd7a6a0dde38502784
-ms.sourcegitcommit: 8d1fbbfc6b05522ea1259149349548f072fefcac
+ms.openlocfilehash: 1e3f34284cb4b6300a50116ad2bb1df3cb6ab0fe
+ms.sourcegitcommit: ccdd833af651980ea6ac655bf32b4262474b35d4
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 04/01/2019
-ms.locfileid: "31016786"
+ms.lasthandoff: 05/01/2019
+ms.locfileid: "33513781"
 ---
 # <a name="fasttrack-center-benefit-process-for-enterprise-mobility--security-ems"></a>Quy trình Lợi ích của Trung tâm FastTrack dành cho Enterprise Mobility + Security (EMS)
-Nếu tổ chức của bạn đủ điều kiện cho lợi ích Trung tâm FastTrack cho EMS, bạn có thể làm việc từ xa với FastTrack chuyên gia để có được Microsoft Azure Active Directory Premium và Microsoft Intune đã sẵn sàng để sử dụng. Bạn cũng có thể yêu cầu trợ giúp thông qua các [trang web FastTrack](https://www.microsoft.com/fasttrack/microsoft-365/ems) bảo vệ thông tin Azure, Microsoft Cloud ứng dụng an ninh và Microsoft nâng cao mối đe dọa phân tích. Để tìm hiểu xem tổ chức của bạn có đủ điều kiện, hãy xem [dịch vụ đủ điều kiện và kế hoạch](M365-eligible-services-and-plans.md).
+Nếu tổ chức của bạn đủ điều kiện cho lợi ích Trung tâm FastTrack cho EMS, bạn có thể làm việc từ xa với FastTrack chuyên gia để có được Microsoft Azure Active Directory Premium, Microsoft Intune và bảo vệ thông tin Azure đã sẵn sàng để sử dụng. Bạn cũng có thể yêu cầu trợ giúp thông qua các [trang web FastTrack](https://www.microsoft.com/fasttrack/microsoft-365/ems) bảo vệ thông tin Azure, Microsoft Cloud ứng dụng an ninh và Microsoft nâng cao mối đe dọa phân tích. Để tìm hiểu xem tổ chức của bạn có đủ điều kiện, hãy xem [dịch vụ đủ điều kiện và kế hoạch](M365-eligible-services-and-plans.md).
 
 
 Dưới đây là những gì chúng tôi bao gồm về quá trình onboarding:
@@ -50,3 +50,9 @@ Dưới đây là những gì bạn có thể mong đợi khi onboarding hoàn t
         -   Đồng bộ hóa thư mục hoạt động với công cụ Azure quảng cáo kết nối. Tùy chọn này là dành cho khách hàng với một cấu hình Active Directory rừng duy nhất.
 
         -   Liên kết với Windows Server 2012 R2 liên đoàn dịch vụ Active Directory (AD FS) 2.0 hoặc sau này từ Active Directory tại chỗ của bạn.
+
+        -   Khả năng tự động phân loại và bảo vệ thông tin ở phần còn lại và quá cảnh với bảo vệ thông tin Azure. 
+
+        -   Khả năng để khám phá thông tin bên trong chỗ tập tin chia sẻ và các máy chủ SharePoint với máy quét Azure bảo vệ thông tin. 
+
+        -   Khả năng quản lý chìa khóa của người thuê nhà bảo vệ thông tin Azure trong Azure Key Vault. 

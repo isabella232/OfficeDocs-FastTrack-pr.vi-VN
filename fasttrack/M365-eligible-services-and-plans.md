@@ -3,19 +3,19 @@ title: Dịch vụ và gói đủ điều kiện
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 04/02/2019
+ms.date: 05/02/2019
 ms.audience: ITPro
 ms.topic: overview
 ms.service: m365-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: Khi bạn mua bất kỳ dịch vụ Microsoft 365, FastTrack chuyên cung cấp hướng dẫn cho bạn để onboard để Microsoft 365 và bắt đầu làm việc sử dụng của họ.
-ms.openlocfilehash: 83454be52bd22ea232de5d92194d120819f0d522
-ms.sourcegitcommit: 8d1fbbfc6b05522ea1259149349548f072fefcac
+ms.openlocfilehash: 4ac47eb14dac40cd348bfe009f017b60d32c1dba
+ms.sourcegitcommit: ccdd833af651980ea6ac655bf32b4262474b35d4
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 04/01/2019
-ms.locfileid: "31017002"
+ms.lasthandoff: 05/01/2019
+ms.locfileid: "33513097"
 ---
 # <a name="eligible-services-and-plans"></a>Dịch vụ và gói đủ điều kiện
 
@@ -147,7 +147,7 @@ FastTrack Trung tâm cung cấp hỗ trợ cho các dịch vụ sau:
 
 \*\*Để biết thêm chi tiết về lợi ích FastTrack cho chính phủ Mỹ, nhìn thấy [Chính phủ Hoa Kỳ Office 365](https://aka.ms/aboutgovcloud).
 
-\*\*\*Có thể được sử dụng cho cả hai Skype cho kinh doanh trực tuyến và người dùng Microsoft Teams được cấp phép.
+\*\*\*Có thể được sử dụng cho cả hai Skype cho kinh doanh trực tuyến và người dùng Microsoft Teams được cấp phép. Đòi hỏi đủ điều kiện mua hàng của Skype cho doanh nghiệp hoặc Microsoft Teams. 
 
 > [!NOTE]
 > Đủ điều kiện cho lợi ích Trung tâm FastTrack dựa trên mua giấy phép trả tiền cho các kế hoạch hội đủ điều kiện được đề cập trước đó. 
@@ -160,7 +160,7 @@ FastTrack Trung tâm cung cấp hỗ trợ cho các dịch vụ sau:
 |---------|---------|
 |**Vận động doanh nghiệp + bảo mật (EMS) tại E3 hoặc E5**       |   Có sẵn cho các dịch vụ đám mây có đủ điều kiện cho lợi ích FastTrack. Nếu không điều này được định tuyến đến một chuyên gia FastTrack hay cho đối tác giới thiệu.        |
 |**Microsoft Azure Active Directory Premium**     |  Hội đủ điều kiện nếu mua như là một kế hoạch độc lập hoặc như một phần của E3 hoặc E5.       |
-|**Bảo vệ thông tin của Microsoft Azure**    |  Sẵn sàng cho P2, như một phần của E5, hoặc như là một kế hoạch độc lập. Nếu không điều này được định tuyến đến một chuyên gia FastTrack hay cho đối tác giới thiệu.        |
+|**Bảo vệ thông tin của Microsoft Azure**    |  Sẵn sàng cho P2, như một phần của EMS E5, hoặc như là một kế hoạch độc lập. Nếu không điều này được định tuyến đến một chuyên gia FastTrack hay cho đối tác giới thiệu.        |
 |**Microsoft dành**    |   Hội đủ điều kiện nếu mua như là một kế hoạch độc lập hoặc như một phần của E3 hoặc E5.      |
 |**Đám mây đính kèm**     |    Hội đủ điều kiện nếu mua như là một kế hoạch độc lập hoặc như một phần của E3 hoặc E5.     |
 |**Microsoft dành cho giáo dục**     |  Hội đủ điều kiện nếu mua như là một kế hoạch độc lập hoặc như một phần của A3 hoặc A5.       |

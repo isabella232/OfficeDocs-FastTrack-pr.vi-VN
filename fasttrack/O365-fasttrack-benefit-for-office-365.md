@@ -3,7 +3,7 @@ title: Lợi ích của Trung tâm FastTrack dành cho Office 365
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 04/02/2019
+ms.date: 05/02/2019
 ms.audience: ITPro
 ms.topic: overview
 f1_keywords:
@@ -12,12 +12,12 @@ ms.service: o365-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: Bạn sử dụng các lợi ích Trung tâm FastTrack cho Office 365 khi bạn mua giấy phép tối thiểu 150 cho một dịch vụ đủ điều kiện hoặc kế hoạch cho bạn thuê nhà Office 365. Bạn sau đó làm việc với FastTrack chuyên gia đánh giá, remediate, sử, và lái xe cách sử dụng các dịch vụ đó. Các chuyên gia cũng cung cấp hướng dẫn di chuyển.
-ms.openlocfilehash: 04a8aab19ad2a2c35b9dd187a17932b2cd6d772a
-ms.sourcegitcommit: 8d1fbbfc6b05522ea1259149349548f072fefcac
+ms.openlocfilehash: afc8980037d92042f98a89ab55c1642078fea49c
+ms.sourcegitcommit: ccdd833af651980ea6ac655bf32b4262474b35d4
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 04/01/2019
-ms.locfileid: "31016822"
+ms.lasthandoff: 05/01/2019
+ms.locfileid: "33513397"
 ---
 # <a name="fasttrack-center-benefit-for-office-365"></a>Lợi ích của Trung tâm FastTrack dành cho Office 365
 
@@ -39,7 +39,3 @@ Bạn đang tìm kiếm [FastTrack Trung tâm lợi ích cho doanh nghiệp vậ
     
 > [!NOTE]
 > Cho mục đích thông tin chỉ. 
-  
-  
-
- 

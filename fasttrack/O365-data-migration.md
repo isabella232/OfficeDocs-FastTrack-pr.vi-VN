@@ -3,19 +3,19 @@ title: Di chuyển dữ liệu
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 04/02/2019
+ms.date: 05/02/2019
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: FastTrack chuyên cung cấp hướng dẫn về các bước để di chuyển dữ liệu sang Office 365. Điều này là có sẵn cho tất cả các khách hàng đủ điều kiện với các dịch vụ Office 365 Beta dành cho Exchange Online, OneDrive cho doanh nghiệp, và SharePoint Online.
-ms.openlocfilehash: 15efb99c47bbd1047b56c9dd5d5cf288013d99d3
-ms.sourcegitcommit: 8d1fbbfc6b05522ea1259149349548f072fefcac
+ms.openlocfilehash: f000cd86aa49b335202dbd6d94a28c4888a6a8cf
+ms.sourcegitcommit: ccdd833af651980ea6ac655bf32b4262474b35d4
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 04/01/2019
-ms.locfileid: "31017086"
+ms.lasthandoff: 05/01/2019
+ms.locfileid: "33513757"
 ---
 # <a name="data-migration"></a>Di chuyển dữ liệu
 
@@ -23,7 +23,7 @@ FastTrack chuyên cung cấp hướng dẫn về các bước để di chuyển 
   
 Dịch vụ di chuyển dữ liệu được nêu trong bảng sau đây có sẵn cho Office 365 người thuê nhà với 500 hoặc nhiều giấy phép. \* Ví dụ, bạn có thể có dữ liệu trong của bạn môi trường nguồn mà bạn muốn di chuyển đến Office 365. Lợi ích Trung tâm FastTrack bao gồm cung cấp hướng dẫn với hội nhập môi trường mã nguồn để tạo điều kiện di chuyển nội dung.
   
-\*Nếu bạn mua hoặc gia hạn một kế hoạch thương mại trước khi 9/1/2017, 150 chỗ ngồi là yêu cầu tối thiểu phủ trong suốt thời gian đăng ký hiện tại của bạn để nhận được các lợi ích di chuyển. Đối với kế hoạch giáo dục, chỉ giảng viên và nhân viên có đủ điều kiện cho các dịch vụ di chuyển. 
+\*Nếu bạn mua hoặc gia hạn một kế hoạch thương mại trước khi 9/1/2017, 150 chỗ ngồi là yêu cầu tối thiểu phủ trong suốt thời gian đăng ký hiện tại của bạn để nhận được các lợi ích di chuyển. Đối với kế hoạch giáo dục, chỉ trả tiền giảng viên và nhân viên giấy phép là đủ điều kiện cho các dịch vụ di chuyển. 
   
 > [!NOTE]
 > Dữ liệu di chuyển qua FastTrack dịch vụ có thể được chuyển đến, lưu trữ và xử lý bất cứ nơi nào mà Microsoft duy trì nghi (ngoại trừ như nếu không cung cấp cho bạn tham gia FastTrack cụ thể). Dịch vụ FastTrack không được thiết kế hoặc thiết kế cho dữ liệu đặc biệt yêu cầu pháp lý hoặc theo quy định. 

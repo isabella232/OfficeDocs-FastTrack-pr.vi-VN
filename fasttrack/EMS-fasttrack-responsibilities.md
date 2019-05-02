@@ -5,19 +5,19 @@ keywords: ''
 author: andredm7
 ms.author: andredm
 manager: ''
-ms.date: 04/02/2019
+ms.date: 05/02/2019
 ms.topic: article
 ms.prod: ''
 ms.service: microsoft-intune
 ms.assetid: c8fd871e-f1bc-43ec-a5f3-ad025df9b026
 ms.reviewer: ''
 ms.suite: ems
-ms.openlocfilehash: ca5de05adc154a6adb0119fd71de46280cb4cb23
-ms.sourcegitcommit: 8d1fbbfc6b05522ea1259149349548f072fefcac
+ms.openlocfilehash: 9b766eea35cb1c22906bf68733c1b19471858fb9
+ms.sourcegitcommit: ccdd833af651980ea6ac655bf32b4262474b35d4
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 04/01/2019
-ms.locfileid: "31016918"
+ms.lasthandoff: 05/01/2019
+ms.locfileid: "33513841"
 ---
 # <a name="fasttrack-responsibilities"></a>Trách nhiệm FastTrack
 
@@ -280,6 +280,22 @@ Cung cấp hướng dẫn về:
 - Chuyển đổi khối lượng công việc để dành.
 
 - Giám sát các hoạt động hợp tác quản lý môi trường của bạn.
+
+### <a name="enable-phase--azure-information-protection"></a>Sử giai đoạn-bảo vệ thông tin Azure
+
+Cung cấp hỗ trợ cho: 
+
+- Khách hàng sẽ tự động phân loại và ghi nhãn thông tin trong các ứng dụng văn phòng (như Word, PowerPoint, Excel và Outlook) chạy trên Windows và sử dụng các khách hàng bảo vệ thông tin Azure. 
+- Tập tin ở phần còn lại sử dụng máy quét Azure bảo vệ thông tin.
+- Email trong quá cảnh bằng cách sử dụng quy tắc dòng chảy thư Exchange Online. 
+
+Hỗ trợ cũng được cung cấp cho khách hàng những người muốn áp dụng bảo vệ bằng cách sử dụng dịch vụ quản lý quyền Microsoft Azure (Azure RMS), Office 365 thư mã hóa (OME) và ngăn ngừa mất dữ liệu (DLP). 
+
+Khách hàng được cung cấp hướng dẫn về làm thế nào để: 
+
+- Kích hoạt và đặt cấu hình người thuê nhà của họ.
+- Tạo và thiết lập các chính sách và nhãn.
+- Áp dụng bảo vệ thông tin tài liệu. 
 
 > [!NOTE]
 > **Muốn tìm hiểu thêm?** xem [doanh nghiệp di động + bảo mật](https://www.microsoft.com/cloud-platform/enterprise-mobility).

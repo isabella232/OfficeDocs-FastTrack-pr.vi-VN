@@ -5,23 +5,23 @@ keywords: ''
 author: andredm7
 ms.author: andredm
 manager: ''
-ms.date: 04/02/2019
+ms.date: 05/02/2019
 ms.topic: article
 ms.prod: ''
 ms.service: microsoft-intune
 ms.assetid: 9048f3e5-cc28-4744-bb5e-36f974abb261
 ms.reviewer: ''
 ms.suite: ems
-ms.openlocfilehash: 0d0fa0415bc27013d7e035b75a5e5d9d9f9919c3
-ms.sourcegitcommit: 8d1fbbfc6b05522ea1259149349548f072fefcac
+ms.openlocfilehash: a512e97f48df7fc3040478f4e35fe0c357ef7ce3
+ms.sourcegitcommit: ccdd833af651980ea6ac655bf32b4262474b35d4
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 04/01/2019
-ms.locfileid: "31016774"
+ms.lasthandoff: 05/01/2019
+ms.locfileid: "33513157"
 ---
 # <a name="source-environment-expectations"></a>Kỳ vọng về môi trường nguồn
 
-Khi bạn sử dụng [FastTrack Trung tâm lợi ích cho doanh nghiệp vận động + bảo mật (EMS)](EMS-fasttrack-benefit-for-EMS.md) để có được Microsoft Azure Active Directory Premium và Microsoft Intune đã sẵn sàng để sử dụng, môi trường của bạn cần để đáp ứng sự mong đợi được mô tả trong các phần sau.
+Khi bạn sử dụng [FastTrack Trung tâm lợi ích cho doanh nghiệp vận động + bảo mật (EMS)](EMS-fasttrack-benefit-for-EMS.md) để sẵn sàng cho việc sử dụng Microsoft Azure Active Directory Premium, Microsoft Intune và bảo vệ thông tin Azure, môi trường của bạn cần để đáp ứng sự mong đợi được mô tả trong các phần sau.
 
 Bạn có thể đã có thư mục đang hoạt động tại chỗ trong tổ chức của bạn mà bạn muốn để tích hợp với các doanh nghiệp di động + bảo mật (EMS) hoặc bất kỳ các dịch vụ cá nhân sử dụng phong phú identity quản lý từ một bàn điều khiển duy nhất. FastTrack Trung tâm lợi ích cho doanh nghiệp vận động + bảo mật (EMS) bao gồm việc giúp bạn tích hợp Azure Active Directory môi trường Active Directory tại chỗ hiện có của bạn.
 
@@ -36,6 +36,8 @@ Bảng dưới đây cho thấy những kỳ vọng cho môi trường mã ngu�
 |Dành tích hợp với Windows Defender nâng cao mối đe dọa bảo vệ (Windows Defender ATP)|Đăng ký Windows Defender ATP của bạn đã được kích hoạt và đặt cấu hình dựa trên yêu cầu an ninh công ty của bạn.<br /><br />**Lưu ý**: The FastTrack dịch vụ lợi ích cung cấp hỗ trợ về lồng ghép dành với Windows Defender ATP, và tạo ra thiết bị tuân thủ chính sách dựa trên của nó đánh giá mức độ rủi ro Windows 10. Lợi ích Dịch vụ FastTrack không hỗ trợ trên mua, cấp phép, kích hoạt hoặc bằng cách sử dụng Windows Defender ATP và giao diện điều khiển trung tâm bảo mật của nó. |
 |Windows Autopilot|Quản trị viên CNTT có trách nhiệm đăng ký thiết bị của họ để tổ chức của họ bằng cách hoặc là nhà cung cấp phần cứng tải lên của phần cứng ID trên danh nghĩa của họ hoặc bằng cách tải lên nó bản thân mình vào dịch vụ Windows Autopilot. |
 |Triển khai Outlook cho iOS và Android một cách an toàn với dành|<br /><br />-Nhận dạng người dùng được kích hoạt trong Azure quảng cáo cho Office 365.<br />-Trao đổi trực tuyến hoặc đổi ngoại lai, cấu hình với giấy phép người dùng được gán.<br />|
+|Bảo vệ thông tin Azure (P2 hoặc EMS E5)|<br /><br />Khách hàng nên đã: <br /> -Sử dụng quảng cáo Azure.<br />-Sử dụng Windows hoặc iOS (khác OSs là ra khỏi phạm vi).<br /> -Sử dụng các khách hàng Office mới hơn Office 2010 SP2 không dựa vào văn phòng trực tuyến như là khách hàng chính. <br /> -Có tập tin chính chia sẻ vị trí.  <br /> -Đã nâng cấp từ dịch vụ quản lý quyền Active Directory (AD RMS). <br /> -Có một phân loại phân loại được chấp thuận. <br /> -Hiểu bất kỳ giới hạn quy định để quản lý chủ chốt bảo vệ của họ. <br />|
+|Azure bảo vệ thông tin máy quét|<br /><br /> Khách hàng nên đã: <br /> -Sử dụng Windows Server 2012 R2 hoặc Windows Server năm 2016.<br /> -Có kết nối internet. <br /> -Có Microsoft SQL Server 2012 trở về trước trong một trường hợp địa phương hoặc từ xa.  <br /> -Có tài khoản Dịch vụ tạo ra cho Active Directory tại chỗ của họ và đồng bộ hoá với Azure quảng cáo.  <br /> -Đã tải về AzInfoProtection.exe. <br /> -Có nhãn được cấu hình để tự động phân loại/bảo vệ.<br />|
 
 > [!NOTE]
 > **Muốn tìm hiểu thêm?** 

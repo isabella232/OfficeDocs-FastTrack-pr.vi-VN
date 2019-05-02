@@ -3,19 +3,19 @@ title: Giai đoạn triển khai và di chuyển
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 04/02/2019
+ms.date: 05/02/2019
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: Office 365 onboarding có bốn giai đoạn chính — bắt đầu, Assess, Remediate, và cho phép. Bạn có thể làm theo các giai đoạn với một giai đoạn di chuyển dữ liệu tùy chọn.
-ms.openlocfilehash: 69f381f7ed84ad601d7c7b273abffcb306c5b56a
-ms.sourcegitcommit: 8d1fbbfc6b05522ea1259149349548f072fefcac
+ms.openlocfilehash: 3fcd64283c419fdfee775b31983d17eec63783b8
+ms.sourcegitcommit: ccdd833af651980ea6ac655bf32b4262474b35d4
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 04/01/2019
-ms.locfileid: "31017050"
+ms.lasthandoff: 05/01/2019
+ms.locfileid: "33513913"
 ---
 # <a name="onboarding-and-migration-phases"></a>Giai đoạn triển khai và di chuyển
 
@@ -197,7 +197,8 @@ Cho Yammer, chúng tôi cung cấp hướng dẫn cho phép Dịch vụ Yammer d
 - Cài đặt Office 365 ProPlus từ cổng Office 365 bằng cách sử dụng chuột để chạy.   
 - Cài đặt ứng dụng Office Mobile (như Outlook Mobile, từ điện thoại di động, điện thoại di động Excel và PowerPoint di động) trên iOS, Android hoặc Windows Mobile thiết bị.   
 - Cấu hình cài đặt bản Cập Nhật bằng cách sử dụng công cụ triển khai Office 365.   
-- Thiết lập một máy chủ duy nhất phân phối ngay trong khuôn viên cho Office 365 ProPlus, bao gồm hỗ trợ với việc tạo ra một tập tin configuration.xml để sử dụng với công cụ triển khai Office 365.  
+- Lựa chọn và thiết lập một địa phương hoặc cài đặt cloud. 
+- Tạo ra các cấu hình công cụ triển khai Office XML với công cụ Tuỳ chỉnh Office hoặc nguồn gốc XML để cấu hình gói triển khai.  
 - Triển khai bằng cách sử dụng Microsoft hệ thống Trung tâm cấu hình quản lý, bao gồm hỗ trợ với việc tạo ra các hệ thống quản lý cấu hình Trung tâm bao bì.
     
 ![Office ProPlus onboarding bước](media/O365-Onboarding-Enable-OProPlus.png)

@@ -5,29 +5,29 @@ keywords: ''
 author: andredm7
 ms.author: andredm
 manager: angrobe
-ms.date: 04/02/2019
+ms.date: 05/02/2019
 ms.topic: article
 ms.prod: ''
 ms.service: microsoft-intune
 ms.assetid: e60e3714-5120-41e2-9878-83ac75107967
 ms.reviewer: ''
 ms.suite: ems
-ms.openlocfilehash: c1750da451d0d6714ef8363d943614f80ae685e3
-ms.sourcegitcommit: 8d1fbbfc6b05522ea1259149349548f072fefcac
+ms.openlocfilehash: 42d6c23dd4da1ed8071092ccf4cc045c5128d856
+ms.sourcegitcommit: ccdd833af651980ea6ac655bf32b4262474b35d4
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 04/01/2019
-ms.locfileid: "31016906"
+ms.lasthandoff: 05/01/2019
+ms.locfileid: "33513181"
 ---
 # <a name="fasttrack-center-benefit-overview"></a>Tổng quan về Lợi ích của Trung tâm FastTrack
 
-Với FastTrack Trung tâm lợi ích cho Microsoft Azure Active Directory Premium và Microsoft Intune, bạn làm việc từ xa với FastTrack chuyên gia để có được môi trường của bạn đã sẵn sàng để sử dụng và lên kế hoạch triển khai và sử dụng trong tổ chức của bạn. Để tìm hiểu thêm về điều kiện, hãy xem [FastTrack Trung tâm lợi ích quá trình vận động doanh nghiệp + bảo mật (EMS)](EMS-fasttrack-process.md).
+Với FastTrack Trung tâm lợi ích cho Microsoft Azure Active Directory Premium, Microsoft Intune và bảo vệ thông tin Azure, bạn làm việc từ xa với FastTrack chuyên gia để có được môi trường của bạn đã sẵn sàng để sử dụng và lên kế hoạch triển khai và sử dụng trong vòng của bạn tổ chức. Để tìm hiểu thêm về điều kiện, hãy xem [FastTrack Trung tâm lợi ích quá trình vận động doanh nghiệp + bảo mật (EMS)](EMS-fasttrack-process.md).
 
 Onboarding có hai thành phần chính:
 
 -   **Core onboarding** - nhiệm vụ cần thiết cho người thuê nhà cấu hình và tích hợp với Azure Active Directory, nếu cần thiết. Lõi onboarding cũng cung cấp đường cơ sở cho onboarding các dịch vụ Microsoft Online khác đủ điều kiện.
 
--   **Dịch vụ onboarding** - nhiệm vụ cần thiết để đặt cấu hình bất kỳ của các phiên bản độc lập của khối lượng công việc EMS (Azure quảng cáo phí bảo hiểm và dành).
+-   **Dịch vụ onboarding** - nhiệm vụ cần thiết để đặt cấu hình bất kỳ của các phiên bản độc lập của khối lượng công việc EMS (Azure quảng cáo phí bảo hiểm, dành và bảo vệ thông tin Azure).
 
 Biểu đồ sau đây mô tả các giai đoạn cao cấp onboarding cho các lợi ích Trung tâm FastTrack.
 
