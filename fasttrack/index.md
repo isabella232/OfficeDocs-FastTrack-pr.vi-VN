@@ -4,11 +4,11 @@ hide_bc: true
 title: Microsoft FastTrack tài liệu và tài nguyên
 description: Tìm hiểu làm thế nào Microsoft FastTrack có thể giúp khách hàng triển khai các giải pháp đám mây của Microsoft. Khách hàng có đủ điều kiện đăng ký Microsoft 365, Azure hoặc Dynamics 365 có thể sử dụng FastTrack không mất thêm chi phí cho cuộc sống của thuê bao của họ.
 ms.openlocfilehash: ae5a62824b074863bf2649fd8aa5e2c88d33c932
-ms.sourcegitcommit: 0a8250d759e010cff6958016267f29acb0b7e17c
+ms.sourcegitcommit: ccdd833af651980ea6ac655bf32b4262474b35d4
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "27406013"
+ms.lasthandoff: 05/01/2019
+ms.locfileid: "33513349"
 ---
 <div id="main" class="v2">
     <div class="container">
