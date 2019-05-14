@@ -12,12 +12,12 @@ ms.service: microsoft-intune
 ms.assetid: 0590b7b2-0965-437b-b3ca-bd55de1abb09
 ms.reviewer: ''
 ms.suite: ems
-ms.openlocfilehash: 0fc6dc613c152f1050437535397f33cd1e8fa069
-ms.sourcegitcommit: ccdd833af651980ea6ac655bf32b4262474b35d4
+ms.openlocfilehash: 58ecd03448901c62acf4b131ce83748216fdf5f7
+ms.sourcegitcommit: 28dafb1d0904d29c4e113b03d3c1b0fcd2257508
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 05/01/2019
-ms.locfileid: "33513385"
+ms.lasthandoff: 05/13/2019
+ms.locfileid: "33967979"
 ---
 # <a name="your-responsibilities"></a>Trách nhiệm của bạn
 
@@ -47,7 +47,7 @@ Bạn có trách nhiệm sau đây trong onboarding.
 
 -   Quản lý cấu hình mạng, phân tích, kiểm tra băng thông, kiểm tra và giám sát.
 
--   Quản lý quá trình phê duyệt quản lý kỹ thuật thay đổi và tạo ra các tài liệu hỗ trợ.
+-   Quản lý quá trình phê duyệt quản lý kỹ thuật thay đổi và tạo ra các tài liệu dựa trên hướng dẫn.
 
 -   Sửa đổi hướng dẫn hoạt động mô hình và hoạt động của bạn.
 

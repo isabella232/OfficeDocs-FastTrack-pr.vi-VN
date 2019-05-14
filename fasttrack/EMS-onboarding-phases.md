@@ -12,12 +12,12 @@ ms.service: microsoft-intune
 ms.assetid: e51f030b-8b08-4fea-96c9-d4ded435a264
 ms.reviewer: ''
 ms.suite: ems
-ms.openlocfilehash: eb7f106437f51283b36185bd8e19ab8821ba0f4f
-ms.sourcegitcommit: ccdd833af651980ea6ac655bf32b4262474b35d4
+ms.openlocfilehash: ed490839cda702174d356b2735469a54636fa591
+ms.sourcegitcommit: 28dafb1d0904d29c4e113b03d3c1b0fcd2257508
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 05/01/2019
-ms.locfileid: "33513565"
+ms.lasthandoff: 05/13/2019
+ms.locfileid: "33967991"
 ---
 # <a name="onboarding-phases"></a>Giai đoạn Onboarding
 
@@ -272,7 +272,7 @@ FastTrack cũng cung cấp cho bạn hướng dẫn trên làm thế nào để 
 
 #### <a name="enable-phase--azure-information-protection"></a>Sử giai đoạn-bảo vệ thông tin Azure
 
-Bảo vệ thông tin xanh cung cấp hỗ trợ cho: 
+Bảo vệ thông tin xanh cung cấp hướng dẫn: 
 
 - Khách hàng sẽ tự động phân loại và ghi nhãn thông tin trong các ứng dụng văn phòng (như Word, PowerPoint, Excel và Outlook) chạy trên Windows và sử dụng các khách hàng bảo vệ thông tin Azure. 
 - Tập tin ở phần còn lại sử dụng máy quét Azure bảo vệ thông tin.

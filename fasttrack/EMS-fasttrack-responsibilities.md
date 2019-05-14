@@ -12,12 +12,12 @@ ms.service: microsoft-intune
 ms.assetid: c8fd871e-f1bc-43ec-a5f3-ad025df9b026
 ms.reviewer: ''
 ms.suite: ems
-ms.openlocfilehash: 9b766eea35cb1c22906bf68733c1b19471858fb9
-ms.sourcegitcommit: ccdd833af651980ea6ac655bf32b4262474b35d4
+ms.openlocfilehash: 4c8dd188e0e29613b9221c087f0a8e35ed744179
+ms.sourcegitcommit: 28dafb1d0904d29c4e113b03d3c1b0fcd2257508
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 05/01/2019
-ms.locfileid: "33513841"
+ms.lasthandoff: 05/13/2019
+ms.locfileid: "33967967"
 ---
 # <a name="fasttrack-responsibilities"></a>Trách nhiệm FastTrack
 
@@ -283,7 +283,7 @@ Cung cấp hướng dẫn về:
 
 ### <a name="enable-phase--azure-information-protection"></a>Sử giai đoạn-bảo vệ thông tin Azure
 
-Cung cấp hỗ trợ cho: 
+Cung cấp hướng dẫn trên: 
 
 - Khách hàng sẽ tự động phân loại và ghi nhãn thông tin trong các ứng dụng văn phòng (như Word, PowerPoint, Excel và Outlook) chạy trên Windows và sử dụng các khách hàng bảo vệ thông tin Azure. 
 - Tập tin ở phần còn lại sử dụng máy quét Azure bảo vệ thông tin.
