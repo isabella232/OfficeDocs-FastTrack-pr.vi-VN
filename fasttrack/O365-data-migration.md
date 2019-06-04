@@ -3,19 +3,19 @@ title: Di chuyển dữ liệu
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 05/02/2019
+ms.date: 06/04/2019
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: FastTrack chuyên cung cấp hướng dẫn về các bước để di chuyển dữ liệu sang Office 365. Điều này là có sẵn cho tất cả các khách hàng đủ điều kiện với các dịch vụ Office 365 Beta dành cho Exchange Online, OneDrive cho doanh nghiệp, và SharePoint Online.
-ms.openlocfilehash: f000cd86aa49b335202dbd6d94a28c4888a6a8cf
-ms.sourcegitcommit: ccdd833af651980ea6ac655bf32b4262474b35d4
+ms.openlocfilehash: 370c7c29d8409715191617dbeb3e80e7fe30659a
+ms.sourcegitcommit: 0e76ab0f36619dee923201098936573be14b4560
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 05/01/2019
-ms.locfileid: "33513757"
+ms.lasthandoff: 06/03/2019
+ms.locfileid: "34673481"
 ---
 # <a name="data-migration"></a>Di chuyển dữ liệu
 
@@ -276,7 +276,7 @@ Nhà nước dự kiến sẽ kết thúc sau khi tất cả di chuyển đượ
 |||||
 |:-----|:-----|:-----|:-----|
 |**Môi trường nguồn**|**Loại di chuyển**|**Những gì sẽ di chuyển**|**Những gì sẽ không di chuyển**|
-|**Môi trường G mật duy nhất (Google Drive chỉ)**  <br/> |Pass duy nhất  <br/> | Google Docs, Sheets và Slides (tập tin được chuyển đổi sang các định dạng văn phòng tương đương)  <br/>  Google bản vẽ (các tập tin được chuyển đổi sang định dạng SVG hoặc PNG)  <br/>  Cấu trúc tập tin và thư mục  <br/>  Người dùng thư mục cấp quyền  <br/>  Nhóm thư mục cấp quyền  <br/>  Tập tin nhỏ hơn 15 GB  <br/>  Cơ bản tài liệu và cặp siêu dữ liệu:  <br/>  Tạo ngày  <br/>  Sửa đổi ngày  <br/>  Tạo bởi  <br/>  Lần cuối bởi  <br/>  Chia sẻ nội dung thuộc sở hữu của tài khoản Google Drive được di chuyển (nếu chia sẻ một cách rõ ràng với người dùng hoặc nhóm)  <br/> | Lịch sử quyền sở hữu, phiên bản trước, và ý kiến  <br/>  Mô tả tập tin và thư mục, thư mục màu sắc  <br/>  Chuyển đổi các URL nhúng trong nội dung  <br/>  Người dùng tệp cấp phép  <br/>  Nhóm tệp cấp phép  <br/> Mục vào thùng rác  <br/>  Tài liệu không truy nhập được hoặc bị hỏng  <br/>  Người dùng bị chặn hoặc không hoạt động  <br/>  Chia sẻ nội dung bên ngoài tổ chức của bạn  <br/>  Hình ảnh Google. Hình thức, bản đồ, và các ứng dụng khác được kết nối  <br/>  Các tập tin hoặc thư mục quá hiện tại [SharePoint Online hạn chế và giới hạn](https://go.microsoft.com/fwlink/?linkid=846724) <br/> |
+|**Môi trường G mật duy nhất (Google Drive chỉ)**  <br/> |Đơn hoặc hai vượt qua  <br/> | Google Docs, Sheets và Slides (tập tin được chuyển đổi sang các định dạng văn phòng tương đương)  <br/>  Cấu trúc tập tin và thư mục  <br/>  Người dùng thư mục cấp quyền  <br/>  Nhóm thư mục cấp quyền  <br/>  Tập tin nhỏ hơn 15 GB  <br/>  Cơ bản tài liệu và cặp siêu dữ liệu:  <br/>  Tạo ngày  <br/>  Sửa đổi ngày  <br/>  Tạo bởi  <br/>  Lần cuối bởi  <br/>  Chia sẻ nội dung thuộc sở hữu của tài khoản Google Drive được di chuyển (nếu chia sẻ một cách rõ ràng với người dùng hoặc nhóm)  <br/> | Lịch sử quyền sở hữu, phiên bản trước, và ý kiến  <br/>  Mô tả tập tin và thư mục, thư mục màu sắc  <br/>  Chuyển đổi các URL nhúng trong nội dung  <br/>  Người dùng tệp cấp phép  <br/>  Nhóm tệp cấp phép  <br/> Mục vào thùng rác  <br/>  Tài liệu không truy nhập được hoặc bị hỏng  <br/>  Người dùng bị chặn hoặc không hoạt động  <br/>  Chia sẻ nội dung bên ngoài tổ chức của bạn  <br/>  Hình ảnh Google. Hình thức, bản đồ, và các ứng dụng khác được kết nối  <br/>  Google bản vẽ  <br/>  Các tập tin hoặc thư mục quá hiện tại [SharePoint Online hạn chế và giới hạn](https://go.microsoft.com/fwlink/?linkid=846724) <br/> |
 |**Bất kỳ thiết bị chia sẻ tập tin hỗ trợ SMB 2.0 trở đi**  <br/> |Pass duy nhất  <br/> | Tài liệu  <br/>  Cấu trúc tập tin và thư mục  <br/>  Quyền người dùng cấp tập tin và thư mục\*  <br/>  Quyền nhóm cấp tập tin và thư mục\*  <br/>  Tập tin nhỏ hơn 15 GB  <br/>  Cơ bản tài liệu và cặp siêu dữ liệu:  <br/>  Tạo ngày  <br/>  Sửa đổi ngày  <br/>  Tạo bởi  <br/>  Lần cuối bởi  <br/> <br/>\**Cấu hình đồng bộ hóa thư mục yêu cầu. Chỉ NTFS cho phép tiếp xúc với cửa sổ File Explorer được di chuyển. Quyền quản lý trực tiếp trên các thiết bị chia sẻ tệp không di chuyển. Nếu dữ liệu được lưu trữ trên thiết bị SMB 2.0, tương đương NTFS permissions tiếp xúc bằng giao thức SMB được di chuyển.* <br/> | Lịch sử quyền sở hữu và các phiên bản trước đó  <br/>  Chuyển đổi các URL nhúng trong nội dung  <br/>  Phiên bản trước  <br/>  Thuộc tính tập tin và thư mục Windows (như chỉ-đọc và ẩn)  <br/>  Cửa sổ phòng không mới công nghệ tập tin hệ thống (NTFS) và NTFS nâng cao quyền và đặc biệt cài đặt:  <br/>  Rõ ràng từ chối quyền (gỡ bỏ sau khi di chuyển, nội dung đối tượng song song quyền hoặc cấp phép trên cặp cha mẹ)  <br/>  NTFS kiểm định cấu hình  <br/>  Siêu dữ liệu tập tin bổ sung được cung cấp bởi FCI  <br/>  Tài liệu không truy nhập được hoặc bị hỏng  <br/>  Ẩn chia sẻ  <br/>  Chia sẻ (như quyền được cấp ở cấp độ chia sẻ)  <br/>  Các tập tin hoặc thư mục quá hiện tại [SharePoint Online hạn chế và giới hạn](https://go.microsoft.com/fwlink/?linkid=846724) <br/> |
 |**Hộp (Starter, kinh doanh, doanh nghiệp)**  <br/> |Đơn hoặc đa qua  <br/> | Tài liệu  <br/>  Cấu trúc tập tin và thư mục  <br/>  Người dùng thư mục cấp quyền  <br/>  Nhóm thư mục cấp quyền  <br/>  Tập tin nhỏ hơn 15 GB  <br/>  Cơ bản tài liệu và cặp siêu dữ liệu:  <br/>  Tạo ngày  <br/>  Sửa đổi ngày  <br/>  Tạo bởi  <br/>  Lần cuối bởi  <br/>  Chia sẻ nội dung thuộc sở hữu của tài khoản hộp được di chuyển (nếu chia sẻ một cách rõ ràng với người dùng hoặc nhóm)\*  <br/><br/> \**Sử dụng hộp báo cáo để xác định các tài khoản bên ngoài. Hướng dẫn người dùng cuối để reshare nội dung của họ sau khi di chuyển.* <br/> | Lịch sử quyền sở hữu, phiên bản trước, và ý kiến  <br/>  Mô tả tập tin và thư mục  <br/>  Người dùng tệp cấp phép  <br/>  Nhóm tệp cấp phép  <br/>  Hộp thẻ và siêu dữ liệu nâng cao  <br/>  Thuộc tính tệp khóa  <br/>  Chuyển đổi các URL nhúng trong nội dung  <br/>  Mục vào thùng rác  <br/>  Tài liệu không truy nhập được hoặc bị hỏng  <br/>  Người dùng bị chặn hoặc không hoạt động  <br/>  Hộp ghi chú (không có chức năng khi họ di chuyển mà không cần chuyển đổi)  <br/>  Ứng dụng hộp, Bookmarks, Favorites, và quy trình công việc  <br/>  Nội dung không thuộc sở hữu của tài khoản đã di chuyển hộp (cặp chia sẻ)  <br/>  Quyền hạn và cơ bản các siêu dữ liệu của người dùng bên ngoài\*  <br/>  Các tập tin hoặc thư mục quá hiện tại [SharePoint Online hạn chế và giới hạn](https://go.microsoft.com/fwlink/?linkid=846724) <br/> |
    

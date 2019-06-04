@@ -5,19 +5,21 @@ keywords: ''
 author: andredm7
 ms.author: andredm
 manager: ''
-ms.date: 05/02/2019
+ms.date: 06/04/2019
 ms.topic: article
 ms.prod: ''
 ms.service: microsoft-intune
+localization_priority: Priority
+ms.collection: FastTrack
 ms.assetid: c8fd871e-f1bc-43ec-a5f3-ad025df9b026
 ms.reviewer: ''
 ms.suite: ems
-ms.openlocfilehash: 4c8dd188e0e29613b9221c087f0a8e35ed744179
-ms.sourcegitcommit: 28dafb1d0904d29c4e113b03d3c1b0fcd2257508
+ms.openlocfilehash: b4444aae990b064cf6b22921d897e0bd948f6ed1
+ms.sourcegitcommit: 0e76ab0f36619dee923201098936573be14b4560
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 05/13/2019
-ms.locfileid: "33967967"
+ms.lasthandoff: 06/03/2019
+ms.locfileid: "34673464"
 ---
 # <a name="fasttrack-responsibilities"></a>Trách nhiệm FastTrack
 
@@ -132,7 +134,7 @@ Cung cấp hướng dẫn về:
 
 - Thử nghiệm tính năng SSO (nếu triển khai).
 
-### <a name="enable-phase---azure-ad-premium--with-azure-ad-connect-and-ad-fs"></a>Sử giai đoạn - Azure quảng cáo phí bảo hiểm--Azure quảng cáo kết nối và AD FS
+### <a name="enable-phase---azure-ad-premium---with-azure-ad-connect-and-ad-fs"></a>Sử giai đoạn - Azure quảng cáo Premium - Azure quảng cáo kết nối và AD FS
 
 Cung cấp hướng dẫn về thiết lập:
 
@@ -171,7 +173,7 @@ Cung cấp hướng dẫn về thiết lập:
 > [!IMPORTANT]
 > FastTrack không hỗ trợ quản lý Windows 10 PC cổ điển với dành. FastTrack chỉ hỗ trợ Windows 10 quản lý thông qua quản lý thiết bị di động dành (MDM).
 
-Cung cấp **hướng dẫn** trên:
+Cung cấp hướng dẫn trên:
 
 -   Cấu hình các danh tính được sử dụng bởi dành, hoặc tận dụng chỗ Active Directory hay đám mây danh tính của bạn (Azure Active Directory).
 
@@ -245,7 +247,7 @@ Cung cấp **hướng dẫn** trên:
 
 ### <a name="enable-phase---co-management"></a>Sử giai đoạn - đồng quản lý
 
-Cung cấp hướng dẫn về:
+Cung cấp hướng dẫn trên:
 
 -   Cấp giấy phép người dùng cuối cùng của bạn.
 
@@ -285,17 +287,19 @@ Cung cấp hướng dẫn về:
 
 Cung cấp hướng dẫn trên: 
 
-- Khách hàng sẽ tự động phân loại và ghi nhãn thông tin trong các ứng dụng văn phòng (như Word, PowerPoint, Excel và Outlook) chạy trên Windows và sử dụng các khách hàng bảo vệ thông tin Azure. 
-- Tập tin ở phần còn lại sử dụng máy quét Azure bảo vệ thông tin.
-- Email trong quá cảnh bằng cách sử dụng quy tắc dòng chảy thư Exchange Online. 
+- Cách kích hoạt và đặt cấu hình người thuê nhà khách hàng.
 
-Hỗ trợ cũng được cung cấp cho khách hàng những người muốn áp dụng bảo vệ bằng cách sử dụng dịch vụ quản lý quyền Microsoft Azure (Azure RMS), Office 365 thư mã hóa (OME) và ngăn ngừa mất dữ liệu (DLP). 
-
-Khách hàng được cung cấp hướng dẫn về làm thế nào để: 
-
-- Kích hoạt và đặt cấu hình người thuê nhà của họ.
 - Tạo và thiết lập các chính sách và nhãn.
+
 - Áp dụng bảo vệ thông tin tài liệu. 
+
+- Tự động phân loại và ghi nhãn thông tin trong các ứng dụng văn phòng (như Word, PowerPoint, Excel và Outlook) chạy trên Windows và sử dụng các khách hàng bảo vệ thông tin Azure.
+
+- Bằng cách sử dụng các tập tin ở phần còn lại với máy quét Azure bảo vệ thông tin.
+
+- Giám sát email trong quá cảnh bằng cách sử dụng quy tắc dòng chảy thư Exchange Online.
+
+Hướng dẫn cũng được cung cấp cho khách hàng những người muốn áp dụng bảo vệ bằng cách sử dụng dịch vụ quản lý quyền Microsoft Azure (Azure RMS), Office 365 thư mã hóa (OME) và ngăn ngừa mất dữ liệu (DLP).
 
 > [!NOTE]
 > **Muốn tìm hiểu thêm?** xem [doanh nghiệp di động + bảo mật](https://www.microsoft.com/cloud-platform/enterprise-mobility).

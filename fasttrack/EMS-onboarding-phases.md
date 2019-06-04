@@ -5,19 +5,21 @@ keywords: ''
 author: andredm7
 ms.author: andredm
 manager: ''
-ms.date: 05/02/2019
+ms.date: 06/04/2019
 ms.topic: article
 ms.prod: ''
 ms.service: microsoft-intune
+localization_priority: Priority
+ms.collection: FastTrack
 ms.assetid: e51f030b-8b08-4fea-96c9-d4ded435a264
 ms.reviewer: ''
 ms.suite: ems
-ms.openlocfilehash: ed490839cda702174d356b2735469a54636fa591
-ms.sourcegitcommit: 28dafb1d0904d29c4e113b03d3c1b0fcd2257508
+ms.openlocfilehash: 3725a730a5191bfbe38958403b88ace00ed5bd02
+ms.sourcegitcommit: 0e76ab0f36619dee923201098936573be14b4560
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 05/13/2019
-ms.locfileid: "33967991"
+ms.lasthandoff: 06/03/2019
+ms.locfileid: "34673577"
 ---
 # <a name="onboarding-phases"></a>Giai đoạn Onboarding
 
@@ -272,20 +274,16 @@ FastTrack cũng cung cấp cho bạn hướng dẫn trên làm thế nào để 
 
 #### <a name="enable-phase--azure-information-protection"></a>Sử giai đoạn-bảo vệ thông tin Azure
 
-Bảo vệ thông tin xanh cung cấp hướng dẫn: 
-
-- Khách hàng sẽ tự động phân loại và ghi nhãn thông tin trong các ứng dụng văn phòng (như Word, PowerPoint, Excel và Outlook) chạy trên Windows và sử dụng các khách hàng bảo vệ thông tin Azure. 
-- Tập tin ở phần còn lại sử dụng máy quét Azure bảo vệ thông tin.
-- Email trong quá cảnh bằng cách sử dụng quy tắc dòng chảy thư Exchange Online. 
-
-Hỗ trợ cũng được cung cấp cho khách hàng những người muốn áp dụng bảo vệ bằng cách sử dụng dịch vụ quản lý quyền Microsoft Azure (Azure RMS), Office 365 thư mã hóa (OME) và ngăn ngừa mất dữ liệu (DLP). 
-
 Khách hàng được cung cấp hướng dẫn về làm thế nào để: 
 
 - Kích hoạt và đặt cấu hình người thuê nhà của họ.
 - Tạo và thiết lập các chính sách và nhãn.
 - Áp dụng bảo vệ thông tin tài liệu. 
+- Tự động phân loại và ghi nhãn thông tin trong các ứng dụng văn phòng (như Word, PowerPoint, Excel và Outlook) chạy trên Windows và sử dụng các khách hàng bảo vệ thông tin Azure.
+- Sử dụng các tập tin còn lại sử dụng máy quét Azure bảo vệ thông tin.
+- Theo dõi email trong quá cảnh bằng cách sử dụng quy tắc dòng chảy thư Exchange Online.
 
+Hướng dẫn cũng được cung cấp cho khách hàng những người muốn áp dụng bảo vệ bằng cách sử dụng dịch vụ quản lý quyền Microsoft Azure (Azure RMS), Office 365 thư mã hóa (OME) và ngăn ngừa mất dữ liệu (DLP).
 
 > [!NOTE]
 > **Muốn tìm hiểu thêm?** xem [doanh nghiệp di động + bảo mật](https://www.microsoft.com/en-us/cloud-platform/enterprise-mobility).

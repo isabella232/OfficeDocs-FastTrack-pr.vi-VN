@@ -3,19 +3,19 @@ title: Dịch vụ và gói đủ điều kiện
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 05/02/2019
+ms.date: 06/04/2019
 ms.audience: ITPro
 ms.topic: overview
 ms.service: m365-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: Khi bạn mua bất kỳ dịch vụ Microsoft 365, FastTrack chuyên cung cấp hướng dẫn cho bạn để onboard để Microsoft 365 và bắt đầu làm việc sử dụng của họ.
-ms.openlocfilehash: 4ac47eb14dac40cd348bfe009f017b60d32c1dba
-ms.sourcegitcommit: ccdd833af651980ea6ac655bf32b4262474b35d4
+ms.openlocfilehash: 58ab0f1cccc88720cc8c323d8a083c9a9ff1f67e
+ms.sourcegitcommit: 0e76ab0f36619dee923201098936573be14b4560
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 05/01/2019
-ms.locfileid: "33513097"
+ms.lasthandoff: 06/03/2019
+ms.locfileid: "34673613"
 ---
 # <a name="eligible-services-and-plans"></a>Dịch vụ và gói đủ điều kiện
 
@@ -63,6 +63,7 @@ FastTrack Trung tâm cung cấp hỗ trợ cho các dịch vụ sau:
 - Microsoft StaffHub
 - Windows 10
 - Azure Active Directory Premium
+- Bảo vệ thông tin Azure
 - Microsoft dành
     
 ## <a name="eligible-microsoft-365-plans"></a>Kế hoạch hội đủ điều kiện Microsoft 365
@@ -160,7 +161,7 @@ FastTrack Trung tâm cung cấp hỗ trợ cho các dịch vụ sau:
 |---------|---------|
 |**Vận động doanh nghiệp + bảo mật (EMS) tại E3 hoặc E5**       |   Có sẵn cho các dịch vụ đám mây có đủ điều kiện cho lợi ích FastTrack. Nếu không điều này được định tuyến đến một chuyên gia FastTrack hay cho đối tác giới thiệu.        |
 |**Microsoft Azure Active Directory Premium**     |  Hội đủ điều kiện nếu mua như là một kế hoạch độc lập hoặc như một phần của E3 hoặc E5.       |
-|**Bảo vệ thông tin của Microsoft Azure**    |  Sẵn sàng cho P2, như một phần của EMS E5, hoặc như là một kế hoạch độc lập. Nếu không điều này được định tuyến đến một chuyên gia FastTrack hay cho đối tác giới thiệu.        |
+|**Bảo vệ thông tin của Microsoft Azure**    |  Sẵn sàng cho P2, như một phần của E5, hoặc như là một kế hoạch độc lập. Có sẵn cho các dịch vụ đám mây có đủ điều kiện cho lợi ích FastTrack. Đối với dịch vụ đám mây P1, FastTrack chia sẻ hướng dẫn tự triển khai.       |
 |**Microsoft dành**    |   Hội đủ điều kiện nếu mua như là một kế hoạch độc lập hoặc như một phần của E3 hoặc E5.      |
 |**Đám mây đính kèm**     |    Hội đủ điều kiện nếu mua như là một kế hoạch độc lập hoặc như một phần của E3 hoặc E5.     |
 |**Microsoft dành cho giáo dục**     |  Hội đủ điều kiện nếu mua như là một kế hoạch độc lập hoặc như một phần của A3 hoặc A5.       |
