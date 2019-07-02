@@ -5,7 +5,7 @@ keywords: ''
 author: andredm7
 ms.author: andredm
 manager: ''
-ms.date: 06/04/2019
+ms.date: 07/02/2019
 ms.topic: article
 ms.prod: ''
 ms.service: microsoft-intune
@@ -14,16 +14,16 @@ ms.collection: FastTrack
 ms.assetid: fd951f10-6404-43a3-8f2f-464f5b5003ac
 ms.reviewer: ''
 ms.suite: ems
-ms.openlocfilehash: b8d84c1f3ff0d64b0056800c2e80b59585aaa7fc
-ms.sourcegitcommit: 0e76ab0f36619dee923201098936573be14b4560
+ms.openlocfilehash: a02f80244677999aa9c5fd80b924b69619c089f6
+ms.sourcegitcommit: ed0bbc37b887f2ea408575b1a667550b2797cc0a
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 06/03/2019
-ms.locfileid: "34673289"
+ms.lasthandoff: 07/01/2019
+ms.locfileid: "35410893"
 ---
 # <a name="fasttrack-center-benefit-for-enterprise-mobility--security-ems"></a>Lợi ích của Trung tâm FastTrack dành cho Enterprise Mobility + Security (EMS)
 
-Bạn sử dụng các doanh nghiệp di động + bảo mật (EMS) FastTrack Trung tâm lợi ích khi bạn mua giấy phép tối thiểu 150 cho EMS hoặc bất kỳ dịch vụ mây cá nhân của mình trong một kế hoạch hội đủ điều kiện. Bạn sau đó làm việc với FastTrack chuyên gia đánh giá, remediate, sử, và lái xe cách sử dụng các dịch vụ đó. Các chuyên gia cũng cung cấp hướng dẫn di chuyển.
+Bạn sử dụng các doanh nghiệp di động + bảo mật (EMS) FastTrack Trung tâm lợi ích khi bạn mua giấy phép tối thiểu 150 cho EMS hoặc bất kỳ dịch vụ mây cá nhân của mình trong một kế hoạch hội đủ điều kiện. Bạn sau đó làm việc với FastTrack chuyên gia đánh giá, remediate, sử, và lái xe cách sử dụng các dịch vụ đó. Các chuyên gia cũng cung cấp hướng dẫn di chuyển. 
 
 > [!IMPORTANT]
 > Cho các mục đích của tài liệu này, FastTrack chuyên gia có thể bao gồm nhân viên Microsoft, Microsoft đã phê duyệt nhà cung cấp, và các đối tác Microsoft chấp thuận.
