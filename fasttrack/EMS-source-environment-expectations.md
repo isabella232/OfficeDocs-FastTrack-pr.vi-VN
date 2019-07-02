@@ -5,7 +5,7 @@ keywords: ''
 author: andredm7
 ms.author: andredm
 manager: ''
-ms.date: 06/04/2019
+ms.date: 07/02/2019
 ms.topic: article
 ms.prod: ''
 ms.service: microsoft-intune
@@ -14,12 +14,12 @@ ms.collection: FastTrack
 ms.assetid: 9048f3e5-cc28-4744-bb5e-36f974abb261
 ms.reviewer: ''
 ms.suite: ems
-ms.openlocfilehash: c3cbc52811bfdbb6780fefce58e8a58f7ad78c14
-ms.sourcegitcommit: 0e76ab0f36619dee923201098936573be14b4560
+ms.openlocfilehash: 2b4a24dad8319abd723ce32d1cefa6eb3b440cfa
+ms.sourcegitcommit: ed0bbc37b887f2ea408575b1a667550b2797cc0a
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 06/03/2019
-ms.locfileid: "34673572"
+ms.lasthandoff: 07/01/2019
+ms.locfileid: "35410821"
 ---
 # <a name="source-environment-expectations"></a>Kỳ vọng về môi trường nguồn
 
@@ -38,7 +38,7 @@ Bảng dưới đây cho thấy những kỳ vọng cho môi trường mã ngu�
 |Dành tích hợp với Windows Defender nâng cao mối đe dọa bảo vệ (Windows Defender ATP)|Đăng ký Windows Defender ATP của bạn đã được kích hoạt và đặt cấu hình dựa trên yêu cầu an ninh công ty của bạn.<br /><br />**Lưu ý**: The FastTrack dịch vụ lợi ích cung cấp hỗ trợ về lồng ghép dành với Windows Defender ATP, và tạo ra thiết bị tuân thủ chính sách dựa trên của nó đánh giá mức độ rủi ro Windows 10. Lợi ích Dịch vụ FastTrack không hỗ trợ trên mua, cấp phép, kích hoạt hoặc bằng cách sử dụng Windows Defender ATP và giao diện điều khiển trung tâm bảo mật của nó. |
 |Windows Autopilot|Quản trị viên CNTT có trách nhiệm đăng ký thiết bị của họ để tổ chức của họ bằng cách hoặc là nhà cung cấp phần cứng tải lên của phần cứng ID trên danh nghĩa của họ hoặc bằng cách tải lên nó bản thân mình vào dịch vụ Windows Autopilot. |
 |Triển khai Outlook cho iOS và Android một cách an toàn với dành|<br /><br />-Nhận dạng người dùng được kích hoạt trong Azure quảng cáo cho Office 365.<br />-Trao đổi trực tuyến hoặc đổi ngoại lai, cấu hình với giấy phép người dùng được gán.<br />|
-|Bảo vệ thông tin Azure (P2 hoặc EMS E5)|<br /><br />Khách hàng nên đã: <br /> -Sử dụng quảng cáo Azure.<br />-Sử dụng Windows hoặc iOS (khác OSs là ra khỏi phạm vi).<br /> -Sử dụng các khách hàng Office mới hơn Office 2010 SP2 không dựa vào văn phòng trực tuyến như là khách hàng chính. <br /> -Có tập tin chính chia sẻ vị trí.  <br /> -Đã nâng cấp từ dịch vụ quản lý quyền Active Directory (AD RMS). <br /> -Có một phân loại phân loại được chấp thuận. <br /> -Hiểu bất kỳ giới hạn quy định để quản lý chủ chốt bảo vệ của họ. <br />|
+|Bảo vệ thông tin Azure (P2 hoặc EMS E5)|<br /><br />Khách hàng nên đã: <br /> -Sử dụng quảng cáo Azure.<br />-Sử dụng Windows hoặc iOS (khác OSs là ra khỏi phạm vi).<br /> -Sử dụng các khách hàng Office mới hơn Office 2010 SP2 không dựa vào các văn phòng là chính khách hàng. <br /> -Có tập tin chính chia sẻ vị trí.  <br /> -Đã nâng cấp từ dịch vụ quản lý quyền Active Directory (AD RMS). <br /> -Có một phân loại phân loại được chấp thuận. <br /> -Hiểu bất kỳ giới hạn quy định để quản lý chủ chốt bảo vệ của họ. <br />|
 |Azure bảo vệ thông tin máy quét|<br /><br /> Khách hàng nên đã: <br /> -Sử dụng Windows Server 2012 R2 hoặc Windows Server năm 2016.<br /> -Có kết nối internet. <br /> -Có Microsoft SQL Server 2012 trở về trước trong một trường hợp địa phương hoặc từ xa.  <br /> -Có tài khoản Dịch vụ tạo ra cho Active Directory tại chỗ của họ và đồng bộ hoá với Azure quảng cáo.  <br /> -Đã tải về AzInfoProtection.exe. <br /> -Có nhãn được cấu hình để tự động phân loại/bảo vệ.<br />|
 
 > [!NOTE]

@@ -19,6 +19,6 @@
 #### [Các giai đoạn triển khai](EMS-onboarding-phases.md)
 #### [Trách nhiệm của FastTrack](EMS-fasttrack-responsibilities.md)
 #### [Trách nhiệm của bạn](EMS-your-responsibilities.md)
-## [Lợi ích của Trung tâm FastTrack dành cho Windows 10](Win-10-fasttrack-benefit-for-Windows-10.md)
+## [Lợi ích của Trung tâm FastTrack dành cho Windows 10](Win-10-fasttrack-benefit-for-windows-10.md)
 ### [Đảm bảo Ứng dụng Máy tính ](Win-10-desktop-app-assure.md)
 #### [Nội dung hỗ trợ được cung cấp](Win-10-daa-assistance-offered.md)
