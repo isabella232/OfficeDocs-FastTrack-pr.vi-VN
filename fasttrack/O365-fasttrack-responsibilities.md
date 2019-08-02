@@ -3,19 +3,19 @@ title: Trách nhiệm FastTrack
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 06/04/2019
+ms.date: 08/02/2019
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: FastTrack chuyên gia có trách nhiệm sau đây trong onboarding.
-ms.openlocfilehash: 93d88be1b3279b19d1136f96968bb9f2c39713ea
-ms.sourcegitcommit: 0e76ab0f36619dee923201098936573be14b4560
+ms.openlocfilehash: c1121c804b547401c18050be6013f62c5bbc8fe1
+ms.sourcegitcommit: 911b0d32a26eb068a2a94ebc48d9f8f2fc70e5a9
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 06/03/2019
-ms.locfileid: "34673601"
+ms.lasthandoff: 08/01/2019
+ms.locfileid: "36053961"
 ---
 # <a name="fasttrack-responsibilities"></a>Trách nhiệm FastTrack
 
@@ -221,8 +221,9 @@ Cung cấp hướng dẫn về:
 - Gán giấy phép người dùng cuối bằng cách sử dụng [Trung tâm quản trị Microsoft 365](https://go.microsoft.com/fwlink/?linkid=2032704) và Windows PowerShell.
 - Cài đặt Office 365 ProPlus từ cổng Office 365 bằng cách sử dụng chuột để chạy.
 - Cài đặt ứng dụng Office Mobile (như Outlook cho iOS và Android, từ điện thoại di động, điện thoại di động Excel và PowerPoint di động) trên iOS, Android hoặc Windows Mobile thiết bị. 
-- Cấu hình cài đặt bản Cập Nhật bằng cách sử dụng các mẫu công cụ triển khai Office 2016 hoặc chính sách nhóm.
-- Thiết lập một máy chủ duy nhất phân phối ngay trong khuôn viên cho Office 365 ProPlus, bao gồm hỗ trợ với việc tạo ra một tập tin configuration.xml để sử dụng với công cụ triển khai Office 365.
+- Cấu hình cài đặt bản Cập Nhật bằng cách sử dụng công cụ triển khai Office 365.
+- Cách chọn và thiết lập một địa phương hoặc đám mây cài đặt.
+- Tạo cấu hình công cụ triển khai Office XML với công cụ Tuỳ chỉnh Office hoặc nguồn gốc XML để cấu hình gói triển khai.
 - Triển khai bằng cách sử dụng hệ thống Trung tâm quản lý cấu hình, bao gồm hỗ trợ với việc tạo ra các hệ thống quản lý cấu hình Trung tâm bao bì.
     
 ## <a name="microsoft-staffhub"></a>Microsoft StaffHub

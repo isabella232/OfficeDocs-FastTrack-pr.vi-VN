@@ -3,19 +3,19 @@ title: FastTrack trách nhiệm cho Office 365 chính phủ Hoa Kỳ
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 06/04/2019
+ms.date: 08/02/2019
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: None
 ms.collection: FastTrack
 description: FastTrack chuyên gia có trách nhiệm sau đây trong onboarding.
-ms.openlocfilehash: c646583e121bbf453da571253968461425f6d5ec
-ms.sourcegitcommit: 0e76ab0f36619dee923201098936573be14b4560
+ms.openlocfilehash: 9078f50a93d2ece8d137578fe8339e6ecffad63b
+ms.sourcegitcommit: 911b0d32a26eb068a2a94ebc48d9f8f2fc70e5a9
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 06/03/2019
-ms.locfileid: "34673674"
+ms.lasthandoff: 08/01/2019
+ms.locfileid: "36054057"
 ---
 # <a name="fasttrack-responsibilities-for-office-365-us-government"></a>FastTrack trách nhiệm cho Office 365 chính phủ Hoa Kỳ
 
@@ -159,9 +159,6 @@ Cung cấp hướng dẫn về:
   - Tổ chức các thiết lập cho các liên kết với cuộc họp phát sóng dịch vụ.
     
 ## <a name="microsoft-teams"></a>Microsoft đội
-
-> [!NOTE]
-> Sau đây là không có sẵn trong kế hoạch GCC cao hay DoD.
 
 Cung cấp hướng dẫn về:
 - Xác nhận yêu cầu tối thiểu.   

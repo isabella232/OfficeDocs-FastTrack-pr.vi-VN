@@ -5,7 +5,7 @@ keywords: ''
 author: andredm7
 ms.author: andredm
 manager: ''
-ms.date: 07/02/2019
+ms.date: 08/02/2019
 ms.topic: article
 ms.prod: ''
 ms.service: microsoft-intune
@@ -14,12 +14,12 @@ ms.collection: FastTrack
 ms.assetid: dd221c87-6bf7-4af8-845a-dc4c3a4f2334
 ms.reviewer: ''
 ms.suite: ems
-ms.openlocfilehash: 5e4b7adf0dccbe66798a623f2c918f2ab0ebc8a0
-ms.sourcegitcommit: ed0bbc37b887f2ea408575b1a667550b2797cc0a
+ms.openlocfilehash: 2064c202d7bd06debad012d20ed16dac4d3c6aae
+ms.sourcegitcommit: 911b0d32a26eb068a2a94ebc48d9f8f2fc70e5a9
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 07/01/2019
-ms.locfileid: "35410701"
+ms.lasthandoff: 08/01/2019
+ms.locfileid: "36053768"
 ---
 # <a name="fasttrack-center-benefit-process-for-enterprise-mobility--security-ems"></a>Quy trình Lợi ích của Trung tâm FastTrack dành cho Enterprise Mobility + Security (EMS)
 Nếu tổ chức của bạn đủ điều kiện cho lợi ích Trung tâm FastTrack cho EMS, bạn có thể làm việc từ xa với FastTrack chuyên gia để có được Microsoft Azure Active Directory Premium, Microsoft Intune và bảo vệ thông tin Azure đã sẵn sàng để sử dụng. Bạn cũng có thể yêu cầu trợ giúp thông qua các [trang web FastTrack](https://www.microsoft.com/fasttrack/microsoft-365/ems) bảo vệ thông tin Azure, Microsoft Cloud ứng dụng an ninh và Microsoft nâng cao mối đe dọa phân tích. Để tìm hiểu xem tổ chức của bạn có đủ điều kiện, hãy xem [dịch vụ đủ điều kiện và kế hoạch](M365-eligible-services-and-plans.md).

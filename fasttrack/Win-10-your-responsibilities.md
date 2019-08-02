@@ -3,21 +3,19 @@ title: Trách nhiệm của bạn
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 07/02/2019
+ms.date: 08/02/2019
 ms.audience: ITPro
 ms.topic: overview
-f1_keywords:
-- windows-10-microsoft-365-onboarding-benefit-process-assistance
 ms.service: windows-10-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: Bạn có trách nhiệm sau đây trong Windows 10 onboarding.
-ms.openlocfilehash: a591976dc4c7c36875a11c42c507dbd8e17ac3da
-ms.sourcegitcommit: ed0bbc37b887f2ea408575b1a667550b2797cc0a
+ms.openlocfilehash: a88daa095b859248e844bfba70f76027fd1638f4
+ms.sourcegitcommit: 911b0d32a26eb068a2a94ebc48d9f8f2fc70e5a9
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 07/01/2019
-ms.locfileid: "35415822"
+ms.lasthandoff: 08/01/2019
+ms.locfileid: "36054177"
 ---
 # <a name="your-responsibilities"></a>Trách nhiệm của bạn
 
