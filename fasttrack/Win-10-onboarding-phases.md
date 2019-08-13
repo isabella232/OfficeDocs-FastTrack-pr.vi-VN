@@ -3,19 +3,19 @@ title: Giai đoạn Onboarding
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 08/02/2019
+ms.date: 08/13/2019
 ms.audience: ITPro
 ms.topic: overview
 ms.service: windows-10-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: Windows 10 onboarding có bốn giai đoạn chính — bắt đầu, Assess, Remediate, và cho phép.
-ms.openlocfilehash: e0edad16976fadbe33cee95af5f90d5c02f6bf61
-ms.sourcegitcommit: 911b0d32a26eb068a2a94ebc48d9f8f2fc70e5a9
+ms.openlocfilehash: 0789cb80e25a085d2d631d6032b5c7663bd1b8c2
+ms.sourcegitcommit: d469f9b0dfa7f39fde051c38f255d6f5790f62f5
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 08/01/2019
-ms.locfileid: "36054105"
+ms.lasthandoff: 08/12/2019
+ms.locfileid: "36294368"
 ---
 # <a name="onboarding-phases"></a>Giai đoạn Onboarding
 
@@ -29,7 +29,7 @@ Trong giai đoạn này, chúng tôi thảo luận về quá trình onboarding, 
 
 FastTrack chuyên gia làm việc với bạn để đánh giá môi trường mã nguồn của bạn và các yêu cầu. Đảm bảo rằng hệ thống Trung tâm quản lý cấu hình được nâng cấp lên mức yêu cầu để hỗ trợ việc triển khai Windows 10. 
 
-Chúng tôi cung cấp các tùy chọn được đề nghị cho bạn để đánh giá ứng dụng Windows 10 của bạn.
+Chúng tôi cung cấp các tùy chọn được đề nghị cho bạn để đánh giá ứng dụng Windows 10 của bạn. FastTrack cung cấp các hướng dẫn để cho phép sử dụng máy tính để bàn phân tích và hướng dẫn bạn thông qua các sáng tạo của một kế hoạch triển khai máy tính để bàn phân tích.
 
 FastTrack cũng có thể hướng dẫn Office 365 ProPlus đánh giá khả năng tương thích của bạn bằng cách tận dụng Office 365 sẵn sàng bảng trong trình quản lý cấu hình hoặc với các bộ công cụ sẵn sàng chiến đấu độc lập cho văn phòng. Để biết thêm chi tiết về các dịch vụ có sẵn, xem [FastTrack Trung tâm lợi ích cho Office 365](O365-fasttrack-benefit-for-office-365.md). 
 

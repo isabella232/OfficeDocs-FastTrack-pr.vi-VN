@@ -3,19 +3,19 @@ title: Onboarding và di chuyển giai đoạn cho văn phòng chính phủ Hoa 
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 08/02/2019
+ms.date: 08/13/2019
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: None
 ms.collection: FastTrack
 description: Onboarding Office 365 Beta dành cho Office 365 Beta dành cho chúng tôi chính phủ có bốn giai đoạn chính — bắt đầu, Assess, Remediate, và cho phép. Bạn có thể làm theo các giai đoạn với một giai đoạn di chuyển dữ liệu tùy chọn như trong hình dưới đây.
-ms.openlocfilehash: 5e44bb896183b75079f9cb5126626ae0b37fc4a2
-ms.sourcegitcommit: 911b0d32a26eb068a2a94ebc48d9f8f2fc70e5a9
+ms.openlocfilehash: dc7a100bf956e7f29d68b4392f13c488c0fbdf8e
+ms.sourcegitcommit: d469f9b0dfa7f39fde051c38f255d6f5790f62f5
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 08/01/2019
-ms.locfileid: "36053721"
+ms.lasthandoff: 08/12/2019
+ms.locfileid: "36294356"
 ---
 # <a name="onboarding-and-migration-phases-for-office-365-us-government"></a>Onboarding và di chuyển giai đoạn cho văn phòng chính phủ Hoa Kỳ 365
 
@@ -38,8 +38,6 @@ Bạn có thể nhận được trợ giúp thông qua các [Trung tâm quản t
 2.  Chọn **FastTrack**.
 3.  Chọn **dịch vụ**.
 4.  Điền vào mẫu **yêu cầu để được hỗ trợ với Microsoft 365** . 
-    > [!NOTE]
-    >  Nếu bạn có một đối tác được liệt kê trong Office 365 thuê nhà của bạn, bạn sẽ không thấy tùy chọn này. Xin vui lòng tham khảo ý kiến đối tác của bạn để được trợ giúp. 
 
 Đối tác cũng có thể giúp đỡ thông qua [trang web FastTrack](https://go.microsoft.com/fwlink/?linkid=780698) thay mặt cho một khách hàng. Để làm như vậy:
 1.  Đăng nhập vào [trang web FastTrack](https://go.microsoft.com/fwlink/?linkid=780698). 

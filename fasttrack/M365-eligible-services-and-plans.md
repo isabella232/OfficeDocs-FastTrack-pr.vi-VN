@@ -3,19 +3,19 @@ title: Dịch vụ và gói đủ điều kiện
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 08/02/2019
+ms.date: 08/13/2019
 ms.audience: ITPro
 ms.topic: overview
 ms.service: m365-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: Khi bạn mua bất kỳ dịch vụ Microsoft 365, FastTrack chuyên cung cấp hướng dẫn cho bạn để onboard để Microsoft 365 và bắt đầu làm việc sử dụng của họ.
-ms.openlocfilehash: ee7b762486b069313569485b313c95eb9d32028e
-ms.sourcegitcommit: 911b0d32a26eb068a2a94ebc48d9f8f2fc70e5a9
+ms.openlocfilehash: 59d59f4ac419c5a40e557ce46fdd3c0e5f3199c4
+ms.sourcegitcommit: d469f9b0dfa7f39fde051c38f255d6f5790f62f5
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 08/01/2019
-ms.locfileid: "36053889"
+ms.lasthandoff: 08/12/2019
+ms.locfileid: "36294224"
 ---
 # <a name="eligible-services-and-plans"></a>Dịch vụ và gói đủ điều kiện
 
@@ -32,9 +32,7 @@ Bạn có thể nhận được trợ giúp thông qua các [Trung tâm quản t
 1.  Đăng nhập vào [trang web FastTrack](https://go.microsoft.com/fwlink/?linkid=780698). 
 2.  Chọn **dịch vụ**.
 3.  Điền vào mẫu **yêu cầu để được hỗ trợ với Microsoft 365** .
-    > [!NOTE]
-    >  Nếu bạn có một đối tác được liệt kê trong Office 365 thuê nhà của bạn, bạn sẽ không thấy tùy chọn này. Xin vui lòng tham khảo ý kiến đối tác của bạn để được trợ giúp. 
-
+  
 Đối tác cũng có thể giúp đỡ thông qua [trang web FastTrack](https://go.microsoft.com/fwlink/?linkid=780698) thay mặt cho một khách hàng. Để làm như vậy:
 1.  Đăng nhập vào [trang web FastTrack](https://go.microsoft.com/fwlink/?linkid=780698). 
 2.  Chọn **khách hàng của tôi**.
@@ -163,7 +161,7 @@ FastTrack Trung tâm cung cấp hỗ trợ cho các dịch vụ sau:
 |**Microsoft Azure Active Directory Premium**     |  Hội đủ điều kiện nếu mua như là một kế hoạch độc lập hoặc như một phần của E3 hoặc E5.       |
 |**Bảo vệ thông tin của Microsoft Azure**    |  Sẵn sàng cho P2, như một phần của E5, hoặc như là một kế hoạch độc lập. Có sẵn cho các dịch vụ đám mây có đủ điều kiện cho lợi ích FastTrack. Đối với dịch vụ đám mây P1, FastTrack chia sẻ hướng dẫn tự triển khai.       |
 |**Microsoft dành**    |   Hội đủ điều kiện nếu mua như là một kế hoạch độc lập hoặc như một phần của E3 hoặc E5.      |
-|**Đám mây đính kèm**     |    Hội đủ điều kiện nếu mua như là một kế hoạch độc lập hoặc như một phần của E3 hoặc E5.     |
+|**Đám mây đính kèm cấu hình quản lý với Microsoft dành**     |    Hội đủ điều kiện nếu mua như là một kế hoạch độc lập hoặc như một phần của E3 hoặc E5.     |
 |**Microsoft dành cho giáo dục**     |  Hội đủ điều kiện nếu mua như là một kế hoạch độc lập hoặc như một phần của A3 hoặc A5.       |
 |**Microsoft nâng cao bảo vệ mối đe dọa**     |    Hạn chế. Hội đủ điều kiện chỉ khi mua như là một kế hoạch độc lập. Để làm điều này, hãy vào [Microsoft 365 FastTrack cổng](https://go.microsoft.com/fwlink/p/?LinkId=2003903).   |
 |**Microsoft nâng cao mối đe dọa phân tích**   |        Hạn chế. Hội đủ điều kiện chỉ khi mua như là một kế hoạch độc lập. Để làm điều này, hãy vào [Microsoft 365 FastTrack cổng](https://go.microsoft.com/fwlink/p/?LinkId=2003903).    |

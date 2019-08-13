@@ -10,12 +10,12 @@ ms.service: o365-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: Office 365 onboarding có bốn giai đoạn chính — bắt đầu, Assess, Remediate, và cho phép. Bạn có thể làm theo các giai đoạn với một giai đoạn di chuyển dữ liệu tùy chọn.
-ms.openlocfilehash: 52c6c449d0805955308cfc685f9646095404ff5d
-ms.sourcegitcommit: 911b0d32a26eb068a2a94ebc48d9f8f2fc70e5a9
+ms.openlocfilehash: 433f118b00f5a521eb8a48fbf43e3cd64ddf4a14
+ms.sourcegitcommit: d469f9b0dfa7f39fde051c38f255d6f5790f62f5
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 08/01/2019
-ms.locfileid: "36054117"
+ms.lasthandoff: 08/12/2019
+ms.locfileid: "36294440"
 ---
 # <a name="onboarding-and-migration-phases"></a>Giai đoạn triển khai và di chuyển
 
@@ -40,8 +40,6 @@ Bạn có thể nhận được trợ giúp thông qua các [Trung tâm quản t
 1.  Đăng nhập vào [trang web FastTrack](https://go.microsoft.com/fwlink/?linkid=780698). 
 2.  Chọn **dịch vụ**.
 3.  Điền vào mẫu **yêu cầu để được hỗ trợ với Microsoft 365** . 
-> [!NOTE]
->  Nếu bạn có một đối tác được liệt kê trong Office 365 thuê nhà của bạn, bạn sẽ không thấy tùy chọn này. Xin vui lòng tham khảo ý kiến đối tác của bạn để được trợ giúp. 
   
 Đối tác cũng có thể giúp đỡ thông qua [trang web FastTrack](https://go.microsoft.com/fwlink/?linkid=780698) thay mặt cho một khách hàng. Để làm như vậy:
 1.  Đăng nhập vào [trang web FastTrack](https://go.microsoft.com/fwlink/?linkid=780698). 
