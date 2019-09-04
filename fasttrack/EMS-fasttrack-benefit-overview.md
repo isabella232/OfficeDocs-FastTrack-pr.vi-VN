@@ -1,11 +1,11 @@
 ---
-title: Tổng quan
-description: Tổng quan
+title: Tổng quan về
+description: Tổng quan về
 keywords: ''
 author: andredm7
 ms.author: andredm
 manager: angrobe
-ms.date: 08/02/2019
+ms.date: 09/04/2019
 ms.topic: article
 ms.prod: ''
 ms.service: microsoft-intune
@@ -14,46 +14,46 @@ ms.collection: FastTrack
 ms.assetid: e60e3714-5120-41e2-9878-83ac75107967
 ms.reviewer: ''
 ms.suite: ems
-ms.openlocfilehash: b714c341657987aedfa3be72b740c50c1167e03f
-ms.sourcegitcommit: 911b0d32a26eb068a2a94ebc48d9f8f2fc70e5a9
+ms.openlocfilehash: 3fed5737100fd04ac4c042f43904bec6e3dcd490
+ms.sourcegitcommit: df949b40ade215de00f74771ffadf0d3be0de797
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 08/01/2019
-ms.locfileid: "36053817"
+ms.lasthandoff: 09/03/2019
+ms.locfileid: "36711522"
 ---
 # <a name="fasttrack-center-benefit-overview"></a>Tổng quan về Lợi ích của Trung tâm FastTrack
 
-Với FastTrack Trung tâm lợi ích cho Microsoft Azure Active Directory Premium, Microsoft Intune và bảo vệ thông tin Azure, bạn làm việc từ xa với FastTrack chuyên gia để có được môi trường của bạn đã sẵn sàng để sử dụng và lên kế hoạch triển khai và sử dụng trong vòng của bạn tổ chức. Để tìm hiểu thêm về điều kiện, hãy xem [FastTrack Trung tâm lợi ích quá trình vận động doanh nghiệp + bảo mật (EMS)](EMS-fasttrack-process.md).
+Với FastTrack Trung tâm lợi ích cho Microsoft Azure Active Directory Premium, Microsoft InTune và bảo vệ thông tin Azure, bạn làm việc từ xa với FastTrack chuyên gia để có được môi trường của bạn sẵn sàng để sử dụng và kế hoạch triển khai và sử dụng trong Tổ chức. Để tìm hiểu thêm về tính đủ điều kiện, xem [quá trình FastTrack Trung tâm lợi ích cho doanh nghiệp di động + bảo mật (EMS)](EMS-fasttrack-process.md).
 
 Onboarding có hai thành phần chính:
 
--   **Core onboarding** - nhiệm vụ cần thiết cho người thuê nhà cấu hình và tích hợp với Azure Active Directory, nếu cần thiết. Lõi onboarding cũng cung cấp đường cơ sở cho onboarding các dịch vụ Microsoft Online khác đủ điều kiện.
+-   **Lõi bộ nhớ ngoài** -nhiệm vụ cần thiết cho người thuê cấu hình và tích hợp với Azure Active Directory, nếu cần thiết. Core bộ nhớ ngoài cũng cung cấp đường cơ sở cho bộ nhớ ngoài các dịch vụ hội đủ điều kiện trực tuyến khác của Microsoft.
 
--   **Dịch vụ onboarding** - nhiệm vụ cần thiết để đặt cấu hình bất kỳ của các phiên bản độc lập của khối lượng công việc EMS (Azure quảng cáo phí bảo hiểm, dành và bảo vệ thông tin Azure).
+-   **Dịch vụ bộ nhớ ngoài** -nhiệm vụ cần thiết để cấu hình bất kỳ các biến thể độc lập của khối lượng công việc EMS (Azure AD Premium, dành và bảo vệ thông tin Azure).
 
-Biểu đồ sau đây mô tả các giai đoạn cao cấp onboarding cho các lợi ích Trung tâm FastTrack.
+Sơ đồ sau đây mô tả các giai đoạn cao cấp bộ nhớ ngoài cho các FastTrack Trung tâm lợi ích.
 
-![Các giai đoạn cao cấp onboarding của việc sử dụng lợi ích Trung tâm FastTrack](./media/ft-onboarding-process.png)
+![Các giai đoạn bộ nhớ ngoài cao cấp của việc sử dụng các FastTrack Trung tâm lợi ích](./media/ft-onboarding-process.png)
 
-Dưới đây là cách hoạt động của quá trình này:
+Dưới đây là cách hoạt động của quy trình:
 
-- Trung tâm FastTrack cố gắng liên lạc với bạn để cung cấp hỗ trợ onboarding sau khi bạn mua giấy phép của một dịch vụ đủ điều kiện. Bạn cũng có thể yêu cầu hỗ trợ từ [Trung tâm FastTrack](https://go.microsoft.com/fwlink/?linkid=780698) nếu bạn đã sẵn sàng để triển khai các dịch vụ cho tổ chức của bạn. Để yêu cầu hỗ trợ, đăng nhập vào [Trung tâm FastTrack](https://go.microsoft.com/fwlink/?linkid=780698) với tài khoản nơi làm việc hoặc trường học của bạn, đi đến bảng điều khiển, mở rộng các **cần giúp đỡ?** liên kết ở góc dưới bên phải của trang, và sau đó làm theo các lời nhắc để hoàn tất yêu cầu của bạn. Sau khi onboarding bắt đầu, chúng tôi sẽ thiết lập một lịch trình các cuộc họp trực tuyến.
+- Trung tâm FastTrack cố gắng liên hệ với bạn để cung cấp hỗ trợ bộ nhớ ngoài sau khi bạn mua giấy phép của một dịch vụ đủ điều kiện. Bạn cũng có thể yêu cầu hỗ trợ từ [Trung tâm FastTrack](https://go.microsoft.com/fwlink/?linkid=780698) nếu bạn đã sẵn sàng triển khai các dịch vụ này cho tổ chức của mình. Để yêu cầu hỗ trợ, hãy đăng nhập vào [Trung tâm FastTrack](https://go.microsoft.com/fwlink/?linkid=780698) bằng tài khoản nơi làm việc hoặc trường học của bạn, đi tới bảng điều khiển, mở rộng **Trợ giúp cần thiết?** liên kết ở góc dưới bên phải của trang, sau đó làm theo lời nhắc để hoàn tất yêu cầu của bạn. Khi bắt đầu bộ nhớ ngoài, chúng tôi sẽ thiết lập một lịch trình của các cuộc họp trực tuyến.
 
--   Đội FastTrack giúp bạn lần đầu tiên với khả năng cốt lõi (phổ biến cho tất cả các dịch vụ trực tuyến Microsoft) và sau đó onboarding đủ điều kiện mỗi dịch vụ.
+-   Nhóm FastTrack giúp bạn đầu tiên với các khả năng cốt lõi (phổ biến cho tất cả các dịch vụ trực tuyến của Microsoft) và sau đó với bộ nhớ ngoài mỗi dịch vụ đủ điều kiện.
 
-Tất cả onboarding hướng dẫn được cung cấp từ xa nhân viên FastTrack được giao:
+Tất cả hướng dẫn bộ nhớ ngoài được cung cấp từ xa bằng cách gán FastTrack nhân sự:
 
--   Đội FastTrack từ xa sẽ hỗ trợ bạn với onboarding hoạt động khác nhau bằng cách sử dụng một sự kết hợp của các công cụ, tài liệu hướng dẫn và hướng dẫn.
+-   Nhóm FastTrack từ xa hỗ trợ bạn với nhiều hoạt động bộ nhớ ngoài bằng cách sử dụng một sự kết hợp của các công cụ, tài liệu, và hướng dẫn.
 
--   Onboarding hướng dẫn được cung cấp bởi Trung tâm FastTrack, và có sẵn trong giờ làm việc cho một khu vực nhất định.
+-   Hướng dẫn về onboarding được cung cấp bởi Trung tâm FastTrack và có sẵn trong giờ làm việc bình thường cho một khu vực nhất định.
 
--   Hỗ trợ Onboarding có sẵn trong truyền thống của Trung Quốc, tiếng Trung giản thể (tài nguyên nói tiếng quan thoại chỉ), tiếng Anh, Pháp, Đức, ý, Nhật, Hàn Quốc, tiếng Bồ Đào Nha (Brazil), tiếng Tây Ban Nha, Thái và Việt Nam.
+-   Hỗ trợ onboarding có sẵn trong truyền thống Trung Quốc, tiếng Trung giản thể (tài nguyên nói Mandarin chỉ), Anh, Pháp, Đức, ý, Nhật bản, Hàn Quốc, Bồ Đào Nha (Brazil), Tây Ban Nha, Thái Lan, và Việt Nam.
 
--   Đội FastTrack có thể làm việc trực tiếp với bạn hoặc đại diện của bạn.
+-   Nhóm FastTrack có thể làm việc trực tiếp với bạn hoặc đại diện của bạn.
 
 > [!NOTE]
 > **Muốn tìm hiểu thêm?** xem [doanh nghiệp di động + bảo mật](https://www.microsoft.com/cloud-platform/enterprise-mobility).
 
 ## <a name="next-steps"></a>Các bước tiếp theo
 
-[Trung tâm FastTrack lợi ích cho EMS - nguồn môi trường mong đợi](EMS-source-environment-expectations.md)
+[FastTrack Trung tâm lợi ích cho EMS-nguồn môi trường kỳ vọng](EMS-source-environment-expectations.md)

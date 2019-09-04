@@ -3,57 +3,57 @@ title: Nội dung hỗ trợ được cung cấp
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 08/02/2019
+ms.date: 09/04/2019
 ms.audience: ITPro
 ms.topic: overview
 ms.service: windows-10-administration
 localization_priority: Priority
 ms.collection: FastTrack
-description: Khi bạn mua bất kỳ dịch vụ Windows 10 hay Microsoft 365, FastTrack chuyên cung cấp tư vấn và khắc phục hướng dẫn triển khai để Windows 10 và Office 365 ProPlus và ở lại up-to-không có chi phí bổ sung (với một đăng ký đủ điều kiện).
-ms.openlocfilehash: 52ef57fc9bcda58652bf817552a881c0acdfe75e
-ms.sourcegitcommit: 911b0d32a26eb068a2a94ebc48d9f8f2fc70e5a9
+description: Khi bạn mua bất kỳ dịch vụ Windows 10 hoặc Microsoft 365, FastTrack chuyên gia cung cấp hướng dẫn tư vấn và khắc phục để triển khai Windows 10 và Office 365 ProPlus và ở lại up-to-date mà không mất thêm chi phí (với một thuê bao đủ điều kiện).
+ms.openlocfilehash: 4b91ca12c891634c455f0f1308edf31f04b1ceb4
+ms.sourcegitcommit: df949b40ade215de00f74771ffadf0d3be0de797
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 08/01/2019
-ms.locfileid: "36054153"
+ms.lasthandoff: 09/03/2019
+ms.locfileid: "36712254"
 ---
 # <a name="assistance-offered"></a>Nội dung hỗ trợ được cung cấp  
 
-Khi bạn mua bất kỳ dịch vụ Windows 10 hay Microsoft 365 (như chi tiết trong [dịch vụ đủ điều kiện và kế hoạch](M365-eligible-services-and-plans.md)), FastTrack chuyên cung cấp tư vấn và khắc phục hướng dẫn nếu bạn gặp vấn đề tương thích ứng dụng khi bạn triển khai để Windows 10 và Office 365 ProPlus và ở lại up-to-không có chi phí bổ sung (với một đăng ký đủ điều kiện).
+Khi bạn mua bất kỳ dịch vụ Windows 10 hoặc Microsoft 365 (như chi tiết trong [dịch vụ đủ điều kiện và kế hoạch](M365-eligible-services-and-plans.md)), FastTrack chuyên cung cấp tư vấn và khắc phục hướng dẫn nếu bạn gặp phải vấn đề tương thích ứng dụng khi bạn triển khai Windows 10 và Văn phòng 365 ProPlus và ở lại up-to-date mà không mất thêm chi phí (với một thuê bao đủ điều kiện).
 
-Để được giúp đỡ, hoàn thành [máy tính để bàn ứng dụng đảm bảo các yêu cầu dịch vụ](https://go.microsoft.com/fwlink/?linkid=2022721).
+Để nhận trợ giúp, hãy hoàn tất [yêu cầu dịch vụ máy tính để bàn đảm bảo ứng dụng](https://go.microsoft.com/fwlink/?linkid=2022721).
 
-Đối tác cũng có thể giúp đỡ thông qua [trang web FastTrack](https://go.microsoft.com/fwlink/?linkid=780698) thay mặt cho một khách hàng. Để làm như vậy, các đối tác ký vào các trang web, chọn hồ sơ khách hàng, nhấp **dịch vụ**và hoàn thành hình thức **yêu cầu để được hỗ trợ cho máy tính để bàn ứng dụng đảm bảo** .
+Đối tác cũng có thể nhận trợ giúp thông qua [trang web FastTrack](https://go.microsoft.com/fwlink/?linkid=780698) thay mặt cho khách hàng. Để làm như vậy, đối tác đăng nhập vào trang web, chọn bản ghi khách hàng, nhấp vào **dịch vụ**và hoàn tất **yêu cầu hỗ trợ cho biểu mẫu đảm bảo ứng dụng máy tính** .
 
 > [!NOTE]
-> Hỗ trợ được cung cấp trong truyền thống Trung Quốc và tiếng Trung giản thể (tài nguyên nói tiếng quan thoại chỉ), tiếng Anh, Pháp, Đức, ý, Nhật, Hàn Quốc, tiếng Bồ Đào Nha (Brazil), và tiếng Tây Ban Nha. 
+> Hỗ trợ được cung cấp trong tiếng Trung Phồn thể và tiếng Trung giản thể (tài nguyên nói Mandarin chỉ), Anh, Pháp, Đức, ý, Nhật, Hàn Quốc, Bồ Đào Nha (Brazil), và Tây Ban Nha. 
 
 ## <a name="assistance"></a>Hỗ trợ
 
-FastTrack cung cấp hỗ trợ cho những điều sau đây:
-- Cho phép các ứng dụng hoạt động trên Windows 7 cũng làm việc trên Windows 10.
-- Hỗ trợ cho:
-    - Khách hàng phát triển ứng dụng nhắm mục tiêu một phiên bản được hỗ trợ của Windows 10.
-    - Phần mềm độc lập của bên thứ ba nhà cung cấp (ISV) ứng dụng nhắm mục tiêu một phiên bản được hỗ trợ của Windows 10.
-    - Office 365 ProPlus nhắm mục tiêu một phiên bản được hỗ trợ của Windows 10, bao gồm cả macro và add-in.
-    - Sản phẩm của Microsoft và dịch vụ nhắm mục tiêu một phiên bản được hỗ trợ của Windows 10.
-    - Ứng dụng máy tính để bàn và web Windows 10.
+FastTrack cung cấp hỗ trợ cho những mục sau:
+- Cho phép các ứng dụng hoạt động trên Windows 7 cũng hoạt động trên Windows 10.
+- Hỗ trợ:
+    - Ứng dụng phát triển khách hàng nhắm mục tiêu phiên bản Windows 10 được hỗ trợ.
+    - Ứng dụng nhà cung cấp phần mềm độc lập (ISV) của bên thứ ba nhắm mục tiêu đến phiên bản Windows 10 được hỗ trợ.
+    - Office 365 ProPlus nhắm mục tiêu phiên bản Windows 10 được hỗ trợ, bao gồm macro và trình bổ sung.
+    - Các sản phẩm và dịch vụ của Microsoft nhắm mục tiêu phiên bản Windows 10 được hỗ trợ.
+    - Ứng dụng web và máy tính để bàn Windows 10.
 > [!NOTE]
 > FastTrack làm cho mọi nỗ lực hợp lý để giải quyết vấn đề tương thích. 
 
-## <a name="out-of-scope"></a>Ra khỏi phạm vi
+## <a name="out-of-scope"></a>Phạm vi
 
 FastTrack không cung cấp hỗ trợ cho:
-- Hàng tồn kho ứng dụng và thử nghiệm để xác định những gì không và không làm việc trên Windows 10 và Office 365 ProPlus. Để được hướng dẫn thêm về quá trình này, truy cập vào [Máy tính để bàn triển khai Trung tâm](https://go.microsoft.com/fwlink/?linkid=2080140). Nếu bạn đang quan tâm đến việc đánh giá chuyên sâu nâng cấp sẵn sàng chiến đấu, hoàn thành hình thức [Khách hàng yêu cầu đánh giá máy tính để bàn hiện đại](https://go.microsoft.com/fwlink/?linkid=2053818) .
-- Nghiên cứu ứng dụng bên thứ ba ISV cho báo cáo khả năng tương thích và hỗ trợ Windows 10. Để biết thêm chi tiết, hãy xem [Đã sẵn sàng cho Windows](https://go.microsoft.com/fwlink/?linkid=2054580).
-- Ứng dụng chỉ có đóng gói dịch vụ. Tuy nhiên, các máy tính để bàn ứng dụng đảm bảo đội gói ứng dụng mà chúng tôi có remediated cho Windows 10 để đảm bảo họ có thể được triển khai trong môi trường của khách hàng.
+- Kho ứng dụng và kiểm tra để xác định những gì hiện và không hoạt động trên Windows 10 và Office 365 ProPlus. Để biết thêm hướng dẫn về quá trình này, hãy truy cập vào [Trung tâm triển khai máy tính](https://go.microsoft.com/fwlink/?linkid=2080140). Nếu bạn quan tâm đến một đánh giá tính sẵn sàng nâng cấp trong chiều sâu, hãy điền đơn [yêu cầu khách hàng về biểu mẫu đánh giá bàn làm việc hiện đại](https://go.microsoft.com/fwlink/?linkid=2053818) .
+- Nghiên cứu các ứng dụng ISV bên thứ ba cho Windows 10 tương thích và hỗ trợ báo cáo. Để biết thêm thông tin, xem [sẵn sàng cho Windows](https://go.microsoft.com/fwlink/?linkid=2054580).
+- Dịch vụ chỉ bao bì ứng dụng. Tuy nhiên, nhóm ứng dụng để đảm bảo gói ứng dụng mà chúng tôi đã khắc phục cho Windows 10 để đảm bảo chúng có thể được triển khai trong môi trường của khách hàng.
 
 Trách nhiệm của khách hàng bao gồm:
-- Tạo ra một hàng tồn kho ứng dụng.
-- Phê chuẩn những ứng dụng trên Windows 10 và Office 365 ProPlus.
+- Tạo khoảng không quảng cáo ứng dụng.
+- Xác thực các ứng dụng trên Windows 10 và Office 365 ProPlus.
 > [!NOTE]
-> Microsoft không thể thay đổi vào mã nguồn của bạn. Tuy nhiên, nhóm nghiên cứu máy tính để bàn ứng dụng đảm bảo có thể cung cấp hướng dẫn cho nhà phát triển ứng dụng nếu mã nguồn có sẵn cho các ứng dụng của bạn.
+> Microsoft không thể thực hiện thay đổi mã nguồn của bạn. Tuy nhiên, nhóm ứng dụng dành cho máy tính để bàn đảm bảo có thể cung cấp hướng dẫn cho nhà phát triển ứng dụng nếu mã nguồn sẵn có cho ứng dụng của bạn.
 > [!NOTE]
-> FastTrack không remediate Phiên bản cũ của ứng dụng, add-in hoặc macro ISV nếu có phiên bản mới hơn được hỗ trợ trong Windows 10 và Office 365 ProPlus.
+> FastTrack không thể khắc phục các phiên bản cũ hơn của ứng dụng ISV, trình bổ sung hoặc macro nếu có các phiên bản mới hơn được hỗ trợ trong Windows 10 và Office 365 ProPlus.
 > [!NOTE]
-> Liên hệ với một [đối tác của Microsoft](https://go.microsoft.com/fwlink/?linkid=2080150) để trợ giúp với các dịch vụ được xác định là ra khỏi phạm vi.
+> Liên hệ với [đối tác của Microsoft](https://go.microsoft.com/fwlink/?linkid=2080150) để cung cấp hỗ trợ với các dịch vụ được xác định là phạm vi.

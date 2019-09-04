@@ -3,35 +3,35 @@ title: Kỳ vọng về môi trường nguồn
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 08/13/2019
+ms.date: 09/04/2019
 ms.audience: ITPro
 ms.topic: overview
 ms.service: windows-10-administration
 localization_priority: Priority
 ms.collection: FastTrack
-description: FastTrack Trung tâm lợi ích cung cấp các hướng dẫn để bạn có thể thiết lập mức độ tích hợp với môi trường mã nguồn của bạn cho việc triển khai Windows 10.
-ms.openlocfilehash: 2aaee180b8cc6a0b6b0f6d0608ebbcb02610d2da
-ms.sourcegitcommit: d469f9b0dfa7f39fde051c38f255d6f5790f62f5
+description: FastTrack Trung tâm lợi ích cung cấp hướng dẫn để bạn thiết lập mức độ tích hợp với môi trường nguồn của bạn để triển khai Windows 10.
+ms.openlocfilehash: 30e3ce25d36116629dcd3814c90d3402bcff895e
+ms.sourcegitcommit: df949b40ade215de00f74771ffadf0d3be0de797
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 08/12/2019
-ms.locfileid: "36294404"
+ms.lasthandoff: 09/03/2019
+ms.locfileid: "36712266"
 ---
 # <a name="source-environment-expectations"></a>Kỳ vọng về môi trường nguồn
 
-FastTrack Trung tâm lợi ích cung cấp các hướng dẫn để bạn có thể thiết lập mức độ tích hợp với môi trường mã nguồn của bạn.
+Lợi ích Trung tâm FastTrack cung cấp hướng dẫn cho bạn để thiết lập mức độ tích hợp với môi trường nguồn của bạn.
   
-Nâng cấp máy tính, bạn phải đáp ứng các yêu cầu này:
+Để nâng cấp PC, bạn phải đáp ứng các yêu cầu này:
 
-- Nguồn hệ điều hành: Windows 7 doanh nghiệp hoặc chuyên nghiệp, Windows 8.1 Professional hoặc Enterprise
-- Thiết bị: Máy tính để bàn, máy tính xách tay hoặc các yếu tố hình thức viên thuốc
-- Mục tiêu hệ điều hành: Window 10 doanh nghiệp
+- Nguồn hệ điều hành: Windows 7 Enterprise hoặc Professional, Windows 8,1 Enterprise hoặc Professional
+- Thiết bị: hệ số hình dạng máy tính để bàn, sổ tay hoặc máy tính bảng
+- Mục tiêu hệ điều hành: Window 10 Enterprise
 
-Nâng cấp cơ sở hạ tầng, bạn phải đáp ứng các yêu cầu này:   
+Để nâng cấp cơ sở hạ tầng, bạn phải đáp đối yêu cầu này:   
 
-- Hệ thống cấu hình quản lý trung tâm (chi nhánh hiện hành) tại một phiên bản được hỗ trợ cho mục tiêu Windows 10
+- Quản lý cấu hình Trung tâm hệ thống (chi nhánh hiện tại) phiên bản được hỗ trợ cho mục tiêu Windows 10
 
-Để biết thêm chi tiết, hãy xem bảng cấu hình quản lý hỗ trợ tại [hỗ trợ cho Windows 10 trong quản lý cấu hình](https://docs.microsoft.com/sccm/core/plan-design/configs/support-for-windows-10).
+Để biết thêm thông tin, hãy xem bảng hỗ trợ quản lý cấu hình tại [hỗ trợ cho Windows 10 trong trình quản lý cấu hình](https://docs.microsoft.com/sccm/core/plan-design/configs/support-for-windows-10).
   
 
  

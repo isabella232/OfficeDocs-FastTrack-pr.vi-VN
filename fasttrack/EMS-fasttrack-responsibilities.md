@@ -5,7 +5,7 @@ keywords: ''
 author: andredm7
 ms.author: andredm
 manager: ''
-ms.date: 08/02/2019
+ms.date: 09/04/2019
 ms.topic: article
 ms.prod: ''
 ms.service: microsoft-intune
@@ -14,296 +14,296 @@ ms.collection: FastTrack
 ms.assetid: c8fd871e-f1bc-43ec-a5f3-ad025df9b026
 ms.reviewer: ''
 ms.suite: ems
-ms.openlocfilehash: 404cce73114e57f09a6f2d93806c2f2305317458
-ms.sourcegitcommit: 911b0d32a26eb068a2a94ebc48d9f8f2fc70e5a9
+ms.openlocfilehash: 8b3470f34474d8cfd9377cd11d1911ea7825af88
+ms.sourcegitcommit: df949b40ade215de00f74771ffadf0d3be0de797
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 08/01/2019
-ms.locfileid: "36053781"
+ms.lasthandoff: 09/03/2019
+ms.locfileid: "36711486"
 ---
-# <a name="fasttrack-responsibilities"></a>Trách nhiệm FastTrack
+# <a name="fasttrack-responsibilities"></a>Trách nhiệm của FastTrack
 
-FastTrack có trách nhiệm sau đây trong onboarding.
+FastTrack có các trách nhiệm sau đây trong quá trình onboarding.
 
-## <a name="general"></a>Tổng quát
+## <a name="general"></a>Chung
 
--   Trợ giúp từ xa hỗ trợ cho bạn cho các hoạt động yêu cầu cấu hình được liệt kê trong các mô tả chi tiết giai đoạn.
+-   Cung cấp hỗ trợ từ xa cho bạn các hoạt động cấu hình yêu cầu như được liệt kê trong mô tả giai đoạn chi tiết.
 
--   Cung cấp tài liệu hướng dẫn có sẵn, phần mềm và quản trị console để giúp bạn làm giảm hoặc loại bỏ cấu hình nhiệm vụ.
+-   Cung cấp tài liệu có sẵn, công cụ phần mềm và bàn điều khiển quản trị để giúp bạn giảm hoặc loại bỏ các tác vụ cấu hình.
 
 ## <a name="initiate-phase"></a>Bắt đầu giai đoạn
 
 -   Làm việc với bạn để bắt đầu onboarding.
 
--   Xác định dịch vụ đủ điều kiện mà bạn muốn đến trên tàu.
+-   Xác định các dịch vụ đủ điều kiện mà bạn muốn lên trên.
 
 ## <a name="assess-phase"></a>Đánh giá giai đoạn
 
--   Cung cấp một tổng quan về quản trị.
+-   Cung cấp tổng quan quản trị.
 
 -   Cung cấp hướng dẫn về:
 
-    -   Nhu cầu DNS, mạng lưới, và cơ sở hạ tầng.
+    -   DNS, mạng và nhu cầu cơ sở hạ tầng.
 
-    -   Nhu cầu khách hàng (trình duyệt Internet, Hệ điều hành của khách hàng và nhu cầu dịch vụ).
+    -   Nhu cầu của khách hàng (trình duyệt Internet, Hệ điều hành khách hàng và nhu cầu dịch vụ).
 
-    -   Nhận dạng người dùng và cung cấp.
+    -   Nhận dạng và cung cấp người dùng.
 
-    -   Cho phép Dịch vụ đủ điều kiện được mua và được xác định là một phần của onboarding.
+    -   Cho phép các dịch vụ đủ điều kiện được mua và định nghĩa là một phần của bộ nhớ ngoài.
 
--   Thiết lập thời gian cho các hoạt động khắc phục.
+-   Thiết lập Timeline để khắc phục các hoạt động.
 
--   Cung cấp một danh sách kiểm tra khắc phục cho cả hai dành và Azure quảng cáo phí bảo hiểm.
+-   Cung cấp danh sách kiểm tra khắc phục cho cả InTune và Azure AD Premium.
 
-## <a name="remediate-phase"></a>Remediate giai đoạn
+## <a name="remediate-phase"></a>Giai đoạn remediate
 
--   Giữ cuộc gọi hội nghị với bạn theo thỏa thuận lịch để xem xét sự tiến bộ của các hoạt động khắc phục, ví dụ, hướng dẫn bạn thông qua các cài đặt trước requisites trước khi onboarding một dịch vụ đám mây của Microsoft.
+-   Giữ cuộc gọi hội nghị với bạn theo lịch trình đã thoả thuận để đánh giá tiến độ của các hoạt động khắc phục, ví dụ, hướng dẫn bạn thông qua cài đặt pre-requisites trước khi bộ nhớ ngoài một dịch vụ đám mây của Microsoft.
 
-## <a name="enable-phase"></a>Sử giai đoạn
+## <a name="enable-phase"></a>Kích hoạt giai đoạn
 Cung cấp hướng dẫn về:
 
--   Cách kích hoạt Microsoft dịch vụ trực tuyến người thuê hoặc thuê bao của bạn.
+-   Kích hoạt đăng ký hoặc thuê dịch vụ trực tuyến của Microsoft.
 
--   Cấu hình giao thức TCP/IP và các bức tường lửa cảng.
+-   Cấu hình giao thức TCP/IP và cổng tường lửa.
 
 -   Cấu hình DNS cho các dịch vụ đủ điều kiện.
 
--   Phê chuẩn kết nối đến dịch vụ trực tuyến của Microsoft.
+-   Xác nhận kết nối với các dịch vụ trực tuyến của Microsoft.
 
--   Cho một môi trường duy nhất-rừng:
+-   Môi trường một nhóm đơn:
 
-    -   Cài đặt một máy chủ đồng bộ hóa thư mục giữa của bạn hoạt động dịch vụ miền Active Directory (AD DS) và các hội đủ điều kiện trực tuyến dịch vụ của Microsoft (chỉ hướng dẫn nếu cần thiết).
+    -   Cài đặt máy chủ đồng bộ hóa thư mục giữa dịch vụ miền Active Directory (AD DS) và các dịch vụ trực tuyến Microsoft đủ điều kiện (chỉ hướng dẫn nếu cần).
 
-    -   Cấu hình xác thực được quản lý (Sync Hash mật khẩu hoặc xác thực ñöôïc) với công cụ Azure Active Directory kết nối. (chỉ hướng dẫn nếu cần thiết).
+    -   Cấu hình quản lý xác thực (mật khẩu băm đồng bộ hóa hoặc xác thực chuyển qua) với công cụ Azure Active Directory kết nối. (chỉ hướng dẫn nếu cần).
 
         > [!NOTE]
-        > Phát triển và thực hiện quy tắc tuỳ tiện ích mở rộng ra khỏi phạm vi.
+        > Phát triển và thực hiện cho phần mở rộng quy tắc tùy chỉnh được ra khỏi phạm vi.
 
--   Cho một khu rừng duy nhất khi mục tiêu là đã liên kết bản sắc: cài đặt và cấu hình các dịch vụ liên bang Active Directory (AD FS) cho xác thực miền địa phương với dành trong một cấu hình trang web duy nhất, chịu lỗi, nếu cần thiết.
+-   Đối với một nhóm duy nhất khi mục tiêu được liên kết nhận dạng: cài đặt và cấu hình dịch vụ Active Directory Federation (AD FS) để xác thực miền địa phương với InTune trong một trang web đơn, lỗi chịu cấu hình, nếu cần thiết.
 
     > [!NOTE]
-    > Đối với tất cả các cấu hình rừng nhiều, triển khai AD FS là ra khỏi phạm vi.
+    > Đối với tất cả nhiều nhóm cấu hình, AD FS triển khai trong phạm vi.
 
--   Kiểm tra đơn đăng nhập (SSO) chức năng, nếu được triển khai.
+-   Thử nghiệm một chức năng đăng nhập (SSO), nếu đã triển khai.
 
-### <a name="enable-phase---microsoft-azure-active-directory-premium"></a>Sử giai đoạn - Microsoft Azure Active Directory Premium
+### <a name="enable-phase---microsoft-azure-active-directory-premium"></a>Kích hoạt giai đoạn-Microsoft Azure Active Directory Premium
 
 Cung cấp hướng dẫn về:
 
-- Kích hoạt thuê nhà Azure quảng cáo phí bảo hiểm của bạn.
+- Kích hoạt đối tượng thuê Azure AD Premium của bạn.
 
-- Cấu hình tường lửa của cảng.
+- Cấu hình cổng tường lửa.
 
 - Cấu hình DNS cho các dịch vụ đủ điều kiện.
 
-- Phê chuẩn kết nối đến dịch vụ Azure quảng cáo đặc biệt.
+- Phê chuẩn kết nối với dịch vụ Azure AD Premium.
 
-- Cho một môi trường duy nhất-rừng:
+- Môi trường một nhóm đơn:
 
-  -   Cài đặt đồng bộ hóa thư mục giữa dịch vụ miền Active Directory (AD DS) và Azure quảng cáo kết nối, nếu cần thiết.
+  -   Cài đặt đồng bộ hóa thư mục giữa dịch vụ miền Active Directory (AD DS) và Azure AD kết nối, nếu cần.
 
-  -   Cấu hình một phương thức xác thực (Sync Hash mật khẩu hoặc xác thực ñöôïc) với công cụ Azure quảng cáo kết nối.
+  -   Cấu hình một phương pháp xác thực (mật khẩu Hash Sync hoặc xác thực chuyển qua) với công cụ Azure AD kết nối.
 
-- Cho một môi trường rừng nhiều:
+- Đối với một môi trường nhiều nhóm:
 
-  -   Cài đặt đồng bộ hóa Azure quảng cáo kết nối, thiết lập cho kịch bản nhiều rừng.
-- Cho môi trường rừng duy nhất và nhiều:
-  - Cấu hình Azure Active Directory ñöôïc xác thực, nếu cần thiết.
-  - Cấu hình Azure Active Directory liền mạch đơn đăng nhập (SSO), nếu cần thiết.
+  -   Cài đặt đồng bộ hóa Azure AD kết nối, thiết lập cho nhiều trường hợp nhóm.
+- Đối với môi trường một và nhiều nhóm:
+  - Cấu hình Azure Active Directory vượt qua xác thực, nếu cần thiết.
+  - Cấu hình Azure Active Directory liền mạch đăng nhập đơn (SSO), nếu cần thiết.
     > [!NOTE]
-    > Azure Active Directory ñöôïc xác thực rừng nhiều môi trường được hỗ trợ nếu có tín thác rừng giữa rừng Active Directory của bạn và nếu tên hậu tố định tuyến được cấu hình đúng. Bổ sung các đại lý có thể được cài đặt trên nhiều máy chủ tại chỗ để cung cấp sẵn sàng cao cho các yêu cầu đăng nhập.
+    > Azure Active Directory vượt qua xác thực cho nhiều nhóm môi trường được hỗ trợ nếu có độ tin cậy nhóm giữa rừng Active Directory của bạn và nếu hậu tố tên định tuyến được cấu hình đúng. Các tác nhân bổ sung có thể được cài đặt trên nhiều máy chủ tại chỗ để cung cấp tính khả dụng cao cho yêu cầu đăng nhập.
 
-  - Để biết thêm thông tin, hãy xem [Azure Active Directory ñöôïc xác thực: nhanh chóng bắt đầu](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect-pass-through-authentication-quick-start#step-1-check-prerequisites) và [Azure Active Directory liên tục đăng nhập đơn: nhanh chóng bắt đầu](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect-sso-quick-start#step-1-check-prerequisites).
-  - Để biết thêm chi tiết về giới hạn pass-through xác thực, hãy xem [Azure Active Directory ñöôïc xác thực: hạn chế hiện tại](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect-pass-through-authentication-current-limitations).
-  - Để biết thêm chi tiết về vấn đề này liền mạch SSO, hãy xem [Khắc phục sự cố Azure Active Directory liên tục đăng nhập đơn](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect-troubleshoot-sso).
+  - Để biết thêm thông tin, hãy xem [Azure Active Directory vượt qua xác thực: bắt đầu nhanh](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect-pass-through-authentication-quick-start#step-1-check-prerequisites) và [Azure Active Directory liền mạch đăng nhập đơn: bắt đầu nhanh](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect-sso-quick-start#step-1-check-prerequisites).
+  - Để biết thêm thông tin về vượt qua giới hạn xác thực, xem [Azure Active Directory vượt qua xác thực: giới hạn hiện tại](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect-pass-through-authentication-current-limitations).
+  - Để biết thêm thông tin về các vấn đề liền mạch SSO, [hãy xem khắc phục sự cố Azure Active Directory liền mạch đăng nhập đơn](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect-troubleshoot-sso).
 
       > [!NOTE]
-      > Đồng bộ hóa hash mật khẩu và mật khẩu writeback hỗ trợ nhiều rừng. Tuy nhiên, các trường hợp khác của writeback không được hỗ trợ.
+      > Mật khẩu băm đồng bộ hóa và mật khẩu ghi lại hỗ trợ nhiều khu rừng. Tuy nhiên, kịch bản ghi lại khác không được hỗ trợ.
 
-  - Cấu hình đồng bộ hóa giữa rừng Active Directory tại chỗ và thư mục Microsoft Azure Active Directory Premium (Azure Active Directory).
+  - Cấu hình đồng bộ hóa giữa các khu rừng Active Directory tại chỗ và thư mục Microsoft Azure Active Directory Premium (Azure Active Directory).
 
     > [!NOTE]
-    > Phát triển và thực hiện quy tắc tuỳ tiện ích mở rộng ra khỏi phạm vi.
+    > Phát triển và thực hiện cho phần mở rộng quy tắc tùy chỉnh được ra khỏi phạm vi.
 
-- Đối với một khu rừng duy nhất khi mục tiêu là liên kết nhận dạng:
+- Đối với một nhóm duy nhất khi mục tiêu được liên kết danh tính:
 
-  -   Cài đặt và cấu hình các AD FS cho xác thực miền địa phương với Azure quảng cáo phí bảo hiểm trong một cấu hình trang web duy nhất, chịu lỗi (nếu cần).
+  -   Cài đặt và cấu hình AD FS để xác thực miền địa phương với Azure AD Premium trong một trang web đơn, lỗi khoan dung cấu hình (nếu cần).
 
   > [!NOTE]
-  > Đối với tất cả các cấu hình rừng nhiều, triển khai AD FS là ra khỏi phạm vi.
+  > Đối với tất cả nhiều nhóm cấu hình, AD FS triển khai trong phạm vi.
 
-- Thử nghiệm tính năng SSO (nếu triển khai).
+- Kiểm tra chức năng SSO (nếu triển khai).
 
-### <a name="enable-phase---azure-ad-premium---with-azure-ad-connect-and-ad-fs"></a>Sử giai đoạn - Azure quảng cáo Premium - Azure quảng cáo kết nối và AD FS
+### <a name="enable-phase---azure-ad-premium---with-azure-ad-connect-and-ad-fs"></a>Kích hoạt giai đoạn-Azure AD Premium-Azure AD kết nối và AD FS
 
-Cung cấp hướng dẫn về thiết lập:
+Cung cấp hướng dẫn về cách thiết lập:
 
-- Người sử dụng cung cấp, bao gồm cả cấp phép.
+- Người dùng cung cấp, bao gồm cả giấy phép.
 
-- Azure quảng cáo kết nối đồng bộ hoá directory (với mật khẩu writeback và mật khẩu băm sync).
+- Đồng bộ hóa thư mục Azure AD kết nối (mật khẩu ghi lại và đồng bộ hóa mật khẩu băm).
 
-  - Azure Active Directory tự vụ đặt lại mật khẩu (SSPR).
+  - Azure Active Directory tự dịch vụ mật khẩu đặt lại (SSPR).
 
   - Azure nhiều yếu tố xác thực.
 
-  - Đến ba (3) hoặc phần mềm như một dịch vụ (SaaS) ứng dụng tích hợp với các đơn đăng nhập (SSO) từ [Azure Active Directory Marketplace](https://azure.microsoft.com/marketplace/active-directory/).
+  - Tối đa ba (3) hoặc nhiều phần mềm dưới dạng tích hợp ứng dụng dịch vụ (SaaS) với đăng nhập đơn (SSO) từ [Azure Active Directory Marketplace](https://azure.microsoft.com/marketplace/active-directory/).
 
-  - Người sử dụng tự động cung cấp cho pre-tích hợp ứng dụng SaaS như được liệt kê trong [danh sách hướng dẫn ứng dụng tích hợp](https://docs.microsoft.com/en-us/azure/active-directory/saas-apps/tutorial-list), hạn chế để cung cấp ra bên ngoài chỉ.
+  - Tự động cung cấp người dùng cho các ứng dụng SaaS tích hợp sẵn như được liệt kê trong [danh sách hướng dẫn tích hợp ứng dụng](https://docs.microsoft.com/en-us/azure/active-directory/saas-apps/tutorial-list), chỉ giới hạn ở việc cung cấp bên ngoài.
 
-  - Màn hình đăng nhập tùy chỉnh, bao gồm cả biểu tượng, văn bản và hình ảnh.
+  - Màn hình đăng nhập tùy chỉnh, bao gồm Logo, văn bản và hình ảnh.
 
-  - Năng động và tự phục vụ nhóm (nhóm).
+  - Tự dịch vụ và nhóm năng động (nhóm).
 
-  - Azure Active Directory ứng dụng Proxy.
+  - Proxy ứng dụng Azure Active Directory.
 
   - Azure Active Directory kết nối y tế.
 
-  - Azure Active Directory có điều kiện truy cập.
+  - Truy cập có điều kiện Azure Active Directory.
 
-  - Azure Active Directory các điều khoản sử dụng.
+  - Điều khoản sử dụng Azure Active Directory.
 
-  - Bảo vệ danh tính Azure Active Directory.
+  - Azure Active Directory danh tính bảo vệ.
 
   - Azure Active Directory đặc quyền quản lý danh tính.
 
-  - Các đánh giá truy cập vào Azure Active Directory.
+  - Azure Active Directory truy cập đánh giá.
 
-### <a name="enable-phase---intune"></a>Sử giai đoạn - dành
+### <a name="enable-phase---intune"></a>Kích hoạt pha-InTune
 
 > [!IMPORTANT]
-> FastTrack không hỗ trợ quản lý Windows 10 PC cổ điển với dành. FastTrack chỉ hỗ trợ Windows 10 quản lý thông qua quản lý thiết bị di động dành (MDM).
+> FastTrack không hỗ trợ quản lý Windows 10 Classic PC với InTune. FastTrack chỉ hỗ trợ quản lý Windows 10 thông qua InTune quản lý thiết bị di động (MDM).
 
-Cung cấp hướng dẫn trên:
+Cung cấp hướng dẫn về:
 
--   Cấu hình các danh tính được sử dụng bởi dành, hoặc tận dụng chỗ Active Directory hay đám mây danh tính của bạn (Azure Active Directory).
+-   Cấu hình các nhận dạng được sử dụng bởi InTune, bằng một trong hai trên cơ sở Active Directory hoặc danh tính đám mây (Azure Active Directory).
 
--   Cấp giấy phép người dùng cuối cùng của bạn.
+-   Cấp phép người dùng cuối của bạn.
 
--   Thêm người dùng để đăng ký của bạn dành, nó xác định vai trò quản trị, và tạo ra các nhóm người dùng và thiết bị.
+-   Thêm người dùng vào đăng ký InTune của bạn, xác định vai trò quản trị viên CNTT, và tạo người dùng và nhóm thiết bị.
 
--   Cấu hình của điện thoại di động thiết bị quản lý MDM) thẩm quyền, dựa trên nhu cầu quản lý của bạn, bao gồm:
+-   Cấu hình cơ quan MDM quản lý thiết bị di động của bạn, dựa trên nhu cầu quản lý của bạn, bao gồm:
 
-    -   Thiết lập dành như thẩm quyền MDM của bạn.
+    -   Thiết lập InTune là cơ quan MDM của bạn.
 
-    -   Cấu hình thử nghiệm nhóm sẽ được sử dụng để xác nhận MDM quản lý chính sách.
+    -   Cấu hình nhóm kiểm tra được sử dụng để xác nhận chính sách quản lý MDM.
 
-    -   Điều hướng cổng thông tin admin dành để định vị thông tin về người dùng và các thiết bị.
+    -   Điều hướng cổng quản trị InTune để định vị thông tin về người dùng và thiết bị.
 
-    -   Thiết lập vai trò dành (giúp bàn điều khiển, quản trị viên, vv)
+    -   Thiết lập vai trò InTune (nhà điều hành bàn trợ giúp, quản trị viên, v.v.)
 
-    -   Cấu hình MDM quản lý chính sách và các dịch vụ như:
+    -   Cấu hình chính sách quản lý MDM và các dịch vụ như:
 
-        -   Việc triển khai ứng dụng cho mỗi nền tảng được hỗ trợ thông qua các trang web liên kết, MSI và/hoặc liên kết sâu.
+        -   Triển khai ứng dụng cho mỗi nền tảng được hỗ trợ thông qua liên kết web, MSI và/hoặc liên kết sâu.
 
-        -   Triển khai Office ProPlus lên thiết bị Windows 10.
+        -   Triển khai Office ProPlus trên các thiết bị chạy Windows 10.
 
-        -   Khối lượng mua chương trình triển khai ứng dụng, bao gồm cả Apple VPP, Windows Store cho doanh nghiệp, và chơi của Google cho việc lưu trữ.
+        -   Chương trình mua hàng cho triển khai ứng dụng, bao gồm VPP của Apple, Windows Store dành cho doanh nghiệp và Play for work Store của Google.
 
-        -   Triển khai thư điện tử, mạng không dây và cấu hình VPN nếu bạn có một authority giấy chứng nhận hiện tại, cơ sở hạ tầng Wi-Fi hoặc VPN trong tổ chức của bạn.
+        -   Triển khai e-mail, mạng không dây và cấu hình VPN nếu bạn có cơ quan chứng nhận hiện tại, cơ sở hạ tầng Wi-Fi hoặc VPN trong tổ chức của bạn.
 
-        -   Lập trình Microsoft dành trao đổi kết nối (khi áp dụng).
+        -   Thiết lập Microsoft InTune Exchange Connector (khi áp dụng).
 
-        -   Điện thoại cấu hình cấu hình cho các nền tảng thiết bị được hỗ trợ.
+        -   Cấu hình thiết bị cho nền tảng thiết bị được hỗ trợ.
 
-    -   Thiết lập chính sách có điều kiện truy cập.
+    -   Thiết lập chính sách truy cập có điều kiện.
 
-    -   Cấu hình và triển khai các chính sách bảo vệ app dành cho mỗi nền tảng được hỗ trợ.
+    -   Cấu hình và triển khai chính sách bảo vệ ứng dụng InTune cho mỗi nền tảng được hỗ trợ.
 
-    -   Chuẩn bị đường dây của doanh nghiệp (LOB) ứng dụng cho dành chính sách bảo vệ app, với sự hướng dẫn về tùy chọn có sẵn.
+    -   Chuẩn bị các ứng dụng line-of-Business (LOB) cho các chính sách bảo vệ ứng dụng InTune, với hướng dẫn về các tùy chọn có sẵn.
 
-    -   Đăng ký các thiết bị của mỗi hỗ trợ nền tảng để dành hoặc cấu hình quản lý với Microsoft Intune dịch vụ của bạn.
+    -   Đăng ký thiết bị của mỗi nền tảng được hỗ trợ để InTune hoặc Configuration Manager của bạn với Microsoft InTune dịch vụ.
 
-    -   Kết nối với kho dữ liệu dành.
+    -   Kết nối với InTune Data Warehouse.
 
-    -   Tích hợp dành với:
-        -   Team Viewer để được hỗ trợ từ xa (Team Viewer đăng ký là bắt buộc).
+    -   Tích hợp InTune với:
+        -   Team Viewer để được hỗ trợ từ xa (yêu cầu đăng ký Team Viewer).
 
-        -   Giải pháp đối tác điện thoại di động đe dọa Quốc phòng (điện thoại di động đe dọa Quốc phòng đối tác giải pháp đăng ký là bắt buộc).
+        -   Giải pháp đối tác di động Threat Defense (yêu cầu đăng ký giải pháp đối tác đe dọa điện thoại di động).
 
-        -   Viễn thông giải pháp quản lý chi phí (viễn thông với chi phí quản lý giải pháp đăng ký là bắt buộc).
+        -   Giải pháp quản lý chi phí viễn thông (đăng ký giải pháp quản lý chi phí viễn thông là bắt buộc).
 
-        -   Bảo vệ mối đe dọa nâng cao của Windows Defender (Windows E5 hoặc Microsoft 365 E5 giấy phép được yêu cầu).
+        -   Yêu cầu bảo vệ chống mối đe dọa nâng cao của Windows Defender (các giấy phép Windows E5 hoặc Microsoft 365 E5).
 
-    -   Cấu hình phần mềm Cập Nhật cho áp dụng các nền tảng được hỗ trợ.
+    -   Cấu hình các bản cập nhật phần mềm cho các nền tảng được hỗ trợ áp dụng.
 
-    -   Tài nguyên cho người dùng thông qua kế hoạch.
+    -   Tài nguyên cho kế hoạch nhận con nuôi của người dùng.
 
 - Thiết lập Windows Autopilot:
 
-    - Cấu hình và thiết lập Microsoft Intune cho Windows Autopilot.
+    - Cấu hình và thiết lập Microsoft InTune cho Windows Autopilot.
 
-    - Đặt cấu hình nhóm năng động Azure quảng cáo
+    - Cấu hình nhóm động Azure AD
 
-    - Thêm công ty của bạn, xây dựng thương hiệu vào Azure quảng cáo.
+    - Thêm thương hiệu công ty của bạn vào Azure AD.
 
-    - Tạo và gán cho các thiết bị để cấu hình Windows Autopilot (ví dụ như một hồ sơ Windows Autopilot hạn chế tạo tài khoản người quản trị của địa phương).
+    - Tạo và gán thiết bị cho cấu hình Windows Autopilot (ví dụ: hồ sơ Windows Autopilot hạn chế tạo tài khoản quản trị viên cục bộ).
 
-    - Tuỳ chỉnh Out-of-box-kinh nghiệm (OOBE) để phù hợp với yêu cầu của tổ chức.
+    - Tuỳ chỉnh out-of-Box-kinh nghiệm (OOBE) để tuân thủ các yêu cầu của tổ chức.
 
-    - Cấu hình MDM kết nạp tự động trong quảng cáo Azure và dành.
+    - Cấu hình MDM tự động đăng ký Azure AD và InTune.
 
     > [!NOTE]
-    > Thiết lập Windows lái tự động bên ngoài dành là ra khỏi phạm vi lợi ích FastTrack.
+    > Thiết lập Windows Autopilot bên ngoài InTune nằm ngoài phạm vi cho lợi ích FastTrack.
 
-### <a name="enable-phase---co-management"></a>Sử giai đoạn - đồng quản lý
+### <a name="enable-phase---co-management"></a>Kích hoạt pha-đồng quản lý
 
-Cung cấp hướng dẫn trên:
+Cung cấp hướng dẫn về:
 
--   Cấp giấy phép người dùng cuối cùng của bạn.
+-   Cấp phép người dùng cuối của bạn.
 
--   Thêm người dùng vào đăng ký dành của bạn, nó xác định vai trò quản trị, và tạo nhóm người dùng và thiết bị (nếu dành không được cài đặt).
+-   Thêm người dùng vào đăng ký InTune của bạn, xác định vai trò quản trị viên CNTT và tạo nhóm người dùng và thiết bị (nếu InTune chưa được cài đặt).
 
--   Thiết lập Azure Active Directory cho MDM kết nạp tự động.
+-   Thiết lập Azure Active Directory MDM đăng ký tự động.
 
--   Thiết lập hybrid Azure Active Directory tham gia.
+-   Thiết lập kết hợp Azure Active Directory tham gia.
 
 -   Thiết lập cổng quản lý đám mây.
 
--   Thêm người dùng để đăng ký của bạn dành, nó xác định vai trò quản trị, và tạo ra các nhóm người dùng và thiết bị.
+-   Thêm người dùng vào đăng ký InTune của bạn, xác định vai trò quản trị viên CNTT, và tạo người dùng và nhóm thiết bị.
 
--   Chuẩn bị dành (nếu dành không được cài đặt):
+-   Chuẩn bị InTune (nếu InTune chưa được cài đặt):
 
-    -   Cấu hình của điện thoại di động thiết bị quản lý MDM) thẩm quyền, dựa trên nhu cầu quản lý của bạn, bao gồm:
+    -   Cấu hình cơ quan MDM quản lý thiết bị di động của bạn, dựa trên nhu cầu quản lý của bạn, bao gồm:
 
-    -   Thiết lập dành như thẩm quyền MDM của bạn.
+    -   Thiết lập InTune là cơ quan MDM của bạn.
 
-    -   Cấu hình thử nghiệm nhóm sẽ được sử dụng để xác nhận MDM quản lý chính sách.
+    -   Cấu hình nhóm kiểm tra được sử dụng để xác nhận chính sách quản lý MDM.
 
-    -   Điều hướng cổng thông tin admin dành để định vị thông tin về người dùng và các thiết bị.
+    -   Điều hướng cổng quản trị InTune để định vị thông tin về người dùng và thiết bị.
 
-    -   Thiết lập vai trò dành (giúp bàn điều khiển, quản trị viên, vv)
+    -   Thiết lập vai trò InTune (nhà điều hành bàn trợ giúp, quản trị viên, v.v.)
 
-    -   Cấu hình và triển khai các chính sách bảo vệ app dành cho mỗi nền tảng được hỗ trợ.
+    -   Cấu hình và triển khai chính sách bảo vệ ứng dụng InTune cho mỗi nền tảng được hỗ trợ.
 
-    -   Ghi các thiết bị Windows 10 để dành của bạn.
+    -   Ghi danh thiết bị Windows 10 cho InTune của bạn.
 
-- Kích hoạt đồng quản lý trong giao diện điều khiển cấu hình quản lý.
+- Kích hoạt đồng quản lý trong bảng điều khiển quản lý cấu hình.
 
-- Chuyển đổi khối lượng công việc để dành.
+- Chuyển khối lượng công việc để InTune.
 
-- Giám sát các hoạt động hợp tác quản lý môi trường của bạn.
+- Giám sát hoạt động co-Management trong môi trường của bạn.
 
-### <a name="enable-phase--azure-information-protection"></a>Sử giai đoạn-bảo vệ thông tin Azure
+### <a name="enable-phase--azure-information-protection"></a>Kích hoạt giai đoạn-bảo vệ thông tin Azure
 
-Cung cấp hướng dẫn trên: 
+Cung cấp hướng dẫn về: 
 
-- Cách kích hoạt và đặt cấu hình người thuê nhà khách hàng.
+- Kích hoạt và cấu hình đối tượng thuê khách hàng.
 
-- Tạo và thiết lập các chính sách và nhãn.
+- Tạo và thiết lập nhãn và chính sách.
 
-- Áp dụng bảo vệ thông tin tài liệu. 
+- Áp dụng bảo vệ thông tin cho các tài liệu. 
 
-- Tự động phân loại và ghi nhãn thông tin trong các ứng dụng văn phòng (như Word, PowerPoint, Excel và Outlook) chạy trên Windows và sử dụng các khách hàng bảo vệ thông tin Azure.
+- Tự động phân loại và ghi nhãn thông tin trong các ứng dụng Office (như Word, PowerPoint, Excel và Outlook) chạy trên Windows và sử dụng khách hàng bảo vệ thông tin Azure.
 
-- Bằng cách sử dụng các tập tin ở phần còn lại với máy quét Azure bảo vệ thông tin.
+- Sử dụng tệp ở phần còn lại với máy quét Azure Information Protection.
 
-- Giám sát email trong quá cảnh bằng cách sử dụng quy tắc dòng chảy thư Exchange Online.
+- Giám sát email trong quá trình sử dụng quy tắc luồng thư Exchange Online.
 
-Hướng dẫn cũng được cung cấp cho khách hàng những người muốn áp dụng bảo vệ bằng cách sử dụng dịch vụ quản lý quyền Microsoft Azure (Azure RMS), Office 365 thư mã hóa (OME) và ngăn ngừa mất dữ liệu (DLP).
+Hướng dẫn cũng được cung cấp cho khách hàng muốn áp dụng bảo vệ bằng cách sử dụng Microsoft Azure quyền quản lý Dịch vụ (Azure RMS), văn phòng 365 mã hóa thư (OME) và ngăn mất dữ liệu (DLP).
 
 > [!NOTE]
 > **Muốn tìm hiểu thêm?** xem [doanh nghiệp di động + bảo mật](https://www.microsoft.com/cloud-platform/enterprise-mobility).
 
 ## <a name="next-steps"></a>Các bước tiếp theo
 
-[FastTrack lợi ích cho EMS - trách nhiệm của bạn](EMS-your-responsibilities.md)
+[FastTrack lợi ích cho EMS-trách nhiệm của bạn](EMS-your-responsibilities.md)

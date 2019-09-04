@@ -1,11 +1,11 @@
 ---
-title: Onboarding và di chuyển giai đoạn
-description: Các giai đoạn của các lợi ích FastTrack Trung tâm
+title: Giai đoạn onboarding và di chuyển
+description: Các giai đoạn của lợi ích Trung tâm FastTrack
 keywords: ''
 author: andredm7
 ms.author: andredm
 manager: ''
-ms.date: 08/13/2019
+ms.date: 09/04/2019
 ms.topic: article
 ms.prod: ''
 ms.service: microsoft-intune
@@ -14,277 +14,277 @@ ms.collection: FastTrack
 ms.assetid: e51f030b-8b08-4fea-96c9-d4ded435a264
 ms.reviewer: ''
 ms.suite: ems
-ms.openlocfilehash: 0ea242b03fc0d7cdfc3241c6d2f023213c2fa383
-ms.sourcegitcommit: d469f9b0dfa7f39fde051c38f255d6f5790f62f5
+ms.openlocfilehash: ba93fb6e6ba23219752eebb857ed156f2cbfaab8
+ms.sourcegitcommit: df949b40ade215de00f74771ffadf0d3be0de797
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 08/12/2019
-ms.locfileid: "36294308"
+ms.lasthandoff: 09/03/2019
+ms.locfileid: "36711546"
 ---
-# <a name="onboarding-phases"></a>Giai đoạn Onboarding
+# <a name="onboarding-phases"></a>Giai đoạn onboarding
 
-Khi bạn sử dụng các [dịch vụ đủ điều kiện và kế hoạch](M365-eligible-services-and-plans.md) để có được Microsoft Azure Active Directory Premium, Microsoft Intune và bảo vệ thông tin Azure đã sẵn sàng cho sử dụng, có nhiều giai đoạn tham gia vào quá trình. Phần sau đây mô tả mỗi giai đoạn của quá trình onboarding.
+Khi bạn sử dụng [dịch vụ đủ điều kiện và kế hoạch](M365-eligible-services-and-plans.md) để có được Microsoft Azure Active Directory Premium, Microsoft InTune và bảo vệ thông tin Azure sẵn sàng để sử dụng, có một số giai đoạn liên quan đến quá trình. Các phần sau đây mô tả từng giai đoạn của quá trình bộ nhớ ngoài.
 
 Onboarding có bốn giai đoạn chính:
 
-![Bốn giai đoạn của quá trình onboarding FastTrack](./media/O365-Onboarding-Phases.png)
+![Bốn giai đoạn của quá trình bộ nhớ ngoài FastTrack](./media/O365-Onboarding-Phases.png)
 
 
 ## <a name="initiate-phase"></a>Bắt đầu giai đoạn
 
-Sau khi bạn mua một số thích hợp của giấy phép, theo sự hướng dẫn từ các email xác nhận mua hàng để liên kết các giấy phép hiện có thuê nhà hoặc người thuê nhà mới của bạn. Microsoft sau đó xác nhận đủ điều kiện của bạn cho lợi ích Trung tâm FastTrack và cố gắng liên lạc với bạn để cung cấp sự trợ giúp của onboarding.
+Sau khi bạn mua số lượng giấy phép thích hợp, hãy làm theo hướng dẫn từ email xác nhận mua để liên kết giấy phép với đối tượng thuê hiện tại của bạn hoặc đối tượng thuê mới. Microsoft sau đó xác minh tính đủ điều kiện của bạn cho FastTrack Trung tâm Benefit và cố gắng liên lạc với bạn để cung cấp hỗ trợ bộ nhớ ngoài.
 
 > [!NOTE]
-> Bạn cũng có thể yêu cầu hỗ trợ từ [Trung tâm FastTrack](https://go.microsoft.com/fwlink/?linkid=780698) nếu bạn đã sẵn sàng để triển khai các dịch vụ cho tổ chức của bạn.
+> Bạn cũng có thể yêu cầu hỗ trợ từ [Trung tâm FastTrack](https://go.microsoft.com/fwlink/?linkid=780698) nếu bạn đã sẵn sàng triển khai các dịch vụ này cho tổ chức của mình.
 
-### <a name="to-request-assistance"></a>Để yêu cầu trợ giúp
+### <a name="to-request-assistance"></a>Để yêu cầu hỗ trợ
 
 1. Đăng nhập vào [trang web FastTrack](https://go.microsoft.com/fwlink/?linkid=780698).
 2. Chọn **FastTrack**.
 3. Chọn **dịch vụ**.
-4. Hoàn thành **yêu cầu để được hỗ trợ với Microsoft 365 mẫu**.
+4. Hoàn tất **yêu cầu hỗ trợ với mẫu Microsoft 365**.
 
-Một khi bắt đầu hỗ trợ onboarding, chúng tôi sẽ thiết lập một lịch trình các cuộc họp trực tuyến.
+Sau khi bắt đầu hỗ trợ bộ nhớ ngoài, chúng tôi sẽ thiết lập một lịch biểu cho các cuộc họp trực tuyến.
 
-Đối tác của Microsoft cũng có thể giúp đỡ thông qua [trang web FastTrack](https://go.microsoft.com/fwlink/?linkid=780698) thay mặt cho một khách hàng. Để làm như vậy:
+Đối tác của Microsoft cũng có thể nhận trợ giúp thông qua [trang web FastTrack](https://go.microsoft.com/fwlink/?linkid=780698) thay mặt cho khách hàng. Để làm như vậy:
 
 1. Đăng nhập vào [trang web FastTrack](https://go.microsoft.com/fwlink/?linkid=780698).
 2. Chọn **FastTrack**.
 3. Chọn **khách hàng của tôi**.
 4. Tìm kiếm khách hàng của bạn hoặc chọn chúng từ danh sách khách hàng của bạn.
 5. Chọn **dịch vụ**.
-6. Hoàn thành **yêu cầu để được hỗ trợ với Microsoft 365 mẫu**.
+6. Hoàn tất **yêu cầu hỗ trợ với mẫu Microsoft 365**.
 
-Sau khi onboarding hỗ trợ bắt đầu, FastTrack thiết lập một lịch trình các cuộc họp trực tuyến với bạn để thảo luận về quá trình onboarding, kiểm chứng dữ liệu và thiết lập một kick ra khỏi cuộc họp.
+Một khi bắt đầu hỗ trợ bộ nhớ ngoài, FastTrack thiết lập một lịch trình của cuộc họp trực tuyến với bạn để thảo luận về quá trình bộ nhớ ngoài, xác minh dữ liệu, và thiết lập một cuộc họp kick-off.
 
-![Onboarding bắt đầu giai đoạn](./media/ft-initiate-phase.png)
+![Bắt đầu giai đoạn onboarding](./media/ft-initiate-phase.png)
 
 ## <a name="assess-phase"></a>Đánh giá giai đoạn
 
-Một khi bắt đầu quá trình onboarding, FastTrack Trung tâm làm việc với bạn để đánh giá môi trường mã nguồn của bạn và các yêu cầu. Công cụ đang chạy để đánh giá môi trường của bạn, và FastTrack chuyên gia hướng dẫn bạn thông qua việc đánh giá Active Directory tại chỗ của bạn, Internet trình duyệt, Hệ điều hành máy khách của thiết bị, Hệ thống tên miền (DNS), mạng, cơ sở hạ tầng và hệ thống nhận dạng xác định xem bất kỳ thay đổi cần thiết cho onboarding.
+Khi quá trình bộ nhớ ngoài bắt đầu, FastTrack Center hoạt động với bạn để đánh giá môi trường nguồn của bạn và các yêu cầu. Các công cụ được chạy để đánh giá môi trường của bạn, và FastTrack chuyên gia hướng dẫn bạn thông qua thẩm định Active Directory tại chỗ của bạn, trình duyệt Internet, Hệ điều hành của thiết bị khách hàng, Hệ thống tên miền (DNS), mạng, cơ sở hạ tầng và hệ thống nhận dạng để xác định nếu có thay đổi được yêu cầu cho onboarding.
 
-Trung tâm FastTrack cũng kết nối bạn với các hướng dẫn về làm thế nào để lái xe thành công thông qua các dịch vụ đủ điều kiện.
+Trung tâm FastTrack cũng kết nối bạn với các hướng dẫn về cách thúc đẩy việc áp dụng các dịch vụ đủ điều kiện thành công.
 
-Dựa trên các thiết lập hiện tại của bạn, chúng tôi cung cấp một kế hoạch khắc phục mang lại môi trường mã nguồn của bạn lên đến các yêu cầu tối thiểu cho thành công onboarding cho EMS hoặc các dịch vụ đám mây cá nhân. Chúng tôi cũng thiết lập cuộc gọi trạm kiểm soát thích hợp cho giai đoạn khắc phục.
+Dựa trên thiết lập hiện tại của bạn, chúng tôi cung cấp một kế hoạch khắc phục mang lại môi trường nguồn của bạn đến các yêu cầu tối thiểu để bộ nhớ ngoài thành công để EMS hoặc các dịch vụ đám mây cá nhân của nó. Chúng tôi cũng thiết lập điểm kiểm tra thích hợp cho giai đoạn khắc phục.
 
-![Onboarding đánh giá giai đoạn](./media/ft-assess-phase.png)
+![Giai đoạn đánh giá onboarding](./media/ft-assess-phase.png)
 
-## <a name="remediate-phase"></a>Remediate giai đoạn
-Bạn thực hiện các nhiệm vụ trong kế hoạch khắc phục trên môi trường mã nguồn của bạn vì vậy mà bạn đáp ứng các yêu cầu cho onboarding và việc áp dụng từng dịch vụ (khi cần).
+## <a name="remediate-phase"></a>Giai đoạn remediate
+Bạn thực hiện các tác vụ trong kế hoạch khắc phục môi trường nguồn của bạn để bạn đáp ứng các yêu cầu cho bộ nhớ ngoài và áp dụng mỗi dịch vụ (nếu cần).
 
-![Onboarding remediate giai đoạn](./media/ft-remediate-phase.png)
+![Giai đoạn khắc phục](./media/ft-remediate-phase.png)
 
-Trước khi bạn bắt đầu giai đoạn cho phép, chúng tôi phối hợp xác minh kết quả của các hoạt động khắc phục để đảm bảo rằng bạn đã sẵn sàng để tiếp tục.
+Trước khi bắt đầu giai đoạn kích hoạt, chúng tôi cùng xác minh kết quả của các hoạt động khắc phục để đảm bảo bạn đã sẵn sàng để tiếp tục.
 
-## <a name="enable-phase"></a>Sử giai đoạn
-Khi tất cả các hoạt động khắc phục được hoàn thành, dự án thay đổi cấu hình cơ sở hạ tầng cốt lõi cho dịch vụ tiêu dùng và cung cấp mỗi dịch vụ đám mây EMS đủ điều kiện.
+## <a name="enable-phase"></a>Kích hoạt giai đoạn
+Khi tất cả các hoạt động khắc phục hoàn tất, dự án thay đổi để cấu hình cơ sở hạ tầng cốt lõi cho việc tiêu thụ dịch vụ và cung cấp mỗi dịch vụ đám mây EMS đủ điều kiện.
 
-**Sử giai đoạn - khả năng cốt lõi**
+**Bật khả năng pha-lõi**
 
-Lõi onboarding liên quan đến dịch vụ cung cấp và người thuê nhà và danh tính tích hợp. Nó cũng bao gồm các bước để cung cấp một nền tảng cho onboarding các dịch vụ trực tuyến như Azure quảng cáo phí bảo hiểm, dành và bảo vệ thông tin Azure.
+Lõi bộ nhớ ngoài liên quan đến dịch vụ cung cấp và thuê và danh tính tích hợp. Nó cũng bao gồm các bước để cung cấp một nền tảng cho các dịch vụ trực tuyến bộ nhớ ngoài như Azure AD Premium, InTune và bảo vệ thông tin Azure.
 
-![Onboarding sử giai đoạn - khả năng cốt lõi](./media/ft-enable-phase-core-01.png)
+![Onboarding cho phép giai đoạn-khả năng cốt lõi](./media/ft-enable-phase-core-01.png)
 
-![Onboarding sử giai đoạn - khả năng cốt lõi](./media/ft-enable-phase-core-02.png)
+![Onboarding cho phép giai đoạn-khả năng cốt lõi](./media/ft-enable-phase-core-02.png)
 > [!NOTE]
-> WAP là viết tắt của Proxy Web ứng dụng. SSL là viết tắt của Secure Sockets Layer. SDS là viết tắt của trường dữ liệu đồng bộ. Để biết thêm chi tiết trên SDS, xem [chào mừng đến với Microsoft trường dữ liệu đồng bộ](https://go.microsoft.com/fwlink/?linkid=871480).
+> WAP là viết tắt của proxy ứng dụng web. SSL là viết tắt của Secure Socket Layer. SDS là viết tắt của School Data Sync. Để biết thêm thông tin về SDS, xem [chào mừng bạn đến với Microsoft School Data Sync](https://go.microsoft.com/fwlink/?linkid=871480).
 
 > [!NOTE]
-> Một phương pháp xác thực được quản lý bao gồm, nhưng không giới hạn để đồng bộ hoá mật khẩu băm. Identity hội nhập là một trong những thời gian hoạt động và không bao gồm việc di chuyển hoặc ngừng hoạt động của phương pháp xác thực hiện có, chẳng hạn như quản lý hoặc được liên kết.
+> Phương pháp xác thực được quản lý bao gồm, nhưng không giới hạn đồng bộ hóa mật khẩu băm. Tích hợp danh tính là một hoạt động một lần và không bao gồm di chuyển hoặc trục xuất các phương pháp xác thực hiện có, chẳng hạn như quản lý hoặc liên kết.
 
-### <a name="enable-phase---azure-ad-premium"></a>Sử giai đoạn - Azure quảng cáo phí bảo hiểm
+### <a name="enable-phase---azure-ad-premium"></a>Kích hoạt giai đoạn-Azure AD Premium
 
-Môi trường Azure quảng cáo phí bảo hiểm có thể được thiết lập bằng cách sử dụng kết nối Azure Active Directory công cụ đồng bộ hóa thư mục và dịch vụ liên bang Active Directory (AD FS) (khi cần).
+Môi trường Azure AD Premium có thể được thiết lập bằng cách sử dụng đồng bộ hoá thư mục công cụ Azure Active Directory kết nối và dịch vụ liên kết Active Directory (AD FS) (nếu cần).
 
-Đối với kịch bản Azure quảng cáo phí bảo hiểm bao gồm đồng bộ hóa trên cơ sở danh tính cho các đám mây, chúng tôi giúp bạn bằng cách thêm nó quản trị viên và người sử dụng để đăng ký của bạn, cấu hình quản lý điều kiện tiên quyết, thiết lập Azure quảng cáo phí bảo hiểm, thiết lập thư mục đồng bộ hóa với xác thực được quản lý và AD FS sử dụng công cụ Azure quảng cáo kết nối, cấu hình người dùng kiểm tra và phê chuẩn cốt lõi của bạn trường hợp sử dụng cho các dịch vụ.
+Đối với các kịch bản Azure AD Premium bao gồm đồng bộ hóa danh tính tại chỗ với đám mây, chúng tôi giúp bạn bằng cách thêm quản trị viên CNTT và người dùng vào đăng ký của bạn, cấu hình điều kiện tiên quyết quản lý, thiết lập Azure AD Premium, thiết lập thư mục đồng bộ hóa với xác thực được quản lý và AD FS sử dụng công cụ Azure AD kết nối, cấu hình người dùng kiểm tra và xác nhận các trường hợp sử dụng cốt lõi của bạn cho dịch vụ.
 
-Azure quảng cáo phí bảo hiểm thiết lập bao gồm cho phép các tính năng sau đây:
+Azure AD Premium cài đặt bao gồm kích hoạt các tính năng sau:
 
--   Đặt lại mật khẩu tự phục vụ Azure Active Directory (SSPR).
+-   Thiết lập lại mật khẩu Azure Active Directory tự dịch vụ (SSPR).
 
 -   Azure nhiều yếu tố xác thực (Azure MFA).
 
--   Đến ba (3) hoặc phần mềm như một dịch vụ (SaaS) ứng dụng tích hợp với các đơn đăng nhập (SSO) từ [Azure Active Directory Marketplace](https://azure.microsoft.com/marketplace/active-directory/).
+-   Tối đa ba (3) hoặc nhiều phần mềm dưới dạng tích hợp ứng dụng dịch vụ (SaaS) với đăng nhập đơn (SSO) từ [Azure Active Directory Marketplace](https://azure.microsoft.com/marketplace/active-directory/).
 
--   Người sử dụng tự động cung cấp cho pre-tích hợp ứng dụng SaaS như được liệt kê trong [danh sách hướng dẫn ứng dụng tích hợp](https://docs.microsoft.com/en-us/azure/active-directory/saas-apps/tutorial-list), hạn chế để cung cấp ra bên ngoài chỉ.
+-   Tự động cung cấp người dùng cho các ứng dụng SaaS tích hợp sẵn như được liệt kê trong [danh sách hướng dẫn tích hợp ứng dụng](https://docs.microsoft.com/en-us/azure/active-directory/saas-apps/tutorial-list), chỉ giới hạn ở việc cung cấp bên ngoài.
 
--   Màn hình đăng nhập tùy chỉnh, bao gồm cả biểu tượng, văn bản và hình ảnh.
+-   Màn hình đăng nhập tùy chỉnh, bao gồm Logo, văn bản và hình ảnh.
 
--   Năng động và tự phục vụ nhóm (nhóm).
+-   Tự dịch vụ và nhóm năng động (nhóm).
 
--   Azure Active Directory ứng dụng Proxy.
+-   Proxy ứng dụng Azure Active Directory.
 
 -   Azure Active Directory kết nối y tế.
 
--   Azure Active Directory có điều kiện truy cập.
+-   Truy cập có điều kiện Azure Active Directory.
 
--   Azure Active Directory các điều khoản sử dụng.
+-   Điều khoản sử dụng Azure Active Directory.
 
--   Bảo vệ danh tính Azure Active Directory.
+-   Azure Active Directory danh tính bảo vệ.
 
 -   Azure Active Directory đặc quyền quản lý danh tính.
 
--   Các đánh giá truy cập vào Azure Active Directory.
+-   Azure Active Directory truy cập đánh giá.
 
-![Onboarding sử giai đoạn - Azure quảng cáo phí bảo hiểm](./media/ft-enable-phase_aad-premium_adconnect_adfed.png)
+![Cho phép giai đoạn onboarding-Azure AD Premium](./media/ft-enable-phase_aad-premium_adconnect_adfed.png)
 
-### <a name="enable-phase---intune"></a>Sử giai đoạn - dành
+### <a name="enable-phase---intune"></a>Kích hoạt pha-InTune
 
-Để dành, chúng tôi hướng dẫn bạn qua nhận được sẵn sàng để sử dụng Microsoft Intune quản lý thiết bị. Các bước chính xác phụ thuộc vào môi trường nguồn của bạn và được dựa trên điện thoại di động và điện thoại di động ứng dụng quản lý nhu cầu. Các bước có thể bao gồm:
+Để InTune, chúng tôi hướng dẫn bạn sẵn sàng sử dụng Microsoft InTune để quản lý thiết bị. Các bước chính xác sẽ phụ thuộc vào môi trường nguồn của bạn và dựa trên nhu cầu quản lý ứng dụng di động và điện thoại của bạn. Các bước có thể bao gồm:
 
--   Cấp giấy phép người dùng cuối cùng của bạn. Chúng tôi cũng cung cấp hỗ trợ về làm thế nào để kích hoạt giấy phép khối lượng nhất của Microsoft đám mây dịch vụ người thuê nhà (khi cần).
+-   Cấp phép người dùng cuối của bạn. Chúng tôi cũng cung cấp hỗ trợ về cách kích hoạt giấy phép khối lượng cho đối tượng thuê dịch vụ đám mây Microsoft (nếu cần).
 
--   Cấu hình các danh tính được sử dụng bởi dành bằng cách tận dụng Active Directory tại chỗ của bạn hoặc nhận dạng mây.
+-   Cấu hình các nhận dạng được sử dụng bởi InTune bằng công nghệ Active Directory hoặc danh tính đám mây tại chỗ của bạn.
 
--   Thêm người dùng để đăng ký của bạn dành, nó xác định vai trò quản trị, và tạo ra các nhóm người dùng và thiết bị.
+-   Thêm người dùng vào đăng ký InTune của bạn, xác định vai trò quản trị viên CNTT, và tạo người dùng và nhóm thiết bị.
 
--   Cấu hình của bạn cơ quan quản lý điện thoại di động (MDM), dựa trên nhu cầu quản lý của bạn, bao gồm:
+-   Cấu hình cơ quan quản lý thiết bị di động (MDM) của bạn, dựa trên nhu cầu quản lý của bạn, bao gồm:
 
-    -   Thiết lập dành như thẩm quyền MDM của bạn khi dành giải pháp MDM duy nhất của bạn hoặc kết hợp với quản lý điện thoại di động cho Office 365.
+    -   Thiết lập InTune là cơ quan MDM khi InTune là giải pháp MDM duy nhất của bạn hoặc kết hợp với quản lý thiết bị di động cho Office 365.
 
--   Cung cấp hướng dẫn MDM:
+-   Cung cấp hướng dẫn MDM cho:
 
-    -   Cấu hình thử nghiệm nhóm sẽ được sử dụng để xác nhận MDM quản lý chính sách.
+    -   Cấu hình nhóm kiểm tra được sử dụng để xác nhận chính sách quản lý MDM.
 
-    -   Cấu hình MDM quản lý chính sách và các dịch vụ như:
+    -   Cấu hình chính sách quản lý MDM và các dịch vụ như:
 
-        -   Ứng dụng triển khai cho mỗi hỗ trợ nền tảng thông qua các trang web liên kết hoặc liên kết sâu.
+        -   Triển khai ứng dụng cho mỗi nền tảng được hỗ trợ thông qua liên kết web hoặc liên kết sâu.
 
-        -   Chính sách có điều kiện truy cập.
+        -   Điều kiện truy cập chính sách.
 
-        -   Triển khai thư điện tử, mạng không dây và cấu hình mạng riêng ảo (VPN) nếu bạn có một authority giấy chứng nhận hiện tại, cơ sở hạ tầng Wi-Fi hoặc VPN trong tổ chức của bạn.
+        -   Triển khai email, mạng không dây và cấu hình mạng riêng ảo (VPN) nếu bạn có cơ quan chứng chỉ hiện tại, cơ sở hạ tầng Wi-Fi hoặc VPN trong tổ chức của bạn.
 
-        -   Lập trình Microsoft dành trao đổi kết nối (khi áp dụng).
+        -   Thiết lập Microsoft InTune Exchange Connector (khi áp dụng).
 
-        -   Kết nối với kho dữ liệu dành
+        -   Kết nối với kho dữ liệu InTune
 
-        -   Tích hợp dành với:
-            -   Team Viewer để được hỗ trợ từ xa (Team viewer đăng ký là bắt buộc).
+        -   Tích hợp InTune với:
+            -   Team Viewer để được hỗ trợ từ xa (yêu cầu đăng ký Team Viewer).
 
-            -   Điện thoại di động đe dọa Quốc phòng (MTD) đối tác giải pháp (điện thoại di động đe dọa Quốc phòng subcription là cần thiết).
+            -   Giải pháp đối tác điện thoại di động Threat Defense (MTD) (di động Threat quốc phòng Subcription là bắt buộc).
 
-            -   Giải pháp quản lý chi phí viễn thông (viễn thông với chi phí quản lý giải pháp đăng ký là bắt buộc).
+            -   Giải pháp quản lý chi phí viễn thông (đăng ký giải pháp quản lý chi phí viễn thông là bắt buộc).
 
-            -   Bảo vệ mối đe dọa nâng cao của Windows Defender (Windows E5 hoặc Microsoft 365 E5 giấy phép được yêu cầu).
+            -   Yêu cầu bảo vệ chống mối đe dọa nâng cao của Windows Defender (các giấy phép Windows E5 hoặc Microsoft 365 E5).
 
-    -   Đăng ký thiết bị mỗi [hỗ trợ nền tảng](https://technet.microsoft.com/library/dn600287.aspx) để dành.
+    -   Ghi danh các thiết bị của mỗi [nền tảng được hỗ trợ](https://technet.microsoft.com/library/dn600287.aspx) để InTune.
 
--   Cung cấp các ứng dụng bảo vệ hướng dẫn trên:
+-   Cung cấp hướng dẫn bảo vệ ứng dụng trên:
 
-    -   Cấu hình chính sách bảo vệ app cho mỗi nền tảng được hỗ trợ.
+    -   Cấu hình chính sách bảo vệ ứng dụng cho mỗi nền tảng được hỗ trợ.
 
-    -   Cấu hình chính sách truy cập có điều kiện cho các ứng dụng quản lý.
+    -   Cấu hình chính sách truy cập có điều kiện cho ứng dụng được quản lý.
 
-    -   Nhắm mục tiêu các nhóm người dùng thích hợp với các chính sách MAM ở trên.
+    -   Nhắm mục tiêu nhóm người dùng thích hợp với các chính sách MAM ở trên.
 
-    -   Sử dụng ứng dụng quản lý sử dụng báo cáo.
+    -   Sử dụng quản lý ứng dụng sử dụng báo cáo.
 
--   Cung cấp máy tính quản lý hướng dẫn trên:
+-   Cung cấp hướng dẫn quản lý máy tính trên:
 
-    -   Cài đặt phần mềm máy khách dành (khi cần).
+    -   Cài đặt phần mềm máy khách InTune (khi cần).
 
-    -   Sử dụng các báo cáo phần mềm và phần cứng có sẵn trong dành.
-
-    > [!IMPORTANT]
-    > FastTrack không hỗ trợ quản lý Windows 10 PC cổ điển với dành. FastTrack chỉ hỗ trợ quản lý thiết bị Windows 10 thông qua quản lý thiết bị di động dành (MDM).
-
-#### <a name="windows-autopilot"></a>Windows Autopilot
-
-FastTrack có thể giúp bạn thông qua đơn giản hoá của bạn thiết bị cung cấp với Windows Autopilot và dành bởi thiết bị mới cho người dùng cuối cùng của bạn mà không cần xây dựng, duy trì và áp dụng các hình ảnh tùy chỉnh hệ điều hành cho thiết bị của bạn.
-
-FastTrack hỗ trợ tình huống lái tự động sau:
-
-- **Tự phục vụ azure quảng cáo:** Các thiết bị tham gia quảng cáo Azure và ghi danh vào dành. Kịch bản này được hỗ trợ khi sử dụng Windows 10 1703 và phiên bản mới nhất.
-
-- **Lai AAD tự phục vụ:** Các thiết bị tham gia cả hai tại chỗ quảng cáo và quảng cáo Azure và ghi danh vào dành. Kịch bản này được hỗ trợ khi sử dụng Windows 10 năm 1809 và phiên bản mới nhất.
-
-- **Tự cung cấp:** Thiết bị tự động tham gia vào Azure quảng cáo. Kịch bản này được hỗ trợ khi sử dụng Windows 1809 và phiên bản mới nhất.
+    -   Sử dụng các báo cáo phần mềm và phần cứng có sẵn trong InTune.
 
     > [!IMPORTANT]
-    > FastTrack hỗ trợ tình huống lái tự động bắt đầu từ trình quản lý cấu hình.
+    > FastTrack không hỗ trợ quản lý Windows 10 Classic PC với InTune. FastTrack chỉ hỗ trợ quản lý thiết bị Windows 10 thông qua quản lý thiết bị di động InTune (MDM).
+
+#### <a name="windows-autopilot"></a>Cửa sổ Autopilot
+
+FastTrack có thể giúp bạn thông qua việc đơn giản hóa thiết bị của bạn cung cấp với Windows Autopilot và InTune bằng cách cho các thiết bị mới cho người dùng cuối của bạn mà không cần phải xây dựng, duy trì và áp dụng hình ảnh hệ điều hành tùy chỉnh cho các thiết bị của bạn.
+
+FastTrack hỗ trợ các kịch bản Autopilot sau đây:
+
+- **AZURE AD tự dịch vụ:** Thiết bị tham gia Azure AD và đăng ký InTune. Trường hợp này được hỗ trợ khi sử dụng Windows 10 1703 và các phiên bản mới nhất.
+
+- **Tự dịch vụ kết hợp AAD:** Thiết bị tham gia cả tại chỗ AD và Azure AD và đăng ký vào InTune. Trường hợp này được hỗ trợ khi sử dụng Windows 10 1809 và các phiên bản mới nhất.
+
+- **Tự cung cấp:** Thiết bị tự động tham gia Azure AD. Trường hợp này được hỗ trợ khi sử dụng Windows 1809 và các phiên bản mới nhất.
+
+    > [!IMPORTANT]
+    > FastTrack không hỗ trợ các kịch bản Autopilot bắt đầu từ trình quản lý cấu hình.
 
 Các bước để thiết lập Windows Autopilot phụ thuộc vào môi trường nguồn của bạn và nó có thể bao gồm:
 
-- Cấu hình và thiết lập Microsoft Intune cho Windows Autopilot.
+- Cấu hình và thiết lập Microsoft InTune cho Windows Autopilot.
 
-- Đặt cấu hình nhóm năng động Azure quảng cáo
+- Cấu hình nhóm động Azure AD
 
-- Thêm công ty của bạn, xây dựng thương hiệu vào Azure quảng cáo.
+- Thêm thương hiệu công ty của bạn vào Azure AD.
 
-- Tạo và gán cho các thiết bị để cấu hình Windows Autopilot (ví dụ như một hồ sơ Windows Autopilot hạn chế tạo tài khoản người quản trị của địa phương).
+- Tạo và gán thiết bị cho cấu hình Windows Autopilot (ví dụ: hồ sơ Windows Autopilot hạn chế tạo tài khoản quản trị viên cục bộ).
 
-- Tuỳ chỉnh Out-of-box-kinh nghiệm (OOBE) để phù hợp với yêu cầu của tổ chức.
+- Tuỳ chỉnh out-of-Box-kinh nghiệm (OOBE) để tuân thủ các yêu cầu của tổ chức.
 
-- Cấu hình MDM kết nạp tự động trong quảng cáo Azure và dành.
+- Cấu hình MDM tự động đăng ký Azure AD và InTune.
 
 #### <a name="deploy-outlook-for-ios-and-android-securely"></a>Triển khai Outlook cho iOS và Android một cách an toàn
 
-FastTrack có thể giúp bạn bằng cách triển khai Outlook cho iOS và Android một cách an toàn trong tổ chức của bạn để đảm bảo người dùng của bạn có tất cả các ứng dụng yêu cầu cài đặt.
+FastTrack có thể giúp bạn bằng cách triển khai Outlook cho iOS và Android trong tổ chức của bạn để đảm bảo người dùng của bạn có tất cả các ứng dụng bắt buộc được cài đặt.
 
-Các bước một cách an toàn có thể triển khai Outlook Mobile cho iOS và Android với dành phụ thuộc vào môi trường nguồn của bạn và nó có thể bao gồm:
+Các bước để triển khai an toàn Outlook Mobile cho iOS và Android với InTune phụ thuộc vào môi trường nguồn của bạn và có thể bao gồm:
 
-- Tải về Outlook cho iOS và Android, Microsoft Authenticator và các ứng dụng cổng thông tin công ty dành thông qua App Store của Apple hay Google chơi cửa hàng.
-- Cũng cung cấp hướng dẫn về cách thiết lập:
-    - Outlook cho iOS và Android, Microsoft Authenticator và triển khai ứng dụng cổng thông tin công ty dành với dành.
-    - Chính sách bảo vệ App
-    - Chính sách có điều kiện truy cập
-    - Ứng dụng cấu hình chính sách
+- Tải xuống Outlook for iOS và Android, Microsoft Authenticator và ứng dụng cổng thông tin công ty InTune qua Apple App Store hoặc cửa hàng Google Play.
+- Cũng cung cấp hướng dẫn về thiết lập:
+    - Outlook cho iOS và Android, Microsoft Authenticator và triển khai ứng dụng cổng công ty InTune với InTune.
+    - Chính sách bảo vệ ứng dụng
+    - Chính sách truy cập có điều kiện
+    - Chính sách cấu hình ứng dụng
 
     > [!IMPORTANT]
-    > FastTrack đội không hỗ trợ bảo vệ Outlook cho iOS và Android với chính sách hộp thư Exchange thiết bị di động.
+    > FastTrack nhóm không hỗ trợ bảo vệ Outlook cho iOS và Android với các chính sách hộp thư Exchange thiết bị di động.
 
 #### <a name="co-management"></a>Đồng quản lý
 
-FastTrack sẽ hướng dẫn bạn qua nhận được sẵn sàng để đồng thời quản lý các thiết bị Windows 10 với cấu hình quản lý và dành. Các bước chính xác phụ thuộc vào môi trường nguồn của bạn, và nó có thể bao gồm:
+FastTrack hướng dẫn bạn sẵn sàng đồng thời quản lý các thiết bị Windows 10 với cả trình quản lý cấu hình và InTune. Các bước chính xác phụ thuộc vào môi trường nguồn của bạn, và nó có thể bao gồm:
 
-- Giải thích các lợi ích của việc quản lý đồng.
+- Giải thích những lợi ích của việc đồng quản lý.
 
-- Giấy phép người dùng cuối cùng của bạn. FastTrack cũng cung cấp hỗ trợ về làm thế nào để kích hoạt giấy phép khối lượng nhất của Microsoft đám mây dịch vụ người thuê nhà (khi cần).
+- Cấp phép người dùng cuối của bạn. FastTrack cũng cung cấp hỗ trợ về cách kích hoạt giấy phép khối lượng cho thuê dịch vụ đám mây Microsoft của bạn (nếu cần).
 
-- Đặt cấu hình các danh tính được sử dụng bởi dành bằng cách tận dụng hoặc danh tính chỗ Active Directory và/hoặc đám mây của bạn.
+- Đặt cấu hình danh tính được sử dụng bởi InTune bằng các bản sắc Active Directory và/hoặc đám mây tại chỗ của bạn.
 
-- Thêm người dùng để đăng ký của bạn dành, nó xác định vai trò quản trị, và tạo ra các nhóm người dùng và thiết bị.
+- Thêm người dùng vào đăng ký InTune của bạn, xác định vai trò quản trị viên CNTT, và tạo người dùng và nhóm thiết bị.
 
-- Cung cấp hướng dẫn về làm thế nào để di chuyển từ dành tích hợp với hệ thống cấu hình quản lý trung tâm (lai) để dành độc lập.
+- Cung cấp hướng dẫn về cách di chuyển từ InTune tích hợp với hệ thống Trung tâm quản lý cấu hình (Hybrid) để InTune Standalone.
 
-- Cung cấp hướng dẫn về cách thiết lập Azure Active Directory cho MDM kết nạp tự động.
+- Cung cấp hướng dẫn về thiết lập Azure Active Directory cho MDM đăng ký tự động.
 
-- Cung cấp hướng dẫn thiết lập hybrid Azure Active Directory tham gia.
+- Cung cấp hướng dẫn thiết lập kết hợp Azure Active Directory tham gia.
 
-- Cung cấp hướng dẫn về làm thế nào để thiết lập các đám mây quản lý cổng
+- Cung cấp hướng dẫn về cách thiết lập cổng quản lý đám mây
 
-- Kích hoạt đồng quản lý trong giao diện điều khiển cấu hình quản lý.
+- Kích hoạt đồng quản lý trong bảng điều khiển quản lý cấu hình.
 
-- Cấu hình được hỗ trợ khối lượng công việc mà bạn muốn chuyển đổi để dành.
+- Cấu hình luồng công việc được hỗ trợ mà bạn muốn chuyển sang InTune.
 
-- Cài đặt trình quản lý cấu hình máy khách trong dành đăng ký thiết bị.
+- Cài đặt quản lý cấu hình máy khách trong InTune đăng ký thiết bị.
 
-- Cung cấp hướng dẫn về làm thế nào để giám sát các hoạt động hợp tác quản lý môi trường của bạn.
+- Cung cấp hướng dẫn về cách giám sát hoạt động co-Management trong môi trường của bạn.
 
-FastTrack cũng cung cấp cho bạn hướng dẫn trên làm thế nào để lái xe thành công thông qua các dịch vụ đủ điều kiện.
+FastTrack cũng cung cấp cho bạn hướng dẫn về cách thúc đẩy việc áp dụng thành công các dịch vụ đủ điều kiện.
 
-![Onboarding sử giai đoạn - dành](./media/ft-enable-phase_intune_mam.png)
+![Onboarding kích hoạt pha-InTune](./media/ft-enable-phase_intune_mam.png)
 
-![Onboarding sử giai đoạn - dành](./media/ft-enable-phase_intune_mdm-mam_cloudonly.png)
+![Onboarding kích hoạt pha-InTune](./media/ft-enable-phase_intune_mdm-mam_cloudonly.png)
 
-![Onboarding sử giai đoạn - đồng quản lý](./media/ft-9-enable-phase-comanagement.png)
+![Onboarding cho phép pha-đồng quản lý](./media/ft-9-enable-phase-comanagement.png)
 
-#### <a name="enable-phase--azure-information-protection"></a>Sử giai đoạn-bảo vệ thông tin Azure
+#### <a name="enable-phase--azure-information-protection"></a>Kích hoạt giai đoạn-bảo vệ thông tin Azure
 
-Khách hàng được cung cấp hướng dẫn về làm thế nào để: 
+Khách hàng được cung cấp hướng dẫn về cách: 
 
-- Kích hoạt và đặt cấu hình người thuê nhà của họ.
-- Tạo và thiết lập các chính sách và nhãn.
-- Áp dụng bảo vệ thông tin tài liệu. 
-- Tự động phân loại và ghi nhãn thông tin trong các ứng dụng văn phòng (như Word, PowerPoint, Excel và Outlook) chạy trên Windows và sử dụng các khách hàng bảo vệ thông tin Azure.
-- Sử dụng các tập tin còn lại sử dụng máy quét Azure bảo vệ thông tin.
-- Theo dõi email trong quá cảnh bằng cách sử dụng quy tắc dòng chảy thư Exchange Online.
+- Kích hoạt và cấu hình đối tượng thuê của họ.
+- Tạo và thiết lập nhãn và chính sách.
+- Áp dụng bảo vệ thông tin cho các tài liệu. 
+- Tự động phân loại và gắn nhãn thông tin trong các ứng dụng Office (như Word, PowerPoint, Excel và Outlook) chạy trên Windows và sử dụng máy khách Azure Information Protection.
+- Sử dụng tệp ở phần còn lại bằng cách sử dụng trình quét Azure Information Protection.
+- Theo dõi email chuyển tuyến bằng cách sử dụng quy tắc luồng thư Exchange Online.
 
-Hướng dẫn cũng được cung cấp cho khách hàng những người muốn áp dụng bảo vệ bằng cách sử dụng dịch vụ quản lý quyền Microsoft Azure (Azure RMS), Office 365 thư mã hóa (OME) và ngăn ngừa mất dữ liệu (DLP).
+Hướng dẫn cũng được cung cấp cho khách hàng muốn áp dụng bảo vệ bằng cách sử dụng Microsoft Azure quyền quản lý Dịch vụ (Azure RMS), văn phòng 365 mã hóa thư (OME) và ngăn mất dữ liệu (DLP).
 
 > [!NOTE]
 > **Muốn tìm hiểu thêm?** xem [doanh nghiệp di động + bảo mật](https://www.microsoft.com/en-us/cloud-platform/enterprise-mobility).
 
 ## <a name="next-steps"></a>Các bước tiếp theo
 
-[FastTrack lợi ích cho EMS - Microsoft trách nhiệm](EMS-fasttrack-responsibilities.md)
+[FastTrack lợi ích cho EMS-trách nhiệm của Microsoft](EMS-fasttrack-responsibilities.md)
