@@ -3,7 +3,7 @@ title: Lợi ích của Trung tâm FastTrack dành cho Office 365
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 08/02/2019
+ms.date: 09/04/2019
 ms.audience: ITPro
 ms.topic: overview
 f1_keywords:
@@ -11,32 +11,32 @@ f1_keywords:
 ms.service: o365-administration
 localization_priority: Priority
 ms.collection: FastTrack
-description: Bạn sử dụng các lợi ích Trung tâm FastTrack cho Office 365 khi bạn mua giấy phép tối thiểu 150 cho một dịch vụ đủ điều kiện hoặc kế hoạch cho bạn thuê nhà Office 365. Bạn sau đó làm việc với FastTrack chuyên gia đánh giá, remediate, sử, và lái xe cách sử dụng các dịch vụ đó. Các chuyên gia cũng cung cấp hướng dẫn di chuyển.
-ms.openlocfilehash: 442bd668d4f3b07712046a4d7415351b27c804ff
-ms.sourcegitcommit: 911b0d32a26eb068a2a94ebc48d9f8f2fc70e5a9
+description: Bạn sử dụng FastTrack Trung tâm lợi ích cho Office 365 khi bạn mua ít nhất 150 giấy phép cho một dịch vụ đủ điều kiện hoặc kế hoạch cho Office 365 thuê của bạn. Sau đó bạn làm việc với FastTrack chuyên gia đánh giá, remediate, kích hoạt, và lái xe sử dụng các dịch vụ. Các chuyên gia cũng cung cấp hướng dẫn di chuyển.
+ms.openlocfilehash: 28cdb8ad6821174fdb300975884f2448247bc4b5
+ms.sourcegitcommit: df949b40ade215de00f74771ffadf0d3be0de797
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 08/01/2019
-ms.locfileid: "36053901"
+ms.lasthandoff: 09/03/2019
+ms.locfileid: "36711654"
 ---
 # <a name="fasttrack-center-benefit-for-office-365"></a>Lợi ích của Trung tâm FastTrack dành cho Office 365
 
-Bạn sử dụng lợi ích Trung tâm FastTrack cho Office 365 khi bạn mua *tối thiểu* 150 giấy phép cho một dịch vụ đủ điều kiện hoặc kế hoạch cho bạn thuê nhà Office 365. Bạn sau đó làm việc với FastTrack chuyên gia đánh giá, remediate, sử, và lái xe cách sử dụng các dịch vụ đó. Các chuyên gia cũng cung cấp hướng dẫn di chuyển. 
+Bạn sử dụng FastTrack Trung tâm lợi ích cho Office 365 khi bạn mua ít *nhất* 150 giấy phép cho một dịch vụ đủ điều kiện hoặc kế hoạch cho Office 365 thuê của bạn. Sau đó bạn làm việc với FastTrack chuyên gia đánh giá, remediate, kích hoạt, và lái xe sử dụng các dịch vụ. Các chuyên gia cũng cung cấp hướng dẫn di chuyển. 
   
 > [!NOTE]
-> Cho các mục đích của tài liệu này, FastTrack chuyên gia có thể bao gồm nhân viên Microsoft, Microsoft đã phê duyệt nhà cung cấp, và các đối tác Microsoft chấp thuận. 
+> Cho mục đích của tài liệu này, FastTrack chuyên gia có thể bao gồm nhân viên của Microsoft, Microsoft chấp thuận nhà cung cấp và Microsoft chấp thuận đối tác. 
   
-Để đủ điều kiện cho các trung tâm FastTrack di chuyển dịch vụ, thuê nhà Office 365 của bạn phải có 500 hay nhiều giấy phép. Để biết thêm thông tin, hãy xem [Di chuyển dữ liệu](O365-data-migration.md).
+Để đủ điều kiện cho các dịch vụ di chuyển FastTrack Trung tâm, thuê Office 365 của bạn phải có 500 hoặc nhiều giấy phép. Để biết thêm thông tin, xem [di chuyển dữ liệu](O365-data-migration.md).
   
-Để tìm hiểu thêm về kế hoạch và đủ điều kiện Dịch vụ, hãy xem [dịch vụ đủ điều kiện và kế hoạch](M365-eligible-services-and-plans.md).
+Để tìm hiểu thêm về các dịch vụ và kế hoạch đủ điều kiện, hãy xem [các dịch vụ và gói cước đủ điều kiện](M365-eligible-services-and-plans.md).
   
-Để tìm hiểu về quá trình FastTrack Trung tâm và những người chịu trách nhiệm cho những gì, xem [FastTrack Trung tâm lợi ích tổng quan](O365-fasttrack-benefit-overview.md).
+Để tìm hiểu về quá trình FastTrack Trung tâm và những người chịu trách nhiệm về những gì, xem [FastTrack Trung tâm lợi ích tổng quan](O365-fasttrack-benefit-overview.md).
   
-Bạn đang tìm kiếm [FastTrack Trung tâm lợi ích cho doanh nghiệp vận động + bảo mật](EMS-fasttrack-benefit-for-EMS.md)? Nó bao gồm các thông tin về:
+Bạn đang tìm kiếm [FastTrack Trung tâm lợi ích cho doanh nghiệp di động + bảo mật](EMS-fasttrack-benefit-for-EMS.md)? Nó bao gồm các thông tin về:
   
-- Microsoft dành    
-- Azure Active Directory Premium 
+- Microsoft InTune    
+- Azure Active Directory cao cấp 
 - Bảo vệ thông tin Azure
     
 > [!NOTE]
-> Cho mục đích thông tin chỉ. 
+> Chỉ nhằm mục đích thông tin. 

@@ -1,194 +1,194 @@
 ---
-title: Onboarding và di chuyển giai đoạn cho văn phòng chính phủ Hoa Kỳ 365
+title: Onboarding và di cư giai đoạn cho văn phòng 365 chính phủ Hoa Kỳ
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 08/13/2019
+ms.date: 09/04/2019
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: None
 ms.collection: FastTrack
-description: Onboarding Office 365 Beta dành cho Office 365 Beta dành cho chúng tôi chính phủ có bốn giai đoạn chính — bắt đầu, Assess, Remediate, và cho phép. Bạn có thể làm theo các giai đoạn với một giai đoạn di chuyển dữ liệu tùy chọn như trong hình dưới đây.
-ms.openlocfilehash: dc7a100bf956e7f29d68b4392f13c488c0fbdf8e
-ms.sourcegitcommit: d469f9b0dfa7f39fde051c38f255d6f5790f62f5
+description: Office 365 bộ nhớ ngoài cho Office 365 chính phủ Hoa Kỳ có bốn giai đoạn chính — bắt đầu, đánh giá, remediate và Enable. Bạn có thể làm theo các giai đoạn này với một giai đoạn di chuyển dữ liệu tùy chọn như được hiển thị trong hình dưới đây.
+ms.openlocfilehash: 1c16d6f22b9739431d014bca490dd609f7564728
+ms.sourcegitcommit: df949b40ade215de00f74771ffadf0d3be0de797
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 08/12/2019
-ms.locfileid: "36294356"
+ms.lasthandoff: 09/03/2019
+ms.locfileid: "36712290"
 ---
-# <a name="onboarding-and-migration-phases-for-office-365-us-government"></a>Onboarding và di chuyển giai đoạn cho văn phòng chính phủ Hoa Kỳ 365
+# <a name="onboarding-and-migration-phases-for-office-365-us-government"></a>Onboarding và di cư giai đoạn cho văn phòng 365 chính phủ Hoa Kỳ
 
-Office 365 onboarding có bốn giai đoạn chính — bắt đầu, Assess, Remediate, và cho phép. Bạn có thể làm theo các giai đoạn với một giai đoạn di chuyển dữ liệu tùy chọn như trong hình dưới đây.
+Office 365 bộ nhớ ngoài có bốn giai đoạn chính — bắt đầu, đánh giá, remediate và Enable. Bạn có thể làm theo các giai đoạn này với một giai đoạn di chuyển dữ liệu tùy chọn như được hiển thị trong hình dưới đây.
   
-![Các giai đoạn của các lợi ích Onboarding](media/O365-Onboarding-Phases.png)
+![Các giai đoạn của lợi ích Onboarding](media/O365-Onboarding-Phases.png)
   
-Nhiệm vụ chi tiết cho từng giai đoạn, xem [FastTrack trách nhiệm cho chính phủ Hoa Kỳ Office 365](US-Gov-appendix-fasttrack-responsibilities.md) và [Trách nhiệm của bạn cho Office 365 chính phủ Hoa Kỳ](US-Gov-appendix-your-responsibilities.md).
+Đối với nhiệm vụ chi tiết cho mỗi giai đoạn, xem [FastTrack trách nhiệm cho văn phòng 365 chính phủ Hoa Kỳ](US-Gov-appendix-fasttrack-responsibilities.md) và [trách nhiệm của bạn cho văn phòng 365 chính phủ Hoa Kỳ](US-Gov-appendix-your-responsibilities.md).
   
 ## <a name="initiate-phase"></a>Bắt đầu giai đoạn
 
-Sau khi bạn mua số thích hợp và các loại giấy phép, theo sự hướng dẫn từ các email xác nhận mua hàng để liên kết các giấy phép cho người thuê nhà của bạn hiện tại hoặc mới. 
+Sau khi bạn mua số lượng và loại giấy phép thích hợp, hãy làm theo hướng dẫn từ email xác nhận mua để liên kết giấy phép với đối tượng thuê hiện tại hoặc mới của bạn. 
   
-Bạn có thể nhận được trợ giúp thông qua các [Trung tâm quản trị Microsoft 365](https://go.microsoft.com/fwlink/?linkid=2032704) hoặc [FastTrack trang web](https://go.microsoft.com/fwlink/?linkid=780698). 
+Bạn có thể nhận trợ giúp thông qua [Trung tâm quản trị Microsoft 365](https://go.microsoft.com/fwlink/?linkid=2032704) hoặc [trang web FastTrack](https://go.microsoft.com/fwlink/?linkid=780698). 
  
-Để được giúp đỡ thông qua [Trung tâm quản trị Microsoft 365](https://go.microsoft.com/fwlink/?linkid=2032704), quản trị của bạn đăng nhập vào Trung tâm quản trị và sau đó nhấp vào các **cần giúp đỡ?** widget. 
+Để được trợ giúp thông qua [Trung tâm quản trị Microsoft 365](https://go.microsoft.com/fwlink/?linkid=2032704), các dấu hiệu quản trị của bạn vào Trung tâm quản trị và sau đó nhấp vào **cần giúp đỡ?** widget. 
 
-Để được giúp đỡ thông qua [trang web FastTrack](https://go.microsoft.com/fwlink/?linkid=780698): 
+Để được trợ giúp thông qua [trang web FastTrack](https://go.microsoft.com/fwlink/?linkid=780698): 
 1.  Đăng nhập vào [trang web FastTrack](https://go.microsoft.com/fwlink/?linkid=780698). 
 2.  Chọn **FastTrack**.
 3.  Chọn **dịch vụ**.
-4.  Điền vào mẫu **yêu cầu để được hỗ trợ với Microsoft 365** . 
+4.  Hoàn tất **yêu cầu hỗ trợ với mẫu Microsoft 365** . 
 
-Đối tác cũng có thể giúp đỡ thông qua [trang web FastTrack](https://go.microsoft.com/fwlink/?linkid=780698) thay mặt cho một khách hàng. Để làm như vậy:
+Đối tác cũng có thể nhận trợ giúp thông qua [trang web FastTrack](https://go.microsoft.com/fwlink/?linkid=780698) thay mặt cho khách hàng. Để làm như vậy:
 1.  Đăng nhập vào [trang web FastTrack](https://go.microsoft.com/fwlink/?linkid=780698). 
 2.  Chọn **FastTrack**.
 3.  Chọn **khách hàng của tôi**.
 4.  Tìm kiếm khách hàng của bạn hoặc chọn chúng từ danh sách khách hàng của bạn.
 5.  Chọn **dịch vụ**.
-6.  Điền vào mẫu **yêu cầu để được hỗ trợ với Microsoft 365** .   
+6.  Hoàn tất **yêu cầu hỗ trợ với mẫu Microsoft 365** .   
 
-Bạn cũng có thể yêu cầu FastTrack Trung tâm trợ giúp từ [FastTrack trang web](https://go.microsoft.com/fwlink/?linkid=780698) trong danh sách các dịch vụ sẵn có cho người thuê nhà của bạn. 
+Bạn cũng có thể yêu cầu FastTrack Trung tâm trợ giúp từ các [trang web fasttrack](https://go.microsoft.com/fwlink/?linkid=780698) trong danh sách các dịch vụ có sẵn cho người thuê nhà của bạn. 
     
-Trong giai đoạn này, chúng tôi thảo luận về quá trình onboarding, kiểm tra dữ liệu của bạn và thiết lập một cuộc họp kickoff.
+Trong giai đoạn này, chúng tôi thảo luận về quá trình bộ nhớ ngoài, xác minh dữ liệu của bạn, và thiết lập một cuộc họp kickoff.
   
-Điều này bao gồm làm việc với bạn để hiểu làm thế nào bạn định sử dụng các dịch vụ và mục tiêu của tổ chức và kế hoạch để sử dụng dịch vụ lái xe.
+Điều này bao gồm làm việc với bạn để hiểu cách bạn dự định sử dụng dịch vụ và mục tiêu của tổ chức của bạn và kế hoạch để thúc đẩy việc sử dụng dịch vụ.
   
-![Onboarding bước trong giai đoạn bắt](media/O365-Onboarding-Initiate.png)
+![Các bước trên máy bay trong giai đoạn bắt đầu](media/O365-Onboarding-Initiate.png)
   
 ## <a name="assess-phase"></a>Đánh giá giai đoạn
 
-Quản lý FastTrack của bạn tiến hành một sự thành công tương tác lập kế hoạch các cuộc gọi với bạn và đội ngũ nhận con nuôi của bạn. Điều này giới thiệu đến bạn các khả năng của những dịch vụ đủ điều kiện bạn đã mua, các cơ sở quan trọng để thành công, phương pháp cho lái xe việc sử dụng dịch vụ, và tình huống bạn có thể sử dụng để có được giá trị từ các dịch vụ. Chúng tôi hỗ trợ bạn trong việc quy hoạch thành công và cung cấp thông tin phản hồi trên lĩnh vực chính (khi cần).
+FastTrack Manager của bạn tiến hành một cuộc gọi lập kế hoạch thành công tương tác với bạn và nhóm nhận con nuôi của bạn. Điều này giới thiệu bạn về các khả năng của các dịch vụ đủ điều kiện mà bạn đã mua, những nền tảng chính bạn cần để thành công, phương pháp để lái xe sử dụng dịch vụ và các kịch bản mà bạn có thể sử dụng để nhận giá trị từ các dịch vụ. Chúng tôi hỗ trợ bạn trong việc lập kế hoạch thành công và cung cấp phản hồi về các khu vực chính (nếu cần).
   
-FastTrack chuyên gia làm việc với bạn để đánh giá môi trường mã nguồn của bạn và các yêu cầu. Chúng tôi cung cấp các công cụ cho bạn để thu thập dữ liệu về môi trường của bạn và hướng dẫn bạn thông qua các yêu cầu băng thông ước lượng và đánh giá của bạn internet trình duyệt, Hệ điều hành khách, Hệ thống tên miền (DNS), mạng, cơ sở hạ tầng và hệ thống nhận dạng xác định xem bất kỳ thay đổi cần thiết cho onboarding. 
+FastTrack chuyên gia làm việc với bạn để đánh giá môi trường nguồn của bạn và các yêu cầu. Chúng tôi cung cấp các công cụ để bạn thu thập dữ liệu về môi trường của bạn và hướng dẫn bạn thông qua ước tính các yêu cầu băng thông và đánh đồng trình duyệt Internet của bạn, Hệ điều hành khách hàng, Hệ thống tên miền (DNS), mạng, cơ sở hạ tầng, và hệ thống nhận dạng để xác định nếu có thay đổi được yêu cầu cho onboarding. 
   
-Dựa trên các thiết lập hiện tại của bạn, chúng tôi cung cấp một kế hoạch khắc phục mang lại môi trường mã nguồn của bạn lên đến các yêu cầu tối thiểu cho thành công onboarding cho Office 365 và, nếu cần thiết, để di chuyển hộp thư và/hoặc dữ liệu thành công. Chúng tôi cung cấp một tập hợp các đề xuất các hoạt động để tăng giá trị kết thúc người dùng và nhận con nuôi. Chúng tôi cũng thiết lập cuộc gọi trạm kiểm soát thích hợp cho giai đoạn Remediate.
+Dựa trên thiết lập hiện tại của bạn, chúng tôi cung cấp một kế hoạch khắc phục mang lại môi trường nguồn của bạn đến các yêu cầu tối thiểu để thành công bộ nhớ ngoài cho Office 365 và, nếu cần thiết, cho hộp thư thành công và/hoặc di chuyển dữ liệu. Chúng tôi cung cấp một tập hợp các hoạt động đề xuất để tăng giá trị người dùng cuối và nhận con nuôi. Chúng tôi cũng thiết lập điểm kiểm tra thích hợp cho giai đoạn remediate.
   
-![Onboarding bước cho giai đoạn Assess](media/O365.png)
+![Các bước của onboarding cho giai đoạn đánh giá](media/O365.png)
   
-## <a name="remediate-phase"></a>Remediate giai đoạn
+## <a name="remediate-phase"></a>Giai đoạn remediate
 
-Bạn làm nhiệm vụ khắc phục dựa trên môi trường mã nguồn của bạn để cho bạn đáp ứng các yêu cầu cho onboarding, việc áp dụng, và di chuyển dịch vụ mỗi khi cần thiết.
+Bạn thực hiện các tác vụ khắc phục dựa trên môi trường nguồn của bạn để bạn đáp ứng các yêu cầu về onboarding, áp dụng và di chuyển từng dịch vụ khi cần thiết.
   
-![Onboarding bước trong giai đoạn Remediate](media/O365-Onboarding-Remediate.png)
+![Các bước trong giai đoạn remediate](media/O365-Onboarding-Remediate.png)
   
-Chúng tôi cũng cung cấp một tập hợp các đề xuất các hoạt động để tăng giá trị kết thúc người dùng và nhận con nuôi. Trước khi bắt đầu giai đoạn cho phép, chúng tôi phối hợp xác minh kết quả của các hoạt động khắc phục để đảm bảo rằng bạn đã sẵn sàng để tiếp tục. 
+Chúng tôi cũng cung cấp một tập hợp các hoạt động được đề xuất để tăng giá trị người dùng cuối và nhận con nuôi. Trước khi bắt đầu kích hoạt giai đoạn, chúng tôi cùng xác minh kết quả của các hoạt động khắc phục để đảm bảo rằng bạn đã sẵn sàng để tiến hành. 
   
-Trong giai đoạn này, FastTrack Manager của bạn làm việc với bạn về thành công, lập kế hoạch, hướng dẫn cho bạn các nguồn lực bên phải và các thực hành tốt nhất để cung cấp hướng dẫn cho bạn để làm cho các dịch vụ có sẵn để tổ chức và sử dụng ổ đĩa của bạn trên các dịch vụ.
+Trong giai đoạn này, FastTrack quản lý của bạn làm việc với bạn về lập kế hoạch thành công, hướng dẫn bạn đến các nguồn lực phù hợp và thực tiễn tốt nhất để cung cấp hướng dẫn cho bạn để làm cho các dịch vụ có sẵn cho tổ chức của bạn và lái xe sử dụng trên các dịch vụ.
   
-## <a name="enable-phase"></a>Sử giai đoạn
+## <a name="enable-phase"></a>Kích hoạt giai đoạn
 
-Khi tất cả các hoạt động khắc phục hoàn toàn, tập trung thay đổi cấu hình cơ sở hạ tầng cốt lõi cho tiêu thụ dịch vụ, cung cấp Office 365, và tiến hành các hoạt động để lái xe dịch vụ nhận con nuôi. 
+Khi tất cả các hoạt động khắc phục hoàn tất, sự thay đổi tập trung để cấu hình cơ sở hạ tầng cốt lõi cho việc tiêu thụ dịch vụ, cung cấp văn phòng 365, và tiến hành các hoạt động để vận chuyển dịch vụ thông qua. 
   
-## <a name="core"></a>Cốt lõi
+## <a name="core"></a>Lõi
 
-Lõi onboarding liên quan đến dịch vụ cung cấp và người thuê nhà và danh tính tích hợp. Nó cũng bao gồm các bước để cung cấp một nền tảng cho onboarding dịch vụ như Exchange Online, SharePoint Online, và Skype cho kinh doanh trực tuyến. Bạn và của bạn quản lý FastTrack tiếp tục có thành công trạm kiểm soát cuộc họp để đánh giá sự tiến bộ so với mục tiêu của bạn và xác định những gì hỗ trợ thêm bạn cần có kế hoạch.
+Lõi bộ nhớ ngoài liên quan đến dịch vụ cung cấp và thuê và danh tính tích hợp. Nó cũng bao gồm các bước để cung cấp một nền tảng cho các dịch vụ bộ nhớ ngoài như Exchange Online, SharePoint Online và Skype for Business Online. Bạn và FastTrack Manager của bạn tiếp tục có cuộc họp lập kế hoạch thành công điểm kiểm tra để đánh giá tiến độ đối với mục tiêu của bạn và xác định những hỗ trợ thêm bạn cần.
   
-![Lõi onboarding bước trong quá trình kích hoạt phase_1](media/O365-Onboarding-Enable-Core.png)
+![Các bước bộ nhớ ngoài cốt lõi trong quá trình kích hoạt phase_1](media/O365-Onboarding-Enable-Core.png)
   
-![Lõi onboarding bước trong quá trình kích hoạt phase_2](media/204bbb6c-f7fe-4401-aa69-dd828ed44963.png)
+![Các bước bộ nhớ ngoài cốt lõi trong quá trình kích hoạt phase_2](media/204bbb6c-f7fe-4401-aa69-dd828ed44963.png)
   
 > [!NOTE]
-> WAP là viết tắt của Proxy Web ứng dụng. SSL là viết tắt của Secure Sockets Layer. SDS là viết tắt của trường dữ liệu đồng bộ. Để biết thêm chi tiết trên SDS, xem [chào mừng đến với Microsoft trường dữ liệu đồng bộ](https://go.microsoft.com/fwlink/?linkid=871480). 
+> WAP là viết tắt của proxy ứng dụng web. SSL là viết tắt của Secure Socket Layer. SDS là viết tắt của School Data Sync. Để biết thêm thông tin về SDS, xem [chào mừng bạn đến với Microsoft School Data Sync](https://go.microsoft.com/fwlink/?linkid=871480). 
   
-Onboarding cho một hoặc nhiều dịch vụ đủ điều kiện có thể bắt đầu khi lõi onboarding được hoàn thành.
+Bộ nhớ ngoài cho một hoặc nhiều dịch vụ đủ điều kiện có thể bắt đầu một khi lõi bộ nhớ ngoài được hoàn tất.
   
 ## <a name="exchange-online"></a>Trao đổi trực tuyến
 
-Đối với Exchange Online, chúng tôi hướng dẫn bạn qua quá trình nhận được tổ chức của bạn đã sẵn sàng để sử dụng email. Các bước chính xác, tùy thuộc vào môi trường nguồn của bạn và kế hoạch di chuyển email của bạn, có thể bao gồm việc cung cấp hướng dẫn cho:
+Đối với Exchange Online, chúng tôi hướng dẫn bạn qua quá trình này để có được tổ chức của bạn đã sẵn sàng sử dụng email. Các bước chính xác, tùy thuộc vào môi trường nguồn và kế hoạch di chuyển email của bạn, có thể bao gồm cung cấp hướng dẫn cho:
   
-- Thiết lập các tính năng bảo vệ trực tuyến trao đổi (EOP) cho tất cả tên miền kích hoạt thư xác nhận trong Office 365.   
+- Thiết lập tính năng Exchange Online Protection (EOP) cho tất cả các miền hỗ trợ thư xác nhận trong Office 365.   
     > [!NOTE]
-    > Hồ sơ trao đổi (MX) mail của bạn phải trỏ đến Office 365.   
-- Thiết lập tính năng trao đổi trực tuyến nâng cao mối đe dọa bảo vệ (ATP) nếu nó là một phần của dịch vụ thuê bao của bạn sau khi bản ghi MX của mình trỏ đến Office 365. Tính năng này được cấu hình như một phần của thiết lập antimalware bảo vệ trực tuyến trao đổi.   
-- Cấu hình tường lửa của cảng.   
-- Thiết lập DNS, bao gồm tự động phát hiện yêu cầu, khung chính sách người gửi (SPF) và bản ghi MX (khi cần).     
-- Thiết lập email dòng chảy giữa các nguồn của bạn nhắn tin môi trường và Exchange Online (khi cần).   
-- Thực hiện di chuyển thư từ nguồn của bạn nhắn tin môi trường cho Office 365.   
+    > Hồ sơ trao đổi thư (MX) của bạn phải trỏ tới Office 365.   
+- Thiết lập tính năng bảo vệ mối đe dọa nâng cao của Exchange Online (ATP) nếu nó là một phần của dịch vụ đăng ký của bạn sau khi bản ghi MX trỏ tới Office 365. Tính năng này được cấu hình là một phần của cài đặt Exchange Online Protection antimalware.   
+- Cấu hình cổng tường lửa.   
+- Thiết lập DNS, bao gồm yêu cầu tự động phát hiện, khung chính sách người gửi (SPF) và bản ghi MX (nếu cần).     
+- Thiết lập luồng email giữa môi trường tin nhắn nguồn của bạn và Exchange Online (nếu cần).   
+- Cam kết di chuyển thư từ môi trường tin nhắn nguồn của bạn cho Office 365.   
     > [!NOTE]
-    > Để biết thêm chi tiết về di chuyển thư và dữ liệu, hãy xem [Di chuyển dữ liệu](O365-data-migration.md). 
+    > Để biết thêm thông tin về di chuyển thư và dữ liệu, xem [di chuyển dữ liệu](O365-data-migration.md). 
   
-![Trao đổi onboarding bước trong giai đoạn kích hoạt](media/O365-Onboarding-Enable-Exchange.png)
+![Exchange bộ nhớ ngoài bước trong giai đoạn kích hoạt](media/O365-Onboarding-Enable-Exchange.png)
   
-## <a name="sharepoint-online-and-onedrive-for-business"></a>Trực tuyến SharePoint và OneDrive cho doanh nghiệp
+## <a name="sharepoint-online-and-onedrive-for-business"></a>SharePoint trực tuyến và OneDrive dành cho doanh nghiệp
 
-Nhất trực tuyến SharePoint và OneDrive cho doanh nghiệp, chúng tôi cung cấp hướng dẫn cho: 
+Đối với SharePoint Online và OneDrive for Business, chúng tôi cung cấp hướng dẫn cho: 
 - Thiết lập DNS.   
-- Cấu hình tường lửa của cảng.   
+- Cấu hình cổng tường lửa.   
 - Cung cấp người dùng và giấy phép.   
-- Cấu hình tính năng lai SharePoint, như lai tìm, trang web hybrid, lai phân loại, loại nội dung, tạo ra trang web tự phục vụ lai (SharePoint Server 2013 chỉ), mở rộng ứng dụng launcher, lai OneDrive cho doanh nghiệp, và các trang web extranet.
+- Cấu hình SharePoint kết hợp tính năng, như tìm kiếm kết hợp, trang web kết hợp phân loại, loại nội dung, tạo trang web tự phục vụ kết hợp (SharePoint Server 2013 chỉ), mở rộng ứng dụng phóng, kết hợp OneDrive cho doanh nghiệp và extranet trang web.
     
-FastTrack chuyên cung cấp hướng dẫn về di chuyển dữ liệu sang Office 365 bằng cách sử dụng một sự kết hợp các công cụ và tài liệu hướng dẫn và thực hiện nhiệm vụ cấu hình nơi mà áp dụng và khả thi.
+FastTrack chuyên gia cung cấp hướng dẫn về di chuyển dữ liệu đến văn phòng 365 bằng cách sử dụng một sự kết hợp của các công cụ và tài liệu và thực hiện nhiệm vụ cấu hình khi áp dụng và khả thi.
   
-![SharePoint và Skype cho doanh nghiệp onboarding bước](media/O365-Onboarding-Enable-SP.png)
+![SharePoint và Skype dành cho doanh nghiệp bộ nhớ ngoài bước](media/O365-Onboarding-Enable-SP.png)
   
 ## <a name="onedrive-for-business"></a>OneDrive cho doanh nghiệp
 
-Cho OneDrive cho doanh nghiệp, các bước tùy thuộc vào nếu bạn đang sử dụng SharePoint, và nếu như vậy, phiên bản nào. 
+OneDrive cho doanh nghiệp, các bước phụ thuộc vào nếu bạn đang sử dụng SharePoint, và nếu có, phiên bản nào. 
   
-![OneDrive onboarding bước trong giai đoạn kích hoạt](media/O365-Onboarding-Enable-ODB.png)
+![OneDrive bộ nhớ ngoài bước trong giai đoạn kích hoạt](media/O365-Onboarding-Enable-ODB.png)
   
 ## <a name="skype-for-business-online"></a>Skype cho doanh nghiệp trực tuyến
 
-Cho Skype cho kinh doanh trực tuyến, chúng tôi cung cấp hướng dẫn cho: 
-- Cấu hình tường lửa của cảng.    
+Đối với Skype dành cho doanh nghiệp trực tuyến, chúng tôi cung cấp hướng dẫn cho: 
+- Cấu hình cổng tường lửa.    
 - Thiết lập DNS.    
-- Tạo tài khoản cho bất kỳ phòng thiết bị hệ thống.    
-- Triển khai một Skype hỗ trợ cho khách hàng doanh nghiệp trực tuyến.   
-- Thiết lập cấu hình máy chủ tên miền phân chia giữa của bạn tại chỗ Lync 2010, Lync 2013, hoặc Skype cho môi trường máy chủ kinh doanh năm 2015 và Skype cho kinh doanh trực tuyến người thuê nhà (nếu có).
-- Tạo điều kiện cho kế hoạch kêu gọi, Skype họp phát sóng, và hệ thống điện thoại và gọi kế hoạch (tại các thị trường có sẵn-không có trong kế hoạch GCC cao hay bộ quốc phòng Mỹ). 
+- Tạo tài khoản cho bất kỳ thiết bị hệ thống phòng nào.    
+- Triển khai một Skype được hỗ trợ cho khách hàng doanh nghiệp trực tuyến.   
+- Thiết lập cấu hình máy chủ chia miền giữa chỗ Lync 2010, Lync 2013 hoặc Skype dành cho doanh nghiệp 2015 máy chủ môi trường và Skype dành cho doanh nghiệp trực tuyến thuê (nếu áp dụng).
+- Cho phép kế hoạch gọi, phát sóng cuộc họp Skype, và hệ thống điện thoại và kế hoạch kêu gọi (ở các thị trường có sẵn-không có trong kế hoạch GCC cao hoặc DoD). 
     
-![Lync onboarding bước trong quá trình kích hoạt phase_1](media/O365-Onboarding-Enable-Lync.png)
+![Lync bộ nhớ ngoài bước trong quá trình kích hoạt phase_1](media/O365-Onboarding-Enable-Lync.png)
   
-![Skype cho doanh nghiệp onboarding bước trong quá trình kích hoạt phase_2](media/SfBOifappborderupdate.png)
+![Skype cho doanh nghiệp bộ nhớ ngoài bước trong quá trình kích hoạt phase_2](media/SfBOifappborderupdate.png)
   
-## <a name="microsoft-teams"></a>Microsoft đội
+## <a name="microsoft-teams"></a>Microsoft teams
 
 > [!NOTE]
-> Sau đây là không có sẵn trong kế hoạch GCC cao hay DoD.
+> Sau đây là không có sẵn trong các kế hoạch GCC cao hoặc DoD.
 
-Đối với Microsoft Teams, chúng tôi cung cấp hướng dẫn cho: 
+Đối với Microsoft teams, chúng tôi cung cấp hướng dẫn cho: 
 - Xác nhận yêu cầu tối thiểu.   
-- Cấu hình tường lửa của cảng.   
+- Cấu hình cổng tường lửa.   
 - Thiết lập DNS.  
-- Xác nhận các Teams Microsoft được kích hoạt trên của bạn thuê nhà Office 365.    
-- Cho phép hoặc vô hiệu hóa người dùng giấy phép.
+- Xác nhận Microsoft teams được bật trên thuê Office 365.    
+- Bật hoặc tắt giấy phép người dùng.
     
-![Sơ đồ FastTrack Microsoft đội (Enable giai đoạn)](media/42a2d990-4e27-4758-b0cd-0024963c1542.png)
+![Biểu đồ của FastTrack Microsoft teams (kích hoạt giai đoạn)](media/42a2d990-4e27-4758-b0cd-0024963c1542.png)
   
-## <a name="power-bi"></a>Sức mạnh BI
+## <a name="power-bi"></a>Điện BI
 
-Đối với điện BI, chúng tôi cung cấp hướng dẫn cho:  
-- Gán giấy phép điện BI.    
-- Triển khai các ứng dụng máy tính để bàn điện BI.   
+Đối với Power BI, chúng tôi cung cấp hướng dẫn cho:  
+- Gán giấy phép Power BI.    
+- Triển khai ứng dụng Power BI Desktop.   
 ## <a name="project-online"></a>Dự án trực tuyến
 
-Đối với dự án trực tuyến, chúng tôi cung cấp hướng dẫn cho: 
-- Kiểm tra chức năng SharePoint cơ bản dự án trực tuyến dựa trên.    
-- Việc thêm các dịch vụ trực tuyến dự án cho người thuê nhà của bạn (bao gồm cả việc thêm các mục đăng ký cho người sử dụng).    
-- Thiết lập ngoài trời nguồn lực doanh nghiệp (ERP).   
-- Việc tạo ra các dự án đầu tiên của bạn. 
+Đối với Project Online, chúng tôi cung cấp hướng dẫn cho: 
+- Xác minh chức năng SharePoint cơ bản dự án trực tuyến dựa trên.    
+- Thêm dịch vụ dự án trực tuyến cho đối tượng thuê của bạn (bao gồm thêm đăng ký cho người dùng).    
+- Thiết lập các doanh nghiệp tài nguyên bơi (ERP).   
+- Tạo dự án đầu tiên của bạn. 
     
-![Các bước diễn ra trong giai đoạn cho phép cho các dự án trực tuyến](media/d8dd7d31-1df6-4df4-a1aa-4dbdd34b973e.png)
+![Các bước xảy ra trong giai đoạn kích hoạt cho dự án trực tuyến](media/d8dd7d31-1df6-4df4-a1aa-4dbdd34b973e.png)
   
 ## <a name="yammer-enterprise"></a>Yammer doanh nghiệp
 
-Cho Yammer, chúng tôi cung cấp hướng dẫn cho phép Dịch vụ Yammer doanh nghiệp.
+Đối với yammer, chúng tôi cung cấp hướng dẫn cho phép Dịch vụ yammer Enterprise.
 
 > [!NOTE]
-> Yammer doanh nghiệp không phải là một thành phần của Office 365 chính phủ Hoa Kỳ nhưng có thể được mua tại không có chi phí như là một cung cấp độc lập cho mỗi người dùng cấp phép cho Office 365 tại GCC. Điều này cung cấp là hiện tại đang hạn chế cho các khách hàng mua Office 365 GCC theo thỏa thuận doanh nghiệp và các doanh nghiệp đăng ký thỏa thuận. Yammer không có sẵn trong các kế hoạch GCC cao hay DoD. 
+> Yammer Enterprise không phải là một thành phần của văn phòng 365 chính phủ Hoa Kỳ nhưng có thể được mua miễn phí như là một đề nghị độc lập cho mỗi người dùng được cấp phép cho Office 365 trong GCC. Đề nghị này hiện đang giới hạn cho khách hàng mua Office 365 GCC theo thỏa thuận doanh nghiệp và thỏa thuận đăng ký doanh nghiệp. Yammer không có sẵn trong gói GCC cao hoặc DoD. 
   
-## <a name="office-365-proplus"></a>Office 365 ProPlus
+## <a name="office-365-proplus"></a>Văn phòng 365 ProPlus
 
 Đối với Office 365 ProPlus, chúng tôi cung cấp hướng dẫn cho: 
 - Giải quyết vấn đề triển khai.    
 - Gán giấy phép người dùng cuối bằng cách sử dụng [Trung tâm quản trị Microsoft 365](https://go.microsoft.com/fwlink/?linkid=2032704) và Windows PowerShell.    
-- Cài đặt Office 365 ProPlus từ cổng Office 365 bằng cách sử dụng chuột để chạy.    
-- Cài đặt ứng dụng Office Mobile (như Outlook Mobile, từ điện thoại di động, điện thoại di động Excel và PowerPoint di động) trên iOS, Android hoặc Windows Mobile thiết bị.   
+- Cài đặt Office 365 ProPlus từ cổng 365 Office sử dụng click-to-run.    
+- Cài đặt ứng dụng Office Mobile (như Outlook Mobile, Word Mobile, Excel Mobile và PowerPoint Mobile) trên các thiết bị chạy iOS, Android hoặc Windows Mobile của bạn.   
 - Cấu hình cài đặt bản Cập Nhật bằng cách sử dụng công cụ triển khai Office 365.    
-- Thiết lập một máy chủ duy nhất phân phối ngay trong khuôn viên cho Office 365 ProPlus, bao gồm hỗ trợ với việc tạo ra một tập tin configuration.xml để sử dụng với công cụ triển khai Office 365.    
-- Triển khai bằng cách sử dụng Microsoft hệ thống Trung tâm cấu hình quản lý, bao gồm hỗ trợ với việc tạo ra các hệ thống quản lý cấu hình Trung tâm bao bì.
+- Thiết lập một máy chủ phân phối trên trang web cho Office 365 ProPlus, bao gồm hỗ trợ tạo tệp configuration. xml để sử dụng với công cụ triển khai Office 365.    
+- Triển khai bằng cách sử dụng trình quản lý cấu hình Microsoft System Center, bao gồm hỗ trợ với việc tạo ra các hệ thống Trung tâm quản lý cấu hình bao bì.
     
-![Office ProPlus onboarding bước](media/O365-Onboarding-Enable-OProPlus.png)
+![Các bước Office ProPlus bộ nhớ ngoài](media/O365-Onboarding-Enable-OProPlus.png)
 
   
 

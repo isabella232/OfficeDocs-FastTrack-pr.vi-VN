@@ -3,35 +3,35 @@ title: Phụ lục D - Tổng quan về Lợi ích Trung tâm FastTrack dành ch
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 08/02/2019
+ms.date: 09/04/2019
 ms.audience: ITPro
 ms.topic: article
 ms.service: o365-administration
 localization_priority: None
-description: Với FastTrack Trung tâm lợi ích cho Office 365, bạn làm việc từ xa với FastTrack chuyên gia để có được môi trường Office 365 của bạn đã sẵn sàng cho việc sử dụng và kế hoạch triển khai và sử dụng trong tổ chức của bạn.
-ms.openlocfilehash: d3bc324674ab18bb4345578fcca6340bbcf2cc84
-ms.sourcegitcommit: 911b0d32a26eb068a2a94ebc48d9f8f2fc70e5a9
+description: Với FastTrack Trung tâm lợi ích cho văn phòng 365, bạn làm việc từ xa với FastTrack chuyên gia để có được môi trường Office 365 của bạn sẵn sàng để sử dụng và kế hoạch triển khai và sử dụng trong tổ chức của bạn.
+ms.openlocfilehash: 39b9c797990ad4cb83ed48cd24c4a4db9c0540b6
+ms.sourcegitcommit: df949b40ade215de00f74771ffadf0d3be0de797
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 08/01/2019
-ms.locfileid: "36054045"
+ms.lasthandoff: 09/03/2019
+ms.locfileid: "36712206"
 ---
 # <a name="appendix-d---fasttrack-center-benefit-overview-for-office-365-us-government"></a>Phụ lục D - Tổng quan về Lợi ích Trung tâm FastTrack dành cho Office 365 US Government
 
-Với FastTrack Trung tâm lợi ích cho Office 365, bạn làm việc từ xa với FastTrack chuyên gia để có được môi trường Office 365 của bạn đã sẵn sàng cho việc sử dụng và kế hoạch triển khai và sử dụng trong tổ chức của bạn. 
+Với FastTrack Trung tâm lợi ích cho văn phòng 365, bạn làm việc từ xa với FastTrack chuyên gia để có được môi trường Office 365 của bạn sẵn sàng để sử dụng và kế hoạch triển khai và sử dụng trong tổ chức của bạn. 
   
-Mặc dù hầu hết các sản phẩm và các tính năng giống nhau giữa các gói Office 365, Office 365 chính phủ Hoa Kỳ, không phải tất cả các tính năng hiện đang có sẵn trong tất cả các kế hoạch. Xem lại mô tả Dịch vụ [Office 365 chính phủ Hoa Kỳ](https://aka.ms/aboutgovcloud) cho các danh sách mới nhất các tính năng.
+Mặc dù hầu hết các sản phẩm và tính năng đều giống nhau giữa Office 365 Suite và Office 365 chính phủ Hoa Kỳ, không phải tất cả các tính năng đều hiện có sẵn trong tất cả các kế hoạch. Kiểm lại [văn phòng 365 mô tả Dịch vụ chính phủ Hoa Kỳ](https://aka.ms/aboutgovcloud) cho danh sách các tính năng được up-to-date nhất.
 
 > [!NOTE]
-> Để nhận được dịch vụ FastTrack, đi đến [trang web FastTrack](https://go.microsoft.com/fwlink/?linkid=780698) và yêu cầu hỗ trợ.  
+> Để nhận được dịch vụ FastTrack, hãy truy cập [trang web fasttrack](https://go.microsoft.com/fwlink/?linkid=780698) và yêu cầu hỗ trợ.  
 
 Chúng tôi bao gồm các chủ đề sau:
 - [Quy trình FastTrack](O365-fasttrack-process.md) 
-- [Nguồn môi trường kỳ vọng cho Office 365 chính phủ Hoa Kỳ](US-Gov-appendix-source-environment-expectations.md)   
-- [Onboarding và di chuyển giai đoạn cho văn phòng chính phủ Hoa Kỳ 365](US-Gov-appendix-onboarding-and-migration.md)
+- [Môi trường nguồn mong đợi cho văn phòng 365 chính phủ Hoa Kỳ](US-Gov-appendix-source-environment-expectations.md)   
+- [Onboarding và di cư giai đoạn cho văn phòng 365 chính phủ Hoa Kỳ](US-Gov-appendix-onboarding-and-migration.md)
 - [Di chuyển dữ liệu](O365-data-migration.md)    
-- [FastTrack trách nhiệm cho Office 365 chính phủ Hoa Kỳ](US-Gov-appendix-fasttrack-responsibilities.md)   
-- [Trách nhiệm của bạn cho Office 365 chính phủ Hoa Kỳ](US-Gov-appendix-your-responsibilities.md) 
+- [Trách nhiệm của FastTrack cho văn phòng 365 chính phủ Hoa Kỳ](US-Gov-appendix-fasttrack-responsibilities.md)   
+- [Trách nhiệm của bạn cho văn phòng 365 chính phủ Hoa Kỳ](US-Gov-appendix-your-responsibilities.md) 
 - [Phụ lục A - Di chuyển từ IBM Domino sang Exchange Online](O365-from-ibm-domino-to-exchange-online.md)   
 - [Phụ lục B - Lợi ích bổ sung của Trung tâm FastTrack](O365-fasttrack-additional-benefits.md)
 

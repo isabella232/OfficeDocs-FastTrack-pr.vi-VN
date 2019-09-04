@@ -1,108 +1,108 @@
 ---
-title: Trách nhiệm của bạn cho Office 365 chính phủ Hoa Kỳ
+title: Trách nhiệm của bạn cho văn phòng 365 chính phủ Hoa Kỳ
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 08/02/2019
+ms.date: 09/04/2019
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: None
 ms.collection: FastTrack
-description: Bạn có trách nhiệm sau đây trong onboarding.
-ms.openlocfilehash: 6cbb7652e2ba42c82a4fa12c217d5fa078ddba8d
-ms.sourcegitcommit: 911b0d32a26eb068a2a94ebc48d9f8f2fc70e5a9
+description: Bạn có trách nhiệm sau đây trong quá trình onboarding.
+ms.openlocfilehash: c01471077e3dde1fee4c210f2d0328d06d5224c5
+ms.sourcegitcommit: df949b40ade215de00f74771ffadf0d3be0de797
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 08/01/2019
-ms.locfileid: "36054021"
+ms.lasthandoff: 09/03/2019
+ms.locfileid: "36712181"
 ---
-# <a name="your-responsibilities-for-office-365-us-government"></a>Trách nhiệm của bạn cho Office 365 chính phủ Hoa Kỳ
+# <a name="your-responsibilities-for-office-365-us-government"></a>Trách nhiệm của bạn cho văn phòng 365 chính phủ Hoa Kỳ
 
-Bạn có trách nhiệm sau đây trong onboarding.
+Bạn có trách nhiệm sau đây trong quá trình onboarding.
   
-## <a name="general"></a>Tổng quát
+## <a name="general"></a>Chung
 
-- Phát triển và thực hiện các kế hoạch thành công của bạn.   
-- Cung cấp cho bất kỳ cải tiến và tích hợp cho người thuê nhà Office 365 của bạn vượt ra ngoài các tùy chọn cấu hình được liệt kê ở đây.    
-- Cung cấp các chương trình tổng thể và quản lý dự án, bao gồm:     
-  - Gán một người quản lý dự án là liên hệ chính cho FastTrack Manager.   
-  - Việc phân công một chì kỹ thuật như số liên lạc chủ yếu cho các kỹ sư FastTrack.  
-  - Việc phân công các nguồn lực kỹ thuật để thực hiện khắc phục, cấu hình, và enablement công việc như đã nêu của đội FastTrack.   
-- Cung cấp các nguồn tài nguyên chịu trách nhiệm cho các lái xe người dùng cuối nhận con nuôi của dịch vụ.    
-- Cung cấp thông tin liên lạc của người dùng cuối, tài liệu hướng dẫn, đào tạo và quản lý thay đổi.    
-- Xác định và thu hút các nhà tài trợ kinh doanh thích hợp.     
-- Cung cấp tài liệu hướng dẫn của bộ phận trợ giúp và đào tạo.     
-- Sản xuất bất kỳ báo cáo, thuyết trình, hoặc biên bản họp cụ thể đối với tổ chức của bạn.     
-- Tạo tài liệu kiến trúc và kỹ thuật cụ thể để tổ chức của bạn.     
-- Thiết kế, Mua, cài đặt và cấu hình phần cứng và mạng.    
-- Mua, cài đặt và cấu hình phần mềm.     
-- Đặt cấu hình, gói, và phân phối phần mềm khách hàng yêu cầu cho Office 365.    
-- Quản lý, đặt cấu hình và áp dụng chính sách bảo mật.    
+- Phát triển và thực hiện kế hoạch thành công của bạn.   
+- Cung cấp bất kỳ cải tiến và tích hợp cho thuê Office 365 của bạn ngoài các tùy chọn cấu hình được liệt kê ở đây.    
+- Cung cấp chương trình tổng thể và quản lý dự án, bao gồm:     
+  - Gán người quản lý dự án làm người liên hệ chính cho FastTrack Manager.   
+  - Gán một dẫn kỹ thuật làm liên hệ chính cho các kỹ sư FastTrack.  
+  - Gán tài nguyên kỹ thuật để thực hiện tác vụ khắc phục, cấu hình và hỗ trợ như được nêu ra bởi nhóm FastTrack.   
+- Cung cấp tài nguyên chịu trách nhiệm cho việc thúc đẩy người dùng cuối sử dụng dịch vụ.    
+- Cung cấp thông tin liên lạc, tài liệu, đào tạo và quản lý thay đổi người dùng cuối.    
+- Xác định và tham gia các nhà tài trợ kinh doanh thích hợp.     
+- Cung cấp tài liệu trợ giúp và đào tạo.     
+- Tạo bất kỳ báo cáo, bản trình bày hoặc phút họp nào dành riêng cho tổ chức của bạn.     
+- Tạo tài liệu kiến trúc và kỹ thuật cụ thể cho tổ chức của bạn.     
+- Thiết kế, Procure, cài đặt, và cấu hình phần cứng và mạng.    
+- Procure, cài đặt, và cấu hình phần mềm.     
+- Cấu hình, gói và phân phối phần mềm máy khách cần thiết cho Office 365.    
+- Quản lý, cấu hình và áp dụng chính sách bảo mật.    
 - Kích hoạt thiết bị di động.    
-- Cung cấp cấu hình mạng, phân tích, kiểm tra băng thông, kiểm tra và giám sát. 
-- Thay đổi các quy tắc tường lửa để hỗ trợ cụ thể URL và IP địa chỉ khoảng cách được sử dụng bởi dịch vụ Office 365 (nếu cần).
-- Cung cấp trên cơ sở đảo ngược hai điểm cuối proxy cho Microsoft (nếu cần).     
-- Thay đổi mạng để cung cấp băng thông cần thiết cho Skype cho các dịch vụ kinh doanh trực tuyến.   
-- Quản lý một quá trình phê duyệt thay đổi kỹ thuật quản lý và tạo ra các tài liệu hỗ trợ.    
-- Xác định và xác định chính sách nhóm cho người dùng, máy trạm và máy chủ quản lý.    
-- Sửa đổi hướng dẫn hoạt động mô hình và hoạt động của bạn.   
-- Thiết lập nhiều yếu tố xác thực.   
-- Vô hiệu hoá và loại bỏ nguồn môi trường (như nhắn tin và hợp tác). 
+- Cung cấp cấu hình mạng, phân tích, băng thông xác nhận, kiểm tra, và giám sát. 
+- Thay đổi các quy tắc tường lửa để hỗ trợ các URL cụ thể và phạm vi địa chỉ IP được sử dụng bởi dịch vụ Office 365 (nếu cần).
+- Cung cấp điểm cuối proxy ngược tại chỗ cho Microsoft (nếu cần).     
+- Thay đổi mạng để cung cấp băng thông cần thiết cho Skype dành cho các dịch vụ kinh doanh trực tuyến.   
+- Quản lý quy trình phê duyệt quản lý thay đổi kỹ thuật và tạo tài liệu hỗ trợ.    
+- Chỉ định và xác định chính sách nhóm cho người dùng, trạm làm việc và quản lý máy chủ.    
+- Sửa đổi mô hình hoạt động và hướng dẫn hoạt động của bạn.   
+- Thiết lập xác thực đa yếu tố.   
+- Decommission và loại bỏ các môi trường nguồn (như nhắn tin và cộng tác). 
     > [!NOTE]
-    > Đảm bảo rằng tất cả muốn dữ liệu là di chuyển trước khi vô hiệu hóa và loại bỏ các môi trường mã nguồn của bạn.   
-- Xây dựng và duy trì môi trường thử nghiệm của bạn.  
-- Cài đặt Lync 2013 hoặc Skype cho công cụ quản trị kinh doanh năm 2015 trực tuyến và các gói dịch vụ để hỗ trợ các cấu hình miền phân chia.    
-- Cài đặt gói dịch vụ và cập nhật các yêu cầu khác về cơ sở hạ tầng máy chủ.     
-- Cung cấp và cấu hình bất kỳ chứng chỉ Secure Sockets Layer (SSL) công cộng nào. 
+    > Đảm bảo rằng tất cả các dữ liệu muốn được di chuyển trước khi vô hiệu hoá và loại bỏ môi trường nguồn của bạn.   
+- Xây dựng và duy trì môi trường thử nghiệm.  
+- Cài đặt Lync 2013 hoặc Skype dành cho doanh nghiệp trực tuyến 2015 công cụ quản trị và gói dịch vụ hỗ trợ cấu hình miền chia.    
+- Cài đặt gói dịch vụ và các bản Cập Nhật yêu cầu khác trên máy chủ cơ sở hạ tầng.     
+- Cung cấp và cấu hình bất kỳ chứng chỉ công cộng Secure Socket Layer (SSL). 
     
 ## <a name="initiate-phase"></a>Bắt đầu giai đoạn
 
-- Thành lập hợp tác không gian Microsoft Teams cho onboarding quan hệ đối tác và mời các thành viên trong nhóm FastTrack Trung tâm (không có sẵn trong kế hoạch GCC cao hay bộ quốc phòng).   
-- Làm việc với các chuyên gia FastTrack để bắt đầu onboarding các dịch vụ đủ điều kiện.    
-- Tham gia vào các cuộc họp tham gia kickoff, quản lý và lãnh đạo những người tham gia từ tổ chức của bạn, và xác nhận thời hạn khắc phục.    
-- Cung cấp các mục tiêu của bạn cho dịch vụ Office 365 (ví dụ: SharePoint Online, Exchange Online, Microsoft Teams và Office 365 ProPlus) và mục tiêu tổ chức.
+- Thiết lập không gian hợp tác Microsoft teams để đối tác bộ nhớ ngoài và mời các thành viên nhóm FastTrack Center (không có trong gói GCC cao hoặc DOD).   
+- Làm việc với FastTrack chuyên gia để bắt đầu bộ nhớ ngoài các dịch vụ đủ điều kiện.    
+- Tham gia cuộc họp kickoff, quản lý và dẫn dắt người tham gia từ tổ chức của bạn, và xác nhận thời hạn khắc phục.    
+- Cung cấp mục tiêu của bạn cho các dịch vụ Office 365 (ví dụ: SharePoint Online, Exchange Online, Microsoft teams và Office 365 ProPlus) và mục tiêu của tổ chức.
     
 ## <a name="assess-phase"></a>Đánh giá giai đoạn
 
-- Xác định các bên liên quan phù hợp (bao gồm cả quản lý dự án và chủ doanh nghiệp) để hoàn thành các hoạt động đánh giá cần thiết.    
-- Tham gia vào các cuộc họp để tạo ra các danh sách kiểm tra khắc phục, và đóng góp cho kế hoạch tổng thể, bao gồm cả cơ sở hạ tầng, mạng, quản trị, để chuẩn bị đồng bộ hoá thư mục, an ninh mạng và các chủ đề đã liên kết nhận dạng. 
-- Tham gia vào các cuộc họp để phác thảo phương pháp tiếp cận người dùng cung cấp.     
-- Tham gia vào các cuộc họp lập kế hoạch cấu hình dịch vụ trực tuyến.    
+- Xác định các bên liên quan thích hợp (bao gồm quản lý dự án và chủ doanh nghiệp) để hoàn thành các hoạt động đánh giá cần thiết.    
+- Tham gia vào các cuộc họp để tạo ra danh sách kiểm tra khắc phục, và góp phần vào kế hoạch tổng thể, bao gồm cơ sở hạ tầng, mạng, quản trị, chuẩn bị đồng bộ hóa thư mục, bảo mật mạng và các chủ đề nhận dạng liên kết. 
+- Tham gia vào các cuộc họp để phác thảo cách tiếp cận người dùng cung cấp.     
+- Tham gia vào các cuộc họp để lên kế hoạch cấu hình dịch vụ trực tuyến.    
 - Tạo kế hoạch hỗ trợ cho sự sẵn sàng di chuyển.    
-- Tham gia vào công cuộc gọi để phác thảo kế hoạch:   
-  - Các bên liên quan phù hợp cho các cam kết.   
-  - Kịch bản để phù hợp với nhu cầu và mục tiêu toàn bộ tổ chức của bạn.   
-  - Một nhận thức về tổ chức và kế hoạch đào tạo.
+- Tham gia vào các cuộc gọi lập kế hoạch thành công để phác thảo:   
+  - Các bên liên quan phải cho sự tham gia.   
+  - Kịch bản để phù hợp với nhu cầu và mục tiêu trên toàn tổ chức của bạn.   
+  - Nâng cao nhận thức tổ chức và kế hoạch đào tạo.
     
-## <a name="remediate-phase"></a>Remediate giai đoạn
+## <a name="remediate-phase"></a>Giai đoạn remediate
 
-- Thực hiện các bước được yêu cầu để hoàn thành các hoạt động khắc phục được xác định trong giai đoạn Assess.  
-- Tham gia vào cuộc họp trạm kiểm soát và:   
-  - Xác định kinh doanh kịch bản.  
-  - Xác định và tham gia các bên liên quan.  
-  - Xây dựng một kế hoạch nâng cao nhận thức. 
+- Thực hiện các bước bắt buộc để hoàn thành các hoạt động khắc phục được xác định trong giai đoạn đánh giá.  
+- Tham gia vào các cuộc họp điểm kiểm tra và:   
+  - Xác định kịch bản kinh doanh.  
+  - Xác định và thu hút các bên liên quan.  
+  - Xây dựng kế hoạch nhận thức. 
   - Xây dựng kế hoạch đào tạo.
     
-## <a name="enable-phase"></a>Sử giai đoạn
+## <a name="enable-phase"></a>Kích hoạt giai đoạn
 
-- Làm việc với các chuyên gia FastTrack để onboarding hoàn thành tất cả các dịch vụ đủ điều kiện và:  
-  - Thực hiện một kế hoạch nâng cao nhận thức.   
+- Làm việc với FastTrack chuyên gia để hoàn thành bộ nhớ ngoài của tất cả các dịch vụ đủ điều kiện và:  
+  - Thực hiện kế hoạch nhận thức.   
   - Thực hiện kế hoạch đào tạo.   
-  - Cung cấp thành công lên kế hoạch tiến độ và xác định khu vực mà bạn cần hướng dẫn.  
-- Cung cấp cho chuyên gia FastTrack truy cập và cấp phép (nếu bạn chọn để thực hiện nhiệm vụ di chuyển Microsoft).   
-- Mua và cung cấp các tài khoản quản trị với mục tiêu môi trường phù hợp (nếu bạn chọn để thực hiện các hoạt động di chuyển Microsoft).    
-- Quản lý nguồn tài nguyên như thích hợp.     
-- Cấu hình mạng liên quan đến mặt hàng cho mỗi hướng dẫn Microsoft.    
-- Cấu hình DNS hồ sơ dựa trên yêu cầu xác nhận tên miền để bao gồm các bản ghi MX của bạn.    
-- Thực hiện mục sẵn sàng và đặt cấu hình đồng bộ hóa thư mục cho mỗi hướng dẫn Microsoft.   
-- Đưa các đối tượng Active Directory tại chỗ với giá trị thuộc tính liên quan đến thư từ thư mục bên thứ ba.    
-- Cấu hình bảo mật liên quan đến cơ sở hạ tầng (như cổng tường lửa) cho một hướng dẫn Microsoft.    
-- Cơ sở hạ tầng khách hàng thích hợp thực hiện.   
-- Thực hiện một cách tiếp cận người dùng cung cấp một hướng dẫn Microsoft.    
-- Cho phép các dịch vụ khác nhau cho mỗi hướng dẫn Microsoft.    
-- Nhận được một ID Apple nếu bạn đang đặt cấu hình quản lý thiết bị di động (MDM).   
-- Cập Nhật chứng chỉ dịch vụ thông báo Apple đẩy (APNS) của bạn.
+  - Cung cấp tiến độ lập kế hoạch thành công và xác định các khu vực mà bạn cần hướng dẫn.  
+- Cung cấp cho FastTrack chuyên gia quyền truy cập và quyền (nếu bạn chọn để Microsoft thực hiện nhiệm vụ di chuyển).   
+- Procure và cung cấp tài khoản quản trị để nhắm mục tiêu môi trường phù hợp (nếu bạn chọn để Microsoft thực hiện các hoạt động di chuyển).    
+- Quản lý tài nguyên phù hợp.     
+- Cấu hình các mục liên quan đến mạng theo hướng dẫn của Microsoft.    
+- Cấu hình bản ghi DNS dựa trên yêu cầu xác thực miền để bao gồm các bản ghi MX của bạn.    
+- Thực hiện sẵn sàng thư mục và cấu hình đồng bộ hóa thư mục cho Microsoft hướng dẫn.   
+- Điền vào chỗ Active Directory đối tượng với thư liên quan đến giá trị thuộc tính từ bên thứ ba thư mục.    
+- Cấu hình cơ sở hạ tầng liên quan đến bảo mật (như cổng tường lửa) theo hướng dẫn của Microsoft.    
+- Triển khai cơ sở hạ tầng khách hàng phù hợp.   
+- Triển khai phương pháp cung cấp người dùng cho mỗi Microsoft hướng dẫn.    
+- Cho phép các dịch vụ khác nhau theo hướng dẫn của Microsoft.    
+- Nhận ID Apple nếu bạn đang định cấu hình quản lý thiết bị di động (MDM).   
+- Cập Nhật chứng chỉ dịch vụ thông báo đẩy Apple (APNS) của bạn.
     
 
   
