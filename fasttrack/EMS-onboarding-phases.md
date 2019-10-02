@@ -5,21 +5,18 @@ keywords: ''
 author: andredm7
 ms.author: andredm
 manager: ''
-ms.date: 09/04/2019
+ms.date: 10/02/2019
 ms.topic: article
 ms.prod: ''
 ms.service: microsoft-intune
 localization_priority: Priority
 ms.collection: FastTrack
-ms.assetid: e51f030b-8b08-4fea-96c9-d4ded435a264
-ms.reviewer: ''
-ms.suite: ems
-ms.openlocfilehash: ba93fb6e6ba23219752eebb857ed156f2cbfaab8
-ms.sourcegitcommit: df949b40ade215de00f74771ffadf0d3be0de797
+ms.openlocfilehash: 5b661d709b4f5c25395f07f005d055c5bb84db35
+ms.sourcegitcommit: 06eb1378c0f3601ca6909765ecacbff23db7e71f
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 09/03/2019
-ms.locfileid: "36711546"
+ms.lasthandoff: 10/01/2019
+ms.locfileid: "37342625"
 ---
 # <a name="onboarding-phases"></a>Giai đoạn onboarding
 
@@ -140,7 +137,7 @@ Azure AD Premium cài đặt bao gồm kích hoạt các tính năng sau:
 
 -   Cấu hình cơ quan quản lý thiết bị di động (MDM) của bạn, dựa trên nhu cầu quản lý của bạn, bao gồm:
 
-    -   Thiết lập InTune là cơ quan MDM khi InTune là giải pháp MDM duy nhất của bạn hoặc kết hợp với quản lý thiết bị di động cho Office 365.
+    -   Thiết lập InTune là cơ quan MDM khi InTune là giải pháp MDM chỉ của bạn.
 
 -   Cung cấp hướng dẫn MDM cho:
 

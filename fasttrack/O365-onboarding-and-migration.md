@@ -3,19 +3,19 @@ title: Giai đoạn triển khai và di chuyển
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 09/04/2019
+ms.date: 10/02/2019
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: Office 365 bộ nhớ ngoài có bốn giai đoạn chính — bắt đầu, đánh giá, remediate và Enable. Bạn có thể làm theo các giai đoạn này với một giai đoạn di chuyển dữ liệu tùy chọn.
-ms.openlocfilehash: c254b95ae5227d07dc646b9db2ffc670ee9ece9a
-ms.sourcegitcommit: df949b40ade215de00f74771ffadf0d3be0de797
+ms.openlocfilehash: 16e777ea13a885eafac0185c3f282f0a856c5bb1
+ms.sourcegitcommit: 06eb1378c0f3601ca6909765ecacbff23db7e71f
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 09/03/2019
-ms.locfileid: "36712242"
+ms.lasthandoff: 10/01/2019
+ms.locfileid: "37342421"
 ---
 # <a name="onboarding-and-migration-phases"></a>Giai đoạn triển khai và di chuyển
 
@@ -200,16 +200,6 @@ OneDrive cho doanh nghiệp, các bước phụ thuộc vào nếu bạn đang s
 - Triển khai bằng cách sử dụng trình quản lý cấu hình Microsoft System Center, bao gồm hỗ trợ với việc tạo ra các hệ thống Trung tâm quản lý cấu hình bao bì.
     
 ![Các bước Office ProPlus bộ nhớ ngoài](media/O365-Onboarding-Enable-OProPlus.png)
-  
-## <a name="microsoft-staffhub"></a>Microsoft StaffHub
-
-Đối với Microsoft StaffHub, chúng tôi cung cấp hướng dẫn cho:
-- Xác nhận Microsoft StaffHub được bật trên thuê Office 365 của bạn.
-- Bật hoặc tắt giấy phép người dùng.
-- Tính năng sản phẩm cốt lõi. 
-- Tải xuống vị trí cho Microsoft StaffHub.
-    
-![Microsoft staffhub bộ nhớ ngoài bước](media/e8857c93-1db9-4940-90d1-b3a1b3f0c650.png)
   
 ## <a name="outlook-for-ios-and-android"></a>Outlook dành cho iOS và Android
 

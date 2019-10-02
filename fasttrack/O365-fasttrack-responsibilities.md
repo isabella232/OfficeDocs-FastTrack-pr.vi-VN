@@ -3,19 +3,19 @@ title: Trách nhiệm của FastTrack
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 09/04/2019
+ms.date: 10/02/2019
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: FastTrack chuyên gia có trách nhiệm sau đây trong onboarding.
-ms.openlocfilehash: 4e2383b2654fb1218bbb2cb9913e6cbf6b94572a
-ms.sourcegitcommit: df949b40ade215de00f74771ffadf0d3be0de797
+ms.openlocfilehash: 0ce5279af4a6136b4415de444f5e792672ce040d
+ms.sourcegitcommit: 06eb1378c0f3601ca6909765ecacbff23db7e71f
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 09/03/2019
-ms.locfileid: "36712175"
+ms.lasthandoff: 10/01/2019
+ms.locfileid: "37342301"
 ---
 # <a name="fasttrack-responsibilities"></a>Trách nhiệm của FastTrack
 
@@ -225,14 +225,6 @@ Cung cấp hướng dẫn về:
 - Chọn và thiết lập cài đặt cục bộ hoặc đám mây.
 - Tạo XML cấu hình công cụ triển khai Office với công cụ Tuỳ chỉnh Office hoặc XML riêng để cấu hình gói triển khai.
 - Triển khai bằng cách sử dụng quản lý cấu hình Trung tâm hệ thống, bao gồm hỗ trợ tạo hệ thống Trung tâm quản lý cấu hình bao bì.
-    
-## <a name="microsoft-staffhub"></a>Microsoft StaffHub
-
-Cung cấp hướng dẫn về:
-- Xác nhận Microsoft StaffHub được bật trên thuê Office 365 của bạn.
-- Bật hoặc tắt giấy phép người dùng.
-- Tính năng sản phẩm cốt lõi.
-- Tải xuống vị trí cho Microsoft StaffHub.
     
 ## <a name="outlook-for-ios-and-android"></a>Outlook dành cho iOS và Android
 

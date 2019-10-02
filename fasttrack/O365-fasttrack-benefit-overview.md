@@ -3,7 +3,7 @@ title: Tổng quan về Lợi ích của Trung tâm FastTrack
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 09/04/2019
+ms.date: 10/02/2019
 ms.audience: ITPro
 ms.topic: overview
 f1_keywords:
@@ -12,12 +12,12 @@ ms.service: o365-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: Với FastTrack Trung tâm lợi ích cho văn phòng 365, bạn làm việc từ xa với FastTrack chuyên gia để có được môi trường Office 365 của bạn sẵn sàng để sử dụng và kế hoạch triển khai và sử dụng trong tổ chức của bạn. Để tìm hiểu thêm về tính đủ điều kiện, xem FastTrack Trung tâm lợi ích cho Office 365.
-ms.openlocfilehash: 0312bea171bba217596604464b61dc3415445f91
-ms.sourcegitcommit: df949b40ade215de00f74771ffadf0d3be0de797
+ms.openlocfilehash: 4ae837cc05f6b5dbfa53c6a60bae83fc89d75c03
+ms.sourcegitcommit: 06eb1378c0f3601ca6909765ecacbff23db7e71f
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 09/03/2019
-ms.locfileid: "36711461"
+ms.lasthandoff: 10/01/2019
+ms.locfileid: "37342049"
 ---
 # <a name="fasttrack-center-benefit-overview"></a>Tổng quan về Lợi ích của Trung tâm FastTrack
 

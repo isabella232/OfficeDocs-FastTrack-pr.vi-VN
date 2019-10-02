@@ -3,19 +3,19 @@ title: Nội dung hỗ trợ được cung cấp
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 09/04/2019
+ms.date: 10/02/2019
 ms.audience: ITPro
 ms.topic: overview
 ms.service: windows-10-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: Khi bạn mua bất kỳ dịch vụ Windows 10 hoặc Microsoft 365, FastTrack chuyên gia cung cấp hướng dẫn tư vấn và khắc phục để triển khai Windows 10 và Office 365 ProPlus và ở lại up-to-date mà không mất thêm chi phí (với một thuê bao đủ điều kiện).
-ms.openlocfilehash: 4b91ca12c891634c455f0f1308edf31f04b1ceb4
-ms.sourcegitcommit: df949b40ade215de00f74771ffadf0d3be0de797
+ms.openlocfilehash: c3b7838dd09854a027f1b9578a5faa6002aa3c7b
+ms.sourcegitcommit: 06eb1378c0f3601ca6909765ecacbff23db7e71f
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 09/03/2019
-ms.locfileid: "36712254"
+ms.lasthandoff: 10/01/2019
+ms.locfileid: "37342577"
 ---
 # <a name="assistance-offered"></a>Nội dung hỗ trợ được cung cấp  
 
@@ -51,9 +51,9 @@ FastTrack không cung cấp hỗ trợ cho:
 Trách nhiệm của khách hàng bao gồm:
 - Tạo khoảng không quảng cáo ứng dụng.
 - Xác thực các ứng dụng trên Windows 10 và Office 365 ProPlus.
+
 > [!NOTE]
 > Microsoft không thể thực hiện thay đổi mã nguồn của bạn. Tuy nhiên, nhóm ứng dụng dành cho máy tính để bàn đảm bảo có thể cung cấp hướng dẫn cho nhà phát triển ứng dụng nếu mã nguồn sẵn có cho ứng dụng của bạn.
-> [!NOTE]
-> FastTrack không thể khắc phục các phiên bản cũ hơn của ứng dụng ISV, trình bổ sung hoặc macro nếu có các phiên bản mới hơn được hỗ trợ trong Windows 10 và Office 365 ProPlus.
+
 > [!NOTE]
 > Liên hệ với [đối tác của Microsoft](https://go.microsoft.com/fwlink/?linkid=2080150) để cung cấp hỗ trợ với các dịch vụ được xác định là phạm vi.

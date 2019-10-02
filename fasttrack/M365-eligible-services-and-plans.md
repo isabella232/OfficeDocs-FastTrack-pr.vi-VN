@@ -3,19 +3,19 @@ title: Dịch vụ và gói đủ điều kiện
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 09/04/2019
+ms.date: 10/02/2019
 ms.audience: ITPro
 ms.topic: overview
 ms.service: m365-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: Khi bạn mua bất kỳ dịch vụ Microsoft 365, FastTrack chuyên gia cung cấp hướng dẫn cho bạn để onboard cho Microsoft 365 và bắt đầu sử dụng chúng.
-ms.openlocfilehash: fc2fbf5911d3460a67941ca63a233731106a3823
-ms.sourcegitcommit: df949b40ade215de00f74771ffadf0d3be0de797
+ms.openlocfilehash: a9214126f8795d99c90b2008d16d99fc6dc83676
+ms.sourcegitcommit: 06eb1378c0f3601ca6909765ecacbff23db7e71f
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 09/03/2019
-ms.locfileid: "36711642"
+ms.lasthandoff: 10/01/2019
+ms.locfileid: "37342565"
 ---
 # <a name="eligible-services-and-plans"></a>Dịch vụ và gói đủ điều kiện
 
@@ -58,7 +58,6 @@ FastTrack Center cung cấp hỗ trợ cho các dịch vụ sau:
 - Dự án trực tuyến
 - Yammer doanh nghiệp 
 - Văn phòng 365 ProPlus
-- Microsoft StaffHub
 - Cửa sổ 10
 - Azure Active Directory cao cấp
 - Bảo vệ thông tin Azure

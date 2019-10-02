@@ -3,19 +3,19 @@ title: Trách nhiệm của bạn
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 09/04/2019
+ms.date: 10/02/2019
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: Bạn có trách nhiệm sau đây trong quá trình onboarding.
-ms.openlocfilehash: 60bdfd0ba6a9d9840a8cdaaa64506c0aba8b1716
-ms.sourcegitcommit: df949b40ade215de00f74771ffadf0d3be0de797
+ms.openlocfilehash: 30e23a54e511e978c58fd3654ee160c1c7b74c1b
+ms.sourcegitcommit: 06eb1378c0f3601ca6909765ecacbff23db7e71f
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 09/03/2019
-ms.locfileid: "36712110"
+ms.lasthandoff: 10/01/2019
+ms.locfileid: "37342157"
 ---
 # <a name="your-responsibilities"></a>Trách nhiệm của bạn
 
@@ -99,8 +99,6 @@ Bạn có trách nhiệm sau đây trong quá trình onboarding.\*
 - Triển khai cơ sở hạ tầng khách hàng phù hợp.  
 - Triển khai phương pháp cung cấp người dùng cho mỗi Microsoft hướng dẫn.  
 - Cho phép các dịch vụ khác nhau theo hướng dẫn của Microsoft.  
-- Nhận ID Apple nếu bạn đang định cấu hình quản lý thiết bị di động (MDM).   
-- Cập Nhật chứng chỉ dịch vụ thông báo đẩy Apple (APNS) của bạn.
     
 \*Để biết thông tin về trách nhiệm của bạn cho văn phòng 365 chính phủ Hoa Kỳ, xem [trách nhiệm của bạn cho văn phòng 365 chính phủ Hoa Kỳ](US-Gov-appendix-your-responsibilities.md).
   
