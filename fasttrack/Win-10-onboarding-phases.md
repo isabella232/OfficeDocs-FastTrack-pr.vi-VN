@@ -3,19 +3,19 @@ title: Giai đoạn onboarding
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 10/02/2019
+ms.date: 11/02/2019
 ms.audience: ITPro
 ms.topic: overview
 ms.service: windows-10-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: Windows 10 bộ nhớ ngoài có bốn giai đoạn chính — bắt đầu, đánh giá, remediate và Enable.
-ms.openlocfilehash: 8cd5f1586518976d965c08f07398974334093658
-ms.sourcegitcommit: 06eb1378c0f3601ca6909765ecacbff23db7e71f
+ms.openlocfilehash: c2c9515f0e3cefed133da74d41e84995724ed042
+ms.sourcegitcommit: f8d7e570b60a55c244af0eceb6fbb0e591257f11
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 10/01/2019
-ms.locfileid: "37342685"
+ms.lasthandoff: 11/01/2019
+ms.locfileid: "37921896"
 ---
 # <a name="onboarding-phases"></a>Giai đoạn onboarding
 
@@ -33,6 +33,8 @@ Chúng tôi cung cấp các tùy chọn được đề xuất để bạn đánh
 
 FastTrack cũng có thể hướng dẫn đánh giá tương thích Office 365 ProPlus bằng cách tận dụng bảng điều khiển sẵn sàng Office 365 trong trình quản lý cấu hình hoặc bộ công cụ sẵn sàng độc lập cho Office. Để biết thêm thông tin về các dịch vụ có sẵn, xem [FastTrack Trung tâm lợi ích cho Office 365](O365-fasttrack-benefit-for-office-365.md). 
 
+FastTrack cũng đánh dấu các chiến lược quản lý hiện đại cho bạn, bao gồm quản lý cấu hình gắn đám mây với Microsoft InTune hoặc triển khai InTune là giải pháp quản lý đám mây duy nhất.
+
 ## <a name="remediate"></a>Khắc phục
 
 Bạn thực hiện tác vụ khắc phục dựa trên môi trường nguồn của bạn để bạn đáp ứng các yêu cầu cho onboarding. Chúng tôi cung cấp một danh sách kiểm tra khắc phục để chuẩn bị môi trường của bạn và xác nhận rằng các yếu tố này có sẵn để đưa môi trường nguồn của bạn đến các yêu cầu tối thiểu để triển khai thành công. 
@@ -45,6 +47,8 @@ Chúng tôi cung cấp hướng dẫn triển khai Office 365 ProPlus sử dụn
 
 Chúng tôi cung cấp hướng dẫn để giúp tổ chức của bạn để ở được up-to-date với Windows 10 Enterprise và Office 365 ProPlus sử dụng môi trường quản lý cấu hình hiện tại của bạn hoặc Microsoft 365.
 
+Trong trường hợp cần thiết, FastTrack có thể hướng dẫn khách hàng để cho phép quản lý hiện đại của trình quản lý cấu hình gắn đám mây để InTune hoặc bằng cách triển khai độc lập InTune. Xem [quy trình lợi ích Trung tâm FastTrack dành cho doanh nghiệp di động + bảo mật (EMS)](EMS-fasttrack-process.md) để biết thêm chi tiết về các dịch vụ liên quan.
+
 > [!NOTE]
 > Nếu bạn không có kế hoạch hoặc quy trình hiện có để triển khai và bảo trì, chúng tôi có thể cung cấp hướng dẫn thực hành tốt nhất dựa trên kịch bản nâng cấp tại chỗ (được khuyến nghị) hoặc [Windows Autopilot](EMS-onboarding-phases.md#windows-autopilot).
 
@@ -54,6 +58,7 @@ FastTrack không cung cấp hướng dẫn cho:
 
 - Nâng cấp trình quản lý cấu hình cho nhánh hiện tại.
 - Tạo hình ảnh tùy chỉnh cho việc triển khai Windows 10.
+- Tạo và hỗ trợ các kịch bản triển khai để triển khai Windows 10.
 - Chuyển đổi hệ thống Windows 10 từ BIOS để Unified có khả mở rộng phần mềm Interface (UEFI).
 - Kích hoạt tính năng bảo mật Windows 10. 
 - Cấu hình dịch vụ triển khai Windows (WDS) khởi động môi trường thực hiện Preboot (PXE).

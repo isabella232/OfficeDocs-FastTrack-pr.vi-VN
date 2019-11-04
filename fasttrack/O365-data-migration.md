@@ -3,19 +3,19 @@ title: Di chuyển dữ liệu
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 10/02/2019
+ms.date: 11/02/2019
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: FastTrack chuyên gia cung cấp hướng dẫn về các bước để di chuyển dữ liệu sang Office 365. Điều này có sẵn cho tất cả các khách hàng hợp lệ với Office 365 dịch vụ dành cho Exchange Online, OneDrive dành cho doanh nghiệp và SharePoint Online.
-ms.openlocfilehash: bd6640ce36ac523ee8d252eea4175105c0a80cf2
-ms.sourcegitcommit: 06eb1378c0f3601ca6909765ecacbff23db7e71f
+ms.openlocfilehash: 011ac6cd7a6f53872bf9545cb837700418415566
+ms.sourcegitcommit: f8d7e570b60a55c244af0eceb6fbb0e591257f11
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 10/01/2019
-ms.locfileid: "37342517"
+ms.lasthandoff: 11/01/2019
+ms.locfileid: "37921252"
 ---
 # <a name="data-migration"></a>Di chuyển dữ liệu
 
@@ -87,9 +87,9 @@ Trạng thái kết thúc dự kiến sau khi tất cả di chuyển hoàn tất
 |||||
 |:-----|:-----|:-----|:-----|
 |**Môi trường nguồn**|**Loại di chuyển**|**Điều gì sẽ di chuyển từ hộp thư nguồn**|**Điều gì sẽ không di chuyển**|
-|**Exchange 2003 trở đi**|Đơn giản| Email <br/> Quy tắc hộp thư <br/> Đại biểu <br/> Danh bạ hộp thư <br/> Calendar <br/> Nhiệm vụ | Thư mục công cộng <br/> Danh bạ cá nhân <br/> Người dùng được kích hoạt thư <br/> Người dùng bị chặn hoặc không hoạt động <br/> Chữ ký <br/> Hộp thư Dumpster <br/>  Bất kỳ email nào vượt quá giới hạn kích thước thư <br/> Lưu trữ dữ liệu <br/> Quyền quản lý hoặc mã hóa email <br/> Các mục bị hỏng <br/>  Hộp thư không hoạt động |
-|**Trao đổi 2003 và Exchange 2007**|Tổ chức| Email <br/> Quy tắc hộp thư <br/> Đại biểu <br/> Danh bạ hộp thư <br/> Calendar <br/> Nhiệm vụ | Thư mục công cộng <br/> Danh bạ cá nhân <br/> Người dùng được kích hoạt thư <br/> Người dùng bị chặn hoặc không hoạt động <br/> Chữ ký <br/> Hộp thư Dumpster <br/> Bất kỳ email nào vượt quá giới hạn kích thước thư <br/> Lưu trữ dữ liệu <br/> Quyền quản lý hoặc mã hóa email <br/> Các mục bị hỏng <br/> Hộp thư không hoạt động |
-|**Trao đổi 2010, Exchange 2013 và Exchange 2016** <br/><br/> **Lưu ý** để *phụ thuộc tại chỗ Exchange, xem điều [kiện tiên quyết triển khai kết](https://go.microsoft.com/fwlink/?LinkId=787528)hợp.*           |Di chuyển với triển khai kết hợp| Email <br/> Quy tắc hộp thư <br/> Đại biểu <br/> Danh bạ hộp thư <br/> Calendar <br/> Nhiệm vụ <br/> Chữ ký <br/> Lưu trữ cá nhân đã di chuyển với hộp thư của người dùng <br/> Mục có thể phục hồi | Thư mục công cộng <br/> Bất kỳ email nào vượt quá giới hạn kích thước thư <br/> Journaling lưu trữ hoặc bất kỳ giải pháp lưu trữ của bên thứ ba <br/> Người dùng bị chặn hoặc không hoạt động <br/> Lưu trữ dữ liệu từ cá nhân lưu trữ bảng (PST) tập tin <br/> Email được quản lý quyền hoặc mã hóa <br/> Các mục bị hỏng <br/> Hộp thư không hoạt động |
+|**Exchange 2003 trở đi**|Đơn giản| Email <br/> Quy tắc hộp thư <br/> Đại biểu <br/> Danh bạ hộp thư <br/> Calendar <br/> Nhiệm vụ <br/> Email được quản lý quyền| Thư mục công cộng <br/> Danh bạ cá nhân <br/> Người dùng được kích hoạt thư <br/> Người dùng bị chặn hoặc không hoạt động <br/> Chữ ký <br/> Hộp thư Dumpster <br/>  Bất kỳ email nào vượt quá giới hạn kích thước thư <br/> Lưu trữ dữ liệu <br/> Email được mã hóa <br/> Các mục bị hỏng <br/>  Hộp thư không hoạt động |
+|**Trao đổi 2003 và Exchange 2007**|Tổ chức| Email <br/> Quy tắc hộp thư <br/> Đại biểu <br/> Danh bạ hộp thư <br/> Calendar <br/> Nhiệm vụ <br/> Email được quản lý quyền| Thư mục công cộng <br/> Danh bạ cá nhân <br/> Người dùng được kích hoạt thư <br/> Người dùng bị chặn hoặc không hoạt động <br/> Chữ ký <br/> Hộp thư Dumpster <br/> Bất kỳ email nào vượt quá giới hạn kích thước thư <br/> Lưu trữ dữ liệu <br/> Email được mã hóa <br/> Các mục bị hỏng <br/> Hộp thư không hoạt động |
+|**Trao đổi 2010, Exchange 2013 và Exchange 2016** <br/><br/> **Lưu ý** để *phụ thuộc tại chỗ Exchange, xem điều [kiện tiên quyết triển khai kết](https://go.microsoft.com/fwlink/?LinkId=787528)hợp.*           |Di chuyển với triển khai kết hợp| Email <br/> Quy tắc hộp thư <br/> Đại biểu <br/> Danh bạ hộp thư <br/> Calendar <br/> Nhiệm vụ <br/> Chữ ký <br/> Lưu trữ cá nhân đã di chuyển với hộp thư của người dùng <br/> Mục có thể phục hồi <br/> Email được quản lý quyền| Thư mục công cộng <br/> Bất kỳ email nào vượt quá giới hạn kích thước thư <br/> Journaling lưu trữ hoặc bất kỳ giải pháp lưu trữ của bên thứ ba <br/> Người dùng bị chặn hoặc không hoạt động <br/> Lưu trữ dữ liệu từ cá nhân lưu trữ bảng (PST) tập tin <br/> Email được mã hóa <br/> Các mục bị hỏng <br/> Hộp thư không hoạt động |
 |**Môi trường G Suite (chỉ Gmail, danh bạ và lịch)** <br/> <br/> **Lưu ý** *môi trường G Suite của bạn phải có API Google và SDK Google admin được kích hoạt để mở rộng chức năng.* <br/> <br/> **Lưu ý** *vị trí của dữ liệu: FastTrack có thể truyền, xử lý và lưu trữ dữ liệu di chuyển dựa trên vị trí của khách hàng thuê nhà ở Hoa Kỳ hoặc bất cứ nơi nào mà Microsoft hoặc các nhà cung cấp bên thứ ba duy trì cơ sở. FastTrack xóa bất kỳ dữ liệu được lưu trữ nào trong vòng ba mươi ngày khi hoàn thành các dịch vụ hiện hành.*           |Cutover hoặc dàn dựng| Email <br/> Danh bạ hộp thư <br/> Calendar <br/> Nhãn | Quy tắc <br/> Đại biểu <br/> Chữ ký <br/> Nhiệm vụ <br/> Bất kỳ email hoặc tệp đính kèm nào lớn hơn 35 MB <br/> Người dùng bị chặn hoặc không hoạt động <br/> Lưu trữ dữ liệu từ các tập tin PST hoặc bất kỳ giải pháp lưu trữ của bên thứ ba (ví dụ, Google Vault) <br/> Quyền quản lý hoặc mã hóa email <br/> Các mục bị hỏng <br/> Google Hangouts <br/> Google Groups <br/> Hộp thư tài nguyên <br/> Hộp thư không hoạt động |
 |**IBM Domino 7.0.3 trở** đi ([phụ lục A-di chuyển từ IBM Domino sang Exchange Online](O365-from-ibm-domino-to-exchange-online.md))|Tổ chức| Email-cuối 90 ngày <br/> Lịch-cuối 90 ngày và các mặt hàng trong tương lai <br/> Danh bạ hộp thư-tất cả <br/> Nhiệm vụ-tất cả <br/> Các phòng và tài nguyên-cung cấp chúng được thực hiện với tiêu chuẩn mẫu <br/> Tệp thư, bao gồm tệp thư dùng chung, phải sử dụng mẫu thư tiêu chuẩn | Chữ ký <br/> Quy tắc hộp thư <br/> Đại biểu <br/> Mục được mã hóa <br/> Liên kết tài liệu <br/> Văn phòng phẩm người dùng <br/> Bất kỳ email nào vượt quá giới hạn kích thước thư <br/> Người dùng bị chặn hoặc không hoạt động <br/> Lưu trữ dữ liệu <br/> Các mục bị hỏng <br/> Lịch cùng tồn tại <br/> Hộp thư không hoạt động |
 |**Novell GroupWise 7.0.4 trở đi** <br/><br/> **Lưu ý** *vị trí của dữ liệu: FastTrack có thể truyền, xử lý và lưu trữ dữ liệu di chuyển dựa trên vị trí của khách hàng thuê nhà ở Hoa Kỳ hoặc bất cứ nơi nào mà Microsoft hoặc các nhà cung cấp bên thứ ba duy trì cơ sở. FastTrack xóa bất kỳ dữ liệu được lưu trữ nào trong vòng ba mươi ngày khi hoàn thành các dịch vụ hiện hành.*           |Tổ chức| Email <br/> Calendar <br/> Danh bạ hộp thư <br/> Nhóm cá nhân <br/> Nhiệm vụ (có giới hạn) <br/> Tài liệu | Quy tắc <br/> Chuyển đổi danh sách (ACL) proxy/người đại diện/kiểm soát truy nhập <br/> Chữ ký <br/> Danh mục liên hệ <br/> Email được mã hóa <br/> Tìm thư mục <br/> Bất kỳ email hoặc tệp đính kèm nào lớn hơn 35 MB <br/> Người dùng bị chặn hoặc không hoạt động <br/> Lưu trữ dữ liệu <br/> Các mục được quản lý quyền hoặc mã hóa <br/> Các mục bị hỏng <br/> Lịch cùng tồn tại <br/> Hộp thư không hoạt động |

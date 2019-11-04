@@ -3,19 +3,19 @@ title: Cửa sổ 10
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 10/02/2019
+ms.date: 11/02/2019
 ms.audience: ITPro
 ms.topic: overview
 ms.service: windows-10-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: FastTrack cung cấp hướng dẫn triển khai Windows 10 để giúp bạn nâng cấp từ Windows 7 Professional và Windows 8,1 Professional lên Windows 10 Enterprise.
-ms.openlocfilehash: ffbbde094e77bfc5ddf6155a318e7534e2a1c666
-ms.sourcegitcommit: 06eb1378c0f3601ca6909765ecacbff23db7e71f
+ms.openlocfilehash: e9999306b8ac1a6916562eb7ac0f422622c834da
+ms.sourcegitcommit: f8d7e570b60a55c244af0eceb6fbb0e591257f11
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 10/01/2019
-ms.locfileid: "37342661"
+ms.lasthandoff: 11/01/2019
+ms.locfileid: "37921576"
 ---
 # <a name="windows-10"></a>Cửa sổ 10
 
@@ -24,6 +24,7 @@ FastTrack cung cấp hướng dẫn triển khai Windows 10 để giúp bạn n�
 - Triển khai Windows 10 Enterprise bằng cách sử dụng trình quản lý cấu hình Microsoft System Center hoặc Microsoft 365.
 - Triển khai Office 365 ProPlus. 
 - Cập nhật Windows 10 Enterprise và Office 365 ProPlus sử dụng trình quản lý cấu hình Trung tâm hệ thống hoặc Microsoft 365.
+- Trình quản lý cấu hình đính kèm đám mây với Microsoft InTune hoặc triển khai InTune là giải pháp quản lý đám mây duy nhất.
   
 > [!NOTE]
 > FastTrack cung cấp cho khách hàng một cách tiếp cận, hướng dẫn và các phương pháp hay nhất được thiết kế để cung cấp kết quả nhanh chóng và có dự đoán. Nếu bạn chọn triển khai bên ngoài hướng dẫn này, thì trải nghiệm của bạn có thể bị ảnh hưởng. Hướng dẫn được định nghĩa là sự kết hợp của hỗ trợ bằng lời nói và văn bản. Khi FastTrack chuyên gia cung cấp hướng dẫn, FastTrack nhân viên không thể hành động thay mặt bạn. Bạn có thể sử dụng dịch vụ FastTrack cho các kế hoạch đủ điều kiện miễn là đăng ký của bạn là hiện tại.  

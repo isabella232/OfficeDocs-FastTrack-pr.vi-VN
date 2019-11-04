@@ -3,19 +3,19 @@ title: Trách nhiệm của FastTrack
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 10/02/2019
+ms.date: 11/02/2019
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: FastTrack chuyên gia có trách nhiệm sau đây trong onboarding.
-ms.openlocfilehash: 0ce5279af4a6136b4415de444f5e792672ce040d
-ms.sourcegitcommit: 06eb1378c0f3601ca6909765ecacbff23db7e71f
+ms.openlocfilehash: 6570fa144076288a4ab00806e9e0f8bd9172582f
+ms.sourcegitcommit: f8d7e570b60a55c244af0eceb6fbb0e591257f11
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 10/01/2019
-ms.locfileid: "37342301"
+ms.lasthandoff: 11/01/2019
+ms.locfileid: "37921588"
 ---
 # <a name="fasttrack-responsibilities"></a>Trách nhiệm của FastTrack
 
@@ -88,7 +88,7 @@ Cung cấp hướng dẫn về:
   - Cài đặt và cấu hình WAP để xuất bản cơ sở hạ tầng AD FS của bạn lên Internet khi cần thiết.
     > [!NOTE]
     > Cho tất cả các cấu hình nhiều khu rừng, triển khai AD FS là ra phạm vi. 
-- Kiểm tra chức năng SSO nếu triển khai.
+- Kiểm tra chức năng SSO liền mạch nếu triển khai.
 - Lái xe thành công dịch vụ nhận con nuôi và giá trị.
     
 \*\*Để biết thêm thông tin về vượt qua giới hạn xác thực, xem [Azure Active Directory vượt qua xác thực: giới hạn hiện tại](https://go.microsoft.com/fwlink/?linkid=860356). 
@@ -100,9 +100,10 @@ Cung cấp hướng dẫn về:
 Cung cấp hướng dẫn về:
 - Tạo hoặc Cập Nhật bản ghi DNS. 
 - Cho phép định tuyến email giữa hệ thống nhắn tin nguồn và môi trường Office 365. 
-- Cấu hình Exchange Online Protection, bảo vệ mất dữ liệu (DLP) và Office 365 thư mã hóa (OME) tính năng (bao gồm các tính năng Exchange Online nâng cao mối đe dọa bảo vệ nếu có trong đăng ký của bạn) và xác minh các bản ghi MX trỏ đến Văn phòng 365 cho tất cả các xác nhận thư hỗ trợ miền.
+- Cấu hình Exchange Online Protection, bảo vệ mất dữ liệu (DLP) và văn phòng 365 mã hóa thư (OME) và Office 365 nâng cao mối đe dọa bảo vệ (nếu có trong đăng ký của bạn) và xác minh bản ghi MX trỏ tới Office 365 cho tất cả kiểm chứng miền được kích hoạt thư.
 - Cấu hình thiết lập kết hợp giữa một tổ chức Exchange tại chỗ và Office 365 *hoặc* giữa nhiều tổ chức Exchange tại chỗ và Office 365. 
 - Cấu hình máy khách hộp thư (Outlook dành cho Windows, Outlook trên web và Outlook dành cho iOS và Android).
+- Cấu hình tự động, điều tra và đáp ứng cho Office 365 ATP (nếu có trong đăng ký của bạn).
     
 Để biết thêm thông tin về trách nhiệm di chuyển dữ liệu, xem [di chuyển dữ liệu](O365-data-migration.md).
   
@@ -139,6 +140,16 @@ Cung cấp hướng dẫn về:
 - Làm thế nào để cấu hình SharePoint trực tuyến kết hợp OneDrive cho việc chuyển hướng (SharePoint 2013 và SharePoint 2016 chỉ).
 - Di chuyển dữ liệu nếu sử dụng dịch vụ di chuyển dữ liệu trung tâm FastTrack và nếu bạn gặp đủ điều kiện.
     
+## <a name="office-365-advanced-threat-protection"></a>Văn phòng 365 nâng cao mối đe dọa bảo vệ
+
+Cung cấp hướng dẫn về:
+- Cho phép liên kết an toàn.
+- Cho phép đính kèm an toàn.
+- Cho phép các chính sách chống lừa đảo.
+- Cấu hình tự động, điều tra và phản hồi.
+- Sử dụng Attack Simulator.
+- Báo cáo và phân tích mối đe dọa.
+
 ## <a name="microsoft-teams"></a>Microsoft teams
 
 Cung cấp hướng dẫn về:

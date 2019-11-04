@@ -3,18 +3,18 @@ title: Phụ lục B - Lợi ích bổ sung của Trung tâm FastTrack
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 10/02/2019
+ms.date: 11/02/2019
 ms.audience: ITPro
 ms.topic: article
 ms.service: o365-administration
 localization_priority: Priority
 description: Khách hàng mua ít nhất 20.000 giấy phép cho một đối tượng thuê Exchange Online đủ điều kiện cho các dịch vụ bổ sung của FastTrack Center. Xem các dịch vụ và gói cước đủ điều kiện để biết thêm chi tiết.
-ms.openlocfilehash: c2f25e63d1e6d7d8b870a191136aad29e52fcfa3
-ms.sourcegitcommit: 06eb1378c0f3601ca6909765ecacbff23db7e71f
+ms.openlocfilehash: 8da19cd3922e1e37eb382716039dc6a96166191e
+ms.sourcegitcommit: f8d7e570b60a55c244af0eceb6fbb0e591257f11
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 10/01/2019
-ms.locfileid: "37342505"
+ms.lasthandoff: 11/01/2019
+ms.locfileid: "37921300"
 ---
 # <a name="appendix-b---fasttrack-center-additional-benefit"></a>Phụ lục B - Lợi ích bổ sung của Trung tâm FastTrack
 
@@ -42,9 +42,9 @@ Cho Skype dành cho doanh nghiệp trực tuyến, chúng tôi cung cấp hướ
 
 Đối với Office 365 ProPlus, chúng tôi cung cấp hướng dẫn sau: 
 - Đánh giá và lập kế hoạch tập trung vào việc chuẩn bị môi trường của bạn để triển khai và quản lý ban đầu các bản Cập Nhật phù hợp với các phương pháp hay nhất của Microsoft. 
-- Phát triển triển khai cấu hình và Cập Nhật cài đặt bằng cách sử dụng công cụ triển khai Office 365. 
+- Phát triển triển khai cấu hình và Cập Nhật cài đặt bằng cách sử dụng công cụ triển khai Office 365 và công cụ Tuỳ chỉnh Office. 
 - Triển khai bao bì bằng cách sử dụng trình quản lý cấu hình Trung tâm hệ thống.  
-- Triển khai và định cấu hình Office telemetry để cung cấp hướng dẫn cho bạn để đánh giá việc sử dụng các tài liệu văn phòng kinh doanh quan trọng và các giải pháp cho khả năng tương thích ứng dụng.
+- Cho phép sử dụng bộ công cụ sẵn sàng cho Office để xác định các vấn đề tương thích tiềm năng với Microsoft Visual Basic for Applications (VBA) macro và trình bổ sung mà bạn sử dụng với Office.
     
 ## <a name="fasttrack-responsibilities"></a>Trách nhiệm của FastTrack
 
@@ -132,12 +132,7 @@ FastTrack chuyên gia có trách nhiệm sau đây trong onboarding. Đây có t
 
 - Cung cấp hướng dẫn và hỗ trợ cho:  
   - Đánh giá và lập kế hoạch phù hợp với các phương pháp hay nhất của Microsoft về triển khai và quản lý bản Cập Nhật ban đầu.
-  - Triển khai và cấu hình Office telemetry. 
-  - Cho phép từ xa ghi cho Office 2013 trở đi khách hàng sử dụng chính sách nhóm. 
-  - Triển khai Office từ xa đại lý cho các khách hàng Office trước (Office 2003, Office 2007 và Office 2010). 
-  - Triển khai bộ xử lý từ xa. 
-    > [!NOTE]
-    > Điều này yêu cầu vị trí chia sẻ tệp để lưu trữ dữ liệu từ xa và máy chủ đang chạy SQL Server 2005 trở đi để gửi dữ liệu xử lý. 
+  - Cho phép sử dụng bộ công cụ sẵn sàng cho Office để xác định các vấn đề tương thích tiềm năng với Microsoft VBA macro và trình bổ sung mà bạn sử dụng với Office.
   
 ## <a name="your-responsibilities"></a>Trách nhiệm của bạn
 

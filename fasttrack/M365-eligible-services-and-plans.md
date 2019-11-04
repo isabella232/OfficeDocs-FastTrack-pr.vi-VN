@@ -3,19 +3,19 @@ title: Dịch vụ và gói đủ điều kiện
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 10/02/2019
+ms.date: 11/02/2019
 ms.audience: ITPro
 ms.topic: overview
 ms.service: m365-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: Khi bạn mua bất kỳ dịch vụ Microsoft 365, FastTrack chuyên gia cung cấp hướng dẫn cho bạn để onboard cho Microsoft 365 và bắt đầu sử dụng chúng.
-ms.openlocfilehash: a9214126f8795d99c90b2008d16d99fc6dc83676
-ms.sourcegitcommit: 06eb1378c0f3601ca6909765ecacbff23db7e71f
+ms.openlocfilehash: 984f10eb9c9854f28e5cb56537594f87aeb8cef7
+ms.sourcegitcommit: f8d7e570b60a55c244af0eceb6fbb0e591257f11
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 10/01/2019
-ms.locfileid: "37342565"
+ms.lasthandoff: 11/01/2019
+ms.locfileid: "37921180"
 ---
 # <a name="eligible-services-and-plans"></a>Dịch vụ và gói đủ điều kiện
 
@@ -49,20 +49,22 @@ Bạn cũng có thể yêu cầu FastTrack Trung tâm trợ giúp từ các [tra
 
 FastTrack Center cung cấp hỗ trợ cho các dịch vụ sau:
   
-- Trao đổi trực tuyến
-- SharePoint trực tuyến
-- OneDrive cho doanh nghiệp
-- Microsoft teams
-- Skype cho doanh nghiệp trực tuyến
-- Điện BI
-- Dự án trực tuyến
-- Yammer doanh nghiệp 
-- Văn phòng 365 ProPlus
-- Cửa sổ 10
 - Azure Active Directory cao cấp
 - Bảo vệ thông tin Azure
+- Trao đổi trực tuyến 
+- Bảo vệ chống mối đe dọa nâng cao của Microsoft Defender
 - Microsoft InTune
-    
+- Microsoft teams
+- Văn phòng 365 nâng cao mối đe dọa bảo vệ
+- Văn phòng 365 ProPlus
+- OneDrive cho doanh nghiệp
+- Điện BI
+- Dự án trực tuyến
+- SharePoint trực tuyến
+- Skype cho doanh nghiệp trực tuyến
+- Cửa sổ 10
+- Yammer doanh nghiệp 
+  
 ## <a name="eligible-microsoft-365-plans"></a>Gói Microsoft 365 đủ điều kiện
   
  **Microsoft 365 doanh nghiệp**

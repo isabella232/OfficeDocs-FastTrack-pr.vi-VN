@@ -3,19 +3,19 @@ title: Giai đoạn triển khai và di chuyển
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 10/02/2019
+ms.date: 11/02/2019
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: Office 365 bộ nhớ ngoài có bốn giai đoạn chính — bắt đầu, đánh giá, remediate và Enable. Bạn có thể làm theo các giai đoạn này với một giai đoạn di chuyển dữ liệu tùy chọn.
-ms.openlocfilehash: 16e777ea13a885eafac0185c3f282f0a856c5bb1
-ms.sourcegitcommit: 06eb1378c0f3601ca6909765ecacbff23db7e71f
+ms.openlocfilehash: 21b201c4c9d88c3b92c815beeef3e6ae46c3b73a
+ms.sourcegitcommit: f8d7e570b60a55c244af0eceb6fbb0e591257f11
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 10/01/2019
-ms.locfileid: "37342421"
+ms.lasthandoff: 11/01/2019
+ms.locfileid: "37922648"
 ---
 # <a name="onboarding-and-migration-phases"></a>Giai đoạn triển khai và di chuyển
 
@@ -97,9 +97,13 @@ Bộ nhớ ngoài cho một hoặc nhiều dịch vụ đủ điều kiện có 
 - Thiết lập tính năng Exchange Online Protection (EOP) cho tất cả các miền hỗ trợ thư xác nhận trong Office 365.
     > [!NOTE]
     > Hồ sơ trao đổi thư (MX) của bạn phải trỏ tới Office 365. 
-- Thiết lập tính năng bảo vệ mối đe dọa nâng cao của Exchange Online (ATP) nếu nó là một phần của dịch vụ đăng ký của bạn. Điều này được thực hiện khi bản ghi MX trỏ tới Office 365. Tính năng này được cấu hình là một phần của cài đặt Exchange Online Protection antimalware.
+- Thiết lập Office 365 nâng cao mối đe dọa bảo vệ (ATP) tính năng nếu nó là một phần của dịch vụ đăng ký của bạn. Để biết thêm thông tin, xem [Office 365 nâng cao mối đe dọa bảo vệ](#office-365-advanced-threat-protection).
 - Thiết lập tính năng ngăn mất dữ liệu (DLP) cho tất cả các miền hỗ trợ thư xác nhận trong Office 365 như một phần của dịch vụ đăng ký của bạn. Điều này được thực hiện khi bản ghi MX trỏ tới Office 365.
 - Thiết lập Office 365 mã hóa thư (OME) cho tất cả các miền hỗ trợ thư xác nhận trong Office 365 là một phần của dịch vụ đăng ký của bạn. Điều này được thực hiện khi bản ghi MX trỏ tới Office 365.
+
+> [!NOTE]
+> Dịch vụ sao chép hộp thư (MRS) cố gắng di chuyển email quản lý quyền thông tin (IRM) từ hộp thư tại chỗ của bạn vào hộp thư Exchange Online tương ứng. Khả năng đọc sau khi di chuyển nội dung được bảo vệ phụ thuộc vào bản đồ khách hàng và sao chép các mẫu dịch vụ quản lý quyền Active Directory (AD RMS) cho dịch vụ quản lý quyền Azure (Azure RMS).
+
 - Cấu hình cổng tường lửa.
 - Thiết lập DNS, bao gồm yêu cầu tự động phát hiện, khung chính sách người gửi (SPF) và bản ghi MX (nếu cần). 
 - Thiết lập luồng email giữa môi trường tin nhắn nguồn của bạn và Exchange Online (nếu cần).
@@ -128,6 +132,14 @@ OneDrive cho doanh nghiệp, các bước phụ thuộc vào nếu bạn đang s
   
 ![OneDrive bộ nhớ ngoài bước trong giai đoạn kích hoạt](media/O365-Onboarding-Enable-ODB.png)
   
+## <a name="office-365-advanced-threat-protection"></a>Văn phòng 365 nâng cao mối đe dọa bảo vệ
+
+Đối với Office 365 ATP, chúng tôi cung cấp hướng dẫn cho:
+- Cho phép liên kết an toàn, tệp đính kèm an toàn và chống lừa đảo. 
+- Cấu hình tự động, điều tra và phản hồi.
+- Sử dụng Attack Simulator.
+- Báo cáo và phân tích mối đe dọa.
+
 ## <a name="microsoft-teams"></a>Microsoft teams
 
 Đối với Microsoft teams, chúng tôi cung cấp hướng dẫn cho:
