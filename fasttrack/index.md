@@ -1,19 +1,19 @@
 ---
 layout: HubPage
 hide_bc: true
-title: Microsoft FastTrack tài liệu và tài nguyên
-description: Tìm hiểu làm thế nào Microsoft FastTrack có thể giúp khách hàng triển khai các giải pháp đám mây của Microsoft. Khách hàng có đủ điều kiện đăng ký Microsoft 365, Azure hoặc Dynamics 365 có thể sử dụng FastTrack không mất thêm chi phí cho cuộc sống của thuê bao của họ.
-ms.openlocfilehash: ae5a62824b074863bf2649fd8aa5e2c88d33c932
-ms.sourcegitcommit: ccdd833af651980ea6ac655bf32b4262474b35d4
+title: Tài liệu và tài nguyên Microsoft FastTrack
+description: Tìm hiểu cách Microsoft FastTrack có thể giúp khách hàng triển khai các giải pháp đám mây của Microsoft. Khách hàng có đăng ký đủ điều kiện cho Microsoft 365, Azure hoặc Dynamics 365 có thể sử dụng FastTrack mà không mất thêm chi phí cho cuộc sống đăng ký của họ.
+ms.openlocfilehash: de1da643e333f3f4a85580c51f2f721f739256cc
+ms.sourcegitcommit: 39616c06c0617700b1393e055894acb6aa6f7776
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 05/01/2019
-ms.locfileid: "33513349"
+ms.lasthandoff: 12/02/2019
+ms.locfileid: "39663499"
 ---
 <div id="main" class="v2">
     <div class="container">
-        <h1>Microsoft FastTrack tài liệu và tài nguyên</h1>
-        <p>Tìm hiểu làm thế nào Microsoft FastTrack có thể giúp khách hàng triển khai các giải pháp đám mây của Microsoft. Khách hàng có đủ điều kiện đăng ký Microsoft 365, Azure hoặc Dynamics 365 có thể sử dụng FastTrack không mất thêm chi phí cho cuộc sống của thuê bao của họ.</p>
+        <h1>Tài liệu và tài nguyên Microsoft FastTrack</h1>
+        <p>Tìm hiểu cách Microsoft FastTrack có thể giúp khách hàng triển khai các giải pháp đám mây của Microsoft. Khách hàng có đăng ký đủ điều kiện cho Microsoft 365, Azure hoặc Dynamics 365 có thể sử dụng FastTrack mà không mất thêm chi phí cho cuộc sống đăng ký của họ.</p>
         <p></p>
         <ul class="pivots">
             <li>
@@ -27,11 +27,11 @@ ms.locfileid: "33513349"
                                     <div class="cardPadding">
                                         <div class="card">
                                                 <div class="cardText">
-                                                <h3>FastTrack cho Microsoft 365</h3>
+                                                <h3>FastTrack dành cho Microsoft 365</h3>
                                                 <p><a
-                                                href="https://docs.microsoft.com/en-us/fasttrack/m365-fasttrack-benefit-overview">Tổng quan</a></p>
+                                                href="https://docs.microsoft.com/fasttrack/m365-fasttrack-benefit-overview">Tổng quan về</a></p>
                                                 <p><a href="https://docs.microsoft.com/fasttrack/O365-fasttrack-benefit-for-office-365">Office 365</a></p>
-                                                <p><a href="https://docs.microsoft.com/enterprise-mobility-security/Solutions/enterprise-mobility-fasttrack-program">Vận động doanh nghiệp + bảo mật</a></p>
+                                                <p><a href="https://docs.microsoft.com/enterprise-mobility-security/Solutions/enterprise-mobility-fasttrack-program">Doanh nghiệp di động + bảo mật</a></p>
                                                 <p><a href="https://docs.microsoft.com/fasttrack/win-10-fasttrack-benefit-for-windows-10">Windows 10</a></p>
                                             </div>
                                         </div>
@@ -43,7 +43,7 @@ ms.locfileid: "33513349"
                                     <div class="cardPadding">
                                         <div class="card">
                                             <div class="cardText">
-                                                <h3>FastTrack cho Azure</h3>
+                                                <h3>FastTrack dành cho Azure</h3>
                                                 <p><a href="https://azure.microsoft.com/programs/azure-fasttrack/?v=18.03">Lợi ích chính</a></p>
                                                 <p><a href="https://azure.microsoft.com/programs/azure-fasttrack/partners/">FastTrack đối tác Azure</a></p>
                                             </div>
@@ -56,9 +56,9 @@ ms.locfileid: "33513349"
                                     <div class="cardPadding">
                                         <div class="card">
                                             <div class="cardText">
-                                                <h3>FastTrack cho Dynamics 365</h3>
-                                                <p><a href="https://docs.microsoft.com/dynamics365/get-started/fasttrack/customer-engagement/microsoft-fasttrack-dynamics-365">Khách hàng tham gia tổng quan</a></p>
-                                                <p><a href="https://docs.microsoft.com/dynamics365/unified-operations/fin-and-ops/get-started/fasttrack-dynamics-365-overview">Động lực cho các hoạt động tài chính &</a></p>
+                                                <h3>FastTrack dành cho Dynamics 365</h3>
+                                                <p><a href="https://docs.microsoft.com/dynamics365/get-started/fasttrack/customer-engagement/microsoft-fasttrack-dynamics-365">Tổng quan về khách hàng tham gia</a></p>
+                                                <p><a href="https://docs.microsoft.com/dynamics365/unified-operations/fin-and-ops/get-started/fasttrack-dynamics-365-overview">Dynamics cho tài chính & hoạt động</a></p>
                                             </div>
                                         </div>
                                     </div>
