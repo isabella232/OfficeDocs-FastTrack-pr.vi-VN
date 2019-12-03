@@ -5,7 +5,7 @@ keywords: ''
 author: andredm7
 ms.author: andredm
 manager: ''
-ms.date: 11/02/2019
+ms.date: 12/03/2019
 ms.topic: article
 ms.prod: ''
 ms.service: microsoft-intune
@@ -14,12 +14,12 @@ ms.collection: FastTrack
 ms.assetid: fd951f10-6404-43a3-8f2f-464f5b5003ac
 ms.reviewer: ''
 ms.suite: ems
-ms.openlocfilehash: 520f97a657715abb4741bfe3473c5c5dccd97737
-ms.sourcegitcommit: f8d7e570b60a55c244af0eceb6fbb0e591257f11
+ms.openlocfilehash: 7b5a49b4fc2a41952efabe6265e1a79c4b966b7b
+ms.sourcegitcommit: 39616c06c0617700b1393e055894acb6aa6f7776
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 11/01/2019
-ms.locfileid: "37921204"
+ms.lasthandoff: 12/02/2019
+ms.locfileid: "39662887"
 ---
 # <a name="fasttrack-center-benefit-for-enterprise-mobility--security-ems"></a>Lợi ích của Trung tâm FastTrack dành cho Enterprise Mobility + Security (EMS)
 
@@ -33,7 +33,7 @@ Bạn sử dụng các doanh nghiệp di động + Security (EMS) FastTrack Trun
 - Để tìm hiểu về quá trình FastTrack Trung tâm và những người chịu trách nhiệm về những gì, xem [FastTrack Trung tâm lợi ích quy trình cho doanh nghiệp di động + bảo mật](EMS-fasttrack-process.md).
 
     > [!TIP]
-    > Nếu bạn muốn tải xuống tệp. zip có chứa Enterprise Mobility + bảo mật **hướng dẫn cách** thực hiện và email có thể được tùy chỉnh với logo của tổ chức bạn để giúp quảng bá việc áp dụng EMS trong tổ chức của bạn, hãy xem [FASTTRACK dành cho EMS hướng dẫn cách & Email để Customize](https://gallery.technet.microsoft.com/FastTrack-for-EMS-How-To-f170da4c).
+    > Nếu bạn muốn tải xuống tệp. zip có chứa Enterprise Mobility + bảo mật **hướng dẫn cách** thực hiện và email có thể được tùy chỉnh với logo của tổ chức bạn để giúp quảng bá việc áp dụng EMS trong tổ chức của bạn, hãy xem [FastTrack cho EMS hướng dẫn & email để Customize](https://gallery.technet.microsoft.com/FastTrack-for-EMS-How-To-f170da4c).
 
 ## <a name="next-steps"></a>Các bước tiếp theo
 

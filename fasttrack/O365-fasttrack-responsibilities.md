@@ -3,19 +3,19 @@ title: Trách nhiệm của FastTrack
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 11/02/2019
+ms.date: 12/03/2019
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: FastTrack chuyên gia có trách nhiệm sau đây trong onboarding.
-ms.openlocfilehash: 6570fa144076288a4ab00806e9e0f8bd9172582f
-ms.sourcegitcommit: f8d7e570b60a55c244af0eceb6fbb0e591257f11
+ms.openlocfilehash: 08fc251860aca5868deefd19904abd30b5a9f8b9
+ms.sourcegitcommit: 39616c06c0617700b1393e055894acb6aa6f7776
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 11/01/2019
-ms.locfileid: "37921588"
+ms.lasthandoff: 12/02/2019
+ms.locfileid: "39662995"
 ---
 # <a name="fasttrack-responsibilities"></a>Trách nhiệm của FastTrack
 
@@ -107,49 +107,6 @@ Cung cấp hướng dẫn về:
     
 Để biết thêm thông tin về trách nhiệm di chuyển dữ liệu, xem [di chuyển dữ liệu](O365-data-migration.md).
   
-## <a name="sharepoint-online"></a>SharePoint trực tuyến
-
-Cung cấp hướng dẫn về:
-- Thiết lập cung cấp người dùng bao gồm giấy phép.
-- Cho phép tạo trang web cho quản trị SharePoint trực tuyến của bạn.    
-- Lập kế hoạch bộ sưu tập trang web. 
-- Bảo mật nội dung và quyền quản lý.
-- Cho phép các trang web cá nhân và các tính năng xã hội.
-- Cấu hình các tính năng SharePoint Online. 
-- Cung cấp di chuyển dữ liệu nếu sử dụng dịch vụ di chuyển dữ liệu trung tâm FastTrack và nếu bạn gặp đủ điều kiện.
-- Đánh một cấu hình cơ sở hạ tầng trang trại SharePoint tại chỗ cần thiết cho kết hợp SharePoint Online. 
-- Sử dụng công cụ và tự động hóa để:
-  - Cấu hình ứng dụng dịch vụ tìm kiếm đám mây tại chỗ. 
-  - Cấu hình tin cậy giữa SharePoint tại chỗ và môi trường đám mây.
-- Cấu hình tại chỗ SharePoint trang web sử dụng tính năng kết hợp SharePoint trực tuyến.
-    
-## <a name="onedrive-for-business"></a>OneDrive cho doanh nghiệp
-
-Cung cấp hướng dẫn về:
-- Xác định các tùy chọn phiên bản và tích hợp SharePoint tại chỗ. 
-- Xác định đồng bộ hóa và tùy chọn nhận dạng.
-- Chọn một tùy chọn triển khai:   
-  - Giới thiệu chỉ trong thời gian.
-  - Tiến hành theo giai đoạn (theo sắp xếp và theo giai đoạn).
-- Chuẩn bị môi trường tại chỗ để triển khai OneDrive cho doanh nghiệp:
-  - Xác định đúng OneDrive cho khách hàng doanh nghiệp đồng bộ hoá.
-  - Cấu hình DNS, cổng mạng và tường lửa. 
-- Gán giấy phép người dùng cuối. 
-- Thiết lập đối tượng SharePoint Online để kiểm soát và quản trị người được OneDrive dành cho doanh nghiệp. 
-- Triển khai OneDrive cho khách hàng doanh nghiệp đồng bộ hoá máy tính để bàn.   
-- Làm thế nào để cấu hình SharePoint trực tuyến kết hợp OneDrive cho việc chuyển hướng (SharePoint 2013 và SharePoint 2016 chỉ).
-- Di chuyển dữ liệu nếu sử dụng dịch vụ di chuyển dữ liệu trung tâm FastTrack và nếu bạn gặp đủ điều kiện.
-    
-## <a name="office-365-advanced-threat-protection"></a>Văn phòng 365 nâng cao mối đe dọa bảo vệ
-
-Cung cấp hướng dẫn về:
-- Cho phép liên kết an toàn.
-- Cho phép đính kèm an toàn.
-- Cho phép các chính sách chống lừa đảo.
-- Cấu hình tự động, điều tra và phản hồi.
-- Sử dụng Attack Simulator.
-- Báo cáo và phân tích mối đe dọa.
-
 ## <a name="microsoft-teams"></a>Microsoft teams
 
 Cung cấp hướng dẫn về:
@@ -175,26 +132,51 @@ Cung cấp hướng dẫn về:
 - Bật sự kiện trực tiếp của teams. 
 - Tổ chức thiết lập và tích hợp vào Microsoft Stream.
 
-
-## <a name="skype-for-business-online"></a>Skype cho doanh nghiệp trực tuyến
+## <a name="office-365-advanced-threat-protection"></a>Văn phòng 365 nâng cao mối đe dọa bảo vệ
 
 Cung cấp hướng dẫn về:
-- Cung cấp Skype dành cho doanh nghiệp danh tính cho Office 365. 
-- Cho phép hội nghị trực tuyến, nhắn tin tức thời (IM) và các tính năng hiện diện cho Office 365. 
-- Tạo tài khoản để liên kết với các thiết bị hệ thống phòng được hỗ trợ (tối đa 10 tài khoản). 
-- Cấu hình một môi trường máy chủ miền chia hỗ trợ Lync kết hợp hoặc Skype dành cho doanh nghiệp trực tuyến kết hợp kịch bản (nếu có).
-- Bật hội thảo âm thanh:
-  - Thiết lập tổ chức cho thiết đặt mặc định cầu hội nghị.
-  - Chuyển nhượng một cây cầu hội nghị cho người dùng được cấp phép.
-- Cho phép hệ thống điện thoại:
-  - Cho phép hệ thống điện thoại và gọi kế hoạch bộ nhớ ngoài (ở thị trường có sẵn).
-  - Chuyển nhượng số cho người dùng được cấp phép.
-  - Số địa phương porting hướng dẫn thông qua giao diện người dùng lên đến 999.
-  - Số địa phương porting hỗ trợ SR trên 999.
-- Kích hoạt Skype cho cuộc họp kinh doanh Broadcast:
-  - Cho phép Skype dành cho doanh nghiệp họp phát bộ nhớ ngoài hướng dẫn.
-  - Tổ chức thiết lập liên kết với cuộc họp Broadcast dịch vụ.
+- Cho phép liên kết an toàn.
+- Cho phép đính kèm an toàn.
+- Cho phép các chính sách chống lừa đảo.
+- Cấu hình tự động, điều tra và phản hồi.
+- Sử dụng Attack Simulator.
+- Báo cáo và phân tích mối đe dọa.
+
+## <a name="office-365-proplus"></a>Văn phòng 365 ProPlus
+
+Cung cấp hướng dẫn về:
+- Giải quyết vấn đề triển khai.
+- Gán giấy phép người dùng cuối bằng cách sử dụng [Trung tâm quản trị Microsoft 365](https://go.microsoft.com/fwlink/?linkid=2032704) và Windows PowerShell.
+- Cài đặt Office 365 ProPlus từ cổng 365 Office sử dụng click-to-run.
+- Cài đặt ứng dụng Office Mobile (như Outlook for iOS và Android, Word Mobile, Excel Mobile và PowerPoint Mobile) trên các thiết bị iOS, Android hoặc Windows Mobile của bạn. 
+- Cấu hình cài đặt bản Cập Nhật bằng cách sử dụng công cụ triển khai Office 365.
+- Chọn và thiết lập cài đặt cục bộ hoặc đám mây.
+- Tạo XML cấu hình công cụ triển khai Office với công cụ Tuỳ chỉnh Office hoặc XML riêng để cấu hình gói triển khai.
+- Triển khai bằng cách sử dụng quản lý cấu hình Trung tâm hệ thống, bao gồm hỗ trợ tạo hệ thống Trung tâm quản lý cấu hình bao bì.
     
+## <a name="onedrive-for-business"></a>OneDrive cho doanh nghiệp
+
+Cung cấp hướng dẫn về:
+- Xác định các tùy chọn phiên bản và tích hợp SharePoint tại chỗ. 
+- Xác định đồng bộ hóa và tùy chọn nhận dạng.
+- Chọn một tùy chọn triển khai:   
+  - Giới thiệu chỉ trong thời gian.
+  - Tiến hành theo giai đoạn (theo sắp xếp và theo giai đoạn).
+- Chuẩn bị môi trường tại chỗ để triển khai OneDrive cho doanh nghiệp:
+  - Xác định đúng OneDrive cho khách hàng doanh nghiệp đồng bộ hoá.
+  - Cấu hình DNS, cổng mạng và tường lửa. 
+- Gán giấy phép người dùng cuối. 
+- Thiết lập đối tượng SharePoint Online để kiểm soát và quản trị người được OneDrive dành cho doanh nghiệp. 
+- Triển khai OneDrive cho khách hàng doanh nghiệp đồng bộ hoá máy tính để bàn.   
+- Làm thế nào để cấu hình SharePoint trực tuyến kết hợp OneDrive cho việc chuyển hướng (SharePoint 2013 và SharePoint 2016 chỉ).
+- Di chuyển dữ liệu nếu sử dụng dịch vụ di chuyển dữ liệu trung tâm FastTrack và nếu bạn gặp đủ điều kiện.
+    
+## <a name="outlook-for-ios-and-android"></a>Outlook dành cho iOS và Android
+
+Cung cấp hướng dẫn về:
+- Tải Outlook lên các thiết bị iOS và Android.
+- Cấu hình tài khoản email trong Outlook.
+
 ## <a name="power-bi"></a>Điện BI
 
 Cung cấp hướng dẫn về:
@@ -220,28 +202,45 @@ Cung cấp hướng dẫn về:
 - Cấu hình cài đặt bản Cập Nhật bằng cách sử dụng Office 365 công cụ triển khai hoặc chính sách nhóm mẫu.
 - Thiết lập một máy chủ phân phối trên trang web cho khách hàng dự án trực tuyến máy tính, bao gồm hướng dẫn để tạo tệp configuration. xml cho công cụ triển khai Office 2016. 
 - Kết nối khách hàng máy tính để bàn trực tuyến dự án trực tuyến.
+
+## <a name="sharepoint-online"></a>SharePoint trực tuyến
+
+Cung cấp hướng dẫn về:
+- Thiết lập cung cấp người dùng bao gồm giấy phép.
+- Cho phép tạo trang web cho quản trị SharePoint trực tuyến của bạn.    
+- Lập kế hoạch bộ sưu tập trang web. 
+- Bảo mật nội dung và quyền quản lý.
+- Cho phép các trang web cá nhân và các tính năng xã hội.
+- Cấu hình các tính năng SharePoint Online. 
+- Cung cấp di chuyển dữ liệu nếu sử dụng dịch vụ di chuyển dữ liệu trung tâm FastTrack và nếu bạn gặp đủ điều kiện.
+- Đánh một cấu hình cơ sở hạ tầng trang trại SharePoint tại chỗ cần thiết cho kết hợp SharePoint Online. 
+- Sử dụng công cụ và tự động hóa để:
+  - Cấu hình ứng dụng dịch vụ tìm kiếm đám mây tại chỗ. 
+  - Cấu hình tin cậy giữa SharePoint tại chỗ và môi trường đám mây.
+- Cấu hình tại chỗ SharePoint trang web sử dụng tính năng kết hợp SharePoint trực tuyến.
+    
+## <a name="skype-for-business-online"></a>Skype cho doanh nghiệp trực tuyến
+
+Cung cấp hướng dẫn về:
+- Cung cấp Skype dành cho doanh nghiệp danh tính cho Office 365. 
+- Cho phép hội nghị trực tuyến, nhắn tin tức thời (IM) và các tính năng hiện diện cho Office 365. 
+- Tạo tài khoản để liên kết với các thiết bị hệ thống phòng được hỗ trợ (tối đa 10 tài khoản). 
+- Cấu hình một môi trường máy chủ miền chia hỗ trợ Lync kết hợp hoặc Skype dành cho doanh nghiệp trực tuyến kết hợp kịch bản (nếu có).
+- Bật hội thảo âm thanh:
+  - Thiết lập tổ chức cho thiết đặt mặc định cầu hội nghị.
+  - Chuyển nhượng một cây cầu hội nghị cho người dùng được cấp phép.
+- Cho phép hệ thống điện thoại:
+  - Cho phép hệ thống điện thoại và gọi kế hoạch bộ nhớ ngoài (ở thị trường có sẵn).
+  - Chuyển nhượng số cho người dùng được cấp phép.
+  - Số địa phương porting hướng dẫn thông qua giao diện người dùng lên đến 999.
+  - Số địa phương porting hỗ trợ SR trên 999.
+- Kích hoạt Skype cho cuộc họp kinh doanh Broadcast:
+  - Cho phép Skype dành cho doanh nghiệp họp phát bộ nhớ ngoài hướng dẫn.
+  - Tổ chức thiết lập liên kết với cuộc họp Broadcast dịch vụ.
     
 ## <a name="yammer-enterprise"></a>Yammer doanh nghiệp
 
 Cung cấp hướng dẫn về chuyển đổi mạng yammer cơ bản duy nhất của bạn thành một mạng yammer doanh nghiệp duy nhất.
   
-## <a name="office-365-proplus"></a>Văn phòng 365 ProPlus
-
-Cung cấp hướng dẫn về:
-- Giải quyết vấn đề triển khai.
-- Gán giấy phép người dùng cuối bằng cách sử dụng [Trung tâm quản trị Microsoft 365](https://go.microsoft.com/fwlink/?linkid=2032704) và Windows PowerShell.
-- Cài đặt Office 365 ProPlus từ cổng 365 Office sử dụng click-to-run.
-- Cài đặt ứng dụng Office Mobile (như Outlook for iOS và Android, Word Mobile, Excel Mobile và PowerPoint Mobile) trên các thiết bị iOS, Android hoặc Windows Mobile của bạn. 
-- Cấu hình cài đặt bản Cập Nhật bằng cách sử dụng công cụ triển khai Office 365.
-- Chọn và thiết lập cài đặt cục bộ hoặc đám mây.
-- Tạo XML cấu hình công cụ triển khai Office với công cụ Tuỳ chỉnh Office hoặc XML riêng để cấu hình gói triển khai.
-- Triển khai bằng cách sử dụng quản lý cấu hình Trung tâm hệ thống, bao gồm hỗ trợ tạo hệ thống Trung tâm quản lý cấu hình bao bì.
-    
-## <a name="outlook-for-ios-and-android"></a>Outlook dành cho iOS và Android
-
-Cung cấp hướng dẫn về:
-- Tải Outlook lên các thiết bị iOS và Android.
-- Cấu hình tài khoản email trong Outlook.
-
 \*Để biết thông tin về các trách nhiệm của FastTrack cho Office 365 chính phủ Hoa Kỳ, xem [Fasttrack trách nhiệm cho văn phòng 365 chính phủ Hoa Kỳ](US-Gov-appendix-fasttrack-responsibilities.md).
 

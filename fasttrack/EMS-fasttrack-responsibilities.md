@@ -1,11 +1,11 @@
 ---
-title: Trách nhiệm của FastTrack
+title: Các trách nhiệm của FastTrack
 description: Trách nhiệm của FastTrack khi khách hàng đang sử dụng lợi ích Trung tâm FastTrack cho EMS
 keywords: ''
 author: andredm7
 ms.author: andredm
 manager: ''
-ms.date: 11/02/2019
+ms.date: 12/03/2019
 ms.topic: article
 ms.prod: ''
 ms.service: microsoft-intune
@@ -14,12 +14,12 @@ ms.collection: FastTrack
 ms.assetid: c8fd871e-f1bc-43ec-a5f3-ad025df9b026
 ms.reviewer: ''
 ms.suite: ems
-ms.openlocfilehash: 65be29729f38b3007399b05b495b56f641680878
-ms.sourcegitcommit: f8d7e570b60a55c244af0eceb6fbb0e591257f11
+ms.openlocfilehash: 71030fee255c784f57ed4ee880b6bc01087d5a1b
+ms.sourcegitcommit: 39616c06c0617700b1393e055894acb6aa6f7776
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 11/01/2019
-ms.locfileid: "37921108"
+ms.lasthandoff: 12/02/2019
+ms.locfileid: "39662863"
 ---
 # <a name="fasttrack-responsibilities"></a>Trách nhiệm của FastTrack
 
@@ -148,7 +148,7 @@ Cung cấp hướng dẫn về cách thiết lập:
 
   - Tối đa ba (3) hoặc nhiều phần mềm dưới dạng tích hợp ứng dụng dịch vụ (SaaS) với đăng nhập đơn (SSO) từ [Azure Active Directory Marketplace](https://azure.microsoft.com/marketplace/active-directory/).
 
-  - Tự động cung cấp người dùng cho các ứng dụng SaaS tích hợp sẵn như được liệt kê trong [danh sách hướng dẫn tích hợp ứng dụng](https://docs.microsoft.com/en-us/azure/active-directory/saas-apps/tutorial-list), chỉ giới hạn ở việc cung cấp bên ngoài.
+  - Tự động cung cấp người dùng cho các ứng dụng SaaS tích hợp sẵn như được liệt kê trong [danh sách hướng dẫn tích hợp ứng dụng](https://docs.microsoft.com/azure/active-directory/saas-apps/tutorial-list), chỉ giới hạn ở việc cung cấp bên ngoài.
 
   - Màn hình đăng nhập tùy chỉnh, bao gồm Logo, văn bản và hình ảnh.
 

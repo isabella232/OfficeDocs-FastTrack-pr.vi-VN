@@ -5,20 +5,20 @@ keywords: ''
 author: andredm7
 ms.author: andredm
 manager: ''
-ms.date: 11/02/2019
+ms.date: 12/03/2019
 ms.topic: article
 ms.prod: ''
 ms.service: microsoft-intune
 localization_priority: Priority
 ms.collection: FastTrack
-ms.openlocfilehash: 8f850c133d18ea42b50f3c4333092d5358d8b1c8
-ms.sourcegitcommit: f8d7e570b60a55c244af0eceb6fbb0e591257f11
+ms.openlocfilehash: 858294224aa18dc3f2aae927630498f49afeb872
+ms.sourcegitcommit: 39616c06c0617700b1393e055894acb6aa6f7776
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 11/01/2019
-ms.locfileid: "37921600"
+ms.lasthandoff: 12/02/2019
+ms.locfileid: "39662923"
 ---
-# <a name="onboarding-phases"></a>Giai đoạn onboarding
+# <a name="onboarding-phases"></a>Các giai đoạn triển khai
 
 Khi bạn sử dụng [dịch vụ đủ điều kiện và kế hoạch](M365-eligible-services-and-plans.md) để có được Microsoft Azure Active Directory Premium, Microsoft InTune và bảo vệ thông tin Azure sẵn sàng để sử dụng, có một số giai đoạn liên quan đến quá trình. Các phần sau đây mô tả từng giai đoạn của quá trình bộ nhớ ngoài.
 
@@ -103,7 +103,7 @@ Azure AD Premium cài đặt bao gồm kích hoạt các tính năng sau:
 
 -   Tối đa ba (3) hoặc nhiều phần mềm dưới dạng tích hợp ứng dụng dịch vụ (SaaS) với đăng nhập đơn (SSO) từ [Azure Active Directory Marketplace](https://azure.microsoft.com/marketplace/active-directory/).
 
--   Tự động cung cấp người dùng cho các ứng dụng SaaS tích hợp sẵn như được liệt kê trong [danh sách hướng dẫn tích hợp ứng dụng](https://docs.microsoft.com/en-us/azure/active-directory/saas-apps/tutorial-list), chỉ giới hạn ở việc cung cấp bên ngoài.
+-   Tự động cung cấp người dùng cho các ứng dụng SaaS tích hợp sẵn như được liệt kê trong [danh sách hướng dẫn tích hợp ứng dụng](https://docs.microsoft.com/azure/active-directory/saas-apps/tutorial-list), chỉ giới hạn ở việc cung cấp bên ngoài.
 
 -   Màn hình đăng nhập tùy chỉnh, bao gồm Logo, văn bản và hình ảnh.
 
@@ -280,7 +280,7 @@ Khách hàng được cung cấp hướng dẫn về cách:
 Hướng dẫn cũng được cung cấp cho khách hàng muốn áp dụng bảo vệ bằng cách sử dụng Microsoft Azure quyền quản lý Dịch vụ (Azure RMS), văn phòng 365 mã hóa thư (OME) và ngăn mất dữ liệu (DLP).
 
 > [!NOTE]
-> **Muốn tìm hiểu thêm?** xem [doanh nghiệp di động + bảo mật](https://www.microsoft.com/en-us/cloud-platform/enterprise-mobility).
+> **Muốn tìm hiểu thêm?** xem [doanh nghiệp di động + bảo mật](https://www.microsoft.com/cloud-platform/enterprise-mobility).
 
 ## <a name="next-steps"></a>Các bước tiếp theo
 

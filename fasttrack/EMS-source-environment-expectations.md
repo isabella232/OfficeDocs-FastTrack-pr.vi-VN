@@ -5,7 +5,7 @@ keywords: ''
 author: andredm7
 ms.author: andredm
 manager: ''
-ms.date: 11/02/2019
+ms.date: 12/03/2019
 ms.topic: article
 ms.prod: ''
 ms.service: microsoft-intune
@@ -14,16 +14,16 @@ ms.collection: FastTrack
 ms.assetid: 9048f3e5-cc28-4744-bb5e-36f974abb261
 ms.reviewer: ''
 ms.suite: ems
-ms.openlocfilehash: 3163294fc53913a125beb560a0ec21f7aac96e22
-ms.sourcegitcommit: f8d7e570b60a55c244af0eceb6fbb0e591257f11
+ms.openlocfilehash: 2ea6b9a8aa9c3e6ac98e073b9449ab97c9659303
+ms.sourcegitcommit: 39616c06c0617700b1393e055894acb6aa6f7776
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 11/01/2019
-ms.locfileid: "37921192"
+ms.lasthandoff: 12/02/2019
+ms.locfileid: "39662899"
 ---
 # <a name="source-environment-expectations"></a>Kỳ vọng về môi trường nguồn
 
-Khi bạn sử dụng các [FastTrack Trung tâm lợi ích cho doanh nghiệp di động + bảo mật (EMS)](EMS-fasttrack-benefit-for-EMS.md) để có được Microsoft Azure Active Directory cao cấp, Microsoft InTune và Azure bảo vệ thông tin đã sẵn sàng để sử dụng, môi trường của bạn cần đáp ứng các kỳ vọng được mô tả trong các phần sau đây.
+Khi bạn sử dụng các [FastTrack Trung tâm lợi ích cho doanh nghiệp di động + bảo mật (EMS)](EMS-fasttrack-benefit-for-EMS.md) để có được Microsoft Azure Active Directory Premium, Microsoft InTune và bảo vệ thông tin Azure sẵn sàng để sử dụng, môi trường của bạn cần đáp ứng các mong đợi được mô tả trong các phần sau.
 
 Bạn có thể đã có Active Directory tại chỗ trong tổ chức của bạn mà bạn muốn tích hợp với doanh nghiệp di động + bảo mật (EMS) hoặc bất kỳ dịch vụ cá nhân sử dụng quản lý danh tính phong phú từ một bảng điều khiển duy nhất. Lợi ích Trung tâm FastTrack dành cho doanh nghiệp di động + bảo mật (EMS) bao gồm giúp bạn tích hợp Azure Active Directory với môi trường Active Directory tại chỗ hiện tại của bạn.
 

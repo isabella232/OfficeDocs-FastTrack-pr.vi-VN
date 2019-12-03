@@ -3,19 +3,19 @@ title: Quy trình FastTrack
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 11/02/2019
+ms.date: 12/03/2019
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: Trình FastTrack cung cấp dịch vụ bộ nhớ ngoài và áp dụng cho người dùng.
-ms.openlocfilehash: 445202e667abe77a12428d86b60e31e1910f7004
-ms.sourcegitcommit: f8d7e570b60a55c244af0eceb6fbb0e591257f11
+ms.openlocfilehash: 9ba69cfd300c7f0b6423592b661e3fd1622aca07
+ms.sourcegitcommit: 39616c06c0617700b1393e055894acb6aa6f7776
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 11/01/2019
-ms.locfileid: "37921527"
+ms.lasthandoff: 12/02/2019
+ms.locfileid: "39663097"
 ---
 # <a name="the-fasttrack-process"></a>Quy trình FastTrack
 

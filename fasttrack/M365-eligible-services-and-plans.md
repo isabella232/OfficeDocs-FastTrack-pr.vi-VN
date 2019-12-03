@@ -3,19 +3,19 @@ title: Dịch vụ và gói đủ điều kiện
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 11/02/2019
+ms.date: 12/03/2019
 ms.audience: ITPro
 ms.topic: overview
 ms.service: m365-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: Khi bạn mua bất kỳ dịch vụ Microsoft 365, FastTrack chuyên gia cung cấp hướng dẫn cho bạn để onboard cho Microsoft 365 và bắt đầu sử dụng chúng.
-ms.openlocfilehash: 984f10eb9c9854f28e5cb56537594f87aeb8cef7
-ms.sourcegitcommit: f8d7e570b60a55c244af0eceb6fbb0e591257f11
+ms.openlocfilehash: 47f0a830a289974b8cfe370101d4049f3f19816f
+ms.sourcegitcommit: 39616c06c0617700b1393e055894acb6aa6f7776
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 11/01/2019
-ms.locfileid: "37921180"
+ms.lasthandoff: 12/02/2019
+ms.locfileid: "39662775"
 ---
 # <a name="eligible-services-and-plans"></a>Dịch vụ và gói đủ điều kiện
 
@@ -52,7 +52,7 @@ FastTrack Center cung cấp hỗ trợ cho các dịch vụ sau:
 - Azure Active Directory cao cấp
 - Bảo vệ thông tin Azure
 - Trao đổi trực tuyến 
-- Bảo vệ chống mối đe dọa nâng cao của Microsoft Defender
+- Tính năng Chống Mối đe dọa Nâng cao của Bộ bảo vệ Microsoft
 - Microsoft InTune
 - Microsoft teams
 - Văn phòng 365 nâng cao mối đe dọa bảo vệ
@@ -62,7 +62,7 @@ FastTrack Center cung cấp hỗ trợ cho các dịch vụ sau:
 - Dự án trực tuyến
 - SharePoint trực tuyến
 - Skype cho doanh nghiệp trực tuyến
-- Cửa sổ 10
+- Windows 10
 - Yammer doanh nghiệp 
   
 ## <a name="eligible-microsoft-365-plans"></a>Gói Microsoft 365 đủ điều kiện
@@ -72,6 +72,7 @@ FastTrack Center cung cấp hỗ trợ cho các dịch vụ sau:
 - Microsoft 365 E3\*
 - Microsoft 365 E5\*
 - Bảo mật Microsoft 365 E5\*
+- Microsoft 365 F1 *
 - Microsoft 365 kinh doanh\*
     
  **Microsoft 365 giáo dục**
@@ -164,8 +165,6 @@ FastTrack Center cung cấp hỗ trợ cho các dịch vụ sau:
 |**Microsoft InTune**    |   Đủ điều kiện nếu mua dưới dạng gói độc lập hoặc là một phần của E3 hoặc E5.      |
 |**Microsoft InTune và quản lý cấu hình**     |    Đủ điều kiện nếu mua dưới dạng gói độc lập hoặc là một phần của E3 hoặc E5.     |
 |**Microsoft InTune for Education**     |  Đủ điều kiện nếu mua dưới dạng gói độc lập hoặc là một phần của A3 hoặc A5.       |
-|**Bảo vệ chống mối đe dọa nâng cao Azure**     |    Giới hạn. Chỉ đủ điều kiện nếu mua dưới dạng gói độc lập. Để thực hiện việc này, hãy truy cập [cổng Microsoft 365 FastTrack](https://go.microsoft.com/fwlink/p/?LinkId=2003903).   |
-|**Bảo mật ứng dụng đám mây Microsoft**    |       Giới hạn. Chỉ đủ điều kiện nếu mua dưới dạng gói độc lập. Để thực hiện việc này, hãy truy cập [cổng Microsoft 365 FastTrack](https://go.microsoft.com/fwlink/p/?LinkId=2003903).    |
 
 Để biết thêm thông tin, xem [FastTrack Trung tâm lợi ích cho doanh nghiệp di động + bảo mật](EMS-fasttrack-benefit-for-EMS.md).
 

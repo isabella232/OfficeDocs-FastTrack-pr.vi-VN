@@ -3,19 +3,19 @@ title: Di chuyển dữ liệu
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 11/02/2019
+ms.date: 12/03/2019
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: FastTrack chuyên gia cung cấp hướng dẫn về các bước để di chuyển dữ liệu sang Office 365. Điều này có sẵn cho tất cả các khách hàng hợp lệ với Office 365 dịch vụ dành cho Exchange Online, OneDrive dành cho doanh nghiệp và SharePoint Online.
-ms.openlocfilehash: 011ac6cd7a6f53872bf9545cb837700418415566
-ms.sourcegitcommit: f8d7e570b60a55c244af0eceb6fbb0e591257f11
+ms.openlocfilehash: 7f779d058fa8bfc916f6fffae06595595c660e81
+ms.sourcegitcommit: 39616c06c0617700b1393e055894acb6aa6f7776
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 11/01/2019
-ms.locfileid: "37921252"
+ms.lasthandoff: 12/02/2019
+ms.locfileid: "39662935"
 ---
 # <a name="data-migration"></a>Di chuyển dữ liệu
 
@@ -66,10 +66,6 @@ Di cư được thực hiện trên một các tiêu chuẩn 24 giờ một ngà
 #### <a name="us-governmentdod"></a>Chính phủ Hoa Kỳ/DOD
 
 Di cư được thực hiện trên các tiêu chuẩn 24 giờ một ngày, năm (5) ngày làm việc một tuần (24x5) trong khe thời gian di chuyển được xác định trước. Có ba lô di chuyển cho mỗi ngày di chuyển. Có năm ngày di chuyển trong một tuần từ thứ hai 2:00AM giờ phối hợp (UTC) đến nửa đêm thứ sáu UTC. Điều này có nghĩa là di chuyển theo lịch trình cuối cùng là thứ sáu 8:00 PM UTC.
-
-#### <a name="germany-microsoft-cloud-deutschland-mcd"></a>Đức Microsoft Cloud Deutschland (MCD)
-
-Di cư được thực hiện trên tiêu chuẩn hóa các 9 giờ một ngày, năm (5) ngày làm việc một tuần (9x5) cơ sở trong khe thời gian di chuyển được xác định trước. Có một lô di chuyển cho mỗi ngày di chuyển. Có năm ngày di chuyển trong một tuần từ thứ hai 12:00PM UTC đến thứ sáu 21:00PM UTC.
     
  ### <a name="end-state"></a>Trạng thái kết thúc
   
@@ -172,10 +168,6 @@ Di cư được thực hiện trên một các tiêu chuẩn 24 giờ một ngà
 
 Di cư được thực hiện trên các tiêu chuẩn 24 giờ một ngày, năm (5) ngày làm việc một tuần (24x5) trong khe thời gian di chuyển được xác định trước. Có ba lô di chuyển cho mỗi ngày di chuyển. Có năm ngày di chuyển trong một tuần từ thứ hai 2:00AM giờ phối hợp (UTC) đến nửa đêm thứ sáu UTC. Điều này có nghĩa là di chuyển theo lịch trình cuối cùng là thứ sáu 8:00 PM UTC.
 
-#### <a name="germany-microsoft-cloud-deutschland-mcd"></a>Đức Microsoft Cloud Deutschland (MCD)
-
-Di cư được thực hiện trên tiêu chuẩn hóa các 9 giờ một ngày, năm (5) ngày làm việc một tuần (9x5) cơ sở trong khe thời gian di chuyển được xác định trước. Có một lô di chuyển cho mỗi ngày di chuyển. Có năm ngày di chuyển trong một tuần từ thứ hai 12:00PM UTC đến thứ sáu 21:00PM UTC.
-
 - Di chuyển tất cả tuân theo dung lượng SharePoint trực tuyến được nêu trong [SharePoint trực tuyến và OneDrive cho doanh nghiệp phần mềm ranh giới và giới hạn](https://go.microsoft.com/fwlink/?LinkID=616612).   
 - Tổng lượng dữ liệu di chuyển sẽ bị ràng buộc đến 75% dung lượng lưu trữ SharePoint trực tuyến tổng thể mà bạn được hưởng (bao gồm bộ nhớ bổ sung mà bạn có thể đã mua riêng).
     
@@ -230,7 +222,7 @@ Bạn thực hiện như sau trong quá trình di chuyển:
 - Tiến hành khắc phục di chuyển sau di chuyển (nếu có).
 - Lập kế hoạch và thực hiện thay đổi quản lý và thông tin người dùng cuối (nếu có).   
 - Quản trị và cấu hình bất kỳ thay đổi hệ thống nguồn và thiết bị cần thiết để hoàn thành công việc đánh giá và di chuyển hoạt động.
-- Cung cấp một lịch trình theo một phương pháp được xác định và một danh sách các dữ liệu người dùng cụ thể để di chuyển cho mỗi sự kiện di chuyển ít nhất bảy (7) ngày trước.
+- Cung cấp một lịch trình trong một phương pháp được xác định và một danh sách các dữ liệu người dùng cụ thể để di chuyển cho mỗi sự kiện di chuyển ít nhất ba (3) ngày trước.
 - Thả dữ liệu người dùng từ lịch trình cho đến 24 giờ trước lô di chuyển. Điều này sẽ tương ứng với lô di chuyển cuối cùng.
 > [!NOTE]
 > Microsoft không thể đảm bảo tốc độ di chuyển tệp.
@@ -255,10 +247,6 @@ Di cư được thực hiện trên một các tiêu chuẩn 24 giờ một ngà
 #### <a name="us-governmentdod"></a>Chính phủ Hoa Kỳ/DOD
 
 Di cư được thực hiện trên các tiêu chuẩn 24 giờ một ngày, năm (5) ngày làm việc một tuần (24x5) trong khe thời gian di chuyển được xác định trước. Có ba lô di chuyển cho mỗi ngày di chuyển. Có năm ngày di chuyển trong một tuần từ thứ hai 2:00AM giờ phối hợp (UTC) đến nửa đêm thứ sáu UTC. Điều này có nghĩa là di chuyển theo lịch trình cuối cùng là thứ sáu 8:00 PM UTC.
-
-#### <a name="germany-microsoft-cloud-deutschland-mcd"></a>Đức Microsoft Cloud Deutschland (MCD)
-
-Di cư được thực hiện trên tiêu chuẩn hóa các 9 giờ một ngày, năm (5) ngày làm việc một tuần (9x5) cơ sở trong khe thời gian di chuyển được xác định trước. Có một lô di chuyển cho mỗi ngày di chuyển. Có năm ngày di chuyển trong một tuần từ thứ hai 12:00PM UTC đến thứ sáu 21:00PM UTC.
     
 - Di chuyển tất cả yêu cầu truy cập và quyền thích hợp cho môi trường nguồn.   
 - Di chuyển tất cả đều phải tuân theo OneDrive cho doanh nghiệp hạn ngạch được nêu trong [SharePoint trực tuyến và onedrive cho doanh nghiệp: ranh giới phần mềm](https://go.microsoft.com/fwlink/?LinkId=698855).
@@ -285,7 +273,7 @@ FastTrack chuyên gia thực hiện như sau trong quá trình di chuyển:
 - Cung cấp điều kiện tiên quyết cho các công cụ đánh giá và di chuyển như áp dụng cho kịch bản.  
 - Cung cấp điều kiện tiên quyết cho nhóm di chuyển truy cập vào môi trường nguồn và mục tiêu cho mục đích đánh giá và di chuyển.   
 - Cung cấp các công cụ đánh giá để thực hiện việc thẩm định môi trường nguồn mục tiêu, hoặc cung cấp hướng dẫn về cách sử dụng các chức năng nền tảng nguồn gốc để tạo báo cáo đánh giá.    
-- Cung cấp một lịch trình theo một phương pháp được xác định và một danh sách các dữ liệu người dùng cụ thể để di chuyển cho mỗi sự kiện di chuyển ít nhất bảy (7) ngày trước.
+- Cung cấp một lịch trình trong một phương pháp được xác định và một danh sách các dữ liệu người dùng cụ thể để di chuyển cho mỗi sự kiện di chuyển ít nhất ba (3) ngày trước.
 - Thả dữ liệu người dùng từ lịch trình cho đến 24 giờ trước lô di chuyển. Điều này sẽ tương ứng với lô di chuyển cuối cùng.
 - Hỗ trợ triển khai và chạy các công cụ đánh giá và di chuyển (nếu có).   
 - Cấu hình cơ sở hạ tầng di chuyển để chuẩn bị cho di chuyển nội dung (khi áp dụng).    
