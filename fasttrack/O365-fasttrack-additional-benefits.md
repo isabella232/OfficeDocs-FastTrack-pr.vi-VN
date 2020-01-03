@@ -3,18 +3,18 @@ title: Phụ lục B - Lợi ích bổ sung của Trung tâm FastTrack
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 12/03/2019
+ms.date: 1/03/2020
 ms.audience: ITPro
 ms.topic: article
 ms.service: o365-administration
 localization_priority: Priority
 description: Khách hàng mua ít nhất 20.000 giấy phép cho một đối tượng thuê Exchange Online đủ điều kiện cho các dịch vụ bổ sung của FastTrack Center. Xem các dịch vụ và gói cước đủ điều kiện để biết thêm chi tiết.
-ms.openlocfilehash: 45665010bf9e7f59a6afc0a9761155a3a841248c
-ms.sourcegitcommit: 39616c06c0617700b1393e055894acb6aa6f7776
+ms.openlocfilehash: 714a7bada3a57487403628722edddbe7a9bd43f6
+ms.sourcegitcommit: d7f4c9eafe7855c6ae02c2bd0fe3b700c458007c
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 12/02/2019
-ms.locfileid: "39662875"
+ms.lasthandoff: 01/02/2020
+ms.locfileid: "40929216"
 ---
 # <a name="appendix-b---fasttrack-center-additional-benefit"></a>Phụ lục B - Lợi ích bổ sung của Trung tâm FastTrack
 
@@ -102,7 +102,6 @@ FastTrack chuyên gia có trách nhiệm sau đây trong onboarding. Đây có t
 
 - Cung cấp hướng dẫn trên cùng một thư mục công cộng cây cùng tồn tại, bao gồm:  
   - Thư mục công cộng chuẩn bị trong Exchange 2007, Exchange 2010 và Exchange 2013. 
-  - Lệnh ghép ngắn Windows PowerShell cần thiết để đồng bộ hoá Exchange 2007, Exchange 2010 và Exchange 2013 phân cấp thư mục công cộng với Exchange Online.  
   - Cấu hình Exchange Online để chuyển thư mục công cộng truy cập vào thư mục công cộng tại chỗ.  
   - Cấu hình truy cập vào thư mục công cộng từ Exchange Online một Exchange 2007, Exchange 2010, hoặc môi trường Exchange 2013 tại chỗ.  
   - Hỗ trợ truy cập xác nhận môi trường thư mục công cộng cho tối đa 10 người dùng trong Exchange Online.

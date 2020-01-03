@@ -3,19 +3,19 @@ title: Trách nhiệm của FastTrack cho văn phòng 365 chính phủ Hoa Kỳ
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 12/03/2019
+ms.date: 1/03/2020
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: None
 ms.collection: FastTrack
 description: FastTrack chuyên gia có trách nhiệm sau đây trong onboarding.
-ms.openlocfilehash: fd1ff8f660ec5b9a808ef0b30b347fee62d4363c
-ms.sourcegitcommit: 39616c06c0617700b1393e055894acb6aa6f7776
+ms.openlocfilehash: 6ac727d55ba8d5653fb9ebffa95b7c3c4a104f70
+ms.sourcegitcommit: d7f4c9eafe7855c6ae02c2bd0fe3b700c458007c
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 12/02/2019
-ms.locfileid: "39662947"
+ms.lasthandoff: 01/02/2020
+ms.locfileid: "40929300"
 ---
 # <a name="fasttrack-responsibilities-for-office-365-us-government"></a>Trách nhiệm của FastTrack cho văn phòng 365 chính phủ Hoa Kỳ
 
@@ -24,7 +24,7 @@ FastTrack chuyên gia có trách nhiệm sau đây trong onboarding.
 ## <a name="general"></a>Chung
 
 - Cung cấp hỗ trợ từ xa cho bạn trong việc lập kế hoạch thành công phát triển và thực hiện, và cho các hoạt động cấu hình yêu cầu như chi tiết trong các mô tả giai đoạn.
-- Cung cấp tài liệu và công cụ phần mềm có sẵn, bảng điều khiển quản trị và tập lệnh để cung cấp hướng dẫn để bạn giảm hoặc loại bỏ các tác vụ cấu hình và tài nguyên lập kế hoạch thành công. 
+- Cung cấp tài liệu và công cụ phần mềm có sẵn, bảng điều khiển quản trị và tập lệnh để cung cấp hướng dẫn để bạn giảm hoặc loại bỏ các tác vụ cấu hình và tài nguyên lập kế hoạch thành công.   
     
 ## <a name="initiate-phase"></a>Bắt đầu giai đoạn
 
