@@ -10,16 +10,16 @@ ms.service: m365-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: Khi bạn mua bất kỳ dịch vụ Microsoft 365, FastTrack chuyên gia cung cấp hướng dẫn cho bạn để onboard cho Microsoft 365 và bắt đầu sử dụng chúng.
-ms.openlocfilehash: 910ff60ff314f63bbd1fa2083e481399ac0aa7d2
-ms.sourcegitcommit: d7f4c9eafe7855c6ae02c2bd0fe3b700c458007c
+ms.openlocfilehash: 08b1129c7758f26d98b0bdc3989e7f39f423da0e
+ms.sourcegitcommit: fe68534c2ac30220561ef73ca408986a937ca7df
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 01/02/2020
-ms.locfileid: "40928640"
+ms.lasthandoff: 01/07/2020
+ms.locfileid: "40959182"
 ---
 # <a name="eligible-services-and-plans"></a>Dịch vụ và gói đủ điều kiện
 
-Khi bạn mua bất kỳ dịch vụ Microsoft 365, FastTrack chuyên gia cung cấp hướng dẫn cho bạn để onboard cho Microsoft 365 và bắt đầu sử dụng chúng. 
+Khi bạn mua bất kỳ dịch vụ Microsoft 365, FastTrack chuyên gia cung cấp hướng dẫn cho bạn để onboard cho Microsoft 365 và bắt đầu sử dụng chúng.
 
 > [!IMPORTANT]
 > Bạn phải mua *ít nhất* 150 giấy phép từ các kế hoạch đủ điều kiện được liệt kê để nhận các dịch vụ FastTrack.

@@ -10,12 +10,12 @@ ms.service: o365-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: FastTrack chuyên gia cung cấp hướng dẫn về các bước để di chuyển dữ liệu sang Office 365. Điều này có sẵn cho tất cả các khách hàng hợp lệ với Office 365 dịch vụ dành cho Exchange Online, OneDrive dành cho doanh nghiệp và SharePoint Online.
-ms.openlocfilehash: 22ed819f96fbd87b31a2cb84cafaac735b206dd3
-ms.sourcegitcommit: d7f4c9eafe7855c6ae02c2bd0fe3b700c458007c
+ms.openlocfilehash: 3e7ceca2b222425d3a679bb3dcd0ee94ef76c5b7
+ms.sourcegitcommit: fe68534c2ac30220561ef73ca408986a937ca7df
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 01/02/2020
-ms.locfileid: "40929228"
+ms.lasthandoff: 01/07/2020
+ms.locfileid: "40959206"
 ---
 # <a name="data-migration"></a>Di chuyển dữ liệu
 
@@ -98,7 +98,6 @@ FastTrack chuyên gia thực hiện như sau trong quá trình di chuyển:
 - Cung cấp một mẫu chuẩn để lên lịch di chuyển hộp thư.
 - Cung cấp thông tin về các quyền cần thiết cho FastTrack chuyên gia. 
 - Thu thập lịch di chuyển hộp thư định sẵn ở định dạng đã xác định trước.
-- Chia sẻ các công cụ trước chuyến bay với bạn, vì vậy bạn có thể chạy công cụ trước chuyến bay và chủ động khắc phục lỗi trước chuyến bay trước khi di chuyển các hộp thư không thành công.
 - Cố gắng thực hiện di chuyển một hộp thư duy nhất đến hai lần trong một lô di chuyển trước khi báo cáo hộp thư đó là một di chuyển không thành công.
 - Đối với môi trường nguồn dựa trên Exchange và IMAP4, di chuyển nội dung hộp thư lên đến 85% giới hạn lưu trữ hộp thư người dùng (ví dụ: nếu giới hạn lưu trữ hộp thư 50 GB, Microsoft di chuyển lên đến 85% giới hạn lưu trữ 50 GB). 
 - Cho phép định tuyến thư SMTP cùng tồn tại giữa các môi trường nhắn tin nguồn và Office 365 Exchange Online trừ khi sử dụng di chuyển đơn giản.
