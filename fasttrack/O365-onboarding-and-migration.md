@@ -10,12 +10,12 @@ ms.service: o365-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: Office 365 bộ nhớ ngoài có bốn giai đoạn chính — bắt đầu, đánh giá, remediate và Enable. Bạn có thể làm theo các giai đoạn này với một giai đoạn di chuyển dữ liệu tùy chọn.
-ms.openlocfilehash: d40e0733bf0257faa7c5c39195377cd5872652c4
-ms.sourcegitcommit: d7f4c9eafe7855c6ae02c2bd0fe3b700c458007c
+ms.openlocfilehash: 919908648177a45a9544d8980c11344064d4c4bd
+ms.sourcegitcommit: b5a887ad5e592a469476af3716634ec64a1afe4a
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 01/02/2020
-ms.locfileid: "40928784"
+ms.lasthandoff: 01/08/2020
+ms.locfileid: "40988445"
 ---
 # <a name="onboarding-and-migration-phases"></a>Giai đoạn triển khai và di chuyển
 
@@ -139,6 +139,8 @@ OneDrive cho doanh nghiệp, các bước phụ thuộc vào nếu bạn đang s
 - Cấu hình tự động, điều tra và phản hồi.
 - Sử dụng Attack Simulator.
 - Báo cáo và phân tích mối đe dọa.
+
+![Văn phòng 365 ATP sơ đồ (onboarding)](media/Office-365-Advanced-Threat-Protector-orange-3.png)
 
 ## <a name="microsoft-teams"></a>Microsoft teams
 
