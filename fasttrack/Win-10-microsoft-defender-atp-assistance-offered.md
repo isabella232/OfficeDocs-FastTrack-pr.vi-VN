@@ -3,19 +3,19 @@ title: Nội dung hỗ trợ được cung cấp
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 1/03/2020
+ms.date: 2/04/2020
 ms.audience: ITPro
 ms.topic: overview
 ms.service: windows-10-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: Khi bạn mua bất kỳ dịch vụ Windows 10 hoặc Microsoft 365, FastTrack chuyên gia cung cấp hướng dẫn triển khai từ xa để bảo vệ điểm cuối. Dịch vụ của chúng tôi được thiết kế phù hợp với môi trường và nhu cầu cho từng khách hàng.
-ms.openlocfilehash: d9ac7129a10e59198c5c60e131ae019598a2a4db
-ms.sourcegitcommit: d7f4c9eafe7855c6ae02c2bd0fe3b700c458007c
+ms.openlocfilehash: 7496b42c0fde63e950f687254e1e52085aada551
+ms.sourcegitcommit: 7365d80b2e4291e547c2d84b94da02697221abc9
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 01/02/2020
-ms.locfileid: "40929192"
+ms.lasthandoff: 02/03/2020
+ms.locfileid: "41677272"
 ---
 # <a name="assistance-offered"></a>Nội dung hỗ trợ được cung cấp  
 
@@ -24,9 +24,6 @@ Khi bạn mua bất kỳ dịch vụ Windows 10 hoặc Microsoft 365 (như chi t
 - Đánh giá trạng thái của các dịch vụ Windows AV hoặc phần mềm bảo mật điểm cuối khác.
 - Đánh giá proxy và tường lửa hạn chế lưu lượng truy cập mạng.
 - Xác định các nhà tài trợ, thảo luận về kế hoạch triển khai, ngày bắt đầu, và các cadence của các cuộc họp hỗ trợ.
-
-> [!NOTE]
-> Hỗ trợ chỉ được cung cấp bằng tiếng Anh vào thời gian này. 
 
 ## <a name="assistance"></a>Hỗ trợ
 
@@ -45,6 +42,10 @@ FastTrack cung cấp hỗ trợ cho những mục sau:
 FastTrack không cung cấp hỗ trợ cho:
 - Quản lý dự án các hoạt động khắc phục của khách hàng.
 - Hỗ trợ trên trang web.
+- Onboarding hoặc cấu hình cho các tác nhân Microsoft Defender ATP sau:
+   - Máy chủ Windows
+   - Macos
+   - Linux
 - Cách ly dựa trên phần cứng, kiểm soát ứng dụng, bảo vệ khai thác và hướng dẫn tường lửa mạng.
 - Liên tục quản lý và mối đe dọa phản ứng.
 

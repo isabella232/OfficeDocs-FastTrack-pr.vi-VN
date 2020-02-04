@@ -3,19 +3,19 @@ title: Dịch vụ và gói đủ điều kiện
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 1/03/2020
+ms.date: 2/04/2020
 ms.audience: ITPro
 ms.topic: overview
 ms.service: m365-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: Khi bạn mua bất kỳ dịch vụ Microsoft 365, FastTrack chuyên gia cung cấp hướng dẫn cho bạn để onboard cho Microsoft 365 và bắt đầu sử dụng chúng.
-ms.openlocfilehash: 08b1129c7758f26d98b0bdc3989e7f39f423da0e
-ms.sourcegitcommit: fe68534c2ac30220561ef73ca408986a937ca7df
+ms.openlocfilehash: be16cbd7248d9a05b75ea9bcccb48f0580febca6
+ms.sourcegitcommit: 7365d80b2e4291e547c2d84b94da02697221abc9
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 01/07/2020
-ms.locfileid: "40959182"
+ms.lasthandoff: 02/03/2020
+ms.locfileid: "41677026"
 ---
 # <a name="eligible-services-and-plans"></a>Dịch vụ và gói đủ điều kiện
 
@@ -79,6 +79,7 @@ FastTrack Center cung cấp hỗ trợ cho các dịch vụ sau:
 
 - Microsoft 365 A3\*
 - Microsoft 365 A5\*
+- Microsoft 365 A5 bảo mật\*
  
 ## <a name="eligible-office-365-plans"></a>Kế hoạch Office 365 đủ điều kiện
 
@@ -157,14 +158,35 @@ FastTrack Center cung cấp hỗ trợ cho các dịch vụ sau:
 
 ## <a name="eligible-enterprise-mobility--security-plans"></a>Gói doanh nghiệp di động + bảo mật đủ điều kiện
 
-|Kế hoạch    |Chi tiết điều kiện  |
-|---------|---------|
-|**Doanh nghiệp di động + bảo mật (EMS) trong E3 hoặc E5**       |   Có sẵn cho các dịch vụ đám mây đủ điều kiện cho lợi ích FastTrack. Nếu không, điều này được chuyển đến một chuyên gia FastTrack hoặc giới thiệu đối tác.        |
-|**Azure Active Directory cao cấp**     |  Đủ điều kiện nếu mua dưới dạng gói độc lập hoặc là một phần của E3 hoặc E5.       |
-|**Bảo vệ thông tin Azure**    |  Có sẵn cho P2, như một phần của E5, hoặc như một kế hoạch độc lập. Có sẵn cho các dịch vụ đám mây đủ điều kiện cho lợi ích FastTrack. Đối với dịch vụ đám mây P1, FastTrack chia sẻ hướng dẫn tự triển khai.       |
-|**Microsoft InTune**    |   Đủ điều kiện nếu mua dưới dạng gói độc lập hoặc là một phần của E3 hoặc E5.      |
-|**Microsoft InTune và quản lý cấu hình**     |    Đủ điều kiện nếu mua dưới dạng gói độc lập hoặc là một phần của E3 hoặc E5.     |
-|**Microsoft InTune for Education**     |  Đủ điều kiện nếu mua dưới dạng gói độc lập hoặc là một phần của A3 hoặc A5.       |
+**Doanh nghiệp di động + bảo mật** 
+
+- Doanh nghiệp di động + bảo mật (EMS) E3\*\*\*\*
+- Doanh nghiệp di động + bảo mật (EMS) E5\*\*\*\*
+
+**Azure Active Directory cao cấp**
+
+- Gói Azure Active Directory Premium 1
+- Gói Azure Active Directory Premium 2
+
+**Bảo vệ thông tin Azure**
+
+- Azure bảo vệ thông tin kế hoạch 2\*\*\*\*\*
+
+**Microsoft InTune**
+
+- Microsoft InTune
+
+**Microsoft InTune và quản lý cấu hình**
+
+- Microsoft InTune và quản lý cấu hình
+
+**Microsoft InTune for Education**
+
+- Microsoft InTune for Education
+
+\*\*\*\*Có sẵn cho các dịch vụ đám mây đủ điều kiện cho lợi ích FastTrack. Nếu không, điều này được chuyển đến một chuyên gia FastTrack hoặc giới thiệu đối tác.
+
+\*\*\*\*\*Có sẵn cho P2, như một phần của E5, hoặc như một kế hoạch độc lập. Có sẵn cho các dịch vụ đám mây đủ điều kiện cho lợi ích FastTrack. Đối với dịch vụ đám mây P1, FastTrack chia sẻ hướng dẫn tự triển khai.
 
 Để biết thêm thông tin, xem [FastTrack Trung tâm lợi ích cho doanh nghiệp di động + bảo mật](EMS-fasttrack-benefit-for-EMS.md).
 
