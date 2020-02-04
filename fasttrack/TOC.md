@@ -24,7 +24,7 @@
 #### [Kỳ vọng về môi trường nguồn](Win-10-source-environment-expectations.md)
 #### [Các giai đoạn triển khai](Win-10-onboarding-phases.md)
 #### [Trách nhiệm của bạn](Win-10-your-responsibilities.md)
-### [Đảm bảo Ứng dụng Máy tính ](Win-10-desktop-app-assure.md)
+### [Đảm bảo cho ứng dụng](Win-10-desktop-app-assure.md)
 #### [Nội dung hỗ trợ được cung cấp](Win-10-daa-assistance-offered.md)
 ### [Tính năng Chống Mối đe dọa Nâng cao của Bộ bảo vệ Microsoft](Win-10-microsoft-defender-atp.md)
 #### [Nội dung hỗ trợ được cung cấp](Win-10-microsoft-defender-atp-assistance-offered.md)
