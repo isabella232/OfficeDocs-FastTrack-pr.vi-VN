@@ -26,5 +26,7 @@
 #### [Trách nhiệm của bạn](Win-10-your-responsibilities.md)
 ### [Đảm bảo cho ứng dụng](Win-10-app-assure.md)
 #### [Nội dung hỗ trợ được cung cấp](Win-10-app-assure-assistance-offered.md)
+### [Microsoft Edge](Win-10-microsoft-edge.md)
+#### [Nội dung hỗ trợ được cung cấp](Win-10-microsoft-edge-assistance-offered.md)
 ### [Tính năng Chống Mối đe dọa Nâng cao của Bộ bảo vệ Microsoft](Win-10-microsoft-defender-atp.md)
 #### [Nội dung hỗ trợ được cung cấp](Win-10-microsoft-defender-atp-assistance-offered.md)
