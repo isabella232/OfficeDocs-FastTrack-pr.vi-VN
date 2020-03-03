@@ -3,19 +3,19 @@ title: Lợi ích của Trung tâm FastTrack dành cho Windows 10
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 2/04/2020
+ms.date: 3/03/2020
 ms.audience: ITPro
 ms.topic: overview
 ms.service: windows-10-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: Bạn sử dụng FastTrack Trung tâm lợi ích cho Windows 10 khi bạn mua ít *nhất* 150 giấy phép cho một dịch vụ đủ điều kiện hoặc kế hoạch.
-ms.openlocfilehash: 24dd159914cd370a3c40eb7482f9d7b774a0c308
-ms.sourcegitcommit: cf6fd5a133d007ea395318540471691860c33303
+ms.openlocfilehash: d856f8bb6448d118eff7f4092841efe70bf8018b
+ms.sourcegitcommit: 79a5b31863be3d554223f75ca866dcf40dd2c2dd
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 02/11/2020
-ms.locfileid: "41891549"
+ms.lasthandoff: 03/02/2020
+ms.locfileid: "42347702"
 ---
 # <a name="fasttrack-center-benefit-for-windows-10"></a>Lợi ích của Trung tâm FastTrack dành cho Windows 10
 
@@ -30,7 +30,7 @@ FastTrack chuyên gia cũng sẽ cung cấp hướng dẫn khi bạn triển kha
     
 - [Windows 10](Win-10-windows-10.md)
 - [Đảm bảo cho ứng dụng](Win-10-app-assure.md)
-- [Microsoft cạnh](Win-10-microsoft-edge.md)
+- [Microsoft Edge](Win-10-microsoft-edge.md)
 - [Tính năng Chống Mối đe dọa Nâng cao của Bộ bảo vệ Microsoft](Win-10-microsoft-defender-atp.md)
   
 

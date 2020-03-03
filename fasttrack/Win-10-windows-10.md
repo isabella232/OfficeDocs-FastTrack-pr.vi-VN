@@ -3,27 +3,27 @@ title: Windows 10
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 2/04/2020
+ms.date: 3/03/2020
 ms.audience: ITPro
 ms.topic: overview
 ms.service: windows-10-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: FastTrack cung cấp hướng dẫn triển khai Windows 10 để giúp bạn nâng cấp từ Windows 7 Professional và Windows 8,1 Professional lên Windows 10 Enterprise.
-ms.openlocfilehash: ce40590a481465a3aa5ee5238935aa98627bb05b
-ms.sourcegitcommit: 7365d80b2e4291e547c2d84b94da02697221abc9
+ms.openlocfilehash: 8d959c773009f144b258d18629c18a94d5c180fb
+ms.sourcegitcommit: 79a5b31863be3d554223f75ca866dcf40dd2c2dd
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 02/03/2020
-ms.locfileid: "41677308"
+ms.lasthandoff: 03/02/2020
+ms.locfileid: "42347522"
 ---
 # <a name="windows-10"></a>Windows 10
 
 FastTrack cung cấp hướng dẫn triển khai Windows 10 để giúp bạn nâng cấp từ Windows 7 Professional và Windows 8,1 Professional lên Windows 10 Enterprise. Bạn làm việc với FastTrack chuyên gia để:
 
-- Triển khai Windows 10 Enterprise bằng cách sử dụng trình quản lý cấu hình Microsoft System Center hoặc Microsoft 365.
+- Triển khai Windows 10 Enterprise bằng cách sử dụng Microsoft Endpoint Configuration Manager hoặc Microsoft 365.
 - Triển khai Office 365 ProPlus. 
-- Cập nhật Windows 10 Enterprise và Office 365 ProPlus sử dụng trình quản lý cấu hình Trung tâm hệ thống hoặc Microsoft 365.
+- Cập nhật Windows 10 Enterprise và Office 365 ProPlus sử dụng Microsoft Endpoint Configuration Manager hoặc Microsoft 365.
 - Trình quản lý cấu hình đính kèm đám mây với Microsoft InTune hoặc triển khai InTune là giải pháp quản lý đám mây duy nhất.
   
 > [!NOTE]
@@ -41,14 +41,14 @@ Bạn có thể nhận trợ giúp thông qua [Trung tâm quản trị Microsoft
 
 Để được trợ giúp thông qua [trang web FastTrack](https://go.microsoft.com/fwlink/?linkid=780698): 
 1.  Đăng nhập vào [trang web FastTrack](https://go.microsoft.com/fwlink/?linkid=780698). 
-2.  Chọn **dịch vụ**.
-3.  Hoàn tất **yêu cầu hỗ trợ với mẫu Microsoft 365** .
+2.  Chọn **yêu cầu hỗ trợ cho Microsoft 365** từ các **hành động nhanh** trên đầu trang đích của bạn hoặc bằng cách chọn **yêu cầu hỗ trợ cho Microsoft 365** trên thẻ triển khai.
+3.  Hoàn thành **yêu cầu hỗ trợ cho Microsoft 365** mẫu.
   
 Đối tác cũng có thể nhận trợ giúp thông qua [trang web FastTrack](https://go.microsoft.com/fwlink/?linkid=780698) thay mặt cho khách hàng. Để làm như vậy:
 1.  Đăng nhập vào [trang web FastTrack](https://go.microsoft.com/fwlink/?linkid=780698). 
 2.  Chọn **khách hàng của tôi**.
 3.  Tìm kiếm khách hàng của bạn hoặc chọn chúng từ danh sách khách hàng của bạn.
 4.  Chọn **dịch vụ**.
-5.  Chọn **yêu cầu hỗ trợ với Microsoft 365** mẫu.
+5.  Chọn mẫu **yêu cầu hỗ trợ cho Microsoft 365** .
 6.  Chọn tùy chọn sản phẩm Windows 10 và hoàn tất biểu mẫu.
  

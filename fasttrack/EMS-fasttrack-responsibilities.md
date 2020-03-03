@@ -5,7 +5,7 @@ keywords: ''
 author: andredm7
 ms.author: andredm
 manager: ''
-ms.date: 2/04/2020
+ms.date: 3/03/2020
 ms.topic: article
 ms.prod: ''
 ms.service: microsoft-intune
@@ -14,12 +14,12 @@ ms.collection: FastTrack
 ms.assetid: c8fd871e-f1bc-43ec-a5f3-ad025df9b026
 ms.reviewer: ''
 ms.suite: ems
-ms.openlocfilehash: 0f5ed94a81a1846c8652cf78f96b6253ab774b5d
-ms.sourcegitcommit: 7365d80b2e4291e547c2d84b94da02697221abc9
+ms.openlocfilehash: 3313834ef5c342d71f6c3940bd55d62bc1e87863
+ms.sourcegitcommit: 79a5b31863be3d554223f75ca866dcf40dd2c2dd
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 02/03/2020
-ms.locfileid: "41676618"
+ms.lasthandoff: 03/02/2020
+ms.locfileid: "42347414"
 ---
 # <a name="fasttrack-responsibilities"></a>Trách nhiệm của FastTrack
 
@@ -168,6 +168,10 @@ Cung cấp hướng dẫn về cách thiết lập:
 
   - Azure Active Directory truy cập đánh giá.
 
+  -   Bảo vệ mật khẩu Azure Active Directory.
+
+  -   Azure Active Directory B2B.
+
 ### <a name="enable-phase---intune"></a>Kích hoạt pha-InTune
 
 > [!IMPORTANT]
@@ -222,7 +226,7 @@ Cung cấp hướng dẫn về:
 
         -   Giải pháp quản lý chi phí viễn thông (đăng ký giải pháp quản lý chi phí viễn thông là bắt buộc).
 
-        -   Yêu cầu bảo vệ chống mối đe dọa nâng cao của Windows Defender (các giấy phép Windows E5 hoặc Microsoft 365 E5).
+        -   Yêu cầu bảo vệ chống mối đe dọa nâng cao của Microsoft Defender (các giấy phép Windows E5 hoặc Microsoft 365 E5).
 
     -   Cấu hình các bản cập nhật phần mềm cho các nền tảng được hỗ trợ áp dụng.
 

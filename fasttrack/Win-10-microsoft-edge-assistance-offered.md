@@ -3,19 +3,19 @@ title: Nội dung hỗ trợ được cung cấp
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 2/11/2020
+ms.date: 3/03/2020
 ms.audience: ITPro
 ms.topic: overview
 ms.service: windows-10-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: Khi bạn mua bất kỳ dịch vụ Windows 10 hoặc Microsoft 365 (như chi tiết trong dịch vụ và kế hoạch đủ điều kiện), FastTrack chuyên gia cung cấp hướng dẫn triển khai từ xa và hỗ trợ tương thích nếu bạn có một ứng dụng web hoặc trang web hoạt động với Internet Explorer hoặc Google Chrome.
-ms.openlocfilehash: 25306c2ac1a9fecd00daac1745dfcab62da99201
-ms.sourcegitcommit: cf6fd5a133d007ea395318540471691860c33303
+ms.openlocfilehash: 24fc9e2794f30897172aa422902919594d2c6114
+ms.sourcegitcommit: 79a5b31863be3d554223f75ca866dcf40dd2c2dd
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 02/11/2020
-ms.locfileid: "41891788"
+ms.lasthandoff: 03/02/2020
+ms.locfileid: "42347558"
 ---
 # <a name="assistance-offered"></a>Nội dung hỗ trợ được cung cấp
 
@@ -23,8 +23,8 @@ Khi bạn mua bất kỳ dịch vụ Windows 10 hoặc Microsoft 365 đủ đi�
 
 ## <a name="assistance"></a>Hỗ trợ
 
-FastTrack cung cấp hỗ trợ cho những mục sau:
-- Hướng dẫn triển khai Microsoft Edge mới trên Windows 10 Enterprise với Microsoft Endpoint Manager (trình quản lý cấu hình) hoặc InTune.
+FastTrack cung cấp hướng dẫn từ xa cho các mục sau:
+- Hướng dẫn triển khai Microsoft Edge mới trên Windows 10 Enterprise với Microsoft Endpoint Manager (Microsoft Endpoint Configuration Manager hoặc Microsoft InTune).
 - Hướng dẫn về cấu hình Microsoft Edge (sử dụng chính sách nhóm hoặc cấu hình ứng dụng InTune và chính sách ứng dụng).
 - Hướng dẫn hàng tồn kho danh sách các trang web có thể yêu cầu sử dụng trong chế độ Internet Explorer.
 - Hướng dẫn để kích hoạt chế độ Internet Explorer với danh sách trang web doanh nghiệp hiện tại.
@@ -33,15 +33,15 @@ FastTrack cung cấp hỗ trợ cho những mục sau:
 
 Để được trợ giúp thông qua [trang web FastTrack](https://go.microsoft.com/fwlink/?linkid=780698): 
 1.  Đăng nhập vào [trang web FastTrack](https://go.microsoft.com/fwlink/?linkid=780698). 
-2.  Chọn **dịch vụ**.
-3.  Hoàn tất **yêu cầu hỗ trợ với mẫu Microsoft 365** .
+2.  Chọn **yêu cầu hỗ trợ cho Microsoft 365** từ các **hành động nhanh** trên đầu trang đích của bạn hoặc bằng cách chọn **yêu cầu hỗ trợ cho Microsoft 365** trên thẻ triển khai.
+3.  Hoàn thành **yêu cầu hỗ trợ cho Microsoft 365** mẫu.
   
 Đối tác cũng có thể nhận trợ giúp thông qua [trang web FastTrack](https://go.microsoft.com/fwlink/?linkid=780698) thay mặt cho khách hàng. Để làm như vậy:
 1.  Đăng nhập vào [trang web FastTrack](https://go.microsoft.com/fwlink/?linkid=780698). 
 2.  Chọn **khách hàng của tôi**.
 3.  Tìm kiếm khách hàng của bạn hoặc chọn chúng từ danh sách khách hàng của bạn.
 4.  Chọn **dịch vụ**.
-5.  Chọn **yêu cầu hỗ trợ với Microsoft 365** mẫu.
+5.  Chọn mẫu **yêu cầu hỗ trợ cho Microsoft 365** .
 6.  Chọn tùy chọn sản phẩm **Microsoft Edge** và hoàn tất biểu mẫu.
  
 Để nhận trợ giúp tương thích ứng dụng, hãy hoàn tất [yêu cầu dịch vụ của ứng dụng Assure](https://go.microsoft.com/fwlink/?linkid=2022721).
@@ -50,6 +50,6 @@ FastTrack cung cấp hỗ trợ cho những mục sau:
 
 ## <a name="out-of-scope"></a>Phạm vi
 
-FastTrack không cung cấp hỗ trợ cho:
+Các dịch vụ FastTrack không bao gồm:
 - Quản lý dự án triển khai Microsoft Edge của khách hàng.
 - Hỗ trợ trên trang web.

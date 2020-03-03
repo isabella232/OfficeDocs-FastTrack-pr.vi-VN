@@ -3,19 +3,19 @@ title: Trách nhiệm của FastTrack cho văn phòng 365 chính phủ Hoa Kỳ
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 2/04/2020
+ms.date: 3/03/2020
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: None
 ms.collection: FastTrack
 description: FastTrack chuyên gia có trách nhiệm sau đây trong onboarding.
-ms.openlocfilehash: 502f3c7595de510caf98b51b7b2d0bd274d076e8
-ms.sourcegitcommit: 7365d80b2e4291e547c2d84b94da02697221abc9
+ms.openlocfilehash: 450106d47775f531cbfccdec978d3d15eedad5ac
+ms.sourcegitcommit: 79a5b31863be3d554223f75ca866dcf40dd2c2dd
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 02/03/2020
-ms.locfileid: "41677038"
+ms.lasthandoff: 03/02/2020
+ms.locfileid: "42347462"
 ---
 # <a name="fasttrack-responsibilities-for-office-365-us-government"></a>Trách nhiệm của FastTrack cho văn phòng 365 chính phủ Hoa Kỳ
 
@@ -203,7 +203,7 @@ Cung cấp hướng dẫn về:
 - Cài đặt ứng dụng Office Mobile (như Outlook Mobile, Word Mobile, Excel Mobile và PowerPoint Mobile) trên các thiết bị chạy iOS, Android hoặc Windows Mobile của bạn.   
 - Cấu hình cài đặt bản Cập Nhật bằng cách sử dụng Office 2016 công cụ triển khai hoặc chính sách nhóm mẫu.   
 - Thiết lập một máy chủ phân phối trên trang web cho Office 365 ProPlus, bao gồm hỗ trợ tạo tệp configuration. xml để sử dụng với công cụ triển khai Office 365.   
-- Triển khai bằng cách sử dụng quản lý cấu hình Trung tâm hệ thống, bao gồm hỗ trợ tạo hệ thống Trung tâm quản lý cấu hình bao bì.
+- Triển khai bằng cách sử dụng Microsoft Endpoint Configuration Manager, bao gồm hỗ trợ tạo bao bì Microsoft Endpoint Configuration Manager.
 
     
 

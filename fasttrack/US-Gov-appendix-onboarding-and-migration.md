@@ -3,19 +3,19 @@ title: Onboarding và di cư giai đoạn cho văn phòng 365 chính phủ Hoa K
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 2/04/2020
+ms.date: 3/03/2020
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: None
 ms.collection: FastTrack
 description: Office 365 bộ nhớ ngoài cho Office 365 chính phủ Hoa Kỳ có bốn giai đoạn chính — bắt đầu, đánh giá, remediate và Enable. Bạn có thể làm theo các giai đoạn này với một giai đoạn di chuyển dữ liệu tùy chọn như được hiển thị trong hình dưới đây.
-ms.openlocfilehash: 699b2f9229187df182e6d9fc6f2f7d49d9707174
-ms.sourcegitcommit: 7365d80b2e4291e547c2d84b94da02697221abc9
+ms.openlocfilehash: eac974f67137a327b873b911a8c9906859fd3597
+ms.sourcegitcommit: 79a5b31863be3d554223f75ca866dcf40dd2c2dd
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 02/03/2020
-ms.locfileid: "41676666"
+ms.lasthandoff: 03/02/2020
+ms.locfileid: "42347534"
 ---
 # <a name="onboarding-and-migration-phases-for-office-365-us-government"></a>Onboarding và di cư giai đoạn cho văn phòng 365 chính phủ Hoa Kỳ
 
@@ -35,17 +35,15 @@ Bạn có thể nhận trợ giúp thông qua [Trung tâm quản trị Microsoft
 
 Để được trợ giúp thông qua [trang web FastTrack](https://go.microsoft.com/fwlink/?linkid=780698): 
 1.  Đăng nhập vào [trang web FastTrack](https://go.microsoft.com/fwlink/?linkid=780698). 
-2.  Chọn **FastTrack**.
-3.  Chọn **dịch vụ**.
-4.  Hoàn tất **yêu cầu hỗ trợ với mẫu Microsoft 365** . 
+2.  Chọn **yêu cầu hỗ trợ cho Microsoft 365** từ các **hành động nhanh** trên đầu trang đích của bạn hoặc bằng cách chọn **yêu cầu hỗ trợ cho Microsoft 365** trên thẻ triển khai
+3. Hoàn thành **yêu cầu hỗ trợ cho Microsoft 365** mẫu. 
 
 Đối tác cũng có thể nhận trợ giúp thông qua [trang web FastTrack](https://go.microsoft.com/fwlink/?linkid=780698) thay mặt cho khách hàng. Để làm như vậy:
 1.  Đăng nhập vào [trang web FastTrack](https://go.microsoft.com/fwlink/?linkid=780698). 
-2.  Chọn **FastTrack**.
-3.  Chọn **khách hàng của tôi**.
-4.  Tìm kiếm khách hàng của bạn hoặc chọn chúng từ danh sách khách hàng của bạn.
-5.  Chọn **dịch vụ**.
-6.  Hoàn tất **yêu cầu hỗ trợ với mẫu Microsoft 365** .   
+2.  Chọn **khách hàng của tôi**.
+3.  Tìm kiếm khách hàng của bạn hoặc chọn chúng từ danh sách khách hàng của bạn.
+4.  Chọn **dịch vụ**.
+5.  Hoàn thành **yêu cầu hỗ trợ cho Microsoft 365** mẫu.   
 
 Bạn cũng có thể yêu cầu FastTrack Trung tâm trợ giúp từ các [trang web fasttrack](https://go.microsoft.com/fwlink/?linkid=780698) trong danh sách các dịch vụ có sẵn cho người thuê nhà của bạn. 
     
@@ -186,7 +184,7 @@ OneDrive cho doanh nghiệp, các bước phụ thuộc vào nếu bạn đang s
 - Cài đặt ứng dụng Office Mobile (như Outlook Mobile, Word Mobile, Excel Mobile và PowerPoint Mobile) trên các thiết bị chạy iOS, Android hoặc Windows Mobile của bạn.   
 - Cấu hình cài đặt bản Cập Nhật bằng cách sử dụng công cụ triển khai Office 365.    
 - Thiết lập một máy chủ phân phối trên trang web cho Office 365 ProPlus, bao gồm hỗ trợ tạo tệp configuration. xml để sử dụng với công cụ triển khai Office 365.    
-- Triển khai bằng cách sử dụng trình quản lý cấu hình Microsoft System Center, bao gồm hỗ trợ với việc tạo ra các hệ thống Trung tâm quản lý cấu hình bao bì.
+- Triển khai bằng cách sử dụng Microsoft Endpoint Configuration Manager, bao gồm hỗ trợ tạo bao bì Microsoft Endpoint Configuration Manager.
     
 ![Các bước Office ProPlus bộ nhớ ngoài](media/O365-Onboarding-Enable-OProPlus.png)
 

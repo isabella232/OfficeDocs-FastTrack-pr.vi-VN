@@ -3,18 +3,18 @@ title: Phụ lục B - Lợi ích bổ sung của Trung tâm FastTrack
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 2/04/2020
+ms.date: 3/03/2020
 ms.audience: ITPro
 ms.topic: article
 ms.service: o365-administration
 localization_priority: Priority
 description: Khách hàng mua ít nhất 20.000 giấy phép cho một đối tượng thuê Exchange Online đủ điều kiện cho các dịch vụ bổ sung của FastTrack Center. Xem các dịch vụ và gói cước đủ điều kiện để biết thêm chi tiết.
-ms.openlocfilehash: 960f6651aeb8b55d8bc2b29ae9d34e1a31b59649
-ms.sourcegitcommit: 7365d80b2e4291e547c2d84b94da02697221abc9
+ms.openlocfilehash: cfbd35f15f7e27e0c06e363ffa8279c1e2fcbba9
+ms.sourcegitcommit: 79a5b31863be3d554223f75ca866dcf40dd2c2dd
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 02/03/2020
-ms.locfileid: "41676654"
+ms.lasthandoff: 03/02/2020
+ms.locfileid: "42347618"
 ---
 # <a name="appendix-b---fasttrack-center-additional-benefit"></a>Phụ lục B - Lợi ích bổ sung của Trung tâm FastTrack
 
@@ -43,7 +43,7 @@ Cho Skype dành cho doanh nghiệp trực tuyến, chúng tôi cung cấp hướ
 Đối với Office 365 ProPlus, chúng tôi cung cấp hướng dẫn sau: 
 - Đánh giá và lập kế hoạch tập trung vào việc chuẩn bị môi trường của bạn để triển khai và quản lý ban đầu các bản Cập Nhật phù hợp với các phương pháp hay nhất của Microsoft. 
 - Phát triển triển khai cấu hình và Cập Nhật cài đặt bằng cách sử dụng công cụ triển khai Office 365 và công cụ Tuỳ chỉnh Office. 
-- Triển khai bao bì bằng cách sử dụng trình quản lý cấu hình Trung tâm hệ thống.  
+- Triển khai bao bì bằng cách sử dụng trình quản lý cấu hình Endpoint Microsoft.  
 - Cho phép sử dụng bộ công cụ sẵn sàng cho Office để xác định các vấn đề tương thích tiềm năng với Microsoft Visual Basic for Applications (VBA) macro và trình bổ sung mà bạn sử dụng với Office.
     
 ## <a name="fasttrack-responsibilities"></a>Các trách nhiệm của FastTrack

@@ -5,7 +5,7 @@ keywords: ''
 author: andredm7
 ms.author: andredm
 manager: ''
-ms.date: 2/04/2020
+ms.date: 3/03/2020
 ms.topic: article
 ms.prod: ''
 ms.service: microsoft-intune
@@ -14,12 +14,12 @@ ms.collection: FastTrack
 ms.assetid: 0590b7b2-0965-437b-b3ca-bd55de1abb09
 ms.reviewer: ''
 ms.suite: ems
-ms.openlocfilehash: e1c993b8a04b6c3f0d572f7e9f8f43721c3d43b6
-ms.sourcegitcommit: 7365d80b2e4291e547c2d84b94da02697221abc9
+ms.openlocfilehash: 2f9f74d5f46f5d5d53f79a9f1c39e9534cdaa643
+ms.sourcegitcommit: 79a5b31863be3d554223f75ca866dcf40dd2c2dd
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 02/03/2020
-ms.locfileid: "41677014"
+ms.lasthandoff: 03/02/2020
+ms.locfileid: "42347486"
 ---
 # <a name="your-responsibilities"></a>Trách nhiệm của bạn
 
@@ -75,7 +75,7 @@ Bạn có trách nhiệm sau đây trong quá trình onboarding.
 
 -   Đăng ký Team Viewer, điện thoại di động Threat Defense và Telecom chi phí quản lý giải pháp đăng ký.
 
--   Đăng ký giấy phép bảo vệ chống mối đe dọa nâng cao của Windows Defender. (Giấy phép Windows E5 hoặc Microsoft E5).
+-   Đăng ký giấy phép bảo vệ chống mối đe dọa nâng cao của Microsoft Defender. (Giấy phép Windows E5 hoặc Microsoft E5).
 
 ## <a name="initiate-phase"></a>Bắt đầu giai đoạn
 

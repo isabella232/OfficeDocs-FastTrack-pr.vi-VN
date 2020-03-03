@@ -3,19 +3,19 @@ title: Dịch vụ và gói đủ điều kiện
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 2/04/2020
+ms.date: 3/03/2020
 ms.audience: ITPro
 ms.topic: overview
 ms.service: m365-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: Khi bạn mua bất kỳ dịch vụ Microsoft 365, FastTrack chuyên gia cung cấp hướng dẫn cho bạn để onboard cho Microsoft 365 và bắt đầu sử dụng chúng.
-ms.openlocfilehash: be16cbd7248d9a05b75ea9bcccb48f0580febca6
-ms.sourcegitcommit: 7365d80b2e4291e547c2d84b94da02697221abc9
+ms.openlocfilehash: dd51175a74a4693da43030c36a2e84db77294d32
+ms.sourcegitcommit: 79a5b31863be3d554223f75ca866dcf40dd2c2dd
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 02/03/2020
-ms.locfileid: "41677026"
+ms.lasthandoff: 03/02/2020
+ms.locfileid: "42347546"
 ---
 # <a name="eligible-services-and-plans"></a>Dịch vụ và gói đủ điều kiện
 
@@ -30,15 +30,15 @@ Bạn có thể nhận trợ giúp thông qua [Trung tâm quản trị Microsoft
 
 Để được trợ giúp thông qua [trang web FastTrack](https://go.microsoft.com/fwlink/?linkid=780698): 
 1.  Đăng nhập vào [trang web FastTrack](https://go.microsoft.com/fwlink/?linkid=780698). 
-2.  Chọn **dịch vụ**.
-3.  Hoàn tất **yêu cầu hỗ trợ với mẫu Microsoft 365** .
+2.  Chọn **yêu cầu hỗ trợ cho Microsoft 365** từ các **hành động nhanh** trên đầu trang đích của bạn hoặc bằng cách chọn **yêu cầu hỗ trợ cho Microsoft 365** trên thẻ triển khai.
+3.  Hoàn thành **yêu cầu hỗ trợ cho Microsoft 365** mẫu.
   
 Đối tác cũng có thể nhận trợ giúp thông qua [trang web FastTrack](https://go.microsoft.com/fwlink/?linkid=780698) thay mặt cho khách hàng. Để làm như vậy:
 1.  Đăng nhập vào [trang web FastTrack](https://go.microsoft.com/fwlink/?linkid=780698). 
 2.  Chọn **khách hàng của tôi**.
 3.  Tìm kiếm khách hàng của bạn hoặc chọn chúng từ danh sách khách hàng của bạn.
 4.  Chọn **dịch vụ**.
-5.  Hoàn tất **yêu cầu hỗ trợ với mẫu Microsoft 365** .
+5.  Hoàn thành **yêu cầu hỗ trợ cho Microsoft 365** mẫu.
 
 Bạn cũng có thể yêu cầu FastTrack Trung tâm trợ giúp từ các [trang web fasttrack](https://go.microsoft.com/fwlink/?linkid=780698) trong danh sách các dịch vụ có sẵn cho người thuê nhà của bạn. 
 

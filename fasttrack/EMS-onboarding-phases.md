@@ -5,18 +5,18 @@ keywords: ''
 author: andredm7
 ms.author: andredm
 manager: ''
-ms.date: 2/04/2020
+ms.date: 3/03/2020
 ms.topic: article
 ms.prod: ''
 ms.service: microsoft-intune
 localization_priority: Priority
 ms.collection: FastTrack
-ms.openlocfilehash: 02f5a1c0c2bbbe2526f0ee0fcea9da844dae1f6a
-ms.sourcegitcommit: 7365d80b2e4291e547c2d84b94da02697221abc9
+ms.openlocfilehash: 38d4c3c71c9127314f4453238a1b03a7b8945217
+ms.sourcegitcommit: 79a5b31863be3d554223f75ca866dcf40dd2c2dd
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 02/03/2020
-ms.locfileid: "41676810"
+ms.lasthandoff: 03/02/2020
+ms.locfileid: "42347510"
 ---
 # <a name="onboarding-phases"></a>Các giai đoạn triển khai
 
@@ -32,25 +32,23 @@ Onboarding có bốn giai đoạn chính:
 Sau khi bạn mua số lượng giấy phép thích hợp, hãy làm theo hướng dẫn từ email xác nhận mua để liên kết giấy phép với đối tượng thuê hiện tại của bạn hoặc đối tượng thuê mới. Microsoft sau đó xác minh tính đủ điều kiện của bạn cho FastTrack Trung tâm Benefit và cố gắng liên lạc với bạn để cung cấp hỗ trợ bộ nhớ ngoài.
 
 > [!NOTE]
-> Bạn cũng có thể yêu cầu hỗ trợ từ [Trung tâm FastTrack](https://go.microsoft.com/fwlink/?linkid=780698) nếu bạn đã sẵn sàng triển khai các dịch vụ này cho tổ chức của mình.
+> Bạn cũng có thể yêu cầu hỗ trợ từ [trang web FastTrack](https://go.microsoft.com/fwlink/?linkid=780698) nếu bạn đã sẵn sàng triển khai các dịch vụ này cho tổ chức của mình.
 
 ### <a name="to-request-assistance"></a>Để yêu cầu hỗ trợ
 
 1. Đăng nhập vào [trang web FastTrack](https://go.microsoft.com/fwlink/?linkid=780698).
-2. Chọn **FastTrack**.
-3. Chọn **dịch vụ**.
-4. Hoàn tất **yêu cầu hỗ trợ với mẫu Microsoft 365**.
+2. Chọn **yêu cầu hỗ trợ cho Microsoft 365** từ các **hành động nhanh** trên đầu trang đích của bạn hoặc bằng cách chọn **yêu cầu hỗ trợ cho Microsoft 365** trên thẻ triển khai.
+3. Hoàn thành **yêu cầu hỗ trợ cho Microsoft 365 mẫu**.
 
 Sau khi bắt đầu hỗ trợ bộ nhớ ngoài, chúng tôi sẽ thiết lập một lịch biểu cho các cuộc họp trực tuyến.
 
 Đối tác của Microsoft cũng có thể nhận trợ giúp thông qua [trang web FastTrack](https://go.microsoft.com/fwlink/?linkid=780698) thay mặt cho khách hàng. Để làm như vậy:
 
 1. Đăng nhập vào [trang web FastTrack](https://go.microsoft.com/fwlink/?linkid=780698).
-2. Chọn **FastTrack**.
-3. Chọn **khách hàng của tôi**.
-4. Tìm kiếm khách hàng của bạn hoặc chọn chúng từ danh sách khách hàng của bạn.
-5. Chọn **dịch vụ**.
-6. Hoàn tất **yêu cầu hỗ trợ với mẫu Microsoft 365**.
+2. Chọn **khách hàng của tôi**.
+3. Tìm kiếm khách hàng của bạn hoặc chọn chúng từ danh sách khách hàng của bạn.
+4. Chọn **dịch vụ**.
+5. Hoàn thành **yêu cầu hỗ trợ cho Microsoft 365 mẫu**.
 
 Một khi bắt đầu hỗ trợ bộ nhớ ngoài, FastTrack thiết lập một lịch trình của cuộc họp trực tuyến với bạn để thảo luận về quá trình bộ nhớ ngoài, xác minh dữ liệu, và thiết lập một cuộc họp kick-off.
 
@@ -123,6 +121,10 @@ Azure AD Premium cài đặt bao gồm kích hoạt các tính năng sau:
 
 -   Azure Active Directory truy cập đánh giá.
 
+-   Bảo vệ mật khẩu Azure Active Directory.
+
+-   Azure Active Directory B2B.
+
 ![Cho phép giai đoạn onboarding-Azure AD Premium](./media/ft-enable-phase_aad-premium_adconnect_adfed.png)
 
 ### <a name="enable-phase---intune"></a>Kích hoạt pha-InTune
@@ -162,7 +164,7 @@ Azure AD Premium cài đặt bao gồm kích hoạt các tính năng sau:
 
             -   Giải pháp quản lý chi phí viễn thông (đăng ký giải pháp quản lý chi phí viễn thông là bắt buộc).
 
-            -   Yêu cầu bảo vệ chống mối đe dọa nâng cao của Windows Defender (các giấy phép Windows E5 hoặc Microsoft 365 E5).
+            -   Yêu cầu bảo vệ chống mối đe dọa nâng cao của Microsoft Defender (các giấy phép Windows E5 hoặc Microsoft 365 E5).
 
     -   Ghi danh các thiết bị của mỗi [nền tảng được hỗ trợ](https://technet.microsoft.com/library/dn600287.aspx) để InTune.
 
@@ -242,7 +244,7 @@ FastTrack hướng dẫn bạn sẵn sàng đồng thời quản lý các thiế
 
 - Thêm người dùng vào đăng ký InTune của bạn, xác định vai trò quản trị viên CNTT, và tạo người dùng và nhóm thiết bị.
 
-- Cung cấp hướng dẫn về cách di chuyển từ InTune tích hợp với hệ thống Trung tâm quản lý cấu hình (Hybrid) để InTune Standalone.
+- Cung cấp hướng dẫn về cách di chuyển từ InTune tích hợp với Microsoft Endpoint Configuration Manager để InTune Standalone.
 
 - Cung cấp hướng dẫn về thiết lập Azure Active Directory cho MDM đăng ký tự động.
 

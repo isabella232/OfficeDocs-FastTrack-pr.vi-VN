@@ -3,19 +3,19 @@ title: Trách nhiệm của FastTrack
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 2/04/2020
+ms.date: 3/03/2020
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: FastTrack chuyên gia có trách nhiệm sau đây trong onboarding.
-ms.openlocfilehash: c8bbd015252265f7742c071b04c79e3b9d2c884c
-ms.sourcegitcommit: 7365d80b2e4291e547c2d84b94da02697221abc9
+ms.openlocfilehash: f7fc935c51bdab416bedd9e1681d9c6940aa2999
+ms.sourcegitcommit: 79a5b31863be3d554223f75ca866dcf40dd2c2dd
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 02/03/2020
-ms.locfileid: "41677110"
+ms.lasthandoff: 03/02/2020
+ms.locfileid: "42347774"
 ---
 # <a name="fasttrack-responsibilities"></a>Trách nhiệm của FastTrack
 
@@ -152,7 +152,7 @@ Cung cấp hướng dẫn về:
 - Cấu hình cài đặt bản Cập Nhật bằng cách sử dụng công cụ triển khai Office 365.
 - Chọn và thiết lập cài đặt cục bộ hoặc đám mây.
 - Tạo XML cấu hình công cụ triển khai Office với công cụ Tuỳ chỉnh Office hoặc XML riêng để cấu hình gói triển khai.
-- Triển khai bằng cách sử dụng quản lý cấu hình Trung tâm hệ thống, bao gồm hỗ trợ tạo hệ thống Trung tâm quản lý cấu hình bao bì.
+- Triển khai bằng cách sử dụng Microsoft Endpoint Configuration Manager, bao gồm hỗ trợ tạo bao bì Microsoft Endpoint Configuration Manager.
     
 ## <a name="onedrive-for-business"></a>OneDrive cho doanh nghiệp
 

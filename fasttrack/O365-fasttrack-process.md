@@ -3,19 +3,19 @@ title: Quy trình FastTrack
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 2/04/2020
+ms.date: 3/03/2020
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: Trình FastTrack cung cấp dịch vụ bộ nhớ ngoài và áp dụng cho người dùng.
-ms.openlocfilehash: a1c67af6c9bb19c967afcd32ba46ebc550068fd7
-ms.sourcegitcommit: 7365d80b2e4291e547c2d84b94da02697221abc9
+ms.openlocfilehash: 0a0b25956542edf1a0bc6636918c4bbbb07e388c
+ms.sourcegitcommit: 79a5b31863be3d554223f75ca866dcf40dd2c2dd
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 02/03/2020
-ms.locfileid: "41677086"
+ms.lasthandoff: 03/02/2020
+ms.locfileid: "42347666"
 ---
 # <a name="the-fasttrack-process"></a>Quy trình FastTrack
 
@@ -43,8 +43,8 @@ Bạn có thể nhận trợ giúp thông qua [Trung tâm quản trị Microsoft
 
 Để được trợ giúp thông qua [trang web FastTrack](https://go.microsoft.com/fwlink/?linkid=780698): 
 1.  Đăng nhập vào [trang web FastTrack](https://go.microsoft.com/fwlink/?linkid=780698). 
-2.  Chọn **dịch vụ**.
-3.  Hoàn tất **yêu cầu hỗ trợ với mẫu Microsoft 365** . 
+2.  Chọn **yêu cầu hỗ trợ cho Microsoft 365** từ các **hành động nhanh** trên đầu trang đích của bạn hoặc bằng cách chọn **yêu cầu hỗ trợ cho Microsoft 365** trên thẻ triển khai.
+3.  Hoàn thành **yêu cầu hỗ trợ cho Microsoft 365** mẫu. 
   
  Bạn cũng có thể yêu cầu FastTrack Trung tâm trợ giúp từ các [trang web fasttrack](https://go.microsoft.com/fwlink/?linkid=780698) trong danh sách các dịch vụ có sẵn cho người thuê nhà của bạn. 
     
@@ -55,7 +55,7 @@ Bạn có thể nhận trợ giúp thông qua [Trung tâm quản trị Microsoft
 2.  Chọn **khách hàng của tôi**.
 3.  Tìm kiếm khách hàng của bạn hoặc chọn chúng từ danh sách khách hàng của bạn.
 4.  Chọn **dịch vụ**.
-5.  Hoàn tất **yêu cầu hỗ trợ với mẫu Microsoft 365** . 
+5.  Hoàn thành **yêu cầu hỗ trợ cho Microsoft 365** mẫu. 
 
 Bảng sau liệt kê vai trò và trách nhiệm cho quá trình này.
     

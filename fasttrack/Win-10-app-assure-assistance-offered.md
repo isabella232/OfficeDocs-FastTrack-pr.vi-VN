@@ -3,19 +3,19 @@ title: Nội dung hỗ trợ được cung cấp
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 2/04/2020
+ms.date: 3/03/2020
 ms.audience: ITPro
 ms.topic: overview
 ms.service: windows-10-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: Khi bạn mua bất kỳ dịch vụ Windows 10 hoặc Microsoft 365, FastTrack chuyên gia cung cấp hướng dẫn tư vấn và khắc phục để triển khai Windows 10 và Office 365 ProPlus và ở lại up-to-date mà không mất thêm chi phí (với một thuê bao đủ điều kiện).
-ms.openlocfilehash: 088901d2508acd679e261f3870476f8e21e79cdf
-ms.sourcegitcommit: 7365d80b2e4291e547c2d84b94da02697221abc9
+ms.openlocfilehash: 4cbd6e82c5f2907171da86c8c08f9c4d35a5966a
+ms.sourcegitcommit: 79a5b31863be3d554223f75ca866dcf40dd2c2dd
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 02/03/2020
-ms.locfileid: "41677206"
+ms.lasthandoff: 03/02/2020
+ms.locfileid: "42347690"
 ---
 # <a name="assistance-offered"></a>Nội dung hỗ trợ được cung cấp  
 
@@ -40,6 +40,8 @@ FastTrack cung cấp hỗ trợ khắc phục cho các ứng dụng triển khai
 
 - Nếu ứng dụng web hoặc trang web của bạn hoạt động trên Internet Explorer 11, các phiên bản Google Chrome được hỗ trợ hoặc bất kỳ phiên bản Microsoft Edge nào, họ cũng sẽ làm việc với Microsoft Edge mới.
 
+Để biết hướng dẫn về triển khai Microsoft Edge, hãy xem [tổng quan về các kênh Microsoft Edge](https://docs.microsoft.com/DeployEdge/microsoft-edge-channels). Vì web không ngừng phát triển, chúng tôi xuất bản danh sách các [thay đổi khả năng tương thích của trang web đã biết cho Microsoft Edge](https://docs.microsoft.com/microsoft-edge/web-platform/site-impacting-changes).
+
 ### <a name="windows-virtual-desktop"></a>Máy tính ảo Windows
 
 - Các ứng dụng ảo hóa chạy trên máy chủ phiên máy tính để bàn từ xa Windows Server (RDSH) cũng chạy trên Windows 10 Enterprise nhiều phiên như một phần của Windows Virtual Desktop.
@@ -58,7 +60,7 @@ FastTrack cung cấp hỗ trợ khắc phục cho các ứng dụng triển khai
 
 ## <a name="out-of-scope"></a>Phạm vi
 
-FastTrack không cung cấp hỗ trợ cho:
+Các dịch vụ FastTrack không bao gồm:
 - Kho ứng dụng và kiểm tra để xác định những gì hiện và không hoạt động trên Windows 10 và Office 365 ProPlus. Để biết thêm hướng dẫn về quá trình này, hãy truy cập vào [Trung tâm triển khai máy tính](https://go.microsoft.com/fwlink/?linkid=2080140). Nếu bạn quan tâm đến một đánh giá tính sẵn sàng nâng cấp trong chiều sâu, hãy điền đơn [yêu cầu khách hàng về biểu mẫu đánh giá bàn làm việc hiện đại](https://go.microsoft.com/fwlink/?linkid=2053818) .
 - Nghiên cứu các ứng dụng ISV bên thứ ba cho Windows 10 tương thích và hỗ trợ báo cáo. Để biết thêm thông tin, xem [phân tích trên máy tính](https://docs.microsoft.com/sccm/desktop-analytics/overview).
 - Dịch vụ chỉ bao bì ứng dụng. Tuy nhiên, nhóm ứng dụng Assure gói ứng dụng mà chúng tôi đã khắc phục cho Windows 10 để đảm bảo chúng có thể được triển khai trong môi trường của khách hàng.
