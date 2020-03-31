@@ -10,30 +10,26 @@ ms.service: windows-10-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: Bạn sử dụng FastTrack Trung tâm lợi ích cho Windows 10 khi bạn mua ít *nhất* 150 giấy phép cho một dịch vụ đủ điều kiện hoặc kế hoạch.
-ms.openlocfilehash: d856f8bb6448d118eff7f4092841efe70bf8018b
-ms.sourcegitcommit: 79a5b31863be3d554223f75ca866dcf40dd2c2dd
+ms.openlocfilehash: 6e8b9a998d55197069b86f4cf21640808f255dd7
+ms.sourcegitcommit: 7a2535e510420496dabfcea5accbb36ab2fe21d2
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 03/02/2020
-ms.locfileid: "42347702"
+ms.lasthandoff: 03/30/2020
+ms.locfileid: "43052903"
 ---
-# <a name="fasttrack-center-benefit-for-windows-10"></a><span data-ttu-id="062f4-103">Lợi ích của Trung tâm FastTrack dành cho Windows 10</span><span class="sxs-lookup"><span data-stu-id="062f4-103">FastTrack Center Benefit for Windows 10</span></span>
+# <a name="fasttrack-center-benefit-for-windows-10"></a><span data-ttu-id="fb908-103">Lợi ích của Trung tâm FastTrack dành cho Windows 10</span><span class="sxs-lookup"><span data-stu-id="fb908-103">FastTrack Center Benefit for Windows 10</span></span>
 
-<span data-ttu-id="062f4-104">Bạn có thể sử dụng FastTrack Trung tâm lợi ích cho Windows 10 khi bạn mua ít nhất 150 giấy phép cho một dịch vụ đủ điều kiện hoặc kế hoạch.</span><span class="sxs-lookup"><span data-stu-id="062f4-104">You can use the FastTrack Center Benefit for Windows 10 when you purchase at least 150 licenses for an eligible service or plan.</span></span> <span data-ttu-id="062f4-105">Sau đó, bạn làm việc với các chuyên gia FastTrack để đánh giá, remediate và triển khai Windows 10, Microsoft Edge mới hoặc bảo vệ chủ đề nâng cao của Microsoft Defender và điều phối các lợi ích của Trung tâm FastTrack cho Office 365 ProPlus.</span><span class="sxs-lookup"><span data-stu-id="062f4-105">You then work with FastTrack Specialists to assess, remediate, and deploy either Windows 10, the new Microsoft Edge, or Microsoft Defender Advanced Thread Protection and coordinate FastTrack Center benefits for Office 365 ProPlus.</span></span> 
+<span data-ttu-id="fb908-104">Bạn có thể sử dụng FastTrack Trung tâm lợi ích cho Windows 10 khi bạn mua ít nhất 150 giấy phép cho một dịch vụ đủ điều kiện hoặc kế hoạch.</span><span class="sxs-lookup"><span data-stu-id="fb908-104">You can use the FastTrack Center Benefit for Windows 10 when you purchase at least 150 licenses for an eligible service or plan.</span></span> <span data-ttu-id="fb908-105">Sau đó, bạn làm việc với các chuyên gia FastTrack để đánh giá, remediate và triển khai Windows 10, Microsoft Edge mới hoặc bảo vệ chủ đề nâng cao của Microsoft Defender và điều phối các lợi ích của Trung tâm FastTrack cho Office 365 ProPlus.</span><span class="sxs-lookup"><span data-stu-id="fb908-105">You then work with FastTrack Specialists to assess, remediate, and deploy either Windows 10, the new Microsoft Edge, or Microsoft Defender Advanced Thread Protection and coordinate FastTrack Center benefits for Office 365 ProPlus.</span></span> 
 
-<span data-ttu-id="062f4-106">Lợi ích Trung tâm FastTrack dành cho Windows 10 cũng cung cấp dịch vụ đảm bảo ứng dụng.</span><span class="sxs-lookup"><span data-stu-id="062f4-106">The FastTrack Center Benefit for Windows 10 also provides the App Assure service.</span></span> <span data-ttu-id="062f4-107">Với dịch vụ này, một chuyên gia FastTrack có sẵn để cung cấp hướng dẫn tư vấn và khắc phục nếu bạn gặp phải vấn đề tương thích ứng dụng.</span><span class="sxs-lookup"><span data-stu-id="062f4-107">With this service, a FastTrack Specialist is made available to provide advisory and remediation guidance if you encounter app compatibility issues.</span></span> 
+<span data-ttu-id="fb908-106">Lợi ích Trung tâm FastTrack dành cho Windows 10 cũng cung cấp dịch vụ đảm bảo ứng dụng.</span><span class="sxs-lookup"><span data-stu-id="fb908-106">The FastTrack Center Benefit for Windows 10 also provides the App Assure service.</span></span> <span data-ttu-id="fb908-107">Với dịch vụ này, một chuyên gia FastTrack có sẵn để cung cấp hướng dẫn tư vấn và khắc phục nếu bạn gặp phải vấn đề tương thích ứng dụng.</span><span class="sxs-lookup"><span data-stu-id="fb908-107">With this service, a FastTrack Specialist is made available to provide advisory and remediation guidance if you encounter app compatibility issues.</span></span> 
 
-<span data-ttu-id="062f4-108">FastTrack chuyên gia cũng sẽ cung cấp hướng dẫn khi bạn triển khai và ở lại up-to-date với Windows 10, Microsoft Edge, và Office 365 ProPlus.</span><span class="sxs-lookup"><span data-stu-id="062f4-108">FastTrack Specialists will also provide guidance as you deploy and stay up-to-date with Windows 10, Microsoft Edge, and Office 365 ProPlus.</span></span> <span data-ttu-id="062f4-109">Các quyền lợi dịch vụ này được cung cấp miễn phí với gói đăng ký đủ điều kiện có trong [dịch vụ và gói cước đủ điều kiện](M365-eligible-services-and-plans.md)của FastTrack.</span><span class="sxs-lookup"><span data-stu-id="062f4-109">These service benefits are available at no additional cost with an eligible subscription included in the FastTrack [Eligible Services and Plans](M365-eligible-services-and-plans.md).</span></span>
+<span data-ttu-id="fb908-108">FastTrack chuyên gia cũng sẽ cung cấp hướng dẫn khi bạn triển khai và ở lại up-to-date với Windows 10, Microsoft Edge, và Office 365 ProPlus.</span><span class="sxs-lookup"><span data-stu-id="fb908-108">FastTrack Specialists will also provide guidance as you deploy and stay up-to-date with Windows 10, Microsoft Edge, and Office 365 ProPlus.</span></span> <span data-ttu-id="fb908-109">Các quyền lợi dịch vụ này được cung cấp miễn phí với gói đăng ký đủ điều kiện có trong [dịch vụ và gói cước đủ điều kiện](M365-eligible-services-and-plans.md)của FastTrack.</span><span class="sxs-lookup"><span data-stu-id="fb908-109">These service benefits are available at no additional cost with an eligible subscription included in the FastTrack [Eligible Services and Plans](M365-eligible-services-and-plans.md).</span></span>
   
 > [!NOTE]
-> <span data-ttu-id="062f4-110">Cho mục đích của tài liệu này, FastTrack chuyên gia có thể bao gồm nhân viên của Microsoft, Microsoft chấp thuận nhà cung cấp và Microsoft chấp thuận đối tác.</span><span class="sxs-lookup"><span data-stu-id="062f4-110">For purposes of this document, FastTrack Specialists can include Microsoft employees, Microsoft-approved vendors, and Microsoft-approved partners.</span></span> 
+> <span data-ttu-id="fb908-110">Cho mục đích của tài liệu này, FastTrack chuyên gia có thể bao gồm nhân viên của Microsoft, Microsoft chấp thuận nhà cung cấp và Microsoft chấp thuận đối tác.</span><span class="sxs-lookup"><span data-stu-id="fb908-110">For purposes of this document, FastTrack Specialists can include Microsoft employees, Microsoft-approved vendors, and Microsoft-approved partners.</span></span> 
     
-- [<span data-ttu-id="062f4-111">Windows 10</span><span class="sxs-lookup"><span data-stu-id="062f4-111">Windows 10</span></span>](Win-10-windows-10.md)
-- [<span data-ttu-id="062f4-112">Đảm bảo cho ứng dụng</span><span class="sxs-lookup"><span data-stu-id="062f4-112">App Assure</span></span>](Win-10-app-assure.md)
-- [<span data-ttu-id="062f4-113">Microsoft Edge</span><span class="sxs-lookup"><span data-stu-id="062f4-113">Microsoft Edge</span></span>](Win-10-microsoft-edge.md)
-- [<span data-ttu-id="062f4-114">Tính năng Chống Mối đe dọa Nâng cao của Bộ bảo vệ Microsoft</span><span class="sxs-lookup"><span data-stu-id="062f4-114">Microsoft Defender Advanced Threat Protection</span></span>](Win-10-microsoft-defender-atp.md)
-  
+- [<span data-ttu-id="fb908-111">Windows 10</span><span class="sxs-lookup"><span data-stu-id="fb908-111">Windows 10</span></span>](Win-10-windows-10.md)
+- [<span data-ttu-id="fb908-112">Đảm bảo cho ứng dụng</span><span class="sxs-lookup"><span data-stu-id="fb908-112">App Assure</span></span>](Win-10-app-assure.md)
+- [<span data-ttu-id="fb908-113">Microsoft Edge</span><span class="sxs-lookup"><span data-stu-id="fb908-113">Microsoft Edge</span></span>](Win-10-microsoft-edge.md)
+- [<span data-ttu-id="fb908-114">Tính năng Chống Mối đe dọa Nâng cao của Bộ bảo vệ Microsoft</span><span class="sxs-lookup"><span data-stu-id="fb908-114">Microsoft Defender Advanced Threat Protection</span></span>](Win-10-microsoft-defender-atp.md)
 
-  
-
- 

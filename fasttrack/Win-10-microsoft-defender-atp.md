@@ -10,18 +10,19 @@ ms.service: windows-10-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: Lợi ích Trung tâm FastTrack dành cho Windows 10 cung cấp quyền truy cập vào bảo vệ mối đe dọa nâng cao của Microsoft Defender (ATP) – một dịch vụ mới được thiết kế để giúp các mạng doanh nghiệp ngăn chặn, phát hiện, điều tra và phản hồi các mối đe dọa nâng cao.
-ms.openlocfilehash: c5c7ce0e1d6c58d2f0fd49568fefafc927f1a150
-ms.sourcegitcommit: 79a5b31863be3d554223f75ca866dcf40dd2c2dd
+ms.openlocfilehash: 33794954e8f4a4bec2e0cb43d240fd0ef5b6f985
+ms.sourcegitcommit: 7a2535e510420496dabfcea5accbb36ab2fe21d2
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 03/02/2020
-ms.locfileid: "42347726"
+ms.lasthandoff: 03/30/2020
+ms.locfileid: "43052591"
 ---
-# <a name="microsoft-defender-advanced-threat-protection"></a><span data-ttu-id="4d9db-103">Tính năng Chống Mối đe dọa Nâng cao của Bộ bảo vệ Microsoft</span><span class="sxs-lookup"><span data-stu-id="4d9db-103">Microsoft Defender Advanced Threat Protection</span></span>
+# <a name="microsoft-defender-advanced-threat-protection"></a><span data-ttu-id="02cc3-103">Tính năng Chống Mối đe dọa Nâng cao của Bộ bảo vệ Microsoft</span><span class="sxs-lookup"><span data-stu-id="02cc3-103">Microsoft Defender Advanced Threat Protection</span></span>
 
-<span data-ttu-id="4d9db-104">Lợi ích Trung tâm FastTrack dành cho Windows 10 cung cấp quyền truy cập vào bảo vệ mối đe dọa nâng cao của Microsoft Defender (ATP) – một dịch vụ mới được thiết kế để giúp các mạng doanh nghiệp ngăn chặn, phát hiện, điều tra và phản hồi các mối đe dọa nâng cao.</span><span class="sxs-lookup"><span data-stu-id="4d9db-104">The FastTrack Center Benefit for Windows 10 provides access to Microsoft Defender Advanced Threat Protection (ATP) – a new service designed to help enterprise networks prevent, detect, investigate, and respond to advanced threats.</span></span> <span data-ttu-id="4d9db-105">Khi bạn yêu cầu dịch vụ Microsoft Defender ATP, chuyên gia FastTrack làm việc với bạn để giúp bạn triển khai các công nghệ để bảo vệ điểm cuối của bạn.</span><span class="sxs-lookup"><span data-stu-id="4d9db-105">When you request the Microsoft Defender ATP service, a FastTrack Specialist works with you to help you deploy the technologies to secure your endpoints.</span></span>
+<span data-ttu-id="02cc3-104">Lợi ích Trung tâm FastTrack dành cho Windows 10 cung cấp quyền truy cập vào bảo vệ mối đe dọa nâng cao của Microsoft Defender (ATP) – một dịch vụ mới được thiết kế để giúp các mạng doanh nghiệp ngăn chặn, phát hiện, điều tra và phản hồi các mối đe dọa nâng cao.</span><span class="sxs-lookup"><span data-stu-id="02cc3-104">The FastTrack Center Benefit for Windows 10 provides access to Microsoft Defender Advanced Threat Protection (ATP) – a new service designed to help enterprise networks prevent, detect, investigate, and respond to advanced threats.</span></span> <span data-ttu-id="02cc3-105">Khi bạn yêu cầu dịch vụ Microsoft Defender ATP, chuyên gia FastTrack làm việc với bạn để giúp bạn triển khai các công nghệ để bảo vệ điểm cuối của bạn.</span><span class="sxs-lookup"><span data-stu-id="02cc3-105">When you request the Microsoft Defender ATP service, a FastTrack Specialist works with you to help you deploy the technologies to secure your endpoints.</span></span>
 
-<span data-ttu-id="4d9db-106">Một kỹ sư của Microsoft làm việc với bạn để đánh giá phiên bản hệ điều hành và quản lý thiết bị cũng như trạng thái của các dịch vụ Windows AV hoặc phần mềm bảo mật điểm cuối khác.</span><span class="sxs-lookup"><span data-stu-id="4d9db-106">A Microsoft engineer works with you to assess the OS version and device management as well as the status of your Windows AV services or other endpoint security software.</span></span> <span data-ttu-id="4d9db-107">Chúng tôi cũng cung cấp hướng dẫn cấu hình cho bảo vệ điểm cuối và hạn chế thiết bị.</span><span class="sxs-lookup"><span data-stu-id="4d9db-107">We also provide guidance for configuration profiles for endpoint protection and device restriction.</span></span>  
+<span data-ttu-id="02cc3-106">Một kỹ sư của Microsoft làm việc với bạn để đánh giá phiên bản hệ điều hành và quản lý thiết bị cũng như trạng thái của các dịch vụ Windows AV hoặc phần mềm bảo mật điểm cuối khác.</span><span class="sxs-lookup"><span data-stu-id="02cc3-106">A Microsoft engineer works with you to assess the OS version and device management as well as the status of your Windows AV services or other endpoint security software.</span></span> <span data-ttu-id="02cc3-107">Chúng tôi cũng cung cấp hướng dẫn cấu hình cho bảo vệ điểm cuối và hạn chế thiết bị.</span><span class="sxs-lookup"><span data-stu-id="02cc3-107">We also provide guidance for configuration profiles for endpoint protection and device restriction.</span></span>  
 
 > [!NOTE]
-> <span data-ttu-id="4d9db-108">Đây là một dịch vụ được cung cấp bởi FastTrack và không phải là một gói phần mềm.</span><span class="sxs-lookup"><span data-stu-id="4d9db-108">This is a service provided by FastTrack and not a software package.</span></span> 
+> <span data-ttu-id="02cc3-108">Đây là một dịch vụ được cung cấp bởi FastTrack và không phải là một gói phần mềm.</span><span class="sxs-lookup"><span data-stu-id="02cc3-108">This is a service provided by FastTrack and not a software package.</span></span> 
+
