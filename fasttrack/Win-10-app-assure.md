@@ -10,12 +10,12 @@ ms.service: windows-10-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: Các FastTrack Trung tâm lợi ích cho Windows 10 cung cấp quyền truy cập vào App Assure-một dịch vụ được thiết kế để địa chỉ các vấn đề với Windows 10 và Office 365 ProPlus ứng dụng tương thích.
-ms.openlocfilehash: 5ecbbb7ef31b16e266ae4b4a614a424f62fa2007
-ms.sourcegitcommit: 79a5b31863be3d554223f75ca866dcf40dd2c2dd
+ms.openlocfilehash: 9e73f2c42ce6e12dde94e47d01a69027e6edc798
+ms.sourcegitcommit: 7a2535e510420496dabfcea5accbb36ab2fe21d2
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 03/02/2020
-ms.locfileid: "42347606"
+ms.lasthandoff: 03/30/2020
+ms.locfileid: "43052950"
 ---
 # <a name="app-assure"></a>Đảm bảo cho ứng dụng
 
@@ -25,7 +25,3 @@ Các FastTrack Trung tâm lợi ích cho Windows 10 cung cấp quyền truy cậ
 
   > [!NOTE]
 > Đây là một dịch vụ được cung cấp bởi FastTrack và không phải là một gói phần mềm.
-
-    
-
- 

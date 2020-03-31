@@ -10,12 +10,12 @@ ms.service: windows-10-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: Bạn có trách nhiệm sau trong Windows 10 onboarding.
-ms.openlocfilehash: 9a4c780898824783467a14ebf2570972034ff1e1
-ms.sourcegitcommit: 79a5b31863be3d554223f75ca866dcf40dd2c2dd
+ms.openlocfilehash: a728b78d41a9de5c6cbb3248fa988c0136e89402
+ms.sourcegitcommit: 7a2535e510420496dabfcea5accbb36ab2fe21d2
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 03/02/2020
-ms.locfileid: "42347498"
+ms.lasthandoff: 03/30/2020
+ms.locfileid: "43052315"
 ---
 # <a name="your-responsibilities"></a>Trách nhiệm của bạn
 
@@ -58,14 +58,3 @@ Bạn có trách nhiệm sau đây trong quá trình onboarding.
 - Thực hiện sẵn sàng thư mục và cấu hình đồng bộ hóa thư mục cho mỗi hướng dẫn từ nhóm FastTrack khi triển khai Office 365 ProPlus với Windows 10.
 - Đặt cấu hình phương thức xác thực, như được quản lý hoặc liên kết.
 
-
-
-
-
-
-
-  
-
-  
-
- 

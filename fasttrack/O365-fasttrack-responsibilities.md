@@ -10,12 +10,12 @@ ms.service: o365-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: FastTrack chuyên gia có trách nhiệm sau đây trong onboarding.
-ms.openlocfilehash: f7fc935c51bdab416bedd9e1681d9c6940aa2999
-ms.sourcegitcommit: 79a5b31863be3d554223f75ca866dcf40dd2c2dd
+ms.openlocfilehash: 0a6ec092c8c9ec5ba574465fc10a59ae48e7b23e
+ms.sourcegitcommit: 7a2535e510420496dabfcea5accbb36ab2fe21d2
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 03/02/2020
-ms.locfileid: "42347774"
+ms.lasthandoff: 03/30/2020
+ms.locfileid: "43052279"
 ---
 # <a name="fasttrack-responsibilities"></a>Trách nhiệm của FastTrack
 
@@ -146,7 +146,7 @@ Cung cấp hướng dẫn về:
 
 Cung cấp hướng dẫn về:
 - Giải quyết vấn đề triển khai.
-- Gán giấy phép người dùng cuối bằng cách sử dụng [Trung tâm quản trị Microsoft 365](https://go.microsoft.com/fwlink/?linkid=2032704) và Windows PowerShell.
+- Gán giấy phép người dùng cuối và dựa trên thiết bị bằng [Trung tâm quản trị Microsoft 365](https://go.microsoft.com/fwlink/?linkid=2032704) và Windows PowerShell.
 - Cài đặt Office 365 ProPlus từ cổng 365 Office sử dụng click-to-run.
 - Cài đặt ứng dụng Office Mobile (như Outlook for iOS và Android, Word Mobile, Excel Mobile và PowerPoint Mobile) trên các thiết bị iOS, Android hoặc Windows Mobile của bạn. 
 - Cấu hình cài đặt bản Cập Nhật bằng cách sử dụng công cụ triển khai Office 365.
@@ -243,4 +243,3 @@ Cung cấp hướng dẫn về:
 Cung cấp hướng dẫn về chuyển đổi mạng yammer cơ bản duy nhất của bạn thành một mạng yammer doanh nghiệp duy nhất.
   
 \*Để biết thông tin về các trách nhiệm của FastTrack cho Office 365 chính phủ Hoa Kỳ, xem [Fasttrack trách nhiệm cho văn phòng 365 chính phủ Hoa Kỳ](US-Gov-appendix-fasttrack-responsibilities.md).
-

@@ -12,12 +12,12 @@ ms.service: m365-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: FastTrack dành cho Microsoft 365 cung cấp hướng dẫn lập kế hoạch, triển khai và nhận con nuôi bao gồm cả truy cập từ xa vào chuyên môn kỹ thuật của Microsoft, thực tiễn tốt nhất, công cụ và tài nguyên. FastTrack dành cho Microsoft 365 giúp các tổ chức và đối tác của họ đẩy nhanh triển khai và nhận được thông qua người dùng cuối Office 365, Windows 10 và Enterprise Mobility + Security.
-ms.openlocfilehash: 84e08aab87cc1223c858f82c8e84484dd257cde8
-ms.sourcegitcommit: 79a5b31863be3d554223f75ca866dcf40dd2c2dd
+ms.openlocfilehash: 7595141667db532522104a48ce07b61d4f724200
+ms.sourcegitcommit: 7a2535e510420496dabfcea5accbb36ab2fe21d2
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 03/02/2020
-ms.locfileid: "42347570"
+ms.lasthandoff: 03/30/2020
+ms.locfileid: "43052538"
 ---
 # <a name="fasttrack-center-benefit-for-microsoft-365"></a>Lợi ích Trung tâm FastTrack dành cho Microsoft 365
 
@@ -35,6 +35,3 @@ Lợi ích Trung tâm FastTrack dành cho Microsoft 365 cung cấp hướng dẫ
 
 FastTrack là đối tác của bạn cho Microsoft 365 thành công.
   
-  
-
- 

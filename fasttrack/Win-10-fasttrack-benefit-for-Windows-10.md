@@ -10,12 +10,12 @@ ms.service: windows-10-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: Bạn sử dụng FastTrack Trung tâm lợi ích cho Windows 10 khi bạn mua ít *nhất* 150 giấy phép cho một dịch vụ đủ điều kiện hoặc kế hoạch.
-ms.openlocfilehash: d856f8bb6448d118eff7f4092841efe70bf8018b
-ms.sourcegitcommit: 79a5b31863be3d554223f75ca866dcf40dd2c2dd
+ms.openlocfilehash: 6e8b9a998d55197069b86f4cf21640808f255dd7
+ms.sourcegitcommit: 7a2535e510420496dabfcea5accbb36ab2fe21d2
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 03/02/2020
-ms.locfileid: "42347702"
+ms.lasthandoff: 03/30/2020
+ms.locfileid: "43052903"
 ---
 # <a name="fasttrack-center-benefit-for-windows-10"></a>Lợi ích của Trung tâm FastTrack dành cho Windows 10
 
@@ -32,8 +32,4 @@ FastTrack chuyên gia cũng sẽ cung cấp hướng dẫn khi bạn triển kha
 - [Đảm bảo cho ứng dụng](Win-10-app-assure.md)
 - [Microsoft Edge](Win-10-microsoft-edge.md)
 - [Tính năng Chống Mối đe dọa Nâng cao của Bộ bảo vệ Microsoft](Win-10-microsoft-defender-atp.md)
-  
 
-  
-
- 

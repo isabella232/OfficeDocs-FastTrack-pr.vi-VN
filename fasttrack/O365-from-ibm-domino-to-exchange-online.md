@@ -10,12 +10,12 @@ ms.service: o365-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: 'Di chuyển từ IBM Domino sang Exchange Online bao gồm một số khía cạnh quan trọng, bao gồm những gì xảy ra trong các giai đoạn sau:'
-ms.openlocfilehash: ac945137e7beee0d0813ce171fc7292d683e9cd9
-ms.sourcegitcommit: 79a5b31863be3d554223f75ca866dcf40dd2c2dd
+ms.openlocfilehash: 7c09957d2a1955313d42c17491d26aedd96c798a
+ms.sourcegitcommit: 7a2535e510420496dabfcea5accbb36ab2fe21d2
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 03/02/2020
-ms.locfileid: "42347582"
+ms.lasthandoff: 03/30/2020
+ms.locfileid: "43052387"
 ---
 # <a name="appendix-a---migration-from-ibm-domino-to-exchange-online"></a>Phụ lục A - Di chuyển từ IBM Domino sang Exchange Online
 
@@ -126,7 +126,7 @@ Các hoạt động trước khi di chuyển được phối hợp giữa bạn 
     
  **Trách nhiệm của khách hàng**
   
-- Xác định và nhập lịch trình di chuyển 21 ngày trước khi di chuyển.
+- Cung cấp một lịch trình trong một phương pháp được xác định và một danh sách các dữ liệu người dùng cụ thể để di chuyển cho mỗi sự kiện di chuyển.
     > [!NOTE]
     > Nhiệm vụ này là rất quan trọng vì các hoạt động trước khi di chuyển liên quan đến việc khắc phục và có thể thử lại tạo bản sao ở các giai đoạn khác nhau trước ngày di chuyển thực tế (T-0). Trong khi một số hộp thư đang di chuyển, T-trừ hoạt động đang được thực hiện trên những người khác. Điều này làm cho kế hoạch đúng đắn và phối hợp phải. 
 - Khắc phục sự cố được xác định trong các hoạt động T-trừ.
@@ -135,8 +135,4 @@ Các hoạt động trước khi di chuyển được phối hợp giữa bạn 
 - Tiến hành các hoạt động sẵn sàng cho người dùng cuối và đào tạo cho hệ thống nhắn tin mới và khách hàng.   
 - Xác định và báo cáo sự cố sau di chuyển. Trung tâm FastTrack cung cấp hỗ trợ sau khi di chuyển đến T + 5 ngày sau khi di chuyển, sau đó nó sẽ trở thành trách nhiệm của bạn. Bạn có thể đăng nhập các vé sau di chuyển cho các vấn đề như thiếu email, mục lịch và danh bạ hoặc cho các bản sao trong hộp thư.
     
-Trung tâm FastTrack không bao gồm việc triển khai, lệ phí giấy phép, hoặc hỗ trợ liên quan đến chuẩn bị thư mục (bao gồm Domino-to-Active Directory đồng bộ hóa thư mục), cùng tồn tại phần mềm tiện ích cho ghi chú ứng dụng tương tác, di chuyển tự dịch vụ hoặc di chuyển lưu trữ.
-  
-
-  
-
+Trung tâm FastTrack không bao gồm việc triển khai, lệ phí giấy phép, hoặc hỗ trợ liên quan đến chuẩn bị thư mục (bao gồm Domino-to-Active Directory đồng bộ hóa thư mục), cùng tồn tại phần mềm bổ trợ cho ghi chú ứng dụng tương tác, di chuyển tự dịch vụ, hoặc di chuyển lưu trữ.

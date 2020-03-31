@@ -10,12 +10,12 @@ ms.service: o365-administration
 localization_priority: None
 ms.collection: FastTrack
 description: FastTrack chuyên gia có trách nhiệm sau đây trong onboarding.
-ms.openlocfilehash: 450106d47775f531cbfccdec978d3d15eedad5ac
-ms.sourcegitcommit: 79a5b31863be3d554223f75ca866dcf40dd2c2dd
+ms.openlocfilehash: 03718f62f7ce28d9e3cbd2b586b64bc26b93e614
+ms.sourcegitcommit: 7a2535e510420496dabfcea5accbb36ab2fe21d2
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 03/02/2020
-ms.locfileid: "42347462"
+ms.lasthandoff: 03/30/2020
+ms.locfileid: "43052795"
 ---
 # <a name="fasttrack-responsibilities-for-office-365-us-government"></a>Trách nhiệm của FastTrack cho văn phòng 365 chính phủ Hoa Kỳ
 
@@ -204,7 +204,3 @@ Cung cấp hướng dẫn về:
 - Cấu hình cài đặt bản Cập Nhật bằng cách sử dụng Office 2016 công cụ triển khai hoặc chính sách nhóm mẫu.   
 - Thiết lập một máy chủ phân phối trên trang web cho Office 365 ProPlus, bao gồm hỗ trợ tạo tệp configuration. xml để sử dụng với công cụ triển khai Office 365.   
 - Triển khai bằng cách sử dụng Microsoft Endpoint Configuration Manager, bao gồm hỗ trợ tạo bao bì Microsoft Endpoint Configuration Manager.
-
-    
-
-

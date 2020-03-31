@@ -10,12 +10,12 @@ ms.service: windows-10-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: Khi bạn mua bất kỳ dịch vụ Windows 10 hoặc Microsoft 365, FastTrack chuyên gia cung cấp hướng dẫn triển khai từ xa để bảo vệ điểm cuối. Dịch vụ của chúng tôi được thiết kế phù hợp với môi trường và nhu cầu cho từng khách hàng.
-ms.openlocfilehash: 466830de034342d196a3bc5b681b28f43ee5cbbe
-ms.sourcegitcommit: 79a5b31863be3d554223f75ca866dcf40dd2c2dd
+ms.openlocfilehash: ed8e9d9764f2dcf970fb1f345482ddc450a87711
+ms.sourcegitcommit: 7a2535e510420496dabfcea5accbb36ab2fe21d2
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 03/02/2020
-ms.locfileid: "42347714"
+ms.lasthandoff: 03/30/2020
+ms.locfileid: "43052807"
 ---
 # <a name="assistance-offered"></a>Nội dung hỗ trợ được cung cấp  
 
@@ -48,4 +48,3 @@ Các dịch vụ FastTrack không bao gồm:
    - Linux
 - Cách ly dựa trên phần cứng, kiểm soát ứng dụng, bảo vệ khai thác và hướng dẫn tường lửa mạng.
 - Liên tục quản lý và mối đe dọa phản ứng.
-

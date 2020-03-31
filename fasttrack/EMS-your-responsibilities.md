@@ -14,12 +14,12 @@ ms.collection: FastTrack
 ms.assetid: 0590b7b2-0965-437b-b3ca-bd55de1abb09
 ms.reviewer: ''
 ms.suite: ems
-ms.openlocfilehash: 2f9f74d5f46f5d5d53f79a9f1c39e9534cdaa643
-ms.sourcegitcommit: 79a5b31863be3d554223f75ca866dcf40dd2c2dd
+ms.openlocfilehash: bec4a709c6728803b383db40f53fc84826fa6b55
+ms.sourcegitcommit: 7a2535e510420496dabfcea5accbb36ab2fe21d2
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 03/02/2020
-ms.locfileid: "42347486"
+ms.lasthandoff: 03/30/2020
+ms.locfileid: "43052552"
 ---
 # <a name="your-responsibilities"></a>Trách nhiệm của bạn
 
@@ -63,9 +63,9 @@ Bạn có trách nhiệm sau đây trong quá trình onboarding.
 
 -   Cung cấp và cấu hình bất kỳ chứng chỉ công cộng Secure Socket Layer (SSL).
 
--   Thiết lập hoặc nâng cấp trình quản lý cấu hình yêu cầu tối thiểu cho Microsoft InTune tích hợp với trình quản lý cấu hình.
+-     Thiết lập hoặc nâng cấp trình quản lý cấu hình yêu cầu tối thiểu cho Microsoft InTune tích hợp với trình quản lý cấu hình.
 
--   Nếu cần thiết để triển khai các hồ sơ Wi-Fi và VPN với InTune, cung cấp và cấu hình Authority chứng chỉ, Wi-Fi và cơ sở hạ tầng VPN khi cần thiết.
+-     Nếu cần thiết để triển khai các hồ sơ Wi-Fi và VPN với InTune, cung cấp và cấu hình Authority chứng chỉ, Wi-Fi và cơ sở hạ tầng VPN khi cần thiết.
 
 -   Ghi tuyên bố điều khoản sử dụng (TOU) của tổ chức được cấu hình và hiển thị trên cổng thông tin công ty Microsoft InTune mà người dùng cuối có thể truy cập.
 
@@ -127,5 +127,6 @@ Bạn có trách nhiệm sau đây trong quá trình onboarding.
 ## <a name="see-also"></a>Xem thêm
 
 - [FastTrack lợi ích cho EMS](EMS-fasttrack-benefit-for-EMS.md)
+
 - [FastTrack lợi ích cho Office 365](O365-fasttrack-benefit-for-office-365.md)
 

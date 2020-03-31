@@ -10,12 +10,12 @@ ms.service: o365-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: Office 365 bộ nhớ ngoài có bốn giai đoạn chính — bắt đầu, đánh giá, remediate và Enable. Bạn có thể làm theo các giai đoạn này với một giai đoạn di chuyển dữ liệu tùy chọn.
-ms.openlocfilehash: c3716b2a55a2c04b58e19cf6530050cd843dcfdc
-ms.sourcegitcommit: 79a5b31863be3d554223f75ca866dcf40dd2c2dd
+ms.openlocfilehash: 395a63f56f1140ae8475a4a2f090d1d3eb6dd7f7
+ms.sourcegitcommit: 7a2535e510420496dabfcea5accbb36ab2fe21d2
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 03/02/2020
-ms.locfileid: "42347750"
+ms.lasthandoff: 03/30/2020
+ms.locfileid: "43052831"
 ---
 # <a name="onboarding-and-migration-phases"></a>Giai đoạn triển khai và di chuyển
 
@@ -37,16 +37,16 @@ Bạn có thể nhận trợ giúp thông qua [Trung tâm quản trị Microsoft
 Để được trợ giúp thông qua [Trung tâm quản trị Microsoft 365](https://go.microsoft.com/fwlink/?linkid=2032704), các dấu hiệu quản trị của bạn vào Trung tâm quản trị và sau đó nhấp vào **cần giúp đỡ?** widget. 
 
 Để được trợ giúp thông qua [trang web FastTrack](https://go.microsoft.com/fwlink/?linkid=780698): 
-1.  Đăng nhập vào [trang web FastTrack](https://go.microsoft.com/fwlink/?linkid=780698). 
-2.  Chọn **yêu cầu hỗ trợ cho Microsoft 365** từ các **hành động nhanh** trên đầu trang đích của bạn hoặc bằng cách chọn **yêu cầu hỗ trợ cho Microsoft 365** trên thẻ triển khai.
-3.  Hoàn thành **yêu cầu hỗ trợ cho Microsoft 365** mẫu. 
+1.    Đăng nhập vào [trang web FastTrack](https://go.microsoft.com/fwlink/?linkid=780698). 
+2.    Chọn **yêu cầu hỗ trợ cho Microsoft 365** từ các **hành động nhanh** trên đầu trang đích của bạn hoặc bằng cách chọn **yêu cầu hỗ trợ cho Microsoft 365** trên thẻ triển khai.
+3.    Hoàn thành **yêu cầu hỗ trợ cho Microsoft 365** mẫu. 
   
 Đối tác cũng có thể nhận trợ giúp thông qua [trang web FastTrack](https://go.microsoft.com/fwlink/?linkid=780698) thay mặt cho khách hàng. Để làm như vậy:
-1.  Đăng nhập vào [trang web FastTrack](https://go.microsoft.com/fwlink/?linkid=780698). 
-2.  Chọn **khách hàng của tôi**.
-3.  Tìm kiếm khách hàng của bạn hoặc chọn chúng từ danh sách khách hàng của bạn.
-4.  Chọn **dịch vụ**.
-5.  Hoàn thành **yêu cầu hỗ trợ cho Microsoft 365** mẫu.
+1.    Đăng nhập vào [trang web FastTrack](https://go.microsoft.com/fwlink/?linkid=780698). 
+2.    Chọn **khách hàng của tôi**.
+3.    Tìm kiếm khách hàng của bạn hoặc chọn chúng từ danh sách khách hàng của bạn.
+4.    Chọn **dịch vụ**.
+5.    Hoàn thành **yêu cầu hỗ trợ cho Microsoft 365** mẫu.
 
 Bạn cũng có thể yêu cầu FastTrack Trung tâm trợ giúp từ các [trang web fasttrack](https://go.microsoft.com/fwlink/?linkid=780698) trong danh sách các dịch vụ có sẵn cho người thuê nhà của bạn. 
     
@@ -58,7 +58,7 @@ Trong giai đoạn này, chúng tôi thảo luận về quá trình bộ nhớ n
 
 FastTrack Manager của bạn tiến hành một cuộc gọi lập kế hoạch thành công tương tác với bạn và nhóm nhận con nuôi của bạn. Điều này giới thiệu bạn về các khả năng của các dịch vụ đủ điều kiện mà bạn đã mua, những nền tảng chính bạn cần để thành công, phương pháp để lái xe sử dụng dịch vụ và các kịch bản mà bạn có thể sử dụng để nhận giá trị từ các dịch vụ. Chúng tôi hỗ trợ bạn trong việc lập kế hoạch thành công và cung cấp phản hồi về các khu vực chính (nếu cần).
   
-FastTrack chuyên gia làm việc với bạn để đánh giá môi trường nguồn của bạn và các yêu cầu. Chúng tôi cung cấp các công cụ để bạn thu thập dữ liệu về môi trường của bạn và hướng dẫn bạn thông qua ước tính các yêu cầu băng thông và đánh đồng trình duyệt Internet của bạn, Hệ điều hành khách hàng, Hệ thống tên miền (DNS), mạng, cơ sở hạ tầng, và hệ thống nhận dạng để xác định nếu có thay đổi được yêu cầu cho onboarding. 
+FastTrack chuyên gia làm việc với bạn để đánh giá môi trường nguồn của bạn và các yêu cầu. Chúng tôi cung cấp các công cụ để bạn thu thập dữ liệu về môi trường của bạn và hướng dẫn bạn thông qua ước tính băng thông yêu cầu và đánh máy trình duyệt Internet của bạn, Hệ điều hành khách hàng, Hệ thống tên miền (DNS), mạng, cơ sở hạ tầng, và hệ thống nhận dạng để xác định nếu có thay đổi được yêu cầu cho onboarding. 
   
 Dựa trên thiết lập hiện tại của bạn, chúng tôi cung cấp một kế hoạch khắc phục mang lại môi trường nguồn của bạn đến các yêu cầu tối thiểu để thành công bộ nhớ ngoài cho Office 365 và, nếu cần thiết, cho hộp thư thành công và/hoặc di chuyển dữ liệu. Chúng tôi cung cấp một tập hợp các hoạt động đề xuất để tăng giá trị người dùng cuối và nhận con nuôi. Chúng tôi cũng thiết lập điểm kiểm tra thích hợp cho giai đoạn remediate.
   
@@ -162,7 +162,7 @@ OneDrive cho doanh nghiệp, các bước phụ thuộc vào nếu bạn đang s
 - Thiết lập DNS.   
 - Tạo tài khoản cho bất kỳ thiết bị hệ thống phòng nào.   
 - Triển khai một Skype được hỗ trợ cho khách hàng doanh nghiệp trực tuyến.  
-- Thiết lập cấu hình máy chủ chia miền giữa chỗ Lync 2010, Lync 2013 hoặc Skype dành cho doanh nghiệp 2015 máy chủ môi trường và Skype dành cho doanh nghiệp trực tuyến thuê (nếu áp dụng), kế hoạch gọi, Skype họp phát, và hệ thống điện thoại và Gói gọi điện (tại các thị trường có sẵn).
+- Thiết lập cấu hình máy chủ chia miền giữa chỗ Lync 2010, Lync 2013 hoặc Skype dành cho doanh nghiệp 2015 máy chủ môi trường và Skype dành cho doanh nghiệp trực tuyến thuê (nếu áp dụng), kế hoạch gọi, Skype họp phát, và hệ thống điện thoại và gọi kế hoạch (tại thị trường có sẵn).
     
 ![Lync bộ nhớ ngoài bước trong quá trình kích hoạt phase_1](media/O365-Onboarding-Enable-Lync.png)
   
@@ -205,7 +205,7 @@ OneDrive cho doanh nghiệp, các bước phụ thuộc vào nếu bạn đang s
 
 Đối với Office 365 ProPlus, chúng tôi cung cấp hướng dẫn cho:
 - Giải quyết vấn đề triển khai.   
-- Gán giấy phép người dùng cuối bằng cách sử dụng [Trung tâm quản trị Microsoft 365](https://go.microsoft.com/fwlink/?linkid=2032704) và Windows PowerShell. 
+- Gán giấy phép người dùng cuối và dựa trên thiết bị bằng [Trung tâm quản trị Microsoft 365](https://go.microsoft.com/fwlink/?linkid=2032704) và Windows PowerShell. 
 - Cài đặt Office 365 ProPlus từ cổng 365 Office sử dụng click-to-run.   
 - Cài đặt ứng dụng Office Mobile (như Outlook Mobile, Word Mobile, Excel Mobile và PowerPoint Mobile) trên các thiết bị chạy iOS, Android hoặc Windows Mobile của bạn.   
 - Cấu hình cài đặt bản Cập Nhật bằng cách sử dụng công cụ triển khai Office 365.   
@@ -220,4 +220,3 @@ OneDrive cho doanh nghiệp, các bước phụ thuộc vào nếu bạn đang s
 Đối với Outlook cho iOS và Android, chúng tôi cung cấp hướng dẫn cho:
 - Tải Outlook cho iOS và Android từ Apple App Store và Google Play.
 - Cấu hình tài khoản và truy cập hộp thư Exchange Online.
-

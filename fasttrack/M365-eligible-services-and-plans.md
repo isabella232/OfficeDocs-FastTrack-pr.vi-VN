@@ -10,19 +10,19 @@ ms.service: m365-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: Khi bạn mua bất kỳ dịch vụ Microsoft 365, FastTrack chuyên gia cung cấp hướng dẫn cho bạn để onboard cho Microsoft 365 và bắt đầu sử dụng chúng.
-ms.openlocfilehash: 801984b3f6f6762ba455bbff0f86e5cc3b1c2365
-ms.sourcegitcommit: 6f67f054a52821211ee0e3a5bc1926ec6c111310
+ms.openlocfilehash: 0f9b9326bafdfd4c6297ba9cfff1bf152358afd5
+ms.sourcegitcommit: 7a2535e510420496dabfcea5accbb36ab2fe21d2
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 03/17/2020
-ms.locfileid: "42707051"
+ms.lasthandoff: 03/30/2020
+ms.locfileid: "43052555"
 ---
 # <a name="eligible-services-and-plans"></a>Dịch vụ và gói đủ điều kiện
 
 Khi bạn mua bất kỳ dịch vụ Microsoft 365, FastTrack chuyên gia cung cấp hướng dẫn cho bạn để onboard cho Microsoft 365 và bắt đầu sử dụng chúng.
 
 > [!IMPORTANT]
-> Bạn phải mua *ít nhất* 150 giấy phép từ các kế hoạch đủ điều kiện được liệt kê để nhận các dịch vụ FastTrack. Mới vào tháng 2020, Microsoft đang làm cho [văn phòng 6 tháng 365 E1](https://docs.microsoft.com/microsoftteams/e1-trial-license) và [văn phòng 365](https://docs.microsoft.com/microsoftteams/g1-trial-license) giấy phép thử nghiệm G1 để hỗ trợ công việc từ xa và học tập như khách hàng trả lời covid-19 (coronavirus) ổ dịch. Với tư cách là một ngoại lệ, FastTrack đang hỗ trợ đối với các giấy phép miễn phí này từ ngày 2020 tháng 3 đến tháng 8 2020.  
+> Bạn phải mua *ít nhất* 150 giấy phép từ các kế hoạch đủ điều kiện được liệt kê để nhận các dịch vụ FastTrack. Mới vào tháng 2020, Microsoft đang làm cho [văn phòng 6 tháng 365 E1](https://docs.microsoft.com/microsoftteams/e1-trial-license) và [văn phòng 365](https://docs.microsoft.com/microsoftteams/g1-trial-license) giấy phép thử nghiệm G1 để hỗ trợ công việc từ xa và học tập như khách hàng đáp ứng với các ổ dịch covid-19. Với tư cách là một ngoại lệ, FastTrack đang hỗ trợ việc lên máy bay với các giấy phép dùng thử miễn phí này và cũng là [văn phòng 365 A1](https://www.microsoft.com/microsoft-365/academic/compare-office-365-education-plans?activetab=tab:primaryr1) cho sinh viên từ tháng 2020 đến tháng 8 2020. Microsoft có quyền hủy bỏ, thay đổi hoặc tạm ngừng đề nghị này bất kỳ lúc nào mà không cần thông báo.   
   
 Bạn có thể nhận trợ giúp thông qua [Trung tâm quản trị Microsoft 365](https://go.microsoft.com/fwlink/?linkid=2032704) hoặc [trang web FastTrack](https://go.microsoft.com/fwlink/?linkid=780698). 
 
@@ -224,6 +224,3 @@ Kế hoạch không đủ điều kiện cho các dịch vụ FastTrack bao gồ
 
 Khách hàng mua ít nhất 20.000 giấy phép cho người thuê Office 365 đủ điều kiện cho các dịch vụ khác từ Trung tâm FastTrack. Để biết thêm thông tin, xem [phụ lục B-FastTrack Trung tâm lợi ích bổ sung](O365-fasttrack-additional-benefits.md).
   
-
-  
-

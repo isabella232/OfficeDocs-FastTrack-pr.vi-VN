@@ -9,12 +9,12 @@ ms.topic: article
 ms.service: o365-administration
 localization_priority: None
 description: Với FastTrack Trung tâm lợi ích cho văn phòng 365, bạn làm việc từ xa với FastTrack chuyên gia để có được môi trường Office 365 của bạn sẵn sàng để sử dụng và kế hoạch triển khai và sử dụng trong tổ chức của bạn.
-ms.openlocfilehash: a26f01aa7c12444c5e64ce1618e53360d9fbc5ff
-ms.sourcegitcommit: 79a5b31863be3d554223f75ca866dcf40dd2c2dd
+ms.openlocfilehash: fa44502e2697cd18e2e2e3c56d8c1f629ed60afc
+ms.sourcegitcommit: 7a2535e510420496dabfcea5accbb36ab2fe21d2
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 03/02/2020
-ms.locfileid: "42347378"
+ms.lasthandoff: 03/30/2020
+ms.locfileid: "43052819"
 ---
 # <a name="appendix-d---fasttrack-center-benefit-overview-for-office-365-us-government"></a>Phụ lục D - Tổng quan về Lợi ích Trung tâm FastTrack dành cho Office 365 US Government
 
@@ -34,5 +34,3 @@ Chúng tôi bao gồm các chủ đề sau:
 - [Trách nhiệm của bạn cho văn phòng 365 chính phủ Hoa Kỳ](US-Gov-appendix-your-responsibilities.md) 
 - [Phụ lục A - Di chuyển từ IBM Domino sang Exchange Online](O365-from-ibm-domino-to-exchange-online.md)   
 - [Phụ lục B - Lợi ích bổ sung của Trung tâm FastTrack](O365-fasttrack-additional-benefits.md)
-
-

@@ -12,12 +12,12 @@ ms.service: o365-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: Với FastTrack Trung tâm lợi ích cho văn phòng 365, bạn làm việc từ xa với FastTrack chuyên gia để có được môi trường Office 365 của bạn sẵn sàng để sử dụng và kế hoạch triển khai và sử dụng trong tổ chức của bạn. Để tìm hiểu thêm về tính đủ điều kiện, xem FastTrack Trung tâm lợi ích cho Office 365.
-ms.openlocfilehash: 83007d0d0b7e843f87e44cc8408529e657497308
-ms.sourcegitcommit: 79a5b31863be3d554223f75ca866dcf40dd2c2dd
+ms.openlocfilehash: 8ce3fa3b8a0f677c520aa8ffd1924c4461ee17c2
+ms.sourcegitcommit: 7a2535e510420496dabfcea5accbb36ab2fe21d2
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 03/02/2020
-ms.locfileid: "42347438"
+ms.lasthandoff: 03/30/2020
+ms.locfileid: "43052759"
 ---
 # <a name="fasttrack-center-benefit-overview"></a>Tổng quan về Lợi ích của Trung tâm FastTrack
 
@@ -51,6 +51,4 @@ Thuê Office 365 của bạn được tạo ra khi hoàn thành onboarding. Cấ
     > AD FS và WAP triển khai và cấu hình được thực hiện bằng cách sử dụng [thuật sĩ cấu hình AZURE AD kết nối](https://go.microsoft.com/fwlink/?linkid=844794) từ môi trường tại chỗ của bạn. 
   
 - Người dùng được cấp phép bây giờ có thể truy cập [dịch vụ và kế hoạch đủ điều kiện](M365-eligible-services-and-plans.md).
-    
 
- 

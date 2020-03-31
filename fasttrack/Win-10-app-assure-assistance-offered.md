@@ -10,12 +10,12 @@ ms.service: windows-10-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: Khi bạn mua bất kỳ dịch vụ Windows 10 hoặc Microsoft 365, FastTrack chuyên gia cung cấp hướng dẫn tư vấn và khắc phục để triển khai Windows 10 và Office 365 ProPlus và ở lại up-to-date mà không mất thêm chi phí (với một thuê bao đủ điều kiện).
-ms.openlocfilehash: 4cbd6e82c5f2907171da86c8c08f9c4d35a5966a
-ms.sourcegitcommit: 79a5b31863be3d554223f75ca866dcf40dd2c2dd
+ms.openlocfilehash: 69804ab95b01ad45191f95a5b16405790fd6e500
+ms.sourcegitcommit: 7a2535e510420496dabfcea5accbb36ab2fe21d2
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 03/02/2020
-ms.locfileid: "42347690"
+ms.lasthandoff: 03/30/2020
+ms.locfileid: "43052963"
 ---
 # <a name="assistance-offered"></a>Nội dung hỗ trợ được cung cấp  
 
@@ -74,3 +74,5 @@ Trách nhiệm của khách hàng bao gồm:
 
 > [!NOTE]
 > Liên hệ với [đối tác của Microsoft](https://go.microsoft.com/fwlink/?linkid=2080150) để cung cấp hỗ trợ với các dịch vụ được xác định là phạm vi.
+
+

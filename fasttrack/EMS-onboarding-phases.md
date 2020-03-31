@@ -11,12 +11,12 @@ ms.prod: ''
 ms.service: microsoft-intune
 localization_priority: Priority
 ms.collection: FastTrack
-ms.openlocfilehash: face8c17be9ca475abfb9b6eaabdfc3584677e93
-ms.sourcegitcommit: 11301c8c12bee95f716208b0de74d74021429051
+ms.openlocfilehash: 7a441fcd3020e2d9194a72fd8d6f8c39c2cb7894
+ms.sourcegitcommit: 7a2535e510420496dabfcea5accbb36ab2fe21d2
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 03/13/2020
-ms.locfileid: "42637398"
+ms.lasthandoff: 03/30/2020
+ms.locfileid: "43052351"
 ---
 # <a name="onboarding-phases"></a>Các giai đoạn triển khai
 
@@ -160,7 +160,7 @@ Azure AD Premium cài đặt bao gồm kích hoạt các tính năng sau:
         -   Tích hợp InTune với:
             -   Team Viewer để được hỗ trợ từ xa (yêu cầu đăng ký Team Viewer).
 
-            -   Giải pháp đối tác điện thoại di động Threat Defense (MTD) (di động Threat quốc phòng Subcription là bắt buộc).
+            -   Giải pháp đối tác điện thoại di động Threat Defense (MTD) (yêu cầu đăng ký bảo vệ mối đe dọa di động).
 
             -   Giải pháp quản lý chi phí viễn thông (đăng ký giải pháp quản lý chi phí viễn thông là bắt buộc).
 
@@ -232,41 +232,37 @@ Các bước để triển khai an toàn Outlook Mobile cho iOS và Android vớ
     > [!IMPORTANT]
     > FastTrack nhóm không hỗ trợ bảo vệ Outlook cho iOS và Android với các chính sách hộp thư Exchange thiết bị di động.
 
-#### <a name="co-management"></a>Đồng quản lý
+#### <a name="cloud-attach"></a>Đính kèm đám mây
 
-FastTrack hướng dẫn bạn sẵn sàng đồng thời quản lý các thiết bị Windows 10 với cả trình quản lý cấu hình và InTune. Các bước chính xác phụ thuộc vào môi trường nguồn của bạn, và nó có thể bao gồm:
+FastTrack hướng dẫn bạn chuẩn bị sẵn sàng cho đám mây đính kèm môi trường quản lý cấu hình hiện có với InTune. Các bước chính xác phụ thuộc vào môi trường nguồn của bạn. Các bước này có thể bao gồm:
 
-- Giải thích những lợi ích của việc đồng quản lý.
+- Giải thích về lợi ích của trình quản lý cấu hình gắn đám mây với InTune.
 
 - Cấp phép người dùng cuối của bạn. FastTrack cũng cung cấp hỗ trợ về cách kích hoạt giấy phép khối lượng cho thuê dịch vụ đám mây Microsoft của bạn (nếu cần).
 
-- Đặt cấu hình danh tính được sử dụng bởi InTune bằng các bản sắc Active Directory và/hoặc đám mây tại chỗ của bạn.
+- Cấu hình nhận dạng được sử dụng bởi InTune bằng các bản sắc Active Directory và đám mây của bạn tại chỗ.
 
 - Thêm người dùng vào đăng ký InTune của bạn, xác định vai trò quản trị viên CNTT, và tạo người dùng và nhóm thiết bị.
 
-- Cung cấp hướng dẫn về cách di chuyển từ InTune tích hợp với Microsoft Endpoint Configuration Manager để InTune Standalone.
-
-- Cung cấp hướng dẫn về thiết lập Azure Active Directory cho MDM đăng ký tự động.
+- Kích hoạt đám mây đính kèm trong bảng điều khiển quản lý cấu hình.
 
 - Cung cấp hướng dẫn thiết lập kết hợp Azure Active Directory tham gia.
 
-- Cung cấp hướng dẫn về cách thiết lập cổng quản lý đám mây
+- Cung cấp hướng dẫn về thiết lập Azure Active Directory cho MDM đăng ký tự động.
 
-- Kích hoạt đồng quản lý trong bảng điều khiển quản lý cấu hình.
+- Cung cấp hướng dẫn về cách thiết lập cổng quản lý đám mây.
 
 - Cấu hình luồng công việc được hỗ trợ mà bạn muốn chuyển sang InTune.
 
-- Cài đặt quản lý cấu hình máy khách trong InTune đăng ký thiết bị.
+- Cài đặt máy khách quản lý cấu hình trên thiết bị đăng ký InTune.
 
-- Cung cấp hướng dẫn về cách giám sát hoạt động co-Management trong môi trường của bạn.
-
-FastTrack cũng cung cấp cho bạn hướng dẫn về cách thúc đẩy việc áp dụng thành công các dịch vụ đủ điều kiện.
+FastTrack cũng cung cấp hướng dẫn về cách thúc đẩy việc áp dụng thành công các dịch vụ đủ điều kiện.
 
 ![Onboarding kích hoạt pha-InTune](./media/ft-enable-phase_intune_mam.png)
 
 ![Onboarding kích hoạt pha-InTune](./media/ft-enable-phase_intune_mdm-mam_cloudonly.png)
 
-![Onboarding cho phép pha-đồng quản lý](./media/ft-9-enable-phase-comanagement.png) 
+![Onboarding cho phép pha-Cloud-đính kèm](./media/cloud-attach-diagram.png) 
 
 #### <a name="enable-phase--azure-information-protection"></a>Kích hoạt giai đoạn-bảo vệ thông tin Azure
 
@@ -287,3 +283,4 @@ Hướng dẫn cũng được cung cấp cho khách hàng muốn áp dụng bả
 ## <a name="next-steps"></a>Các bước tiếp theo
 
 [FastTrack lợi ích cho EMS-trách nhiệm của Microsoft](EMS-fasttrack-responsibilities.md)
+

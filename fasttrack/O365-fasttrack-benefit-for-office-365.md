@@ -12,12 +12,12 @@ ms.service: o365-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: Bạn sử dụng FastTrack Trung tâm lợi ích cho Office 365 khi bạn mua ít nhất 150 giấy phép cho một dịch vụ đủ điều kiện hoặc kế hoạch cho Office 365 thuê của bạn. Sau đó bạn làm việc với FastTrack chuyên gia đánh giá, remediate, kích hoạt, và lái xe sử dụng các dịch vụ. Các chuyên gia cũng cung cấp hướng dẫn di chuyển.
-ms.openlocfilehash: 246786daecd665a2e9e6d02ae7a1699ae135ab40
-ms.sourcegitcommit: 79a5b31863be3d554223f75ca866dcf40dd2c2dd
+ms.openlocfilehash: 9bb79dbf6c7dc770d460801048476e0e6e8ba8a8
+ms.sourcegitcommit: 7a2535e510420496dabfcea5accbb36ab2fe21d2
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 03/02/2020
-ms.locfileid: "42347391"
+ms.lasthandoff: 03/30/2020
+ms.locfileid: "43052747"
 ---
 # <a name="fasttrack-center-benefit-for-office-365"></a>Lợi ích Trung tâm FastTrack dành cho Office 365
 
@@ -55,3 +55,4 @@ Bạn đang tìm kiếm [FastTrack Trung tâm lợi ích cho doanh nghiệp di �
     
 > [!NOTE]
 > Chỉ nhằm mục đích thông tin. 
+

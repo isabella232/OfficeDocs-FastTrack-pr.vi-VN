@@ -14,12 +14,12 @@ ms.collection: FastTrack
 ms.assetid: c8fd871e-f1bc-43ec-a5f3-ad025df9b026
 ms.reviewer: ''
 ms.suite: ems
-ms.openlocfilehash: 3313834ef5c342d71f6c3940bd55d62bc1e87863
-ms.sourcegitcommit: 79a5b31863be3d554223f75ca866dcf40dd2c2dd
+ms.openlocfilehash: 6bf4be4247f65ced12052e75692f9fda47cab0ac
+ms.sourcegitcommit: 7a2535e510420496dabfcea5accbb36ab2fe21d2
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 03/02/2020
-ms.locfileid: "42347414"
+ms.lasthandoff: 03/30/2020
+ms.locfileid: "43052267"
 ---
 # <a name="fasttrack-responsibilities"></a>Trách nhiệm của FastTrack
 
@@ -249,43 +249,37 @@ Cung cấp hướng dẫn về:
     > [!NOTE]
     > Thiết lập Windows Autopilot bên ngoài InTune nằm ngoài phạm vi cho lợi ích FastTrack.
 
-### <a name="enable-phase---co-management"></a>Kích hoạt pha-đồng quản lý
+### <a name="enable-phase---cloud-attach"></a>Kích hoạt giai đoạn-đính kèm đám mây
 
 Cung cấp hướng dẫn về:
 
 -   Cấp phép người dùng cuối của bạn.
 
--   Thêm người dùng vào đăng ký InTune của bạn, xác định vai trò quản trị viên CNTT và tạo nhóm người dùng và thiết bị (nếu InTune chưa được cài đặt).
+-   Triển khai đám mây đính kèm trong bảng điều khiển quản lý cấu hình.
 
--   Thiết lập Azure Active Directory MDM đăng ký tự động.
+-   Thêm người dùng vào đăng ký InTune của bạn, xác định vai trò quản trị viên CNTT và tạo nhóm người dùng và thiết bị (nếu InTune không được cài đặt).
 
 -   Thiết lập kết hợp Azure Active Directory tham gia.
+
+-   Thiết lập Azure Active Directory MDM đăng ký tự động.
 
 -   Thiết lập cổng quản lý đám mây.
 
 -   Thêm người dùng vào đăng ký InTune của bạn, xác định vai trò quản trị viên CNTT, và tạo người dùng và nhóm thiết bị.
 
--   Chuẩn bị InTune (nếu InTune chưa được cài đặt):
+-   Chuẩn bị dịch vụ InTune để quản lý thiết bị:
 
-    -   Cấu hình cơ quan MDM quản lý thiết bị di động của bạn, dựa trên nhu cầu quản lý của bạn, bao gồm:
-
-    -   Thiết lập InTune là cơ quan MDM của bạn.
+    -   Thiết lập quyền quản lý thiết bị di động (MDM) để InTune.
 
     -   Cấu hình nhóm kiểm tra được sử dụng để xác nhận chính sách quản lý MDM.
 
     -   Điều hướng cổng quản trị InTune để định vị thông tin về người dùng và thiết bị.
 
-    -   Thiết lập vai trò InTune (nhà điều hành bàn trợ giúp, quản trị viên, v.v.)
+    -   Thiết lập InTune vai trò (nhà điều hành, quản trị viên, và như vậy).
 
-    -   Cấu hình và triển khai chính sách bảo vệ ứng dụng InTune cho mỗi nền tảng được hỗ trợ.
+    -   Đăng ký thiết bị Windows 10 để InTune.
 
-    -   Ghi danh thiết bị Windows 10 cho InTune của bạn.
-
-- Kích hoạt đồng quản lý trong bảng điều khiển quản lý cấu hình.
-
-- Chuyển khối lượng công việc để InTune.
-
-- Giám sát hoạt động co-Management trong môi trường của bạn.
+    -   Chuyển khối lượng công việc để quản lý bằng InTune như mong muốn.
 
 ### <a name="enable-phase--azure-information-protection"></a>Kích hoạt giai đoạn-bảo vệ thông tin Azure
 
@@ -311,3 +305,4 @@ Hướng dẫn cũng được cung cấp cho khách hàng muốn áp dụng bả
 ## <a name="next-steps"></a>Các bước tiếp theo
 
 [FastTrack lợi ích cho EMS-trách nhiệm của bạn](EMS-your-responsibilities.md)
+

@@ -14,12 +14,12 @@ ms.collection: FastTrack
 ms.assetid: 9048f3e5-cc28-4744-bb5e-36f974abb261
 ms.reviewer: ''
 ms.suite: ems
-ms.openlocfilehash: 37fd12c6fd2b9fa09c27954f9119ad864983e691
-ms.sourcegitcommit: 79a5b31863be3d554223f75ca866dcf40dd2c2dd
+ms.openlocfilehash: 72817a8fca704e480dd2e2b33287890b5e6450ea
+ms.sourcegitcommit: 7a2535e510420496dabfcea5accbb36ab2fe21d2
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 03/02/2020
-ms.locfileid: "42347474"
+ms.lasthandoff: 03/30/2020
+ms.locfileid: "43052339"
 ---
 # <a name="source-environment-expectations"></a>Kỳ vọng về môi trường nguồn
 
@@ -34,7 +34,7 @@ Bảng sau hiển thị các kỳ vọng cho môi trường nguồn hiện tại
 |Lõi trên nội trú|Active Directory rừng với mức độ nhóm chức năng thiết lập Windows Server 2008 trở lên, với cấu hình nhóm sau:<br /><br />-Một nhóm Active Directory<br />-Nhiều khu rừng Active Directory </br></br>**Chú ý**: cho tất cả các cấu hình nhiều khu rừng, triển khai dịch vụ liên kết Active Directory (AD FS) nằm trong phạm vi cho lợi ích Trung tâm FastTrack.|
 |Azure AD Premium trên máy bay|Active Directory tại chỗ và môi trường đã được chuẩn bị cho Azure AD Premium, bao gồm khắc phục các sự cố đã xác định ngăn tích hợp với Azure AD và các tính năng Azure AD Premium.|
 |InTune on-Boarding| Quản trị viên CNTT cần có cơ sở hạ tầng chứng chỉ, WiFi và VPN hiện có đã hoạt động trong môi trường sản xuất khi lập kế hoạch triển khai các cấu hình WiFi và VPN với InTune.<br /><br /> **Lưu ý**: lợi ích Dịch vụ không bao gồm hỗ trợ để thiết lập hoặc cấu hình cơ quan chứng chỉ, WiFi, VPN hạ tầng, hoặc Apple MDM Push chứng chỉ cho  |
-|Comanagement|Với Comanagement quản trị viên CNTT chịu trách nhiệm chuẩn bị môi trường tại chỗ, có thể bao gồm khắc phục sự cố ngăn bạn đồng thời quản lý thiết bị Windows 10 sử dụng trình quản lý cấu hình và InTune.<br /><br />**Lưu ý**: Dịch vụ FastTrack lợi ích không bao gồm hỗ trợ để thiết lập hoặc nâng cấp máy chủ trang web quản lý cấu hình và/hoặc quản lý cấu hình máy khách yêu cầu tối thiểu cần thiết để hỗ trợ Comanagement với thiết bị Windows 10. |
+|Trình quản lý cấu hình đính kèm đám mây với InTune|Với đám mây đính kèm, quản trị viên CNTT có trách nhiệm chuẩn bị môi trường tại chỗ, có thể bao gồm khắc phục sự cố ngăn bạn từ đám mây gắn môi trường quản lý cấu hình của bạn với InTune.<br /><br />**Lưu ý**: Dịch vụ FastTrack lợi ích không bao gồm hỗ trợ để thiết lập hoặc nâng cấp máy chủ trang web quản lý cấu hình hoặc quản lý cấu hình máy khách yêu cầu tối thiểu cần thiết để hỗ trợ đám mây đính kèm. |
 |InTune tích hợp với Microsoft Defender nâng cao Threat Protection (ATP)|**Lưu ý**: Dịch vụ FastTrack lợi ích cung cấp hỗ trợ tích hợp InTune với Microsoft Defender ATP và tạo chính sách tuân thủ thiết bị dựa trên đánh giá mức độ rủi ro Windows 10. Lợi ích Dịch vụ không cung cấp hỗ trợ về việc mua, cấp phép hoặc kích hoạt. |
 |Cửa sổ Autopilot|Quản trị viên CNTT chịu trách nhiệm đăng ký thiết bị của họ cho tổ chức của họ bằng cách có nhà cung cấp phần cứng tải lên ID phần cứng thay mặt họ hoặc tải nó vào dịch vụ Windows Autopilot. |
 |Triển khai Outlook cho iOS và Android một cách an toàn với InTune|<br /><br />-Người dùng nhận dạng được kích hoạt trong Azure AD cho Office 365.<br />-Exchange Online hoặc Exchange kết hợp cấu hình với giấy phép người dùng được chỉ định.<br />|
@@ -48,3 +48,4 @@ Bảng sau hiển thị các kỳ vọng cho môi trường nguồn hiện tại
 ## <a name="next-steps"></a>Các bước tiếp theo
 
 [FastTrack Trung tâm lợi ích cho EMS bộ nhớ ngoài giai đoạn](EMS-onboarding-phases.md)
+

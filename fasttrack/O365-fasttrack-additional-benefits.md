@@ -9,12 +9,12 @@ ms.topic: article
 ms.service: o365-administration
 localization_priority: Priority
 description: Khách hàng mua ít nhất 20.000 giấy phép cho một đối tượng thuê Exchange Online đủ điều kiện cho các dịch vụ bổ sung của FastTrack Center. Xem các dịch vụ và gói cước đủ điều kiện để biết thêm chi tiết.
-ms.openlocfilehash: cfbd35f15f7e27e0c06e363ffa8279c1e2fcbba9
-ms.sourcegitcommit: 79a5b31863be3d554223f75ca866dcf40dd2c2dd
+ms.openlocfilehash: 2cb4a8e5ba7378b96833c89da88db963e271552b
+ms.sourcegitcommit: 7a2535e510420496dabfcea5accbb36ab2fe21d2
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 03/02/2020
-ms.locfileid: "42347618"
+ms.lasthandoff: 03/30/2020
+ms.locfileid: "43052567"
 ---
 # <a name="appendix-b---fasttrack-center-additional-benefit"></a>Phụ lục B - Lợi ích bổ sung của Trung tâm FastTrack
 
@@ -143,7 +143,3 @@ Bạn có trách nhiệm sau đây trong quá trình onboarding. Ngoài các tr�
 - Chỉ định một nhà tài trợ hoạt động hoặc dẫn đầu với một cơ quan ra quyết định để điều hành ban chỉ đạo.  
 - Chỉ định một nhà tài trợ hành chính để làm việc với nhà tài trợ của Microsoft.  
 - Thiết lập một cuộc họp Ban chỉ đạo hàng tháng.
-    
-
-  
-

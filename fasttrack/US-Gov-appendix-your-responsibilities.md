@@ -10,12 +10,12 @@ ms.service: o365-administration
 localization_priority: None
 ms.collection: FastTrack
 description: Bạn có trách nhiệm sau đây trong quá trình onboarding.
-ms.openlocfilehash: 088534b930921210396a0ba9371bd3373756ff92
-ms.sourcegitcommit: 79a5b31863be3d554223f75ca866dcf40dd2c2dd
+ms.openlocfilehash: 0ee08a2fdbe05365731bd0110be29499ae6cce63
+ms.sourcegitcommit: 7a2535e510420496dabfcea5accbb36ab2fe21d2
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 03/02/2020
-ms.locfileid: "42347786"
+ms.lasthandoff: 03/30/2020
+ms.locfileid: "43052975"
 ---
 # <a name="your-responsibilities-for-office-365-us-government"></a>Trách nhiệm của bạn cho văn phòng 365 chính phủ Hoa Kỳ
 
@@ -103,7 +103,4 @@ Bạn có trách nhiệm sau đây trong quá trình onboarding.
 - Cho phép các dịch vụ khác nhau theo hướng dẫn của Microsoft.    
 - Nhận ID Apple nếu bạn đang định cấu hình quản lý thiết bị di động (MDM).   
 - Cập Nhật chứng chỉ dịch vụ thông báo đẩy Apple (APNS) của bạn.
-    
-
   
-

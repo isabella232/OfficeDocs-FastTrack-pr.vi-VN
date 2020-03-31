@@ -10,12 +10,12 @@ ms.service: o365-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: Trình FastTrack cung cấp dịch vụ bộ nhớ ngoài và áp dụng cho người dùng.
-ms.openlocfilehash: 0a0b25956542edf1a0bc6636918c4bbbb07e388c
-ms.sourcegitcommit: 79a5b31863be3d554223f75ca866dcf40dd2c2dd
+ms.openlocfilehash: 8d16a291e883207bd5274e15ed47ae073e7bc1d8
+ms.sourcegitcommit: 7a2535e510420496dabfcea5accbb36ab2fe21d2
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 03/02/2020
-ms.locfileid: "42347666"
+ms.lasthandoff: 03/30/2020
+ms.locfileid: "43052771"
 ---
 # <a name="the-fasttrack-process"></a>Quy trình FastTrack
 
@@ -42,20 +42,20 @@ Bạn có thể nhận trợ giúp thông qua [Trung tâm quản trị Microsoft
 Để được trợ giúp thông qua [Trung tâm quản trị Microsoft 365](https://go.microsoft.com/fwlink/?linkid=2032704), các dấu hiệu quản trị của bạn vào Trung tâm quản trị và sau đó nhấp vào **cần giúp đỡ?** widget. 
 
 Để được trợ giúp thông qua [trang web FastTrack](https://go.microsoft.com/fwlink/?linkid=780698): 
-1.  Đăng nhập vào [trang web FastTrack](https://go.microsoft.com/fwlink/?linkid=780698). 
-2.  Chọn **yêu cầu hỗ trợ cho Microsoft 365** từ các **hành động nhanh** trên đầu trang đích của bạn hoặc bằng cách chọn **yêu cầu hỗ trợ cho Microsoft 365** trên thẻ triển khai.
-3.  Hoàn thành **yêu cầu hỗ trợ cho Microsoft 365** mẫu. 
+1.    Đăng nhập vào [trang web FastTrack](https://go.microsoft.com/fwlink/?linkid=780698). 
+2.    Chọn **yêu cầu hỗ trợ cho Microsoft 365** từ các **hành động nhanh** trên đầu trang đích của bạn hoặc bằng cách chọn **yêu cầu hỗ trợ cho Microsoft 365** trên thẻ triển khai.
+3.    Hoàn thành **yêu cầu hỗ trợ cho Microsoft 365** mẫu. 
   
  Bạn cũng có thể yêu cầu FastTrack Trung tâm trợ giúp từ các [trang web fasttrack](https://go.microsoft.com/fwlink/?linkid=780698) trong danh sách các dịch vụ có sẵn cho người thuê nhà của bạn. 
     
  Sau khi bắt đầu hỗ trợ bộ nhớ ngoài, chúng tôi thiết lập một lịch trình của các cuộc họp trực tuyến.
     
 Đối tác cũng có thể nhận trợ giúp thông qua [trang web FastTrack](https://go.microsoft.com/fwlink/?linkid=780698) thay mặt cho khách hàng. Để làm như vậy:
-1.  Đăng nhập vào [trang web FastTrack](https://go.microsoft.com/fwlink/?linkid=780698). 
-2.  Chọn **khách hàng của tôi**.
-3.  Tìm kiếm khách hàng của bạn hoặc chọn chúng từ danh sách khách hàng của bạn.
-4.  Chọn **dịch vụ**.
-5.  Hoàn thành **yêu cầu hỗ trợ cho Microsoft 365** mẫu. 
+1.    Đăng nhập vào [trang web FastTrack](https://go.microsoft.com/fwlink/?linkid=780698). 
+2.    Chọn **khách hàng của tôi**.
+3.    Tìm kiếm khách hàng của bạn hoặc chọn chúng từ danh sách khách hàng của bạn.
+4.    Chọn **dịch vụ**.
+5.    Hoàn thành **yêu cầu hỗ trợ cho Microsoft 365** mẫu. 
 
 Bảng sau liệt kê vai trò và trách nhiệm cho quá trình này.
     
@@ -64,7 +64,3 @@ Bảng sau liệt kê vai trò và trách nhiệm cho quá trình này.
 |**Vai trò** <br/> |**Trách nhiệm** <br/> |
 |**FastTrack chuyên gia** <br/> |Cung cấp tất cả các dịch vụ nhận con nuôi, di chuyển và người dùng từ xa.  <br/> Hỗ trợ bạn từ xa bằng cách sử dụng một sự kết hợp của các công cụ và tài liệu được xuất bản. <br/> Làm việc trực tiếp với bạn hoặc đại diện của bạn. <br/> Cung cấp hướng dẫn di chuyển email và dữ liệu.|
 |**Trung tâm FastTrack**  <br/> |Cung cấp hướng dẫn với lõi và dịch vụ bộ nhớ ngoài và lập kế hoạch áp dụng thành công các dịch vụ đủ điều kiện.  <br/> Cung cấp hỗ trợ và có sẵn trong giờ làm việc bình thường cho một khu vực nhất định. <br/> Cung cấp hỗ trợ tiếng Trung Phồn thể và tiếng Trung giản thể (tài nguyên nói tiếng quan thoại), Anh, Pháp, Đức, ý, Nhật, Hàn, Bồ Đào Nha (Brazil), Tây Ban Nha, Thái Lan và Việt Nam.|
-
-
-  
-

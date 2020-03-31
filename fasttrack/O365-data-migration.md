@@ -10,12 +10,12 @@ ms.service: o365-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: FastTrack chuyên gia cung cấp hướng dẫn về các bước để di chuyển dữ liệu sang Office 365. Điều này có sẵn cho tất cả các khách hàng hợp lệ với Office 365 dịch vụ dành cho Exchange Online, OneDrive dành cho doanh nghiệp và SharePoint Online.
-ms.openlocfilehash: 0e88f77ee653e374934fcdb11c25b51af2d7d0db
-ms.sourcegitcommit: 79a5b31863be3d554223f75ca866dcf40dd2c2dd
+ms.openlocfilehash: c0dae3b6f052e13693ed226b312cbdf0b0866d7b
+ms.sourcegitcommit: 7a2535e510420496dabfcea5accbb36ab2fe21d2
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 03/02/2020
-ms.locfileid: "42347594"
+ms.lasthandoff: 03/30/2020
+ms.locfileid: "43052579"
 ---
 # <a name="data-migration"></a>Di chuyển dữ liệu
 
@@ -37,12 +37,15 @@ Dịch vụ di chuyển dữ liệu được nêu trong bảng sau có sẵn cho
 > [!NOTE]
 > Nếu cần tích hợp, môi trường nguồn của bạn phải ở mức tối thiểu cho ứng dụng đó. 
   
+> [!NOTE]
+> Mới vào tháng 2020, Microsoft đang làm cho [văn phòng 6 tháng 365 E1](https://docs.microsoft.com/microsoftteams/e1-trial-license) và [văn phòng 365](https://docs.microsoft.com/microsoftteams/g1-trial-license) giấy phép thử nghiệm G1 để hỗ trợ công việc từ xa và học tập như khách hàng đáp ứng với các ổ dịch covid-19. Là một ngoại lệ, FastTrack đang thực hiện các dịch vụ di chuyển dữ liệu có sẵn cho người thuê với 500 hoặc nhiều hơn giấy phép của các thử nghiệm và cho [văn phòng 365 A1](https://www.microsoft.com/microsoft-365/academic/compare-office-365-education-plans?activetab=tab:primaryr1) cho sinh viên từ tháng ba 2020 đến tháng tám 2020. Microsoft có quyền hủy bỏ, thay đổi hoặc tạm ngừng đề nghị này bất kỳ lúc nào mà không cần thông báo.
+
 Bảng sau mô tả những gì mong muốn di chuyển trong môi trường nguồn hiện tại của bạn.
   
 
 |**Hoạt động**|**Môi trường nguồn kỳ vọng**|
 |:-----|:-----|
-|**Di chuyển Exchange Online**  <br/> | Microsoft di cư bất kỳ sự kết hợp của các môi trường nguồn được liệt kê dưới đây, mỗi một lần. Chúng tôi có thể di chuyển hệ thống nhắn tin onboarded bằng cách sử dụng trung tâm FastTrack hoặc nếu nó được thông qua Trung tâm FastTrack kiểm tra. Điều này bao gồm:  <br/>  Một hoặc nhiều khu rừng Active Directory với một hoặc nhiều tổ chức Exchange, nếu một Exchange 2010 dựa trên kết hợp trở đi được thực hiện trong mỗi tổ chức và hệ thống thư Exchange là 2003 trở đi.  <br/> Một IBM Domino 7.0.3 trở đi môi trường ([phụ lục A-di chuyển từ IBM Domino sang Exchange Online](O365-from-ibm-domino-to-exchange-online.md)).  <br/>  Một môi trường email có khả năng IMAP duy nhất.  <br/>  Môi trường G Suite (chỉ Gmail, danh bạ và lịch).  <br/>  Một Novell GroupWise 7.0.4 trở đi môi trường.  <br/> <br/> **Lưu ý** *Exchange Online bộ nhớ ngoài phải được hoàn thành trước khi di chuyển.* <br/> <br/> **Lưu ý** *FastTrack chỉ di chuyển đến hoạt động văn phòng 365 hộp thư.* <br/> <br/> **Lưu ý** để *phụ thuộc tại chỗ Exchange, xem điều [kiện tiên quyết triển khai kết](https://go.microsoft.com/fwlink/?LinkId=787528)hợp.* <br/><br/> **Lưu ý** *khi di chuyển nhiều môi trường nhắn tin nguồn (như nhiều tổ chức trao đổi hoặc nhiều tên miền Domino), các di chuyển xảy ra tuần tự.*| 
+|**Di chuyển Exchange Online**  <br/> | Microsoft di cư bất kỳ sự kết hợp của các môi trường nguồn được liệt kê dưới đây, mỗi một lần. Chúng tôi có thể di chuyển hệ thống nhắn tin onboarded bằng cách sử dụng trung tâm FastTrack hoặc nếu nó được thông qua Trung tâm FastTrack kiểm tra. Điều này bao gồm:  <br/>  Một hoặc nhiều khu rừng Active Directory với một hoặc nhiều tổ chức Exchange, nếu một Exchange 2010 dựa trên kết hợp trở đi được thực hiện trong mỗi tổ chức và hệ thống thư Exchange là 2003 trở đi.  <br/> Một IBM Domino 7.0.3 trở đi môi trường ([phụ lục A-di chuyển từ IBM Domino sang Exchange Online](O365-from-ibm-domino-to-exchange-online.md)).  <br/>  Một môi trường email có khả năng IMAP duy nhất.  <br/>  Môi trường G Suite (chỉ Gmail, danh bạ và lịch).  <br/> Một Novell GroupWise môi trường duy nhất. <br/> **Lưu ý** *Exchange Online bộ nhớ ngoài phải được hoàn thành trước khi di chuyển.* <br/> <br/> **Lưu ý** *FastTrack chỉ di chuyển đến hoạt động văn phòng 365 hộp thư.* <br/> <br/> **Lưu ý** để *phụ thuộc tại chỗ Exchange, xem điều [kiện tiên quyết triển khai kết](https://go.microsoft.com/fwlink/?LinkId=787528)hợp.* <br/><br/> **Lưu ý** *khi di chuyển nhiều môi trường nhắn tin nguồn (như nhiều tổ chức trao đổi hoặc nhiều tên miền Domino), các di chuyển xảy ra tuần tự.*| 
 |**Di chuyển SharePoint trực tuyến**  <br/> | Chia sẻ tệp (máy chủ thư khối (SMB) chia sẻ tệp trên thiết bị hỗ trợ SMB 2,0 trở đi).  <br/>  Hộp (Starter, kinh doanh, doanh nghiệp).  <br/> |
 |**OneDrive cho việc di chuyển**  <br/> | Chia sẻ tệp (SMB tệp chia sẻ trên thiết bị hỗ trợ SMB 2,0 trở đi).  <br/>  Một môi trường G Suite duy nhất (chỉ dành cho Google Drive).  <br/>  Hộp (Starter, kinh doanh, doanh nghiệp). <br/> <br/> **Lưu ý** *FastTrack chỉ di chuyển sang hoạt động văn phòng 365 ổ đĩa.*|
    
@@ -86,9 +89,9 @@ Trạng thái kết thúc dự kiến sau khi tất cả di chuyển hoàn tất
 |**Exchange 2003 trở đi**|Đơn giản| Email <br/> Quy tắc hộp thư <br/> Đại biểu <br/> Danh bạ hộp thư <br/> Calendar <br/> Nhiệm vụ <br/> Email được quản lý quyền <br/> Email được mã hóa| Thư mục công cộng <br/> Danh bạ cá nhân <br/> Người dùng được kích hoạt thư <br/> Người dùng bị chặn hoặc không hoạt động <br/> Chữ ký <br/> Hộp thư Dumpster <br/>  Bất kỳ email nào vượt quá giới hạn kích thước thư <br/> Lưu trữ dữ liệu <br/> Các mục bị hỏng <br/>  Hộp thư không hoạt động |
 |**Trao đổi 2003 và Exchange 2007**|Tổ chức| Email <br/> Quy tắc hộp thư <br/> Đại biểu <br/> Danh bạ hộp thư <br/> Calendar <br/> Nhiệm vụ <br/> Email được quản lý quyền <br/> Email được mã hóa| Thư mục công cộng <br/> Danh bạ cá nhân <br/> Người dùng được kích hoạt thư <br/> Người dùng bị chặn hoặc không hoạt động <br/> Chữ ký <br/> Hộp thư Dumpster <br/> Bất kỳ email nào vượt quá giới hạn kích thước thư <br/> Lưu trữ dữ liệu <br/> Các mục bị hỏng <br/> Hộp thư không hoạt động |
 |**Trao đổi 2010, Exchange 2013 và Exchange 2016** <br/><br/> **Lưu ý** để *phụ thuộc tại chỗ Exchange, xem điều [kiện tiên quyết triển khai kết](https://go.microsoft.com/fwlink/?LinkId=787528)hợp.*           |Di chuyển với triển khai kết hợp| Email <br/> Quy tắc hộp thư <br/> Đại biểu <br/> Danh bạ hộp thư <br/> Calendar <br/> Nhiệm vụ <br/> Chữ ký <br/> Lưu trữ cá nhân đã di chuyển với hộp thư của người dùng <br/> Mục có thể phục hồi <br/> Email được quản lý quyền <br/> Email được mã hóa| Thư mục công cộng <br/> Bất kỳ email nào vượt quá giới hạn kích thước thư <br/> Journaling lưu trữ hoặc bất kỳ giải pháp lưu trữ của bên thứ ba <br/> Người dùng bị chặn hoặc không hoạt động <br/> Lưu trữ dữ liệu từ cá nhân lưu trữ bảng (PST) tập tin <br/> Các mục bị hỏng <br/> Hộp thư không hoạt động |
-|**Môi trường G Suite (chỉ Gmail, danh bạ và lịch)** <br/> <br/> **Lưu ý** *môi trường G Suite của bạn phải có API Google và SDK Google admin được kích hoạt để mở rộng chức năng.* <br/> <br/> **Lưu ý** *vị trí của dữ liệu: FastTrack có thể truyền, xử lý và lưu trữ dữ liệu di chuyển dựa trên vị trí của khách hàng thuê nhà ở Hoa Kỳ hoặc bất cứ nơi nào mà Microsoft hoặc các nhà cung cấp bên thứ ba duy trì cơ sở. FastTrack xóa bất kỳ dữ liệu được lưu trữ nào trong vòng ba mươi ngày khi hoàn thành các dịch vụ hiện hành.*           |Cutover hoặc dàn dựng| Email <br/> Danh bạ hộp thư <br/> Calendar <br/> Nhãn | Quy tắc <br/> Đại biểu <br/> Chữ ký <br/> Nhiệm vụ <br/> Bất kỳ email hoặc tệp đính kèm nào lớn hơn 35 MB <br/> Người dùng bị chặn hoặc không hoạt động <br/> Lưu trữ dữ liệu từ các tập tin PST hoặc bất kỳ giải pháp lưu trữ của bên thứ ba (ví dụ, Google Vault) <br/> Quyền quản lý hoặc mã hóa email <br/> Các mục bị hỏng <br/> Google Hangouts <br/> Google Groups <br/> Hộp thư tài nguyên <br/> Hộp thư không hoạt động <br/> Cài đặt nghỉ và cài đặt trả lời tự động <br/> Lịch dùng chung, tệp đính kèm đám mây, liên kết Google hangout và màu sự kiện <br/> Liên hệ: tối đa ba địa chỉ email cho mỗi người liên hệ được di chuyển|
+|**Môi trường G Suite (chỉ Gmail, danh bạ và lịch)** <br/> <br/> **Lưu ý** *môi trường G Suite của bạn phải có API Google và SDK Google admin được kích hoạt để mở rộng chức năng.* <br/>          |Cutover hoặc dàn dựng| Email <br/> Danh bạ hộp thư <br/> Calendar <br/> Nhãn | Quy tắc <br/> Đại biểu <br/> Chữ ký <br/> Nhiệm vụ <br/> Bất kỳ email hoặc tệp đính kèm nào lớn hơn 35 MB <br/> Người dùng bị chặn hoặc không hoạt động <br/> Lưu trữ dữ liệu từ các tập tin PST hoặc bất kỳ giải pháp lưu trữ của bên thứ ba (ví dụ, Google Vault) <br/> Quyền quản lý hoặc mã hóa email <br/> Các mục bị hỏng <br/> Google Hangouts <br/> Google Groups <br/> Hộp thư tài nguyên <br/> Hộp thư không hoạt động <br/> Cài đặt nghỉ và cài đặt trả lời tự động <br/> Lịch dùng chung, tệp đính kèm đám mây, liên kết Google hangout và màu sự kiện <br/> Liên hệ: tối đa ba địa chỉ email cho mỗi người liên hệ được di chuyển|
 |**IBM Domino 7.0.3 trở** đi ([phụ lục A-di chuyển từ IBM Domino sang Exchange Online](O365-from-ibm-domino-to-exchange-online.md))|Tổ chức| Email-cuối 90 ngày <br/> Lịch-cuối 90 ngày và các mặt hàng trong tương lai <br/> Danh bạ hộp thư-tất cả <br/> Nhiệm vụ-tất cả <br/> Các phòng và tài nguyên-cung cấp chúng được thực hiện với tiêu chuẩn mẫu <br/> Tệp thư, bao gồm tệp thư dùng chung, phải sử dụng mẫu thư tiêu chuẩn | Chữ ký <br/> Quy tắc hộp thư <br/> Đại biểu <br/> Mục được mã hóa <br/> Liên kết tài liệu <br/> Văn phòng phẩm người dùng <br/> Bất kỳ email nào vượt quá giới hạn kích thước thư <br/> Người dùng bị chặn hoặc không hoạt động <br/> Lưu trữ dữ liệu <br/> Các mục bị hỏng <br/> Lịch cùng tồn tại <br/> Hộp thư không hoạt động |
-|**Novell GroupWise 7.0.4 trở đi** <br/><br/> **Lưu ý** *vị trí của dữ liệu: FastTrack có thể truyền, xử lý và lưu trữ dữ liệu di chuyển dựa trên vị trí của khách hàng thuê nhà ở Hoa Kỳ hoặc bất cứ nơi nào mà Microsoft hoặc các nhà cung cấp bên thứ ba duy trì cơ sở. FastTrack xóa bất kỳ dữ liệu được lưu trữ nào trong vòng ba mươi ngày khi hoàn thành các dịch vụ hiện hành.*           |Tổ chức| Email <br/> Calendar <br/> Danh bạ hộp thư <br/> Nhóm cá nhân <br/> Nhiệm vụ (có giới hạn) <br/> Tài liệu | Quy tắc <br/> Chuyển đổi danh sách (ACL) proxy/người đại diện/kiểm soát truy nhập <br/> Chữ ký <br/> Danh mục liên hệ <br/> Email được mã hóa <br/> Tìm thư mục <br/> Bất kỳ email hoặc tệp đính kèm nào lớn hơn 35 MB <br/> Người dùng bị chặn hoặc không hoạt động <br/> Lưu trữ dữ liệu <br/> Các mục được quản lý quyền hoặc mã hóa <br/> Các mục bị hỏng <br/> Lịch cùng tồn tại <br/> Hộp thư không hoạt động |
+|**Novell GroupWise** |Di chuyển bằng công cụ gốc IMAP4| Email | Quy tắc <br/> Chuyển đổi danh sách (ACL) proxy/người đại diện/kiểm soát truy nhập <br/> Chữ ký <br/> Tìm thư mục <br/> Người dùng bị chặn hoặc không hoạt động <br/> Lưu trữ dữ liệu <br/> Các mục được quản lý quyền hoặc mã hóa <br/> Các mục bị hỏng <br/> Lịch cùng tồn tại <br/> Người dùng được kích hoạt thư <br/> Danh bạ hộp thư <br/> Nhóm cá nhân <br/> Calendar <br/> Nhiệm vụ <br/> Bất kỳ email nào vượt quá giới hạn kích thước thư |
 |**Nguồn IMAP4** |Di chuyển bằng công cụ gốc IMAP4| Email | Quy tắc <br/> Đại biểu <br/> Danh sách phân phối <br/> Số liên lạc bên ngoài <br/> Người dùng được kích hoạt thư <br/> Người dùng bị chặn hoặc không hoạt động <br/> Danh bạ hộp thư <br/> Calendar <br/> Chữ ký <br/> Nhiệm vụ <br/> Bất kỳ email nào vượt quá giới hạn kích thước thư <br/> Lưu trữ dữ liệu <br/> Email được mã hóa <br/> Các mục bị hỏng <br/> Hộp thư không hoạt động |
    
 > [!NOTE]
@@ -112,8 +115,8 @@ Bạn thực hiện như sau trong quá trình di chuyển:
 - Xử lý tất cả các giao tiếp với người dùng cuối.  
 - Cài đặt mức độ phù hợp của phần mềm khách hàng theo hướng dẫn 365 Office. Để biết thêm thông tin, xem [Office 365 dành cho doanh nghiệp](https://go.microsoft.com/fwlink/?linkid=2005429). 
 - Xác thực SMTP thư định tuyến cùng tồn tại giữa nguồn nhắn tin môi trường và Office 365 Exchange Online nếu áp dụng.
-- Cung cấp một lịch trình trong một phương pháp được xác định và một danh sách các hộp thư cụ thể để di chuyển cho mỗi sự kiện di chuyển ít nhất ba (3) ngày trước. Đối với ghi chú di chuyển, hãy chắc chắn để cung cấp lịch trình 21 ngày trước.
-- Thả hộp thư từ lịch trình cho đến 24 giờ trước lô di chuyển. Điều này sẽ tương ứng với lô di chuyển cuối cùng.
+- Cung cấp một lịch trình trong một phương pháp được xác định và một danh sách các hộp thư cụ thể để di chuyển cho mỗi sự kiện di chuyển.
+- Thả hộp thư từ lịch trình cho đến 24 giờ trước lô di chuyển. 
 - Lên lịch một số mục tiêu trung bình của hộp thư trong khoảng thời gian 24 giờ như được liệt kê trong bảng sau.
     
 |||
@@ -297,7 +300,7 @@ Bạn thực hiện như sau trong quá trình di chuyển:
 - Cài đặt phần mềm FastTrack cung cấp di chuyển tại chỗ (nếu có).  
 - Hoàn thành các hoạt động khắc phục được nêu trong báo cáo khắc phục FastTrack cung cấp (nếu có).   
 - Cung cấp lịch trình di chuyển sử dụng các mẫu và hướng dẫn FastTrack. 
-- Cung cấp một lịch trình trong một phương pháp được xác định và một danh sách các dữ liệu người dùng cụ thể để di chuyển cho mỗi sự kiện di chuyển ít nhất ba (3) ngày trước.
+- Cung cấp một lịch trình trong một phương pháp được xác định và một danh sách các dữ liệu người dùng cụ thể để di chuyển cho mỗi sự kiện di chuyển.
 - Thả dữ liệu người dùng từ lịch trình cho đến 24 giờ trước lô di chuyển. Điều này sẽ tương ứng với lô di chuyển cuối cùng.
 - Tiến hành đảm bảo chất lượng di chuyển và kiểm tra chấp nhận người dùng.   
 - Tiến hành khắc phục di chuyển sau di chuyển (nếu có).  
@@ -305,5 +308,6 @@ Bạn thực hiện như sau trong quá trình di chuyển:
 - Quản trị và cấu hình bất kỳ thay đổi hệ thống nguồn và thiết bị cần thiết để hoàn thành công việc đánh giá và di chuyển hoạt động.
     
 > [!NOTE]
-> Microsoft không thể đảm bảo tốc độ di chuyển tệp.  
+> Microsoft không thể đảm bảo tốc độ di chuyển tệp. 
+
 
