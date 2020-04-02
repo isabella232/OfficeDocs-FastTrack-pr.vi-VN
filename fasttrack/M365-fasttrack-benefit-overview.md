@@ -3,7 +3,7 @@ title: Lợi ích Trung tâm FastTrack dành cho Microsoft 365
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 3/03/2020
+ms.date: 4/01/2020
 ms.audience: ITPro
 ms.topic: overview
 f1_keywords:
@@ -12,26 +12,26 @@ ms.service: m365-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: FastTrack dành cho Microsoft 365 cung cấp hướng dẫn lập kế hoạch, triển khai và nhận con nuôi bao gồm cả truy cập từ xa vào chuyên môn kỹ thuật của Microsoft, thực tiễn tốt nhất, công cụ và tài nguyên. FastTrack dành cho Microsoft 365 giúp các tổ chức và đối tác của họ đẩy nhanh triển khai và nhận được thông qua người dùng cuối Office 365, Windows 10 và Enterprise Mobility + Security.
-ms.openlocfilehash: 7595141667db532522104a48ce07b61d4f724200
-ms.sourcegitcommit: 7a2535e510420496dabfcea5accbb36ab2fe21d2
+ms.openlocfilehash: 3c4aa5090917a721ef8cbbc909c1940a44578062
+ms.sourcegitcommit: f2b9cb334c7687724c36b1c38ba24463576233bf
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 03/30/2020
-ms.locfileid: "43052538"
+ms.lasthandoff: 04/01/2020
+ms.locfileid: "43097766"
 ---
-# <a name="fasttrack-center-benefit-for-microsoft-365"></a><span data-ttu-id="67d14-104">Lợi ích Trung tâm FastTrack dành cho Microsoft 365</span><span class="sxs-lookup"><span data-stu-id="67d14-104">FastTrack Center Benefit for Microsoft 365</span></span>
+# <a name="fasttrack-center-benefit-for-microsoft-365"></a><span data-ttu-id="ac054-104">Lợi ích Trung tâm FastTrack dành cho Microsoft 365</span><span class="sxs-lookup"><span data-stu-id="ac054-104">FastTrack Center Benefit for Microsoft 365</span></span>
 
-<span data-ttu-id="67d14-105">Lợi ích Trung tâm FastTrack dành cho Microsoft 365 cung cấp hướng dẫn lập kế hoạch, triển khai và nhận con nuôi bao gồm quyền truy cập từ xa vào chuyên môn kỹ thuật của Microsoft, thực tiễn tốt nhất, công cụ và tài nguyên.</span><span class="sxs-lookup"><span data-stu-id="67d14-105">The FastTrack Center Benefit for Microsoft 365 provides guidance for planning, deployment, and adoption including remote access to Microsoft engineering expertise, best practices, tools, and resources.</span></span> <span data-ttu-id="67d14-106">FastTrack dành cho Microsoft 365 giúp các tổ chức và đối tác của họ tăng tốc triển khai và đạt được thông qua người dùng cuối Office 365, Enterprise Mobility + Security và Windows 10.</span><span class="sxs-lookup"><span data-stu-id="67d14-106">FastTrack for Microsoft 365 helps organizations and their partners accelerate deployment and gain end-user adoption of Office 365, Enterprise Mobility + Security, and Windows 10.</span></span> <span data-ttu-id="67d14-107">Bao gồm trong gói đăng ký Microsoft 365 đủ điều kiện của bạn mà không mất thêm chi phí, FastTrack có thể giúp bạn trên các dịch vụ Microsoft 365, di chuyển dữ liệu, bảo vệ tổ chức của bạn khỏi các mối đe dọa về an ninh mạng, cho phép làm việc nhóm hiệu quả và giữ thiết bị và ứng dụng của bạn cho đến nay.</span><span class="sxs-lookup"><span data-stu-id="67d14-107">Included in your eligible Microsoft 365 subscription at no additional cost, FastTrack can help you onboard to Microsoft 365 services, migrate data, protect your organization from cybersecurity threats, enable effective teamwork, and keep your devices and apps up to date.</span></span> <span data-ttu-id="67d14-108">Điều này bao gồm:</span><span class="sxs-lookup"><span data-stu-id="67d14-108">This includes:</span></span>
+<span data-ttu-id="ac054-105">Lợi ích Trung tâm FastTrack dành cho Microsoft 365 cung cấp hướng dẫn lập kế hoạch, triển khai và nhận con nuôi bao gồm quyền truy cập từ xa vào chuyên môn kỹ thuật của Microsoft, thực tiễn tốt nhất, công cụ và tài nguyên.</span><span class="sxs-lookup"><span data-stu-id="ac054-105">The FastTrack Center Benefit for Microsoft 365 provides guidance for planning, deployment, and adoption including remote access to Microsoft engineering expertise, best practices, tools, and resources.</span></span> <span data-ttu-id="ac054-106">FastTrack dành cho Microsoft 365 giúp các tổ chức và đối tác của họ tăng tốc triển khai và đạt được thông qua người dùng cuối Office 365, Enterprise Mobility + Security và Windows 10.</span><span class="sxs-lookup"><span data-stu-id="ac054-106">FastTrack for Microsoft 365 helps organizations and their partners accelerate deployment and gain end-user adoption of Office 365, Enterprise Mobility + Security, and Windows 10.</span></span> <span data-ttu-id="ac054-107">Bao gồm trong gói đăng ký Microsoft 365 đủ điều kiện của bạn mà không mất thêm chi phí, FastTrack có thể giúp bạn trên các dịch vụ Microsoft 365, di chuyển dữ liệu, bảo vệ tổ chức của bạn khỏi các mối đe dọa về an ninh mạng, cho phép làm việc nhóm hiệu quả và giữ cho thiết bị và ứng dụng của bạn được Cập Nhật.</span><span class="sxs-lookup"><span data-stu-id="ac054-107">Included in your eligible Microsoft 365 subscription at no additional cost, FastTrack can help you onboard to Microsoft 365 services, migrate data, protect your organization from cybersecurity threats, enable effective teamwork, and keep your devices and apps up to date.</span></span> <span data-ttu-id="ac054-108">Điều này bao gồm:</span><span class="sxs-lookup"><span data-stu-id="ac054-108">This includes:</span></span>
 
-- <span data-ttu-id="67d14-109">Liên tục, các lợi ích lặp lại bao gồm trong đăng ký của bạn.</span><span class="sxs-lookup"><span data-stu-id="67d14-109">Ongoing, repeatable benefits included in your subscription.</span></span>
-- <span data-ttu-id="67d14-110">Phân phối bởi kỹ sư của Microsoft hoặc các đối tác được chấp thuận.</span><span class="sxs-lookup"><span data-stu-id="67d14-110">Delivery by Microsoft engineers or approved partners.</span></span>
-- <span data-ttu-id="67d14-111">Tài nguyên và công cụ trực tuyến có sẵn cho tất cả khách hàng.</span><span class="sxs-lookup"><span data-stu-id="67d14-111">Online resources and tools available to all customers.</span></span>
+- <span data-ttu-id="ac054-109">Liên tục, các lợi ích lặp lại bao gồm trong đăng ký của bạn.</span><span class="sxs-lookup"><span data-stu-id="ac054-109">Ongoing, repeatable benefits included in your subscription.</span></span>
+- <span data-ttu-id="ac054-110">Phân phối bởi kỹ sư của Microsoft hoặc các đối tác được chấp thuận.</span><span class="sxs-lookup"><span data-stu-id="ac054-110">Delivery by Microsoft engineers or approved partners.</span></span>
+- <span data-ttu-id="ac054-111">Tài nguyên và công cụ trực tuyến có sẵn cho tất cả khách hàng.</span><span class="sxs-lookup"><span data-stu-id="ac054-111">Online resources and tools available to all customers.</span></span>
   
-<span data-ttu-id="67d14-112">Để tìm hiểu thêm, hãy xem:</span><span class="sxs-lookup"><span data-stu-id="67d14-112">To learn more, see:</span></span>
+<span data-ttu-id="ac054-112">Để tìm hiểu thêm, hãy xem:</span><span class="sxs-lookup"><span data-stu-id="ac054-112">To learn more, see:</span></span>
 
-- [<span data-ttu-id="67d14-113">Lợi ích Trung tâm FastTrack dành cho Office 365</span><span class="sxs-lookup"><span data-stu-id="67d14-113">FastTrack Center Benefit for Office 365</span></span>](O365-fasttrack-benefit-for-office-365.md) 
-- [<span data-ttu-id="67d14-114">FastTrack Trung tâm lợi ích cho doanh nghiệp di động + bảo mật</span><span class="sxs-lookup"><span data-stu-id="67d14-114">FastTrack Center Benefit for Enterprise Mobility + Security</span></span>](EMS-fasttrack-benefit-for-EMS.md)
-- <span data-ttu-id="67d14-115">[FastTrack Trung tâm lợi ích cho Windows 10](Win-10-fasttrack-benefit-for-Windows-10.md) Bạn cũng có thể khám phá các dịch vụ FastTrack và [yêu cầu hỗ trợ](https://go.microsoft.com/fwlink/p/?LinkId=2003903) từ fasttrack hôm nay.</span><span class="sxs-lookup"><span data-stu-id="67d14-115">[FastTrack Center Benefit for Windows 10](Win-10-fasttrack-benefit-for-Windows-10.md) You can also explore FastTrack services and [request assistance](https://go.microsoft.com/fwlink/p/?LinkId=2003903) from FastTrack today.</span></span>
+- [<span data-ttu-id="ac054-113">Lợi ích Trung tâm FastTrack dành cho Office 365</span><span class="sxs-lookup"><span data-stu-id="ac054-113">FastTrack Center Benefit for Office 365</span></span>](O365-fasttrack-benefit-for-office-365.md) 
+- [<span data-ttu-id="ac054-114">FastTrack Trung tâm lợi ích cho doanh nghiệp di động + bảo mật</span><span class="sxs-lookup"><span data-stu-id="ac054-114">FastTrack Center Benefit for Enterprise Mobility + Security</span></span>](EMS-fasttrack-benefit-for-EMS.md)
+- <span data-ttu-id="ac054-115">[FastTrack Trung tâm lợi ích cho Windows 10](Win-10-fasttrack-benefit-for-Windows-10.md) Bạn cũng có thể khám phá các dịch vụ FastTrack và [yêu cầu hỗ trợ](https://go.microsoft.com/fwlink/p/?LinkId=2003903) từ fasttrack hôm nay.</span><span class="sxs-lookup"><span data-stu-id="ac054-115">[FastTrack Center Benefit for Windows 10](Win-10-fasttrack-benefit-for-Windows-10.md) You can also explore FastTrack services and [request assistance](https://go.microsoft.com/fwlink/p/?LinkId=2003903) from FastTrack today.</span></span>
 
-<span data-ttu-id="67d14-116">FastTrack là đối tác của bạn cho Microsoft 365 thành công.</span><span class="sxs-lookup"><span data-stu-id="67d14-116">FastTrack is your partner for Microsoft 365 success.</span></span>
+<span data-ttu-id="ac054-116">FastTrack là đối tác của bạn cho Microsoft 365 thành công.</span><span class="sxs-lookup"><span data-stu-id="ac054-116">FastTrack is your partner for Microsoft 365 success.</span></span>
   
