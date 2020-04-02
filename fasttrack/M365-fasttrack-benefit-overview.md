@@ -3,7 +3,7 @@ title: Lợi ích Trung tâm FastTrack dành cho Microsoft 365
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 3/03/2020
+ms.date: 4/01/2020
 ms.audience: ITPro
 ms.topic: overview
 f1_keywords:
@@ -12,16 +12,16 @@ ms.service: m365-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: FastTrack dành cho Microsoft 365 cung cấp hướng dẫn lập kế hoạch, triển khai và nhận con nuôi bao gồm cả truy cập từ xa vào chuyên môn kỹ thuật của Microsoft, thực tiễn tốt nhất, công cụ và tài nguyên. FastTrack dành cho Microsoft 365 giúp các tổ chức và đối tác của họ đẩy nhanh triển khai và nhận được thông qua người dùng cuối Office 365, Windows 10 và Enterprise Mobility + Security.
-ms.openlocfilehash: 7595141667db532522104a48ce07b61d4f724200
-ms.sourcegitcommit: 7a2535e510420496dabfcea5accbb36ab2fe21d2
+ms.openlocfilehash: 3c4aa5090917a721ef8cbbc909c1940a44578062
+ms.sourcegitcommit: f2b9cb334c7687724c36b1c38ba24463576233bf
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 03/30/2020
-ms.locfileid: "43052538"
+ms.lasthandoff: 04/01/2020
+ms.locfileid: "43097766"
 ---
 # <a name="fasttrack-center-benefit-for-microsoft-365"></a>Lợi ích Trung tâm FastTrack dành cho Microsoft 365
 
-Lợi ích Trung tâm FastTrack dành cho Microsoft 365 cung cấp hướng dẫn lập kế hoạch, triển khai và nhận con nuôi bao gồm quyền truy cập từ xa vào chuyên môn kỹ thuật của Microsoft, thực tiễn tốt nhất, công cụ và tài nguyên. FastTrack dành cho Microsoft 365 giúp các tổ chức và đối tác của họ tăng tốc triển khai và đạt được thông qua người dùng cuối Office 365, Enterprise Mobility + Security và Windows 10. Bao gồm trong gói đăng ký Microsoft 365 đủ điều kiện của bạn mà không mất thêm chi phí, FastTrack có thể giúp bạn trên các dịch vụ Microsoft 365, di chuyển dữ liệu, bảo vệ tổ chức của bạn khỏi các mối đe dọa về an ninh mạng, cho phép làm việc nhóm hiệu quả và giữ thiết bị và ứng dụng của bạn cho đến nay. Điều này bao gồm:
+Lợi ích Trung tâm FastTrack dành cho Microsoft 365 cung cấp hướng dẫn lập kế hoạch, triển khai và nhận con nuôi bao gồm quyền truy cập từ xa vào chuyên môn kỹ thuật của Microsoft, thực tiễn tốt nhất, công cụ và tài nguyên. FastTrack dành cho Microsoft 365 giúp các tổ chức và đối tác của họ tăng tốc triển khai và đạt được thông qua người dùng cuối Office 365, Enterprise Mobility + Security và Windows 10. Bao gồm trong gói đăng ký Microsoft 365 đủ điều kiện của bạn mà không mất thêm chi phí, FastTrack có thể giúp bạn trên các dịch vụ Microsoft 365, di chuyển dữ liệu, bảo vệ tổ chức của bạn khỏi các mối đe dọa về an ninh mạng, cho phép làm việc nhóm hiệu quả và giữ cho thiết bị và ứng dụng của bạn được Cập Nhật. Điều này bao gồm:
 
 - Liên tục, các lợi ích lặp lại bao gồm trong đăng ký của bạn.
 - Phân phối bởi kỹ sư của Microsoft hoặc các đối tác được chấp thuận.

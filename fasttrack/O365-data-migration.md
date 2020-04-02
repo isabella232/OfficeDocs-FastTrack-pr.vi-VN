@@ -3,19 +3,19 @@ title: Di chuyển dữ liệu
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 3/03/2020
+ms.date: 4/01/2020
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: FastTrack chuyên gia cung cấp hướng dẫn về các bước để di chuyển dữ liệu sang Office 365. Điều này có sẵn cho tất cả các khách hàng hợp lệ với Office 365 dịch vụ dành cho Exchange Online, OneDrive dành cho doanh nghiệp và SharePoint Online.
-ms.openlocfilehash: c0dae3b6f052e13693ed226b312cbdf0b0866d7b
-ms.sourcegitcommit: 7a2535e510420496dabfcea5accbb36ab2fe21d2
+ms.openlocfilehash: d7fdf8a6f751e2443449c8ef29e33df2978695a5
+ms.sourcegitcommit: f2b9cb334c7687724c36b1c38ba24463576233bf
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 03/30/2020
-ms.locfileid: "43052579"
+ms.lasthandoff: 04/01/2020
+ms.locfileid: "43098144"
 ---
 # <a name="data-migration"></a>Di chuyển dữ liệu
 
@@ -50,12 +50,11 @@ Bảng sau mô tả những gì mong muốn di chuyển trong môi trường ngu
 |**OneDrive cho việc di chuyển**  <br/> | Chia sẻ tệp (SMB tệp chia sẻ trên thiết bị hỗ trợ SMB 2,0 trở đi).  <br/>  Một môi trường G Suite duy nhất (chỉ dành cho Google Drive).  <br/>  Hộp (Starter, kinh doanh, doanh nghiệp). <br/> <br/> **Lưu ý** *FastTrack chỉ di chuyển sang hoạt động văn phòng 365 ổ đĩa.*|
    
 ## <a name="migration-to-exchange-online"></a>Di chuyển sang Exchange Online
-
+''
 ### <a name="enable-to-migrate"></a>Bật để di chuyển
   
 Nếu bạn sử dụng Microsoft để di chuyển email của bạn, chúng tôi cung cấp hướng dẫn để kích hoạt cả Exchange Online và môi trường nguồn cho di chuyển. Tùy thuộc vào môi trường nguồn, chúng tôi có thể thực hiện các bước kích hoạt khác nhau. Chúng tôi cung cấp hướng dẫn cho bạn bằng cách sử dụng kết hợp các công cụ và tài liệu và thực hiện các tác vụ cấu hình nếu áp dụng và khả thi. Tùy thuộc vào thông số áp dụng, chúng tôi sau đó di chuyển các hộp thư, giám sát công việc và cung cấp báo cáo trạng thái.
-  
-Microsoft có thể yêu cầu quyền truy cập và quyền thích hợp cho hệ thống thư của bạn để thực hiện các hoạt động di chuyển.
+' ' Microsoft có thể yêu cầu quyền truy cập và quyền thích hợp cho hệ thống thư của bạn để thực hiện các hoạt động di chuyển.
   
 ### <a name="migration-policy-and-steps"></a>Chính sách và bước di chuyển
   

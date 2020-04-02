@@ -3,19 +3,19 @@ title: Trách nhiệm của FastTrack
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 3/03/2020
+ms.date: 4/01/2020
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: FastTrack chuyên gia có trách nhiệm sau đây trong onboarding.
-ms.openlocfilehash: 0a6ec092c8c9ec5ba574465fc10a59ae48e7b23e
-ms.sourcegitcommit: 7a2535e510420496dabfcea5accbb36ab2fe21d2
+ms.openlocfilehash: 7e004a3cefd54c997e7a5ad8ad831fecc22e0945
+ms.sourcegitcommit: f2b9cb334c7687724c36b1c38ba24463576233bf
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 03/30/2020
-ms.locfileid: "43052279"
+ms.lasthandoff: 04/01/2020
+ms.locfileid: "43098284"
 ---
 # <a name="fasttrack-responsibilities"></a>Trách nhiệm của FastTrack
 
@@ -100,7 +100,7 @@ Cung cấp hướng dẫn về:
 Cung cấp hướng dẫn về:
 - Tạo hoặc Cập Nhật bản ghi DNS. 
 - Cho phép định tuyến email giữa hệ thống nhắn tin nguồn và môi trường Office 365. 
-- Cấu hình Exchange Online Protection, bảo vệ mất dữ liệu (DLP) và văn phòng 365 mã hóa thư (OME) và Office 365 nâng cao mối đe dọa bảo vệ (nếu có trong đăng ký của bạn) và xác minh bản ghi MX trỏ tới Office 365 cho tất cả kiểm chứng miền được kích hoạt thư.
+- Cấu hình Exchange Online Protection, bảo vệ mất dữ liệu (DLP) và văn phòng 365 mã hóa thư (OME) và Office 365 nâng cao mối đe dọa bảo vệ (nếu có trong đăng ký của bạn) và xác minh các bản ghi MX trỏ tới Office 365 cho tất cả các tên miền được kích hoạt thư được chứng nhận.
 - Cấu hình thiết lập kết hợp giữa một tổ chức Exchange tại chỗ và Office 365 *hoặc* giữa nhiều tổ chức Exchange tại chỗ và Office 365. 
 - Cấu hình máy khách hộp thư (Outlook dành cho Windows, Outlook trên web và Outlook dành cho iOS và Android).
 - Cấu hình tự động, điều tra và đáp ứng cho Office 365 ATP (nếu có trong đăng ký của bạn).

@@ -3,19 +3,19 @@ title: Onboarding và di cư giai đoạn cho văn phòng 365 chính phủ Hoa K
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 3/03/2020
+ms.date: 4/01/2020
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: None
 ms.collection: FastTrack
 description: Office 365 bộ nhớ ngoài cho Office 365 chính phủ Hoa Kỳ có bốn giai đoạn chính — bắt đầu, đánh giá, remediate và Enable. Bạn có thể làm theo các giai đoạn này với một giai đoạn di chuyển dữ liệu tùy chọn như được hiển thị trong hình dưới đây.
-ms.openlocfilehash: 73c2647a6b1c34d2396d19bedecb7ca1768aba6f
-ms.sourcegitcommit: 7a2535e510420496dabfcea5accbb36ab2fe21d2
+ms.openlocfilehash: 2fe39da0e41e6d42cecef8d4ecb410a1676419e1
+ms.sourcegitcommit: f2b9cb334c7687724c36b1c38ba24463576233bf
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 03/30/2020
-ms.locfileid: "43052999"
+ms.lasthandoff: 04/01/2020
+ms.locfileid: "43098248"
 ---
 # <a name="onboarding-and-migration-phases-for-office-365-us-government"></a>Onboarding và di cư giai đoạn cho văn phòng 365 chính phủ Hoa Kỳ
 
@@ -57,7 +57,7 @@ Trong giai đoạn này, chúng tôi thảo luận về quá trình bộ nhớ n
 
 FastTrack Manager của bạn tiến hành một cuộc gọi lập kế hoạch thành công tương tác với bạn và nhóm nhận con nuôi của bạn. Điều này giới thiệu bạn về các khả năng của các dịch vụ đủ điều kiện mà bạn đã mua, những nền tảng chính bạn cần để thành công, phương pháp để lái xe sử dụng dịch vụ và các kịch bản mà bạn có thể sử dụng để nhận giá trị từ các dịch vụ. Chúng tôi hỗ trợ bạn trong việc lập kế hoạch thành công và cung cấp phản hồi về các khu vực chính (nếu cần).
   
-FastTrack chuyên gia làm việc với bạn để đánh giá môi trường nguồn của bạn và các yêu cầu. Chúng tôi cung cấp các công cụ để bạn thu thập dữ liệu về môi trường của bạn và hướng dẫn bạn thông qua ước tính các yêu cầu băng thông và đánh đồng trình duyệt Internet của bạn, Hệ điều hành khách hàng, Hệ thống tên miền (DNS), mạng, cơ sở hạ tầng, và hệ thống nhận dạng để xác định nếu có thay đổi được yêu cầu cho onboarding. 
+FastTrack chuyên gia làm việc với bạn để đánh giá môi trường nguồn của bạn và các yêu cầu. Chúng tôi cung cấp các công cụ để bạn thu thập dữ liệu về môi trường của bạn và hướng dẫn bạn thông qua ước tính băng thông yêu cầu và đánh máy trình duyệt Internet của bạn, Hệ điều hành khách hàng, Hệ thống tên miền (DNS), mạng, cơ sở hạ tầng, và hệ thống nhận dạng để xác định nếu có thay đổi được yêu cầu cho onboarding. 
   
 Dựa trên thiết lập hiện tại của bạn, chúng tôi cung cấp một kế hoạch khắc phục mang lại môi trường nguồn của bạn đến các yêu cầu tối thiểu để thành công bộ nhớ ngoài cho Office 365 và, nếu cần thiết, cho hộp thư thành công và/hoặc di chuyển dữ liệu. Chúng tôi cung cấp một tập hợp các hoạt động đề xuất để tăng giá trị người dùng cuối và nhận con nuôi. Chúng tôi cũng thiết lập điểm kiểm tra thích hợp cho giai đoạn remediate.
   

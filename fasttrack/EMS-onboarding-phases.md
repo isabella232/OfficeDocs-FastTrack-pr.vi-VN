@@ -5,18 +5,18 @@ keywords: ''
 author: andredm7
 ms.author: andredm
 manager: ''
-ms.date: 3/03/2020
+ms.date: 4/01/2020
 ms.topic: article
 ms.prod: ''
 ms.service: microsoft-intune
 localization_priority: Priority
 ms.collection: FastTrack
-ms.openlocfilehash: 7a441fcd3020e2d9194a72fd8d6f8c39c2cb7894
-ms.sourcegitcommit: 7a2535e510420496dabfcea5accbb36ab2fe21d2
+ms.openlocfilehash: 1003bedcffa5c5e5d66bf3ec348d53716f108d91
+ms.sourcegitcommit: f2b9cb334c7687724c36b1c38ba24463576233bf
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 03/30/2020
-ms.locfileid: "43052351"
+ms.lasthandoff: 04/01/2020
+ms.locfileid: "43098072"
 ---
 # <a name="onboarding-phases"></a>Các giai đoạn triển khai
 
@@ -56,7 +56,7 @@ Một khi bắt đầu hỗ trợ bộ nhớ ngoài, FastTrack thiết lập m�
 
 ## <a name="assess-phase"></a>Đánh giá giai đoạn
 
-Khi quá trình bộ nhớ ngoài bắt đầu, FastTrack Center hoạt động với bạn để đánh giá môi trường nguồn của bạn và các yêu cầu. Các công cụ được chạy để đánh giá môi trường của bạn, và FastTrack chuyên gia hướng dẫn bạn thông qua thẩm định Active Directory tại chỗ của bạn, trình duyệt Internet, Hệ điều hành của thiết bị khách hàng, Hệ thống tên miền (DNS), mạng, cơ sở hạ tầng và hệ thống nhận dạng để xác định nếu có thay đổi được yêu cầu cho onboarding.
+Khi quá trình bộ nhớ ngoài bắt đầu, FastTrack Center hoạt động với bạn để đánh giá môi trường nguồn của bạn và các yêu cầu. Các công cụ được chạy để đánh giá môi trường của bạn, và FastTrack chuyên gia hướng dẫn bạn thông qua thẩm định Active Directory tại chỗ của bạn, trình duyệt Internet, Hệ điều hành của thiết bị máy khách, Hệ thống tên miền (DNS), mạng, cơ sở hạ tầng và hệ thống nhận dạng để xác định nếu có thay đổi được yêu cầu cho onboarding.
 
 Trung tâm FastTrack cũng kết nối bạn với các hướng dẫn về cách thúc đẩy việc áp dụng các dịch vụ đủ điều kiện thành công.
 
@@ -91,7 +91,7 @@ Lõi bộ nhớ ngoài liên quan đến dịch vụ cung cấp và thuê và da
 
 Môi trường Azure AD Premium có thể được thiết lập bằng cách sử dụng đồng bộ hoá thư mục công cụ Azure Active Directory kết nối và dịch vụ liên kết Active Directory (AD FS) (nếu cần).
 
-Đối với các kịch bản Azure AD Premium bao gồm đồng bộ hóa danh tính tại chỗ với đám mây, chúng tôi giúp bạn bằng cách thêm quản trị viên CNTT và người dùng vào đăng ký của bạn, cấu hình điều kiện tiên quyết quản lý, thiết lập Azure AD Premium, thiết lập thư mục đồng bộ hóa với xác thực được quản lý và AD FS sử dụng công cụ Azure AD kết nối, cấu hình người dùng kiểm tra và xác nhận các trường hợp sử dụng cốt lõi của bạn cho dịch vụ.
+Đối với các trường hợp Azure AD Premium bao gồm đồng bộ hóa bản sắc tại chỗ với đám mây, chúng tôi sẽ giúp bạn thêm quản trị viên CNTT và người dùng vào đăng ký của bạn, đặt cấu hình điều kiện tiên quyết quản lý, thiết lập Azure AD Premium, thiết lập đồng bộ hóa thư mục với xác thực được quản lý và AD FS bằng công cụ kết nối Azure AD
 
 Azure AD Premium cài đặt bao gồm kích hoạt các tính năng sau:
 

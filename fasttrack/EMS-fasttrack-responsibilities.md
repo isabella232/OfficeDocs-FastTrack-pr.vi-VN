@@ -5,7 +5,7 @@ keywords: ''
 author: andredm7
 ms.author: andredm
 manager: ''
-ms.date: 3/03/2020
+ms.date: 4/01/2020
 ms.topic: article
 ms.prod: ''
 ms.service: microsoft-intune
@@ -14,12 +14,12 @@ ms.collection: FastTrack
 ms.assetid: c8fd871e-f1bc-43ec-a5f3-ad025df9b026
 ms.reviewer: ''
 ms.suite: ems
-ms.openlocfilehash: 6bf4be4247f65ced12052e75692f9fda47cab0ac
-ms.sourcegitcommit: 7a2535e510420496dabfcea5accbb36ab2fe21d2
+ms.openlocfilehash: b87d85269cde92e90dd127bfa717d16ed9036484
+ms.sourcegitcommit: f2b9cb334c7687724c36b1c38ba24463576233bf
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 03/30/2020
-ms.locfileid: "43052267"
+ms.lasthandoff: 04/01/2020
+ms.locfileid: "43097724"
 ---
 # <a name="fasttrack-responsibilities"></a>Trách nhiệm của FastTrack
 
@@ -267,19 +267,19 @@ Cung cấp hướng dẫn về:
 
 -   Thêm người dùng vào đăng ký InTune của bạn, xác định vai trò quản trị viên CNTT, và tạo người dùng và nhóm thiết bị.
 
--   Chuẩn bị dịch vụ InTune để quản lý thiết bị:
+-   Chuẩn bị dịch vụ InTune để quản lý thiết bị.
 
-    -   Thiết lập quyền quản lý thiết bị di động (MDM) để InTune.
+-   Thiết lập quyền quản lý thiết bị di động (MDM) để InTune.
 
-    -   Cấu hình nhóm kiểm tra được sử dụng để xác nhận chính sách quản lý MDM.
+-   Cấu hình nhóm kiểm tra được sử dụng để xác nhận chính sách quản lý MDM.
 
-    -   Điều hướng cổng quản trị InTune để định vị thông tin về người dùng và thiết bị.
+-   Điều hướng cổng quản trị InTune để định vị thông tin về người dùng và thiết bị.
 
-    -   Thiết lập InTune vai trò (nhà điều hành, quản trị viên, và như vậy).
+-   Thiết lập InTune vai trò (nhà điều hành, quản trị viên, và như vậy).
 
-    -   Đăng ký thiết bị Windows 10 để InTune.
+-   Đăng ký thiết bị Windows 10 để InTune.
 
-    -   Chuyển khối lượng công việc để quản lý bằng InTune như mong muốn.
+-   Chuyển khối lượng công việc để quản lý bằng InTune như mong muốn.
 
 ### <a name="enable-phase--azure-information-protection"></a>Kích hoạt giai đoạn-bảo vệ thông tin Azure
 
