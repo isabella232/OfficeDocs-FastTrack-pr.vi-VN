@@ -10,12 +10,12 @@ ms.service: o365-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: Bạn có trách nhiệm sau đây trong quá trình onboarding.
-ms.openlocfilehash: e52a02c356fe9d516e041819717d38a0e2bee3ba
-ms.sourcegitcommit: f2b9cb334c7687724c36b1c38ba24463576233bf
+ms.openlocfilehash: 2529ba36c5656cceeea43f3360adba94e5d96ec3
+ms.sourcegitcommit: 1aa423e2a720d57d2a37fba930fb4d4b0e8f93c9
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 04/01/2020
-ms.locfileid: "43097592"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43666070"
 ---
 # <a name="your-responsibilities"></a>Trách nhiệm của bạn
 
@@ -59,7 +59,7 @@ Bạn có trách nhiệm sau đây trong quá trình onboarding.\*
 - Thiết lập cộng tác Microsoft teams không gian để đối tác bộ nhớ ngoài và mời các thành viên nhóm FastTrack Trung tâm.   
 - Làm việc với FastTrack chuyên gia để bắt đầu bộ nhớ ngoài các dịch vụ đủ điều kiện.    
 - Tham gia cuộc họp kickoff, quản lý và dẫn dắt người tham gia từ tổ chức của bạn, và xác nhận thời hạn khắc phục.   
-- Cung cấp mục tiêu của bạn cho các dịch vụ Office 365 (ví dụ: SharePoint Online, Exchange Online, Microsoft teams và Office 365 ProPlus) và mục tiêu của tổ chức.
+- Cung cấp mục tiêu của bạn cho các dịch vụ Office 365 (ví dụ: SharePoint Online, Exchange Online, Microsoft teams và Microsoft 365 Apps) và mục tiêu của tổ chức.
     
 ## <a name="assess-phase"></a>Đánh giá giai đoạn
 

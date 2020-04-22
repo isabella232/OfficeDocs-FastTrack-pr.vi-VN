@@ -9,12 +9,12 @@ ms.topic: article
 ms.service: o365-administration
 localization_priority: Priority
 description: Khách hàng mua ít nhất 20.000 giấy phép cho một đối tượng thuê Exchange Online đủ điều kiện cho các dịch vụ bổ sung của FastTrack Center. Xem các dịch vụ và gói cước đủ điều kiện để biết thêm chi tiết.
-ms.openlocfilehash: 1317992820ba385e70ccb5908c0eab3a2dd7c140
-ms.sourcegitcommit: f2b9cb334c7687724c36b1c38ba24463576233bf
+ms.openlocfilehash: 62d0f5cf99624fbfb69a3bcb950f4718e0372512
+ms.sourcegitcommit: 1aa423e2a720d57d2a37fba930fb4d4b0e8f93c9
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 04/01/2020
-ms.locfileid: "43098188"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43666118"
 ---
 # <a name="appendix-b---fasttrack-center-additional-benefit"></a>Phụ lục B - Lợi ích bổ sung của Trung tâm FastTrack
 
@@ -38,9 +38,9 @@ Lõi bộ nhớ ngoài Dịch vụ bổ sung bao gồm cấu hình hướng dẫ
 
 Cho Skype dành cho doanh nghiệp trực tuyến, chúng tôi cung cấp hướng dẫn trên cơ sở Lync và Skype dành cho người dùng doanh nghiệp di chuyển sang Skype dành cho doanh nghiệp trực tuyến.
   
-## <a name="office-365-proplus"></a>Văn phòng 365 ProPlus
+## <a name="microsoft-365-apps"></a>Microsoft 365 ứng dụng
 
-Đối với Office 365 ProPlus, chúng tôi cung cấp hướng dẫn sau: 
+Đối với Microsoft 365 ứng dụng, chúng tôi cung cấp hướng dẫn sau: 
 - Đánh giá và lập kế hoạch tập trung vào việc chuẩn bị môi trường của bạn để triển khai và quản lý ban đầu các bản Cập Nhật phù hợp với các phương pháp hay nhất của Microsoft. 
 - Phát triển triển khai cấu hình và Cập Nhật cài đặt bằng cách sử dụng công cụ triển khai Office 365 và công cụ Tuỳ chỉnh Office. 
 - Triển khai bao bì bằng cách sử dụng trình quản lý cấu hình Endpoint Microsoft.  
@@ -127,7 +127,7 @@ FastTrack chuyên gia có trách nhiệm sau đây trong onboarding. Đây có t
 
 - Cung cấp hướng dẫn về di chuyển người dùng theo lô trong Skype để triển khai kết hợp doanh nghiệp (giữ lại danh sách liên hệ của người dùng).
     
-## <a name="office-365-proplus"></a>Văn phòng 365 ProPlus
+## <a name="microsoft-365-apps"></a>Microsoft 365 ứng dụng
 
 - Cung cấp hướng dẫn và hỗ trợ cho:  
   - Đánh giá và lập kế hoạch phù hợp với các phương pháp hay nhất của Microsoft về triển khai và quản lý bản Cập Nhật ban đầu.

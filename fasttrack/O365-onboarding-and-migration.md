@@ -10,12 +10,12 @@ ms.service: o365-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: Office 365 bộ nhớ ngoài có bốn giai đoạn chính — bắt đầu, đánh giá, remediate và Enable. Bạn có thể làm theo các giai đoạn này với một giai đoạn di chuyển dữ liệu tùy chọn.
-ms.openlocfilehash: d4e6447ced77c6a12cda8b6947633b97ba1fb755
-ms.sourcegitcommit: f2b9cb334c7687724c36b1c38ba24463576233bf
+ms.openlocfilehash: 0a64f10e0a0fe1be6e26801d1722a06fc0ef5e73
+ms.sourcegitcommit: 1aa423e2a720d57d2a37fba930fb4d4b0e8f93c9
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 04/01/2020
-ms.locfileid: "43098296"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43666166"
 ---
 # <a name="onboarding-and-migration-phases"></a>Giai đoạn triển khai và di chuyển
 
@@ -201,19 +201,19 @@ OneDrive cho doanh nghiệp, các bước phụ thuộc vào nếu bạn đang s
 
 Đối với yammer, chúng tôi cung cấp hướng dẫn cho phép Dịch vụ yammer Enterprise.
   
-## <a name="office-365-proplus"></a>Văn phòng 365 ProPlus
+## <a name="microsoft-365-apps"></a>Microsoft 365 ứng dụng
 
-Đối với Office 365 ProPlus, chúng tôi cung cấp hướng dẫn cho:
+Đối với Microsoft 365 ứng dụng, chúng tôi cung cấp hướng dẫn cho:
 - Giải quyết vấn đề triển khai.   
 - Gán giấy phép người dùng cuối và dựa trên thiết bị bằng [Trung tâm quản trị Microsoft 365](https://go.microsoft.com/fwlink/?linkid=2032704) và Windows PowerShell. 
-- Cài đặt Office 365 ProPlus từ cổng 365 Office sử dụng click-to-run.   
-- Cài đặt ứng dụng Office Mobile (như Outlook Mobile, Word Mobile, Excel Mobile và PowerPoint Mobile) trên các thiết bị chạy iOS, Android hoặc Windows Mobile của bạn.   
+- Cài đặt ứng dụng Microsoft 365 từ cổng Office 365 bằng cách sử dụng click-to-run.   
+- Cài đặt ứng dụng Office Mobile (như Outlook Mobile, Word Mobile, Excel Mobile và PowerPoint Mobile) trên thiết bị iOS hoặc Android của bạn.   
 - Cấu hình cài đặt bản Cập Nhật bằng cách sử dụng công cụ triển khai Office 365.   
 - Lựa chọn và thiết lập cài đặt cục bộ hoặc đám mây. 
 - Tạo XML cấu hình công cụ triển khai Office với công cụ Tuỳ chỉnh Office hoặc XML riêng để cấu hình gói triển khai.  
 - Triển khai bằng cách sử dụng Microsoft Endpoint Configuration Manager, bao gồm hỗ trợ tạo bao bì Microsoft Endpoint Configuration Manager.
     
-![Các bước Office ProPlus bộ nhớ ngoài](media/O365-Onboarding-Enable-OProPlus.png)
+![Các bước Office ProPlus bộ nhớ ngoài](media/o365-onboarding-enable-m365-apps-2.png)
   
 ## <a name="outlook-for-ios-and-android"></a>Outlook dành cho iOS và Android
 

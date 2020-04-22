@@ -10,12 +10,12 @@ ms.service: m365-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: Khi bạn mua bất kỳ dịch vụ Microsoft 365, FastTrack chuyên gia cung cấp hướng dẫn cho bạn để onboard cho Microsoft 365 và bắt đầu sử dụng chúng.
-ms.openlocfilehash: 3d91de034609cfe85833327c6d753f6a05525e5f
-ms.sourcegitcommit: f2b9cb334c7687724c36b1c38ba24463576233bf
+ms.openlocfilehash: 7b27f5c3c2e989e1dbe932346d013bd6e9fb1890
+ms.sourcegitcommit: 1aa423e2a720d57d2a37fba930fb4d4b0e8f93c9
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 04/01/2020
-ms.locfileid: "43098120"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43666082"
 ---
 # <a name="eligible-services-and-plans"></a>Dịch vụ và gói đủ điều kiện
 
@@ -52,11 +52,11 @@ FastTrack Center cung cấp hỗ trợ cho các dịch vụ sau:
 - Azure Active Directory cao cấp
 - Bảo vệ thông tin Azure
 - Trao đổi trực tuyến 
+- Microsoft 365 ứng dụng
 - Tính năng Chống Mối đe dọa Nâng cao của Bộ bảo vệ Microsoft
 - Microsoft InTune
 - Microsoft teams
 - Văn phòng 365 nâng cao mối đe dọa bảo vệ
-- Văn phòng 365 ProPlus
 - OneDrive cho doanh nghiệp
 - Điện BI
 - Dự án trực tuyến
@@ -64,7 +64,10 @@ FastTrack Center cung cấp hỗ trợ cho các dịch vụ sau:
 - Skype cho doanh nghiệp trực tuyến
 - Windows 10
 - Yammer doanh nghiệp 
-  
+
+> [!NOTE]
+> Office 365 ProPlus đã được đổi tên thành Microsoft 365 Apps. Trong một số trường hợp, bạn có thể tìm thấy sử dụng tên hợp lệ. Để biết chi tiết về khi thay đổi này có hiệu lực xem [thay đổi tên cho Office 365 ProPlus](https://docs.microsoft.com/deployoffice/name-change). 
+
 ## <a name="eligible-microsoft-365-plans"></a>Gói Microsoft 365 đủ điều kiện
   
  **Microsoft 365 doanh nghiệp**
@@ -72,14 +75,23 @@ FastTrack Center cung cấp hỗ trợ cho các dịch vụ sau:
 - Microsoft 365 E3\*
 - Microsoft 365 E5\*
 - Bảo mật Microsoft 365 E5\*
-- Microsoft 365 F1 *
+- Microsoft 365 F1\*
 - Microsoft 365 kinh doanh\*
+- Microsoft 365 ứng dụng dành cho doanh nghiệp\*
+- Microsoft 365 ứng dụng cho doanh nghiệp (thiết bị)\*
     
+ **Microsoft 365 kinh doanh**
+
+ - Microsoft 365 kinh doanh cơ bản\*
+ - Microsoft 365 tiêu chuẩn kinh doanh\*
+ - Microsoft 365 ứng dụng dành cho doanh nghiệp\*
+ 
  **Microsoft 365 giáo dục**
 
 - Microsoft 365 A3\*
 - Microsoft 365 A5\*
 - Microsoft 365 A5 bảo mật\*
+- Microsoft 365 ứng dụng cho giáo dục (thiết bị)\*
  
 ## <a name="eligible-office-365-plans"></a>Kế hoạch Office 365 đủ điều kiện
 
@@ -95,13 +107,6 @@ FastTrack Center cung cấp hỗ trợ cho các dịch vụ sau:
 - Văn phòng 365 US Government G4\*\*
 - Văn phòng 365 chính phủ Mỹ G5\*\*
 - Văn phòng 365 chính phủ Hoa Kỳ F1\*\*
-- Văn phòng 365 ProPlus
-    
-**Văn phòng 365 kinh doanh**
-
-- Văn phòng 365 kinh doanh  
-- Văn phòng 365 Business Essentials  
-- Văn phòng 365 Business Premium
 
 **Văn phòng 365 giáo dục**
   
@@ -206,7 +211,7 @@ FastTrack Center cung cấp hỗ trợ cho các dịch vụ sau:
 Để biết thêm thông tin, xem [FastTrack Trung tâm lợi ích cho Windows 10](https://go.microsoft.com/fwlink/?linkid=2044661).
 
 > [!NOTE]
-> Không có yêu cầu cấp phép tối thiểu đối với các nhà cung cấp phần mềm độc lập thương mại (ISV) xây dựng ứng dụng Windows 10. Tất cả yêu cầu ứng dụng phải nhắm mục tiêu phiên bản Windows 10 hoặc Office 365 ProPlus hiện nằm trong cửa sổ dịch vụ chính.
+> Không có yêu cầu cấp phép tối thiểu đối với các nhà cung cấp phần mềm độc lập thương mại (ISV) xây dựng ứng dụng Windows 10. Tất cả yêu cầu ứng dụng phải nhắm mục tiêu một phiên bản Windows 10 hoặc Microsoft 365 Apps hiện nằm trong cửa sổ dịch vụ chính thống.
 
 ## <a name="ineligible-plans"></a>Các kế hoạch không đủ điều kiện
 

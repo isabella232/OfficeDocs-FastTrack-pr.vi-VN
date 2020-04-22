@@ -10,20 +10,20 @@ ms.service: windows-10-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: Bạn sử dụng FastTrack Trung tâm lợi ích cho Windows 10 khi bạn mua ít *nhất* 150 giấy phép cho một dịch vụ đủ điều kiện hoặc kế hoạch.
-ms.openlocfilehash: aaa143651057586938f829fe41a0ddbe2cdf40c5
-ms.sourcegitcommit: f2b9cb334c7687724c36b1c38ba24463576233bf
+ms.openlocfilehash: 66b8da97435ef0c89a31bc4d55228fbead88bbb3
+ms.sourcegitcommit: 1aa423e2a720d57d2a37fba930fb4d4b0e8f93c9
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 04/01/2020
-ms.locfileid: "43098212"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43665830"
 ---
 # <a name="fasttrack-center-benefit-for-windows-10"></a>Lợi ích của Trung tâm FastTrack dành cho Windows 10
 
-Bạn có thể sử dụng FastTrack Trung tâm lợi ích cho Windows 10 khi bạn mua ít nhất 150 giấy phép cho một dịch vụ đủ điều kiện hoặc kế hoạch. Sau đó, bạn làm việc với các chuyên gia FastTrack để đánh giá, remediate và triển khai Windows 10, Microsoft Edge mới hoặc bảo vệ chủ đề nâng cao của Microsoft Defender và điều phối các lợi ích của Trung tâm FastTrack cho Office 365 ProPlus. 
+Bạn có thể sử dụng FastTrack Trung tâm lợi ích cho Windows 10 khi bạn mua ít nhất 150 giấy phép cho một dịch vụ đủ điều kiện hoặc kế hoạch. Sau đó, bạn làm việc với các chuyên gia FastTrack để đánh giá, remediate và triển khai Windows 10, Microsoft Edge mới hoặc bảo vệ chủ đề nâng cao của Microsoft Defender và điều phối các lợi ích của Trung tâm FastTrack cho Microsoft 365 Apps. 
 
 Lợi ích Trung tâm FastTrack dành cho Windows 10 cũng cung cấp dịch vụ đảm bảo ứng dụng. Với dịch vụ này, một chuyên gia FastTrack có sẵn để cung cấp hướng dẫn tư vấn và khắc phục nếu bạn gặp phải vấn đề tương thích ứng dụng. 
 
-FastTrack chuyên gia cũng sẽ cung cấp hướng dẫn khi bạn triển khai và ở lại up-to-date với Windows 10, Microsoft Edge, và Office 365 ProPlus. Các quyền lợi dịch vụ này được cung cấp miễn phí với gói đăng ký đủ điều kiện có trong [dịch vụ và gói cước đủ điều kiện](M365-eligible-services-and-plans.md)của FastTrack.
+FastTrack chuyên gia cũng sẽ cung cấp hướng dẫn khi bạn triển khai và ở lại up-to-date với Windows 10, Microsoft Edge, và Microsoft 365 Apps. Các quyền lợi dịch vụ này được cung cấp miễn phí với gói đăng ký đủ điều kiện có trong [dịch vụ và gói cước đủ điều kiện](M365-eligible-services-and-plans.md)của FastTrack.
   
 > [!NOTE]
 > Cho mục đích của tài liệu này, FastTrack chuyên gia có thể bao gồm nhân viên của Microsoft, Microsoft chấp thuận nhà cung cấp và Microsoft chấp thuận đối tác. 

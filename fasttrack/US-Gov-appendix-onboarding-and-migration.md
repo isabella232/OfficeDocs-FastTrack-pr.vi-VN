@@ -10,12 +10,12 @@ ms.service: o365-administration
 localization_priority: None
 ms.collection: FastTrack
 description: Office 365 bộ nhớ ngoài cho Office 365 chính phủ Hoa Kỳ có bốn giai đoạn chính — bắt đầu, đánh giá, remediate và Enable. Bạn có thể làm theo các giai đoạn này với một giai đoạn di chuyển dữ liệu tùy chọn như được hiển thị trong hình dưới đây.
-ms.openlocfilehash: 2fe39da0e41e6d42cecef8d4ecb410a1676419e1
-ms.sourcegitcommit: f2b9cb334c7687724c36b1c38ba24463576233bf
+ms.openlocfilehash: 88c74a4839df42dbc57da65f7f2c4776bd5d90cb
+ms.sourcegitcommit: 1aa423e2a720d57d2a37fba930fb4d4b0e8f93c9
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 04/01/2020
-ms.locfileid: "43098248"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43665922"
 ---
 # <a name="onboarding-and-migration-phases-for-office-365-us-government"></a>Onboarding và di cư giai đoạn cho văn phòng 365 chính phủ Hoa Kỳ
 
@@ -175,15 +175,15 @@ OneDrive cho doanh nghiệp, các bước phụ thuộc vào nếu bạn đang s
 > [!NOTE]
 > Yammer Enterprise không phải là một thành phần của văn phòng 365 chính phủ Hoa Kỳ nhưng có thể được mua miễn phí như là một đề nghị độc lập cho mỗi người dùng được cấp phép cho Office 365 trong GCC. Đề nghị này hiện đang giới hạn cho khách hàng mua Office 365 GCC theo thỏa thuận doanh nghiệp và thỏa thuận đăng ký doanh nghiệp. Yammer không có sẵn trong gói GCC cao hoặc DoD. 
   
-## <a name="office-365-proplus"></a>Văn phòng 365 ProPlus
+## <a name="microsoft-365-apps"></a>Microsoft 365 ứng dụng
 
-Đối với Office 365 ProPlus, chúng tôi cung cấp hướng dẫn cho: 
+Đối với Microsoft 365 ứng dụng, chúng tôi cung cấp hướng dẫn cho: 
 - Giải quyết vấn đề triển khai.    
 - Gán giấy phép người dùng cuối bằng cách sử dụng [Trung tâm quản trị Microsoft 365](https://go.microsoft.com/fwlink/?linkid=2032704) và Windows PowerShell.    
-- Cài đặt Office 365 ProPlus từ cổng 365 Office sử dụng click-to-run.    
-- Cài đặt ứng dụng Office Mobile (như Outlook Mobile, Word Mobile, Excel Mobile và PowerPoint Mobile) trên các thiết bị chạy iOS, Android hoặc Windows Mobile của bạn.   
+- Cài đặt ứng dụng Microsoft 365 từ cổng Office 365 bằng cách sử dụng click-to-run.    
+- Cài đặt ứng dụng Office Mobile (như Outlook Mobile, Word Mobile, Excel Mobile và PowerPoint Mobile) trên thiết bị iOS hoặc Android của bạn.   
 - Cấu hình cài đặt bản Cập Nhật bằng cách sử dụng công cụ triển khai Office 365.    
-- Thiết lập một máy chủ phân phối trên trang web cho Office 365 ProPlus, bao gồm hỗ trợ tạo tệp configuration. xml để sử dụng với công cụ triển khai Office 365.    
+- Thiết lập một máy chủ phân phối trên trang web cho Microsoft 365 ứng dụng, bao gồm hỗ trợ tạo tệp configuration. xml để sử dụng với công cụ triển khai Office 365.    
 - Triển khai bằng cách sử dụng Microsoft Endpoint Configuration Manager, bao gồm hỗ trợ tạo bao bì Microsoft Endpoint Configuration Manager.
     
-![Các bước Office ProPlus bộ nhớ ngoài](media/O365-Onboarding-Enable-OProPlus.png)
+![Các bước Office ProPlus bộ nhớ ngoài](media/o365-onboarding-enable-m365-apps-2.png)

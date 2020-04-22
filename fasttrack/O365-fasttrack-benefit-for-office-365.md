@@ -12,12 +12,12 @@ ms.service: o365-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: Bạn sử dụng FastTrack Trung tâm lợi ích cho Office 365 khi bạn mua ít nhất 150 giấy phép cho một dịch vụ đủ điều kiện hoặc kế hoạch cho Office 365 thuê của bạn. Sau đó bạn làm việc với FastTrack chuyên gia đánh giá, remediate, kích hoạt, và lái xe sử dụng các dịch vụ. Các chuyên gia cũng cung cấp hướng dẫn di chuyển.
-ms.openlocfilehash: 830aca2f274cb00d7c365866b31dced314e5429d
-ms.sourcegitcommit: f2b9cb334c7687724c36b1c38ba24463576233bf
+ms.openlocfilehash: 5bf7e1d6376adc1c2224e4a0f9919b0b051bf3f1
+ms.sourcegitcommit: 1aa423e2a720d57d2a37fba930fb4d4b0e8f93c9
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 04/01/2020
-ms.locfileid: "43098224"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43665806"
 ---
 # <a name="fasttrack-center-benefit-for-office-365"></a>Lợi ích Trung tâm FastTrack dành cho Office 365
 
@@ -35,9 +35,9 @@ Bạn sử dụng FastTrack Trung tâm lợi ích cho Office 365 khi bạn mua �
 Để tìm hiểu về các lợi ích do FastTrack cung cấp theo dịch vụ, hãy xem:
 
 - [Trao đổi trực tuyến](O365-fasttrack-responsibilities.md#exchange-online)
+- [Microsoft 365 ứng dụng](O365-fasttrack-responsibilities.md#microsoft-365-apps)
 - [Microsoft teams](O365-fasttrack-responsibilities.md#microsoft-teams)
 - [Văn phòng 365 nâng cao mối đe dọa bảo vệ](O365-fasttrack-responsibilities.md#office-365-advanced-threat-protection)
-- [Văn phòng 365 ProPlus](O365-fasttrack-responsibilities.md#office-365-proplus)
 - [OneDrive cho doanh nghiệp](O365-fasttrack-responsibilities.md#onedrive-for-business)
 - [Outlook dành cho iOS và Android](O365-fasttrack-responsibilities.md#outlook-for-ios-and-android)
 - [Điện BI](O365-fasttrack-responsibilities.md#power-bi)
@@ -49,7 +49,7 @@ Bạn sử dụng FastTrack Trung tâm lợi ích cho Office 365 khi bạn mua �
   
 Bạn đang tìm kiếm [FastTrack Trung tâm lợi ích cho doanh nghiệp di động + bảo mật](EMS-fasttrack-benefit-for-EMS.md)? Nó bao gồm các thông tin về:
   
-- Microsoft InTune    
+- Microsoft InTune
 - Azure Active Directory cao cấp 
 - Bảo vệ thông tin Azure
     

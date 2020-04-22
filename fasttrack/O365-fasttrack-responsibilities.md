@@ -10,12 +10,12 @@ ms.service: o365-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: FastTrack chuyên gia có trách nhiệm sau đây trong onboarding.
-ms.openlocfilehash: 7e004a3cefd54c997e7a5ad8ad831fecc22e0945
-ms.sourcegitcommit: f2b9cb334c7687724c36b1c38ba24463576233bf
+ms.openlocfilehash: 6968d49dadaba3b95665cc03408a222000e59c4a
+ms.sourcegitcommit: 1aa423e2a720d57d2a37fba930fb4d4b0e8f93c9
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 04/01/2020
-ms.locfileid: "43098284"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43666178"
 ---
 # <a name="fasttrack-responsibilities"></a>Trách nhiệm của FastTrack
 
@@ -107,6 +107,18 @@ Cung cấp hướng dẫn về:
     
 Để biết thêm thông tin về trách nhiệm di chuyển dữ liệu, xem [di chuyển dữ liệu](O365-data-migration.md).
   
+## <a name="microsoft-365-apps"></a>Microsoft 365 ứng dụng
+
+Cung cấp hướng dẫn về:
+- Giải quyết vấn đề triển khai.
+- Gán giấy phép người dùng cuối và dựa trên thiết bị bằng [Trung tâm quản trị Microsoft 365](https://go.microsoft.com/fwlink/?linkid=2032704) và Windows PowerShell.
+- Cài đặt ứng dụng Microsoft 365 từ cổng Office 365 bằng cách sử dụng click-to-run.
+- Cài đặt ứng dụng Office Mobile (như Outlook for iOS và Android, Word Mobile, Excel Mobile và PowerPoint Mobile) trên iOS hoặc Android của bạn. 
+- Cấu hình cài đặt bản Cập Nhật bằng cách sử dụng công cụ triển khai Office 365.
+- Chọn và thiết lập cài đặt cục bộ hoặc đám mây.
+- Tạo XML cấu hình công cụ triển khai Office với công cụ Tuỳ chỉnh Office hoặc XML riêng để cấu hình gói triển khai.
+- Triển khai bằng cách sử dụng Microsoft Endpoint Configuration Manager, bao gồm hỗ trợ tạo bao bì Microsoft Endpoint Configuration Manager.
+
 ## <a name="microsoft-teams"></a>Microsoft teams
 
 Cung cấp hướng dẫn về:
@@ -141,18 +153,6 @@ Cung cấp hướng dẫn về:
 - Cấu hình tự động, điều tra và phản hồi.
 - Sử dụng Attack Simulator.
 - Báo cáo và phân tích mối đe dọa.
-
-## <a name="office-365-proplus"></a>Văn phòng 365 ProPlus
-
-Cung cấp hướng dẫn về:
-- Giải quyết vấn đề triển khai.
-- Gán giấy phép người dùng cuối và dựa trên thiết bị bằng [Trung tâm quản trị Microsoft 365](https://go.microsoft.com/fwlink/?linkid=2032704) và Windows PowerShell.
-- Cài đặt Office 365 ProPlus từ cổng 365 Office sử dụng click-to-run.
-- Cài đặt ứng dụng Office Mobile (như Outlook for iOS và Android, Word Mobile, Excel Mobile và PowerPoint Mobile) trên các thiết bị iOS, Android hoặc Windows Mobile của bạn. 
-- Cấu hình cài đặt bản Cập Nhật bằng cách sử dụng công cụ triển khai Office 365.
-- Chọn và thiết lập cài đặt cục bộ hoặc đám mây.
-- Tạo XML cấu hình công cụ triển khai Office với công cụ Tuỳ chỉnh Office hoặc XML riêng để cấu hình gói triển khai.
-- Triển khai bằng cách sử dụng Microsoft Endpoint Configuration Manager, bao gồm hỗ trợ tạo bao bì Microsoft Endpoint Configuration Manager.
     
 ## <a name="onedrive-for-business"></a>OneDrive cho doanh nghiệp
 

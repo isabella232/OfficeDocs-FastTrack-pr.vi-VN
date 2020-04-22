@@ -10,12 +10,12 @@ ms.service: o365-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: Trình FastTrack cung cấp dịch vụ bộ nhớ ngoài và áp dụng cho người dùng.
-ms.openlocfilehash: 98e4f944e54de52ebbdf1755c5ab185a80395b33
-ms.sourcegitcommit: f2b9cb334c7687724c36b1c38ba24463576233bf
+ms.openlocfilehash: 641637705a5a578b18f3ba06130d9477975b92f8
+ms.sourcegitcommit: 1aa423e2a720d57d2a37fba930fb4d4b0e8f93c9
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 04/01/2020
-ms.locfileid: "43097712"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43666149"
 ---
 # <a name="the-fasttrack-process"></a>Quy trình FastTrack
 
@@ -35,7 +35,7 @@ Dịch vụ áp dụng của người dùng bao gồm các nhiệm vụ cung c�
 
 Sơ đồ sau minh họa quá trình bộ nhớ ngoài.
   
-![Thời gian sử dụng lợi ích Onboarding](media/O365-Onboarding-Timeline.png)
+![Thời gian sử dụng lợi ích Onboarding](media/o365-onboarding-timeline-m365-apps.png)
   
 Bạn có thể nhận trợ giúp thông qua [Trung tâm quản trị Microsoft 365](https://go.microsoft.com/fwlink/?linkid=2032704) hoặc [trang web FastTrack](https://go.microsoft.com/fwlink/?linkid=780698). 
 
