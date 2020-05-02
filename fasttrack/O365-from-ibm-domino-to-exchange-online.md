@@ -3,19 +3,19 @@ title: Phụ lục A - Di chuyển từ IBM Domino sang Exchange Online
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 4/01/2020
+ms.date: 5/01/2020
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: 'Di chuyển từ IBM Domino sang Exchange Online bao gồm một số khía cạnh quan trọng, bao gồm những gì xảy ra trong các giai đoạn sau:'
-ms.openlocfilehash: b24ab9399bba785a984444190f187f6a3028d021
-ms.sourcegitcommit: f2b9cb334c7687724c36b1c38ba24463576233bf
+ms.openlocfilehash: 3038ba8246ede185df3f2c15c548ff4ef8be9427
+ms.sourcegitcommit: 2775660fc5ccab2e92aee9383e326dba22b7a16b
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 04/01/2020
-ms.locfileid: "43098132"
+ms.lasthandoff: 05/01/2020
+ms.locfileid: "43999886"
 ---
 # <a name="appendix-a---migration-from-ibm-domino-to-exchange-online"></a>Phụ lục A - Di chuyển từ IBM Domino sang Exchange Online
 

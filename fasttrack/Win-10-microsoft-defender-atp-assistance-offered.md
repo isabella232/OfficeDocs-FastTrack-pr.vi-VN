@@ -3,19 +3,19 @@ title: Nội dung hỗ trợ được cung cấp
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 4/01/2020
+ms.date: 5/01/2020
 ms.audience: ITPro
 ms.topic: overview
 ms.service: windows-10-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: Khi bạn mua bất kỳ dịch vụ Windows 10 hoặc Microsoft 365, FastTrack chuyên gia cung cấp hướng dẫn triển khai từ xa để bảo vệ điểm cuối. Dịch vụ của chúng tôi được thiết kế phù hợp với môi trường và nhu cầu cho từng khách hàng.
-ms.openlocfilehash: 0e4dc5c08c66839d63c2e09958a26da96325b132
-ms.sourcegitcommit: f2b9cb334c7687724c36b1c38ba24463576233bf
+ms.openlocfilehash: be9d4ee5f8b35e7ff48793d25a6116978d45d733
+ms.sourcegitcommit: 2775660fc5ccab2e92aee9383e326dba22b7a16b
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 04/01/2020
-ms.locfileid: "43098200"
+ms.lasthandoff: 05/01/2020
+ms.locfileid: "43999694"
 ---
 # <a name="assistance-offered"></a>Nội dung hỗ trợ được cung cấp  
 
@@ -29,22 +29,34 @@ Khi bạn mua bất kỳ dịch vụ Windows 10 hoặc Microsoft 365 (như chi t
 
 FastTrack cung cấp hướng dẫn từ xa cho các mục sau:
 - Kích hoạt dịch vụ Microsoft Defender ATP giải thích cách triển khai hồ sơ đại lý ATP bằng cách sử dụng một điểm cuối onboard.
-- Cung cấp hướng dẫn về cách thiết lập hồ sơ cấu hình Microsoft Defender ATP (bao gồm bảo vệ điểm cuối và hạn chế thiết bị).
-- Cung cấp hướng dẫn về cách đặt thiết đặt Trung tâm bảo mật để cá nhân hóa cách Microsoft Defender ATP địa chỉ nhu cầu của bạn.
-- Giáo dục về:
-    - Mô phỏng và hướng dẫn (như kịch bản thực hành, phần mềm độc hại giả mạo và điều tra tự động).
-    - Báo cáo và phân tích mối đe dọa.
+- Cung cấp hướng dẫn triển khai, hỗ trợ cấu hình và giáo dục trên:
     - Quản lý mối đe dọa và dễ tổn thương.
-    - Điều hướng cổng thông tin Trung tâm bảo mật của Microsoft Defender.
+    - Tấn công bề mặt giảm.
+    - Bảo vệ thế hệ tiếp theo.
+    - Phát hiện điểm cuối và phản hồi.
+    - Tự động điều tra và khắc phục.
+    - Điểm an toàn.
+- Đánh giá mô phỏng và hướng dẫn (như kịch bản thực hành, phần mềm độc hại giả mạo và điều tra tự động).
+- Sâu lặn vào báo cáo và phân tích mối đe dọa.
+- Tích hợp Office 365 ATP với Microsoft Defender ATP.
+- Tiến hành các lối đi của cổng thông tin Trung tâm bảo mật của Microsoft Defender.
 
 ## <a name="out-of-scope"></a>Phạm vi
 
 Các dịch vụ FastTrack không bao gồm:
 - Quản lý dự án các hoạt động khắc phục của khách hàng.
 - Hỗ trợ trên trang web.
+- Liên tục quản lý và mối đe dọa phản ứng.
 - Onboarding hoặc cấu hình cho các tác nhân Microsoft Defender ATP sau:
    - Máy chủ Windows
    - Macos
    - Linux
-- Cách ly dựa trên phần cứng, kiểm soát ứng dụng, bảo vệ khai thác và hướng dẫn tường lửa mạng.
-- Liên tục quản lý và mối đe dọa phản ứng.
+- Cấu hình các khả năng giảm bề mặt tấn công sau:
+    - Cách ly dựa trên phần cứng.
+    - Kiểm soát ứng dụng.
+    - Bảo vệ khai thác.
+    - Tường lửa mạng.
+- Đăng ký hoặc cấu hình của Microsoft Threat experts.
+- Cấu hình hoặc đào tạo xem xét API hoặc thông tin bảo mật và quản lý sự kiện (SIEM) kết nối.
+- Đăng ký hoặc cấu hình của Microsoft Threat Protection (MTP).
+- Đào tạo hoặc hướng dẫn bao gồm săn bắn tiên tiến.

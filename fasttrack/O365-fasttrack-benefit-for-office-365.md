@@ -3,7 +3,7 @@ title: Lợi ích của Trung tâm FastTrack dành cho Office 365
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 4/01/2020
+ms.date: 5/01/2020
 ms.audience: ITPro
 ms.topic: overview
 f1_keywords:
@@ -12,12 +12,12 @@ ms.service: o365-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: Bạn sử dụng FastTrack Trung tâm lợi ích cho Office 365 khi bạn mua ít nhất 150 giấy phép cho một dịch vụ đủ điều kiện hoặc kế hoạch cho Office 365 thuê của bạn. Sau đó bạn làm việc với FastTrack chuyên gia đánh giá, remediate, kích hoạt, và lái xe sử dụng các dịch vụ. Các chuyên gia cũng cung cấp hướng dẫn di chuyển.
-ms.openlocfilehash: 5bf7e1d6376adc1c2224e4a0f9919b0b051bf3f1
-ms.sourcegitcommit: 1aa423e2a720d57d2a37fba930fb4d4b0e8f93c9
+ms.openlocfilehash: 3cda5d2785f89927678cd4fb95464d76910a4177
+ms.sourcegitcommit: 2775660fc5ccab2e92aee9383e326dba22b7a16b
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43665806"
+ms.lasthandoff: 05/01/2020
+ms.locfileid: "43999862"
 ---
 # <a name="fasttrack-center-benefit-for-office-365"></a>Lợi ích Trung tâm FastTrack dành cho Office 365
 
@@ -52,6 +52,13 @@ Bạn đang tìm kiếm [FastTrack Trung tâm lợi ích cho doanh nghiệp di �
 - Microsoft InTune
 - Azure Active Directory cao cấp 
 - Bảo vệ thông tin Azure
+
+Bạn đang tìm kiếm [FastTrack Trung tâm lợi ích cho Windows 10](Win-10-fasttrack-benefit-for-Windows-10.md)? Nó bao gồm các thông tin về:
+
+- Windows 10
+- Đảm bảo cho ứng dụng
+- Microsoft Edge mới
+- Tính năng Chống Mối đe dọa Nâng cao của Bộ bảo vệ Microsoft
     
 > [!NOTE]
 > Chỉ nhằm mục đích thông tin. 
