@@ -3,19 +3,19 @@ title: Đảm bảo cho ứng dụng
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 5/01/2020
+ms.date: 6/01/2020
 ms.audience: ITPro
 ms.topic: overview
 ms.service: windows-10-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: Các FastTrack Trung tâm lợi ích cho Windows 10 cung cấp quyền truy cập vào App Assure-một dịch vụ được thiết kế để địa chỉ các vấn đề với Windows 10 và Microsoft 365 ứng dụng tương thích ứng dụng.
-ms.openlocfilehash: 574bd5e34c3699ccf1862740f5b72dbed0610c5c
-ms.sourcegitcommit: 2775660fc5ccab2e92aee9383e326dba22b7a16b
+ms.openlocfilehash: 10e7d429a3e35717c1028e82a7c068ca0ed590a2
+ms.sourcegitcommit: 826f140cc0ddee32005f74e5d995073af1dc3fa2
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 05/01/2020
-ms.locfileid: "43999730"
+ms.lasthandoff: 06/01/2020
+ms.locfileid: "44472003"
 ---
 # <a name="app-assure"></a>Đảm bảo cho ứng dụng
 

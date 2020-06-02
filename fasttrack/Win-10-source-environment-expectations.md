@@ -3,19 +3,19 @@ title: Kỳ vọng về môi trường nguồn
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 5/01/2020
+ms.date: 6/01/2020
 ms.audience: ITPro
 ms.topic: overview
 ms.service: windows-10-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: FastTrack Trung tâm lợi ích cung cấp hướng dẫn để bạn thiết lập mức độ tích hợp với môi trường nguồn của bạn để triển khai Windows 10.
-ms.openlocfilehash: 52dbaee7b32290098c1e9fb873ff6984a2d26152
-ms.sourcegitcommit: 2775660fc5ccab2e92aee9383e326dba22b7a16b
+ms.openlocfilehash: 96ce7e58d2b9b87e5fc014996bd5f2d250051fda
+ms.sourcegitcommit: 826f140cc0ddee32005f74e5d995073af1dc3fa2
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 05/01/2020
-ms.locfileid: "43999600"
+ms.lasthandoff: 06/01/2020
+ms.locfileid: "44471991"
 ---
 # <a name="source-environment-expectations"></a>Kỳ vọng về môi trường nguồn
 

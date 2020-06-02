@@ -3,19 +3,19 @@ title: Nội dung hỗ trợ được cung cấp
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 5/01/2020
+ms.date: 6/01/2020
 ms.audience: ITPro
 ms.topic: overview
 ms.service: windows-10-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: Khi bạn mua bất kỳ dịch vụ Windows 10 hoặc Microsoft 365, FastTrack chuyên gia cung cấp hướng dẫn tư vấn và khắc phục để triển khai Windows 10 và Microsoft 365 Apps và ở lại up-to-date mà không có chi phí bổ sung (với một thuê bao đủ điều kiện).
-ms.openlocfilehash: 32219dc88283316cb1c0a1f35d1ca46984f9cbd7
-ms.sourcegitcommit: 2775660fc5ccab2e92aee9383e326dba22b7a16b
+ms.openlocfilehash: 8b006493a46108791031ac1baa9bdd501278414f
+ms.sourcegitcommit: 826f140cc0ddee32005f74e5d995073af1dc3fa2
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 05/01/2020
-ms.locfileid: "43999742"
+ms.lasthandoff: 06/01/2020
+ms.locfileid: "44472063"
 ---
 # <a name="assistance-offered"></a>Nội dung hỗ trợ được cung cấp  
 

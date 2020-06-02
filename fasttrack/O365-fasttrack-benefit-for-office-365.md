@@ -3,7 +3,7 @@ title: Lợi ích của Trung tâm FastTrack dành cho Office 365
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 5/01/2020
+ms.date: 6/01/2020
 ms.audience: ITPro
 ms.topic: overview
 f1_keywords:
@@ -12,12 +12,12 @@ ms.service: o365-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: Bạn sử dụng FastTrack Trung tâm lợi ích cho Office 365 khi bạn mua ít nhất 150 giấy phép cho một dịch vụ đủ điều kiện hoặc kế hoạch cho Office 365 thuê của bạn. Sau đó bạn làm việc với FastTrack chuyên gia đánh giá, remediate, kích hoạt, và lái xe sử dụng các dịch vụ. Các chuyên gia cũng cung cấp hướng dẫn di chuyển.
-ms.openlocfilehash: 3cda5d2785f89927678cd4fb95464d76910a4177
-ms.sourcegitcommit: 2775660fc5ccab2e92aee9383e326dba22b7a16b
+ms.openlocfilehash: 1b96edf8d0dc5682ffc1cf59060b21e42da17a13
+ms.sourcegitcommit: 826f140cc0ddee32005f74e5d995073af1dc3fa2
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 05/01/2020
-ms.locfileid: "43999862"
+ms.lasthandoff: 06/01/2020
+ms.locfileid: "44472183"
 ---
 # <a name="fasttrack-center-benefit-for-office-365"></a>Lợi ích Trung tâm FastTrack dành cho Office 365
 
@@ -36,6 +36,8 @@ Bạn sử dụng FastTrack Trung tâm lợi ích cho Office 365 khi bạn mua �
 
 - [Trao đổi trực tuyến](O365-fasttrack-responsibilities.md#exchange-online)
 - [Microsoft 365 ứng dụng](O365-fasttrack-responsibilities.md#microsoft-365-apps)
+- [Quản trị thông tin của Microsoft](O365-fasttrack-responsibilities.md#microsoft-information-governance)
+- [Bảo vệ thông tin của Microsoft](O365-fasttrack-responsibilities.md#microsoft-information-protection)
 - [Microsoft teams](O365-fasttrack-responsibilities.md#microsoft-teams)
 - [Văn phòng 365 nâng cao mối đe dọa bảo vệ](O365-fasttrack-responsibilities.md#office-365-advanced-threat-protection)
 - [OneDrive cho doanh nghiệp](O365-fasttrack-responsibilities.md#onedrive-for-business)

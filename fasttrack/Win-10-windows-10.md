@@ -3,19 +3,19 @@ title: Windows 10
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 5/01/2020
+ms.date: 6/01/2020
 ms.audience: ITPro
 ms.topic: overview
 ms.service: windows-10-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: FastTrack cung cấp hướng dẫn triển khai Windows 10 để giúp bạn nâng cấp từ Windows 7 Professional và Windows 8,1 Professional lên Windows 10 Enterprise.
-ms.openlocfilehash: fcfbf344792bf91bdf2becf76673ae9882c3b7ec
-ms.sourcegitcommit: 2775660fc5ccab2e92aee9383e326dba22b7a16b
+ms.openlocfilehash: 472a5efb28a269ecdd262ed9c31cf4cceaa06ddf
+ms.sourcegitcommit: 826f140cc0ddee32005f74e5d995073af1dc3fa2
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 05/01/2020
-ms.locfileid: "43999588"
+ms.lasthandoff: 06/01/2020
+ms.locfileid: "44472099"
 ---
 # <a name="windows-10"></a>Windows 10
 

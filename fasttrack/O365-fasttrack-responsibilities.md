@@ -3,19 +3,19 @@ title: Trách nhiệm của FastTrack
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 5/01/2020
+ms.date: 6/01/2020
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: FastTrack chuyên gia có trách nhiệm sau đây trong onboarding.
-ms.openlocfilehash: 78abfd26506f457858bc2e56f3ccfd1407c4cbdf
-ms.sourcegitcommit: 2775660fc5ccab2e92aee9383e326dba22b7a16b
+ms.openlocfilehash: ad0aea76c45d728dd81707e4d1057e6e2a6c5881
+ms.sourcegitcommit: 826f140cc0ddee32005f74e5d995073af1dc3fa2
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 05/01/2020
-ms.locfileid: "43999826"
+ms.lasthandoff: 06/01/2020
+ms.locfileid: "44472207"
 ---
 # <a name="fasttrack-responsibilities"></a>Trách nhiệm của FastTrack
 
@@ -118,6 +118,41 @@ Cung cấp hướng dẫn về:
 - Chọn và thiết lập cài đặt cục bộ hoặc đám mây.
 - Tạo XML cấu hình công cụ triển khai Office với công cụ Tuỳ chỉnh Office hoặc XML riêng để cấu hình gói triển khai.
 - Triển khai bằng cách sử dụng Microsoft Endpoint Configuration Manager, bao gồm hỗ trợ tạo bao bì Microsoft Endpoint Configuration Manager.
+
+## <a name="microsoft-information-governance"></a>Quản trị thông tin của Microsoft 
+
+Cung cấp hướng dẫn về:
+- Quản lý hồ sơ.
+  - Áp dụng quyền quản lý hồ sơ.
+  - Hướng dẫn về dịch kế hoạch tập tin và lịch trình lưu giữ thành nhãn và chính sách.
+  - Tạo các nhãn và chính sách lưu giữ.
+  - Thiết lập chính sách xóa.
+  - Xem lại các mặt hàng để bố trí.
+- Quản lý rủi ro nội bộ.
+  - Cho phép Office 365 kiểm tra Nhật ký.
+  - Cấu hình thiết đặt trong quản lý rủi ro nội bộ.
+  - Tạo các chính sách rủi ro nội bộ bằng cách sử dụng các sách chơi được tích hợp sẵn.
+  - Cấu hình quyền để tuân thủ liên lạc.
+  - Tạo chính sách tuân thủ thông tin sử dụng mẫu tùy chỉnh.
+  - Giám sát và xem lại cảnh báo.
+- Quản trị thông tin.
+  - Áp dụng quyền để quản trị thông tin.
+  - Tạo nhãn lưu giữ.
+  - Xuất bản nhãn lưu giữ (thủ công và tự động).
+  - Tạo công việc nhập.
+
+## <a name="microsoft-information-protection"></a>Bảo vệ thông tin của Microsoft
+
+Cung cấp hướng dẫn về:
+- Phân loại dữ liệu.
+- Loại thông tin nhạy cảm.
+- Tạo nhãn nhạy cảm.
+- Áp dụng nhãn nhạy cảm. 
+- Ghi nhãn hợp nhất.
+- Trainable phân loại.
+- Biết dữ liệu của bạn với trình thám hiểm nội dung và thám hiểm hoạt động.
+- Xuất bản nhãn sử dụng chính sách (thủ công và tự động).
+- Tạo chính sách ngăn chặn mất dữ liệu (DLP) cho cuộc trò chuyện và kênh Microsoft teams.
 
 ## <a name="microsoft-teams"></a>Microsoft teams
 
