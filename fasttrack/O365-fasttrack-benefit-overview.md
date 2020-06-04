@@ -3,7 +3,7 @@ title: Tổng quan về Lợi ích của Trung tâm FastTrack
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 5/01/2020
+ms.date: 6/01/2020
 ms.audience: ITPro
 ms.topic: overview
 f1_keywords:
@@ -12,12 +12,12 @@ ms.service: o365-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: Với FastTrack Trung tâm lợi ích cho văn phòng 365, bạn làm việc từ xa với FastTrack chuyên gia để có được môi trường Office 365 của bạn sẵn sàng để sử dụng và kế hoạch triển khai và sử dụng trong tổ chức của bạn. Để tìm hiểu thêm về tính đủ điều kiện, xem FastTrack Trung tâm lợi ích cho Office 365.
-ms.openlocfilehash: f3dd071707d469041900f9bab86c07489ffcb4d0
-ms.sourcegitcommit: 2775660fc5ccab2e92aee9383e326dba22b7a16b
+ms.openlocfilehash: a403178c2e94cd3415fa04bc9c2ecc68514557ec
+ms.sourcegitcommit: 826f140cc0ddee32005f74e5d995073af1dc3fa2
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 05/01/2020
-ms.locfileid: "43999898"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44471721"
 ---
 # <a name="fasttrack-center-benefit-overview"></a>Tổng quan về Lợi ích của Trung tâm FastTrack
 
@@ -30,10 +30,9 @@ Chúng tôi bao gồm các chủ đề sau:
 - [Di chuyển dữ liệu](O365-data-migration.md)
 - [Trách nhiệm của FastTrack](O365-fasttrack-responsibilities.md)
 - [Trách nhiệm của bạn](O365-your-responsibilities.md) 
-- [Phụ lục A - Di chuyển từ IBM Domino sang Exchange Online](O365-from-ibm-domino-to-exchange-online.md)
-- [Phụ lục B - Lợi ích bổ sung của Trung tâm FastTrack](O365-fasttrack-additional-benefits.md)
-- [Phụ lục C - Thỏa thuận Liên kết Kinh doanh HIPAA của Trung tâm FastTrack](O365-hipaa-business-associate-agreement.md)
-- [Phụ lục D - Tổng quan về Lợi ích Trung tâm FastTrack dành cho Office 365 US Government](US-Gov-appendix-overview.md)
+- [Phụ lục A - Lợi ích bổ sung của Trung tâm FastTrack](O365-fasttrack-additional-benefits.md)
+- [Phụ lục B - Thỏa thuận Liên kết Kinh doanh HIPAA của Trung tâm FastTrack](O365-hipaa-business-associate-agreement.md)
+- [Phụ lục C - Tổng quan về Lợi ích Trung tâm FastTrack dành cho Office 365 US Government](US-Gov-appendix-overview.md)
     
 Thuê Office 365 của bạn được tạo ra khi hoàn thành onboarding. Cấp phép người dùng có thể truy cập Office 365 bằng cách sử dụng một trong các tuỳ chọn danh tính sau:
 - Cloud danh tính với tài khoản Office 365 duy nhất.

@@ -3,19 +3,19 @@ title: Giai đoạn triển khai và di chuyển
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 5/01/2020
+ms.date: 6/01/2020
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: Office 365 bộ nhớ ngoài có bốn giai đoạn chính — bắt đầu, đánh giá, remediate và Enable. Bạn có thể làm theo các giai đoạn này với một giai đoạn di chuyển dữ liệu tùy chọn.
-ms.openlocfilehash: 0811237e5570fc9c2dd033edf2204dc2a9333f07
-ms.sourcegitcommit: 2775660fc5ccab2e92aee9383e326dba22b7a16b
+ms.openlocfilehash: 0b8b91f28c0df5357544472d315ec75bba9f91c1
+ms.sourcegitcommit: 826f140cc0ddee32005f74e5d995073af1dc3fa2
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 05/01/2020
-ms.locfileid: "43999220"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44471895"
 ---
 # <a name="onboarding-and-migration-phases"></a>Giai đoạn triển khai và di chuyển
 
@@ -141,6 +141,28 @@ OneDrive cho doanh nghiệp, các bước phụ thuộc vào nếu bạn đang s
 - Báo cáo và phân tích mối đe dọa.
 
 ![Văn phòng 365 ATP sơ đồ (onboarding)](media/Office-365-Advanced-Threat-Protector-orange-3.png)
+
+## <a name="microsoft-information-governance"></a>Quản trị thông tin của Microsoft
+
+Đối với quản trị thông tin của Microsoft, chúng tôi cung cấp hướng dẫn cho:
+
+- Quản trị thông tin.
+- Các chính sách và nhãn lưu giữ.
+- Quản lý hồ sơ.
+- Chính sách xóa.
+- Tuân thủ truyền thông.
+- Quản lý rủi ro nội bộ 
+- Nâng cao eDiscovery.
+
+## <a name="microsoft-information-protection"></a>Bảo vệ thông tin của Microsoft
+
+Để bảo vệ thông tin của Microsoft, chúng tôi cung cấp hướng dẫn cho:
+- Biết dữ liệu của bạn thông qua trình thám hiểm nội dung và thám hiểm hoạt động.
+- Nhãn nhạy cảm.
+- Phân loại dữ liệu.
+- Chính sách bảo vệ mất dữ liệu (DLP) cho cuộc trò chuyện và kênh Microsoft teams.
+- Bảo vệ thông tin.
+- Ghi nhãn hợp nhất.
 
 ## <a name="microsoft-teams"></a>Microsoft teams
 

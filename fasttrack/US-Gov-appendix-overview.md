@@ -1,5 +1,5 @@
 ---
-title: Phụ lục C-FastTrack Trung tâm tổng quan về quyền lợi văn phòng 365 chính phủ Hoa Kỳ
+title: Phụ lục C - Tổng quan về Lợi ích Trung tâm FastTrack dành cho Office 365 US Government
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
@@ -16,7 +16,7 @@ ms.contentlocale: vi-VN
 ms.lasthandoff: 06/01/2020
 ms.locfileid: "44472159"
 ---
-# <a name="appendix-c---fasttrack-center-benefit-overview-for-office-365-us-government"></a>Phụ lục C-FastTrack Trung tâm tổng quan về quyền lợi văn phòng 365 chính phủ Hoa Kỳ
+# <a name="appendix-c---fasttrack-center-benefit-overview-for-office-365-us-government"></a>Phụ lục C - Tổng quan về Lợi ích Trung tâm FastTrack dành cho Office 365 US Government
 
 Với FastTrack Trung tâm lợi ích cho văn phòng 365, bạn làm việc từ xa với FastTrack chuyên gia để có được môi trường Office 365 của bạn sẵn sàng để sử dụng và kế hoạch triển khai và sử dụng trong tổ chức của bạn. 
   
@@ -32,4 +32,4 @@ Chúng tôi bao gồm các chủ đề sau:
 - [Di chuyển dữ liệu](O365-data-migration.md)    
 - [Trách nhiệm của FastTrack cho văn phòng 365 chính phủ Hoa Kỳ](US-Gov-appendix-fasttrack-responsibilities.md)   
 - [Trách nhiệm của bạn cho văn phòng 365 chính phủ Hoa Kỳ](US-Gov-appendix-your-responsibilities.md)    
-- [Phụ lục A-FastTrack Trung tâm lợi ích bổ sung](O365-fasttrack-additional-benefits.md)
+- [Phụ lục A - Lợi ích bổ sung của Trung tâm FastTrack](O365-fasttrack-additional-benefits.md)

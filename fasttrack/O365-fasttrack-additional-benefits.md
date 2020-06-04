@@ -1,22 +1,22 @@
 ---
-title: Phụ lục B - Lợi ích bổ sung của Trung tâm FastTrack
+title: Phụ lục A - Lợi ích bổ sung của Trung tâm FastTrack
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 5/01/2020
+ms.date: 6/01/2020
 ms.audience: ITPro
 ms.topic: article
 ms.service: o365-administration
 localization_priority: Priority
 description: Khách hàng mua ít nhất 20.000 giấy phép cho một đối tượng thuê Exchange Online đủ điều kiện cho các dịch vụ bổ sung của FastTrack Center. Xem các dịch vụ và gói cước đủ điều kiện để biết thêm chi tiết.
-ms.openlocfilehash: 9b16a13f4bf658d68c43720ecad04f3ec7191cf0
-ms.sourcegitcommit: 2775660fc5ccab2e92aee9383e326dba22b7a16b
+ms.openlocfilehash: 7110bdef0073e1d7994659b55b2575d404311efc
+ms.sourcegitcommit: 826f140cc0ddee32005f74e5d995073af1dc3fa2
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 05/01/2020
-ms.locfileid: "43999105"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44471511"
 ---
-# <a name="appendix-b---fasttrack-center-additional-benefit"></a>Phụ lục B - Lợi ích bổ sung của Trung tâm FastTrack
+# <a name="appendix-a---fasttrack-center-additional-benefit"></a>Phụ lục A - Lợi ích bổ sung của Trung tâm FastTrack
 
 Khách hàng mua ít nhất 20.000 giấy phép cho một đối tượng thuê Exchange Online đủ điều kiện cho các dịch vụ bổ sung của FastTrack Center. Xem [các dịch vụ và gói cước đủ điều kiện](M365-eligible-services-and-plans.md) để biết thêm chi tiết. 
   

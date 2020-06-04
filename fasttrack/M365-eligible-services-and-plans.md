@@ -3,19 +3,19 @@ title: Dịch vụ và gói đủ điều kiện
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 5/01/2020
+ms.date: 6/01/2020
 ms.audience: ITPro
 ms.topic: overview
 ms.service: m365-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: Khi bạn mua bất kỳ dịch vụ Microsoft 365, FastTrack chuyên gia cung cấp hướng dẫn cho bạn để onboard cho Microsoft 365 và bắt đầu sử dụng chúng.
-ms.openlocfilehash: 9b6c7272d1b8083acd3d5765687ce841e08d086a
-ms.sourcegitcommit: 2775660fc5ccab2e92aee9383e326dba22b7a16b
+ms.openlocfilehash: 1a12c249f6eea86b0b81c9cd8051f294b954d733
+ms.sourcegitcommit: 826f140cc0ddee32005f74e5d995073af1dc3fa2
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 05/01/2020
-ms.locfileid: "43999838"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44471559"
 ---
 # <a name="eligible-services-and-plans"></a>Dịch vụ và gói đủ điều kiện
 
@@ -54,6 +54,8 @@ FastTrack Center cung cấp hỗ trợ cho các dịch vụ sau:
 - Trao đổi trực tuyến 
 - Microsoft 365 ứng dụng
 - Tính năng Chống Mối đe dọa Nâng cao của Bộ bảo vệ Microsoft
+- Quản trị thông tin của Microsoft
+- Bảo vệ thông tin của Microsoft
 - Microsoft InTune
 - Microsoft teams
 - Văn phòng 365 nâng cao mối đe dọa bảo vệ
@@ -75,6 +77,10 @@ FastTrack Center cung cấp hỗ trợ cho các dịch vụ sau:
 - Microsoft 365 E3\*
 - Microsoft 365 E5\*
 - Bảo mật Microsoft 365 E5\*
+- Microsoft 365 E5 tuân thủ\*
+- Microsoft 365 E5 eDiscovery & kiểm tra\*
+- Microsoft 365 E5 bảo vệ thông tin & quản trị\*
+- Microsoft 365 quản lý rủi ro nội bộ E5\*
 - Microsoft 365 F1\*
 - Microsoft 365 kinh doanh\*
 - Microsoft 365 ứng dụng dành cho doanh nghiệp\*
@@ -91,6 +97,10 @@ FastTrack Center cung cấp hỗ trợ cho các dịch vụ sau:
 - Microsoft 365 A3\*
 - Microsoft 365 A5\*
 - Microsoft 365 A5 bảo mật\*
+- Microsoft 365 A5 tuân thủ\*
+- Microsoft 365 A5 eDiscovery & kiểm tra\*
+- Microsoft 365 A5 bảo vệ thông tin & quản trị\*
+- Microsoft 365 A5 quản lý rủi ro nội bộ\*
 - Microsoft 365 ứng dụng cho giáo dục (thiết bị)\*
  
 ## <a name="eligible-office-365-plans"></a>Kế hoạch Office 365 đủ điều kiện
@@ -227,5 +237,5 @@ Kế hoạch không đủ điều kiện cho các dịch vụ FastTrack bao gồ
   
 ## <a name="fasttrack-center-additional-benefit-eligibility"></a>FastTrack Trung tâm điều kiện bổ sung lợi ích
 
-Khách hàng mua ít nhất 20.000 giấy phép cho người thuê Office 365 đủ điều kiện cho các dịch vụ khác từ Trung tâm FastTrack. Để biết thêm thông tin, xem [phụ lục B-FastTrack Trung tâm lợi ích bổ sung](O365-fasttrack-additional-benefits.md).
+Khách hàng mua ít nhất 20.000 giấy phép cho người thuê Office 365 đủ điều kiện cho các dịch vụ khác từ Trung tâm FastTrack. Để biết thêm thông tin, xem [phụ lục A-FastTrack Trung tâm lợi ích bổ sung](O365-fasttrack-additional-benefits.md).
   

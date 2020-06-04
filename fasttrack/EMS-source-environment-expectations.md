@@ -5,7 +5,7 @@ keywords: ''
 author: andredm7
 ms.author: andredm
 manager: ''
-ms.date: 5/01/2020
+ms.date: 6/01/2020
 ms.topic: article
 ms.prod: ''
 ms.service: microsoft-intune
@@ -14,12 +14,12 @@ ms.collection: FastTrack
 ms.assetid: 9048f3e5-cc28-4744-bb5e-36f974abb261
 ms.reviewer: ''
 ms.suite: ems
-ms.openlocfilehash: edb877cad106fd8073524c9082e2491943eed66a
-ms.sourcegitcommit: 2775660fc5ccab2e92aee9383e326dba22b7a16b
+ms.openlocfilehash: 382d132cfe3c7dfa948568188f9050b389dec15f
+ms.sourcegitcommit: 826f140cc0ddee32005f74e5d995073af1dc3fa2
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 05/01/2020
-ms.locfileid: "43999660"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44471703"
 ---
 # <a name="source-environment-expectations"></a>Kỳ vọng về môi trường nguồn
 
@@ -42,7 +42,7 @@ Bảng sau hiển thị các kỳ vọng cho môi trường nguồn hiện tại
 |Máy quét bảo vệ thông tin Azure|<br /><br /> Khách hàng nên đã: <br /> -Sử dụng Windows Server 2012 R2 hoặc Windows Server 2016.<br /> -Có kết nối Internet. <br /> -Có Microsoft SQL Server 2012 trở đi trong một phiên bản địa phương hoặc từ xa.  <br /> -Có một tài khoản Dịch vụ tạo ra cho Active Directory tại chỗ của họ và đồng bộ hoá với Azure AD.  <br /> -Đã tải về AzInfoProtection. exe. <br /> -Có nhãn được cấu hình để tự động phân loại/bảo vệ.<br />|
 
 > [!NOTE]
-> **Bạn muốn tìm hiểu thêm?** 
+> **Muốn tìm hiểu thêm?** 
 >  [Doanh nghiệp di động + bảo mật](https://www.microsoft.com/cloud-platform/enterprise-mobility)
 
 ## <a name="next-steps"></a>Các bước tiếp theo
