@@ -3,19 +3,19 @@ title: Giai đoạn triển khai và di chuyển
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 6/01/2020
+ms.date: 7/01/2020
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: Office 365 bộ nhớ ngoài có bốn giai đoạn chính — bắt đầu, đánh giá, remediate và Enable. Bạn có thể làm theo các giai đoạn này với một giai đoạn di chuyển dữ liệu tùy chọn.
-ms.openlocfilehash: 0b8b91f28c0df5357544472d315ec75bba9f91c1
-ms.sourcegitcommit: 826f140cc0ddee32005f74e5d995073af1dc3fa2
+ms.openlocfilehash: 7361a3aa493ae9263076357bf2ce005c3f92a5b4
+ms.sourcegitcommit: 850211891e549e582e649a1dacdc2aa79b520b39
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44471895"
+ms.lasthandoff: 07/01/2020
+ms.locfileid: "45011604"
 ---
 # <a name="onboarding-and-migration-phases"></a>Giai đoạn triển khai và di chuyển
 
@@ -214,7 +214,7 @@ OneDrive cho doanh nghiệp, các bước phụ thuộc vào nếu bạn đang s
 - Gán giấy phép người dùng cuối bằng cách sử dụng [Trung tâm quản trị Microsoft 365](https://go.microsoft.com/fwlink/?linkid=2032704) và Windows PowerShell.  
 - Cài đặt dự án máy tính để bàn trực tuyến khách hàng từ cổng Office 365 sử dụng click-to-run.
 - Cấu hình cài đặt bản Cập Nhật bằng cách sử dụng công cụ triển khai Office 365.  
-- Thiết lập một máy chủ phân phối trên trang web cho khách hàng máy tính để bàn Project Online, bao gồm hỗ trợ tạo tệp configuration. xml để sử dụng với công cụ triển khai Office 365.  
+- Thiết lập một máy chủ phân phối trên trang web cho khách hàng máy tính để bàn Project Online, bao gồm hỗ trợ tạo tệp configuration.xml để sử dụng với công cụ triển khai Office 365.  
 - Kết nối khách hàng máy tính để bàn trực tuyến dự án Online Professional hoặc Project Online Premium.
     
 ![Bước xảy ra trong quá trình kích hoạt giai đoạn của dự án cho Office 365.](media/f0133291-7c12-4db0-af61-75ec5e71451c.png)

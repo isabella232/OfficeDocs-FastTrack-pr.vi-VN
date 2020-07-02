@@ -3,19 +3,19 @@ title: Tính năng Chống Mối đe dọa Nâng cao của Bộ bảo vệ Micro
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 6/01/2020
+ms.date: 7/01/2020
 ms.audience: ITPro
 ms.topic: overview
 ms.service: windows-10-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: Lợi ích Trung tâm FastTrack dành cho Windows 10 cung cấp quyền truy cập vào bảo vệ mối đe dọa nâng cao của Microsoft Defender (ATP) – một dịch vụ mới được thiết kế để giúp các mạng doanh nghiệp ngăn chặn, phát hiện, điều tra và phản hồi các mối đe dọa nâng cao.
-ms.openlocfilehash: 2e547eb5f5a2f83dda156ad4c6a5d69e59bdf4a8
-ms.sourcegitcommit: 826f140cc0ddee32005f74e5d995073af1dc3fa2
+ms.openlocfilehash: d6077b8afb66a72a5a631f6b203f52682e8564a5
+ms.sourcegitcommit: 850211891e549e582e649a1dacdc2aa79b520b39
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 06/01/2020
-ms.locfileid: "44472094"
+ms.lasthandoff: 07/01/2020
+ms.locfileid: "45011664"
 ---
 # <a name="microsoft-defender-advanced-threat-protection"></a>Tính năng Chống Mối đe dọa Nâng cao của Bộ bảo vệ Microsoft
 

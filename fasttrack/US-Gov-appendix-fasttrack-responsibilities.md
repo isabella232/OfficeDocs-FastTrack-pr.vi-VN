@@ -3,25 +3,25 @@ title: Trách nhiệm của FastTrack cho văn phòng 365 chính phủ Hoa Kỳ
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 6/01/2020
+ms.date: 7/01/2020
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: None
 ms.collection: FastTrack
 description: FastTrack chuyên gia có trách nhiệm sau đây trong onboarding.
-ms.openlocfilehash: 57fba2b06ec21a2603fb36ff32cc58896e80f623
-ms.sourcegitcommit: 826f140cc0ddee32005f74e5d995073af1dc3fa2
+ms.openlocfilehash: fdd8970a88b70a8746200a8dc66e20562c9b9b19
+ms.sourcegitcommit: 850211891e549e582e649a1dacdc2aa79b520b39
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44471595"
+ms.lasthandoff: 07/01/2020
+ms.locfileid: "45011628"
 ---
 # <a name="fasttrack-responsibilities-for-office-365-us-government"></a>Trách nhiệm của FastTrack cho văn phòng 365 chính phủ Hoa Kỳ
 
 FastTrack chuyên gia có trách nhiệm sau đây trong onboarding.  
   
-## <a name="general"></a>Chung
+## <a name="general"></a>Tổng quát
 
 - Cung cấp hỗ trợ từ xa cho bạn trong việc lập kế hoạch thành công phát triển và thực hiện, và cho các hoạt động cấu hình yêu cầu như chi tiết trong các mô tả giai đoạn.
 - Cung cấp tài liệu và công cụ phần mềm có sẵn, bảng điều khiển quản trị và tập lệnh để cung cấp hướng dẫn để bạn giảm hoặc loại bỏ các tác vụ cấu hình và tài nguyên lập kế hoạch thành công.   
@@ -202,5 +202,5 @@ Cung cấp hướng dẫn về:
 - Cài đặt ứng dụng Microsoft 365 từ cổng Office 365 bằng cách sử dụng click-to-run.   
 - Cài đặt ứng dụng Office Mobile (như Outlook Mobile, Word Mobile, Excel Mobile và PowerPoint Mobile) trên các thiết bị chạy iOS, Android hoặc Windows Mobile của bạn.   
 - Cấu hình cài đặt bản Cập Nhật bằng cách sử dụng Office 2016 công cụ triển khai hoặc chính sách nhóm mẫu.   
-- Thiết lập một máy chủ phân phối trên trang web cho Microsoft 365 ứng dụng, bao gồm hỗ trợ tạo tệp configuration. xml để sử dụng với công cụ triển khai Office 365.   
+- Thiết lập một máy chủ phân phối trên trang web cho Microsoft 365 ứng dụng, bao gồm hỗ trợ tạo tệp configuration.xml để sử dụng với công cụ triển khai Office 365.   
 - Triển khai bằng cách sử dụng Microsoft Endpoint Configuration Manager, bao gồm hỗ trợ tạo bao bì Microsoft Endpoint Configuration Manager.

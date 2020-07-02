@@ -3,19 +3,19 @@ title: Trách nhiệm của FastTrack
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 6/01/2020
+ms.date: 7/01/2020
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: FastTrack chuyên gia có trách nhiệm sau đây trong onboarding.
-ms.openlocfilehash: ad0aea76c45d728dd81707e4d1057e6e2a6c5881
-ms.sourcegitcommit: 826f140cc0ddee32005f74e5d995073af1dc3fa2
+ms.openlocfilehash: f7a519e0f5fd6b5b8d458fd326826e5a16797a67
+ms.sourcegitcommit: 850211891e549e582e649a1dacdc2aa79b520b39
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 06/01/2020
-ms.locfileid: "44472207"
+ms.lasthandoff: 07/01/2020
+ms.locfileid: "45011436"
 ---
 # <a name="fasttrack-responsibilities"></a>Trách nhiệm của FastTrack
 
@@ -140,6 +140,15 @@ Cung cấp hướng dẫn về:
   - Tạo nhãn lưu giữ.
   - Xuất bản nhãn lưu giữ (thủ công và tự động).
   - Tạo công việc nhập.
+- Nâng cao eDiscovery.
+  - Không-văn phòng 365 dữ liệu.
+  - Thiết lập quyền.
+  - Tạo trường hợp.
+  - Thêm custodians. 
+  - Giữ pháp lý.
+  - Tìm.
+  - Đánh giá tập.
+  - Xuất nội dung.
 
 ## <a name="microsoft-information-protection"></a>Bảo vệ thông tin của Microsoft
 
@@ -235,7 +244,7 @@ Cung cấp hướng dẫn về:
 - Gán giấy phép người dùng cuối bằng cách sử dụng [Trung tâm quản trị Microsoft 365](https://go.microsoft.com/fwlink/?linkid=2032704) và Windows PowerShell.
 - Tải xuống và cài đặt ứng dụng khách Project Online Desktop từ cổng thông tin.   
 - Cấu hình cài đặt bản Cập Nhật bằng cách sử dụng Office 365 công cụ triển khai hoặc chính sách nhóm mẫu.
-- Thiết lập một máy chủ phân phối trên trang web cho khách hàng dự án trực tuyến máy tính, bao gồm hướng dẫn để tạo tệp configuration. xml cho công cụ triển khai Office 2016. 
+- Thiết lập một máy chủ phân phối trên trang web cho khách hàng máy tính để bàn Project Online, bao gồm hướng dẫn để tạo tệp configuration.xml cho công cụ triển khai Office 2016. 
 - Kết nối khách hàng máy tính để bàn trực tuyến dự án trực tuyến.
 
 ## <a name="sharepoint-online"></a>SharePoint trực tuyến

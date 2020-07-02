@@ -3,19 +3,19 @@ title: Nội dung hỗ trợ được cung cấp
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 6/01/2020
+ms.date: 7/01/2020
 ms.audience: ITPro
 ms.topic: overview
 ms.service: windows-10-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: Khi bạn mua bất kỳ dịch vụ Windows 10 hoặc Microsoft 365, FastTrack chuyên gia cung cấp hướng dẫn triển khai từ xa để bảo vệ điểm cuối. Dịch vụ của chúng tôi được thiết kế phù hợp với môi trường và nhu cầu cho từng khách hàng.
-ms.openlocfilehash: 3cbfd8a00ebb829394d617be0d22867828c86c79
-ms.sourcegitcommit: 826f140cc0ddee32005f74e5d995073af1dc3fa2
+ms.openlocfilehash: ec29f863b01ffb312b7b8b299580e5e38f60fa9d
+ms.sourcegitcommit: 850211891e549e582e649a1dacdc2aa79b520b39
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 06/01/2020
-ms.locfileid: "44472015"
+ms.lasthandoff: 07/01/2020
+ms.locfileid: "45011532"
 ---
 # <a name="assistance-offered"></a>Nội dung hỗ trợ được cung cấp  
 
@@ -37,7 +37,7 @@ FastTrack cung cấp hướng dẫn từ xa cho các mục sau:
     - Tự động điều tra và khắc phục.
     - Điểm an toàn.
 - Đánh giá mô phỏng và hướng dẫn (như kịch bản thực hành, phần mềm độc hại giả mạo và điều tra tự động).
-- Sâu lặn vào báo cáo và phân tích mối đe dọa.
+- Tổng quan về các tính năng phân tích báo cáo và mối đe dọa.
 - Tích hợp Office 365 ATP với Microsoft Defender ATP.
 - Tiến hành các lối đi của cổng thông tin Trung tâm bảo mật của Microsoft Defender.
 
@@ -51,6 +51,7 @@ Các dịch vụ FastTrack không bao gồm:
    - Máy chủ Windows
    - Macos
    - Linux
+   - Thiết bị di động (Android và iOS)
 - Cấu hình các khả năng giảm bề mặt tấn công sau:
     - Cách ly dựa trên phần cứng.
     - Kiểm soát ứng dụng.
@@ -60,3 +61,4 @@ Các dịch vụ FastTrack không bao gồm:
 - Cấu hình hoặc đào tạo xem xét API hoặc thông tin bảo mật và quản lý sự kiện (SIEM) kết nối.
 - Đăng ký hoặc cấu hình của Microsoft Threat Protection (MTP).
 - Đào tạo hoặc hướng dẫn bao gồm săn bắn tiên tiến.
+- Đào tạo hoặc hướng dẫn bao gồm việc sử dụng hoặc tạo ra các truy vấn Kusto.

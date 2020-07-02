@@ -3,19 +3,19 @@ title: Kỳ vọng về môi trường nguồn
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 6/01/2020
+ms.date: 7/01/2020
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: 'Lợi ích Trung tâm FastTrack cung cấp hướng dẫn để bạn thiết lập mức độ tích hợp với môi trường nguồn của bạn (ví dụ: nếu bạn đã có dịch vụ trong môi trường nguồn mà bạn muốn chuyển sang Office 365).'
-ms.openlocfilehash: 3f3a2176a562de8c63c7e6ed5575163235c8f384
-ms.sourcegitcommit: 826f140cc0ddee32005f74e5d995073af1dc3fa2
+ms.openlocfilehash: 5bf7dee59adf8ac618830895752c312ca4258e19
+ms.sourcegitcommit: 850211891e549e582e649a1dacdc2aa79b520b39
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 06/01/2020
-ms.locfileid: "44472171"
+ms.lasthandoff: 07/01/2020
+ms.locfileid: "45011580"
 ---
 # <a name="source-environment-expectations"></a>Kỳ vọng về môi trường nguồn
 
