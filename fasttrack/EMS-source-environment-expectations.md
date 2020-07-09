@@ -5,7 +5,7 @@ keywords: ''
 author: andredm7
 ms.author: andredm
 manager: ''
-ms.date: 6/01/2020
+ms.date: 7/01/2020
 ms.topic: article
 ms.prod: ''
 ms.service: microsoft-intune
@@ -14,12 +14,12 @@ ms.collection: FastTrack
 ms.assetid: 9048f3e5-cc28-4744-bb5e-36f974abb261
 ms.reviewer: ''
 ms.suite: ems
-ms.openlocfilehash: 382d132cfe3c7dfa948568188f9050b389dec15f
-ms.sourcegitcommit: 826f140cc0ddee32005f74e5d995073af1dc3fa2
+ms.openlocfilehash: df1a9fc3bd1fc51936a3595f674b36ff66f442b5
+ms.sourcegitcommit: 850211891e549e582e649a1dacdc2aa79b520b39
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44471703"
+ms.lasthandoff: 07/01/2020
+ms.locfileid: "45011028"
 ---
 # <a name="source-environment-expectations"></a>Kỳ vọng về môi trường nguồn
 
@@ -39,7 +39,7 @@ Bảng sau hiển thị các kỳ vọng cho môi trường nguồn hiện tại
 |Cửa sổ Autopilot|Quản trị viên CNTT chịu trách nhiệm đăng ký thiết bị của họ cho tổ chức của họ bằng cách có nhà cung cấp phần cứng tải lên ID phần cứng thay mặt họ hoặc tải nó vào dịch vụ Windows Autopilot. |
 |Triển khai Outlook cho iOS và Android một cách an toàn với InTune|<br /><br />-Người dùng nhận dạng được kích hoạt trong Azure AD cho Office 365.<br />-Exchange Online hoặc Exchange kết hợp cấu hình với giấy phép người dùng được chỉ định.<br />|
 |Bảo vệ thông tin Azure (P2 hoặc EMS E5)|<br /><br />Khách hàng nên đã: <br /> -Sử dụng Azure AD.<br />-Sử dụng Windows hoặc iOS (các OSs khác ngoài phạm vi).<br /> -Sử dụng máy khách Office mới hơn Office 2010 SP2 không dựa trên Office là khách hàng chính. <br /> -Có địa điểm chia sẻ tập tin chính của họ.  <br /> -Đã nâng cấp từ dịch vụ quản lý quyền Active Directory (AD RMS). <br /> -Có phân loại được phê duyệt. <br /> -Hiểu bất kỳ hạn chế quy định nào về quản lý khóa được bảo vệ. <br />|
-|Máy quét bảo vệ thông tin Azure|<br /><br /> Khách hàng nên đã: <br /> -Sử dụng Windows Server 2012 R2 hoặc Windows Server 2016.<br /> -Có kết nối Internet. <br /> -Có Microsoft SQL Server 2012 trở đi trong một phiên bản địa phương hoặc từ xa.  <br /> -Có một tài khoản Dịch vụ tạo ra cho Active Directory tại chỗ của họ và đồng bộ hoá với Azure AD.  <br /> -Đã tải về AzInfoProtection. exe. <br /> -Có nhãn được cấu hình để tự động phân loại/bảo vệ.<br />|
+|Máy quét bảo vệ thông tin Azure|<br /><br /> Khách hàng nên đã: <br /> -Sử dụng Windows Server 2012 R2 hoặc Windows Server 2016.<br /> -Có kết nối Internet. <br /> -Có Microsoft SQL Server 2012 trở đi trong một phiên bản địa phương hoặc từ xa.  <br /> -Có một tài khoản Dịch vụ tạo ra cho Active Directory tại chỗ của họ và đồng bộ hoá với Azure AD.  <br /> -Đã tải về AzInfoProtection.exe. <br /> -Có nhãn được cấu hình để tự động phân loại/bảo vệ.<br />|
 
 > [!NOTE]
 > **Muốn tìm hiểu thêm?** 

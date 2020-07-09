@@ -3,19 +3,19 @@ title: Onboarding và di cư giai đoạn cho văn phòng 365 chính phủ Hoa K
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 6/01/2020
+ms.date: 7/01/2020
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: None
 ms.collection: FastTrack
 description: Office 365 bộ nhớ ngoài cho Office 365 chính phủ Hoa Kỳ có bốn giai đoạn chính — bắt đầu, đánh giá, remediate và Enable. Bạn có thể làm theo các giai đoạn này với một giai đoạn di chuyển dữ liệu tùy chọn như được hiển thị trong hình dưới đây.
-ms.openlocfilehash: 6ab44c470bdec34aeab2ae3514e479007f6df394
-ms.sourcegitcommit: 826f140cc0ddee32005f74e5d995073af1dc3fa2
+ms.openlocfilehash: 8d4e396694af010f4233a3aeb8cedd6237baf203
+ms.sourcegitcommit: 850211891e549e582e649a1dacdc2aa79b520b39
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 06/01/2020
-ms.locfileid: "44472195"
+ms.lasthandoff: 07/01/2020
+ms.locfileid: "45011280"
 ---
 # <a name="onboarding-and-migration-phases-for-office-365-us-government"></a>Onboarding và di cư giai đoạn cho văn phòng 365 chính phủ Hoa Kỳ
 
@@ -183,7 +183,7 @@ OneDrive cho doanh nghiệp, các bước phụ thuộc vào nếu bạn đang s
 - Cài đặt ứng dụng Microsoft 365 từ cổng Office 365 bằng cách sử dụng click-to-run.    
 - Cài đặt ứng dụng Office Mobile (như Outlook Mobile, Word Mobile, Excel Mobile và PowerPoint Mobile) trên thiết bị iOS hoặc Android của bạn.   
 - Cấu hình cài đặt bản Cập Nhật bằng cách sử dụng công cụ triển khai Office 365.    
-- Thiết lập một máy chủ phân phối trên trang web cho Microsoft 365 ứng dụng, bao gồm hỗ trợ tạo tệp configuration. xml để sử dụng với công cụ triển khai Office 365.    
+- Thiết lập một máy chủ phân phối trên trang web cho Microsoft 365 ứng dụng, bao gồm hỗ trợ tạo tệp configuration.xml để sử dụng với công cụ triển khai Office 365.    
 - Triển khai bằng cách sử dụng Microsoft Endpoint Configuration Manager, bao gồm hỗ trợ tạo bao bì Microsoft Endpoint Configuration Manager.
     
 ![Các bước Office ProPlus bộ nhớ ngoài](media/o365-onboarding-enable-m365-apps-2.png)

@@ -3,19 +3,19 @@ title: Môi trường nguồn mong đợi cho văn phòng 365 chính phủ Hoa K
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 6/01/2020
+ms.date: 7/01/2020
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: None
 ms.collection: FastTrack
 description: 'Lợi ích Trung tâm FastTrack cung cấp hướng dẫn để bạn thiết lập mức độ tích hợp với môi trường nguồn của bạn (ví dụ: nếu bạn đã có dịch vụ trong môi trường nguồn mà bạn muốn chuyển sang Office 365).'
-ms.openlocfilehash: 51080d6909a62a524e85ecd4eec5b5e6e4089882
-ms.sourcegitcommit: 826f140cc0ddee32005f74e5d995073af1dc3fa2
+ms.openlocfilehash: e50e415beb4f0a197465ce134a0ee89dd6b57f0b
+ms.sourcegitcommit: 850211891e549e582e649a1dacdc2aa79b520b39
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 06/01/2020
-ms.locfileid: "44472147"
+ms.lasthandoff: 07/01/2020
+ms.locfileid: "45011160"
 ---
 # <a name="source-environment-expectations-for-office-365-us-government"></a>Môi trường nguồn mong đợi cho văn phòng 365 chính phủ Hoa Kỳ
 
