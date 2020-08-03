@@ -10,12 +10,12 @@ ms.service: o365-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: FastTrack chuyên gia cung cấp hướng dẫn về các bước để di chuyển dữ liệu sang Office 365. Điều này có sẵn cho tất cả các khách hàng hợp lệ với Office 365 dịch vụ dành cho Exchange Online, OneDrive dành cho doanh nghiệp và SharePoint Online.
-ms.openlocfilehash: 7780af3d5edcdbdf21acba1d421bf379967305fa
-ms.sourcegitcommit: 850211891e549e582e649a1dacdc2aa79b520b39
+ms.openlocfilehash: 2befdc8e1eb2464b1c9831528849fb39671cfff2
+ms.sourcegitcommit: 21e02f51145485e20c00670e0ebe172f7def46e6
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 07/01/2020
-ms.locfileid: "45011316"
+ms.lasthandoff: 07/31/2020
+ms.locfileid: "46534055"
 ---
 # <a name="data-migration"></a>Di chuyển dữ liệu
 
@@ -38,9 +38,6 @@ Bạn có thể có dữ liệu trong môi trường nguồn mà bạn muốn di
   
 > [!NOTE]
 > Nếu cần tích hợp, môi trường nguồn của bạn phải ở mức tối thiểu cho ứng dụng đó. 
-  
-> [!NOTE]
-> Mới vào tháng 2020, Microsoft đang làm cho [văn phòng 6 tháng 365 E1](https://docs.microsoft.com/microsoftteams/e1-trial-license) và [văn phòng 365](https://docs.microsoft.com/microsoftteams/g1-trial-license) giấy phép thử nghiệm G1 để hỗ trợ công việc từ xa và học tập như khách hàng đáp ứng với các ổ dịch covid-19. Là một ngoại lệ, FastTrack đang thực hiện các dịch vụ di chuyển dữ liệu có sẵn cho người thuê với 500 hoặc nhiều hơn giấy phép của các thử nghiệm và cho [văn phòng 365 A1](https://www.microsoft.com/microsoft-365/academic/compare-office-365-education-plans?activetab=tab:primaryr1) cho sinh viên từ tháng ba 2020 đến tháng tám 2020. Microsoft có quyền hủy bỏ, thay đổi hoặc tạm ngừng đề nghị này bất kỳ lúc nào mà không cần thông báo.
 
 Bảng sau mô tả những gì mong muốn di chuyển trong môi trường nguồn hiện tại của bạn.
   
