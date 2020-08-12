@@ -9,48 +9,47 @@ ms.topic: overview
 ms.service: windows-10-administration
 localization_priority: Priority
 ms.collection: FastTrack
-description: Khi bạn mua bất kỳ dịch vụ Windows 10 hoặc Microsoft 365 (như chi tiết trong các dịch vụ và kế hoạch đủ điều kiện), các chuyên gia FastTrack cung cấp hướng dẫn triển khai từ xa và hỗ trợ tương thích nếu bạn có một ứng dụng web hoặc trang web hoạt động với Internet Explorer hoặc Google Chrome.
-ms.openlocfilehash: 2e295d43ac037d0908a78c0a9f2bb03f2dce177c
-ms.sourcegitcommit: 850211891e549e582e649a1dacdc2aa79b520b39
+description: Khi bạn mua bất kỳ dịch vụ nào của Windows 10 hoặc Microsoft 365 (càng chi tiết trong các gói dịch vụ và gói đủ điều kiện), thì các chuyên gia FastTrack cung cấp hướng dẫn triển khai từ xa và hỗ trợ tương thích nếu bạn có một ứng dụng web hoặc site hoạt động với Internet Explorer hoặc Google Chrome.
+ms.openlocfilehash: 29a38add3ca5787faaf083e96ec858661fe823b0
+ms.sourcegitcommit: 7da7b0966b08486a0ede148240af958408a271f7
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 07/01/2020
-ms.locfileid: "45011568"
+ms.lasthandoff: 08/11/2020
+ms.locfileid: "46634188"
 ---
 # <a name="assistance-offered"></a>Nội dung hỗ trợ được cung cấp
 
-Khi bạn mua bất kỳ dịch vụ Windows 10 hoặc Microsoft 365 đủ điều kiện (như chi tiết trong [dịch vụ và kế hoạch đủ điều kiện](M365-eligible-services-and-plans.md)), các chuyên gia FastTrack cung cấp hướng dẫn triển khai từ xa và hỗ trợ tương thích nếu bạn có một ứng dụng web hoặc trang web hoạt động với Internet Explorer hoặc Google Chrome. 
+Khi bạn mua bất kỳ dịch vụ đủ điều kiện Windows 10 hoặc Microsoft 365 (như chi tiết trong các [gói dịch vụ và gói đủ điều kiện](M365-eligible-services-and-plans.md)), các chuyên gia fasttrack cung cấp hướng dẫn triển khai từ xa và hỗ trợ tương thích nếu bạn có một ứng dụng web hoặc site hoạt động với Internet Explorer hoặc Google Chrome. 
 
-## <a name="assistance"></a>Hỗ trợ
+## <a name="assistance"></a>Về
 
-FastTrack cung cấp hướng dẫn từ xa cho các mục sau:
-- Hướng dẫn triển khai Microsoft Edge mới trên Windows 10 Enterprise với Microsoft Endpoint Manager (Microsoft Endpoint Configuration Manager hoặc Microsoft InTune).
+FastTrack cung cấp hướng dẫn từ xa cho những điều sau đây:
+- Hướng dẫn để triển khai Microsoft Edge mới trên Windows 10 Enterprise với Microsoft Endpoint Manager (Microsoft Endpoint Configuration Manager hoặc Microsoft InTune).
 - Hướng dẫn về cấu hình Microsoft Edge (sử dụng chính sách nhóm hoặc cấu hình ứng dụng InTune và chính sách ứng dụng).
-- Hướng dẫn hàng tồn kho danh sách các trang web có thể yêu cầu sử dụng trong chế độ Internet Explorer.
-- Hướng dẫn để kích hoạt chế độ Internet Explorer với danh sách trang web doanh nghiệp hiện tại.
+- Hướng dẫn để kiểm kê danh sách các site có thể yêu cầu sử dụng trong chế độ Internet Explorer.
+- Hướng dẫn để cho phép chế độ Internet Explorer có danh sách site hiện có của doanh nghiệp.
 
-Để yêu cầu hướng dẫn triển khai Microsoft Edge, bạn có thể nhận trợ giúp thông qua [Trung tâm quản trị microsoft 365](https://go.microsoft.com/fwlink/?linkid=2032704) hoặc [trang web FastTrack](https://go.microsoft.com/fwlink/?linkid=780698). Để đăng nhập, bạn phải có tài khoản hoạt động hoặc trường học (ID tổ chức hoặc Azure Active Directory ID) trên một đối tượng thuê hoạt động. 
+Để yêu cầu hướng dẫn triển khai Microsoft Edge, bạn có thể nhận trợ giúp thông qua [Trung tâm quản trị microsoft 365](https://go.microsoft.com/fwlink/?linkid=2032704) hoặc [site fasttrack](https://go.microsoft.com/fwlink/?linkid=780698). Để đăng nhập, bạn phải có tài khoản cơ quan hoặc trường học hiện hoạt (ID tổ chức hoặc ID Azure Active Directory) trên một đối tượng thuê hiện hoạt. 
 
-Để được trợ giúp thông qua [trang web FastTrack](https://go.microsoft.com/fwlink/?linkid=780698): 
-1.    Đăng nhập vào [trang web FastTrack](https://go.microsoft.com/fwlink/?linkid=780698). 
-2.    Chọn **yêu cầu hỗ trợ cho Microsoft 365** từ các **hành động nhanh** trên đầu trang đích của bạn hoặc bằng cách chọn **yêu cầu hỗ trợ cho Microsoft 365** trên thẻ triển khai.
-3.    Hoàn thành **yêu cầu hỗ trợ cho Microsoft 365** mẫu.
+Để được trợ giúp thông qua [site Fasttrack](https://go.microsoft.com/fwlink/?linkid=780698): 
+1.    Đăng nhập vào [site Fasttrack](https://go.microsoft.com/fwlink/?linkid=780698). 
+2.    Chọn **yêu cầu hỗ trợ với Microsoft 365** từ các **hành động nhanh** ở đầu trang đích của bạn.
+3.    Hoàn thành việc **hỗ trợ yêu cầu với biểu mẫu Microsoft 365** .
   
-Đối tác cũng có thể nhận trợ giúp thông qua [trang web FastTrack](https://go.microsoft.com/fwlink/?linkid=780698) thay mặt cho khách hàng. Để làm như vậy:
-1.    Đăng nhập vào [trang web FastTrack](https://go.microsoft.com/fwlink/?linkid=780698). 
-2.    Chọn **khách hàng của tôi**.
-3.    Tìm kiếm khách hàng của bạn hoặc chọn chúng từ danh sách khách hàng của bạn.
-4.    Chọn **dịch vụ**.
-5.    Chọn mẫu **yêu cầu hỗ trợ cho Microsoft 365** .
-6.    Chọn tùy chọn sản phẩm **Microsoft Edge** và hoàn tất biểu mẫu.
+Đối tác cũng có thể nhận trợ giúp qua [site Fasttrack](https://go.microsoft.com/fwlink/?linkid=780698) thay mặt cho khách hàng. Để thực hiện:
+1.    Đăng nhập vào [site Fasttrack](https://go.microsoft.com/fwlink/?linkid=780698). 
+2.    Chọn **yêu cầu hỗ trợ với Microsoft 365** từ các **hành động nhanh** ở đầu trang đích của bạn.
+3.    Tìm kiếm khách hàng của bạn bằng cách nhập tên khách hàng, tên miền hoặc TPID.
+4.    Chọn khách hàng từ các kết quả tìm kiếm.
+5.    Hoàn thành việc **hỗ trợ yêu cầu với biểu mẫu Microsoft 365** .
  
-Để nhận trợ giúp tương thích ứng dụng, hãy hoàn tất [yêu cầu dịch vụ của ứng dụng Assure](https://go.microsoft.com/fwlink/?linkid=2022721).
+Để nhận trợ giúp về tương thích ứng dụng, hãy hoàn tất [ứng dụng đảm bảo yêu cầu dịch vụ](https://go.microsoft.com/fwlink/?linkid=2022721).
 
-Đối tác cũng có thể nhận trợ giúp thông qua [trang web FastTrack](https://go.microsoft.com/fwlink/?linkid=780698) thay mặt cho khách hàng. Để làm như vậy, các dấu hiệu đối tác vào trang web, chọn bản ghi khách hàng, nhấp vào **dịch vụ**và hoàn tất **yêu cầu hỗ trợ cho biểu mẫu đảm bảo ứng dụng** .
+Đối tác cũng có thể nhận trợ giúp qua [site Fasttrack](https://go.microsoft.com/fwlink/?linkid=780698) thay mặt cho khách hàng. Để làm như vậy, các dấu hiệu đối tác vào site, chọn bản ghi khách hàng, **dịch vụ**bấm chuột và hoàn tất **yêu cầu hỗ trợ cho ứng dụng đảm bảo** biểu mẫu.
 
-## <a name="out-of-scope"></a>Phạm vi
+## <a name="out-of-scope"></a>Vượt quá phạm vi
 
-Các dịch vụ FastTrack không bao gồm:
+Dịch vụ FastTrack không bao gồm:
 - Quản lý dự án triển khai Microsoft Edge của khách hàng.
-- Hỗ trợ trên trang web.
+- Hỗ trợ trên site.
 
