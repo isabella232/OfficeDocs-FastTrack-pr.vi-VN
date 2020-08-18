@@ -1,10 +1,10 @@
 ### YamlMime:Hub
 title: Tài liệu và tài nguyên Microsoft FastTrack
-summary: Tìm hiểu cách Microsoft FastTrack có thể giúp khách hàng triển khai các giải pháp đám mây của Microsoft. Khách hàng có đăng ký đủ điều kiện cho Microsoft 365, Azure hoặc Dynamics 365 có thể sử dụng FastTrack mà không mất thêm chi phí cho cuộc sống đăng ký của họ.
+summary: Tìm hiểu cách Microsoft FastTrack có thể giúp khách hàng triển khai các giải pháp Microsoft Cloud. Khách hàng có các thuê bao đủ điều kiện cho Microsoft 365, Azure hoặc Dynamics 365 có thể sử dụng FastTrack tại không có chi phí bổ sung cho cuộc sống của đăng ký của họ.
 brand: m365
 metadata:
   title: Tài liệu và tài nguyên Microsoft FastTrack
-  description: Tìm hiểu cách Microsoft FastTrack có thể giúp khách hàng triển khai các giải pháp đám mây của Microsoft. Khách hàng có đăng ký đủ điều kiện cho Microsoft 365, Azure hoặc Dynamics 365 có thể sử dụng FastTrack mà không mất thêm chi phí cho cuộc sống đăng ký của họ.
+  description: Tìm hiểu cách Microsoft FastTrack có thể giúp khách hàng triển khai các giải pháp Microsoft Cloud. Khách hàng có các thuê bao đủ điều kiện cho Microsoft 365, Azure hoặc Dynamics 365 có thể sử dụng FastTrack tại không có chi phí bổ sung cho cuộc sống của đăng ký của họ.
   ms.service: microsoft-365-enterprise
   ms.topic: hub-page
   audience: ITPro
@@ -12,41 +12,32 @@ metadata:
   ms.author: samanro
   ms.date: 07/03/2019
   localization_priority: Priority
-  ms.openlocfilehash: c890da55f729c321c506493ada7be8b11395e0e7
-  ms.sourcegitcommit: cf6fd5a133d007ea395318540471691860c33303
+  ms.openlocfilehash: a44789bd440b93d4778304bde9d35f6b0cd7ec5b
+  ms.sourcegitcommit: 81ad135578a329f8b0a3325c4e43bb8f90648597
   ms.translationtype: MT
   ms.contentlocale: vi-VN
-  ms.lasthandoff: 02/11/2020
-  ms.locfileid: "41891787"
+  ms.lasthandoff: 08/17/2020
+  ms.locfileid: "46776472"
 conceptualContent:
   items:
-  - title: FastTrack dành cho Microsoft 365
+  - title: FastTrack cho Microsoft 365
     links:
-    - url: /fasttrack/m365-fasttrack-benefit-overview
+    - url: /fasttrack/introduction
       itemType: overview
-      text: Tổng quan về
-    - url: /fasttrack/O365-fasttrack-benefit-for-office-365
-      itemType: concept
-      text: Office 365
-    - url: /enterprise-mobility-security/Solutions/enterprise-mobility-fasttrack-program
-      itemType: concept
-      text: Doanh nghiệp di động + bảo mật
-    - url: /fasttrack/win-10-fasttrack-benefit-for-windows-10
-      itemType: concept
-      text: Windows 10
-  - title: FastTrack dành cho Azure
+      text: Tổng quan (bao gồm Office 365, doanh nghiệp tính di động + bảo mật và Windows 10)
+  - title: FastTrack cho Azure
     links:
     - url: https://azure.microsoft.com/programs/azure-fasttrack/?v=18.03
       itemType: overview
-      text: Lợi ích chính
+      text: Các lợi ích chính
     - url: https://azure.microsoft.com/programs/azure-fasttrack/partners/
       itemType: concept
-      text: FastTrack đối tác Azure
-  - title: FastTrack dành cho Dynamics 365
+      text: FastTrack cho đối tác Azure
+  - title: FastTrack cho Dynamics 365
     links:
     - url: /dynamics365/get-started/fasttrack/customer-engagement/microsoft-fasttrack-dynamics-365
       itemType: overview
-      text: Tổng quan về khách hàng tham gia
+      text: Tổng quan về sự tham gia của khách hàng
     - url: /dynamics365/unified-operations/fin-and-ops/get-started/fasttrack-dynamics-365-overview
       itemType: concept
-      text: Dynamics cho tài chính & hoạt động
+      text: Động lực đối với các phép toán & tài chính
