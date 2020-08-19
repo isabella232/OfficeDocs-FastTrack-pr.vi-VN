@@ -1,5 +1,5 @@
 ---
-title: Sản phẩm và chức năng
+title: Các sản phẩm và chức năng
 ms.author: rberg@steyer.net
 author: rberg@steyer.net
 manager: jimmuir
@@ -10,27 +10,27 @@ ms.service: m365-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: Chủ đề này bao gồm chi tiết về các tình huống khối lượng công việc được hỗ trợ bởi FastTrack và các kỳ vọng của môi trường nguồn cần thiết trước khi chúng tôi có thể bắt đầu. Dựa trên thiết lập hiện tại của bạn, chúng tôi làm việc với bạn để tạo một kế hoạch khắc phục sự kiện sẽ giúp môi trường nguồn của bạn lên đến các yêu cầu tối thiểu để onboarding thành công.
-ms.openlocfilehash: 64aefb7d7c99265fe56842a61873c06055af77de
-ms.sourcegitcommit: f41acab3a535f26d1ad460c4788a1dcb9f4d7cfc
+ms.openlocfilehash: 1b1ffa5812905630723b5d8a23196fbbc18a9c32
+ms.sourcegitcommit: 1b2242be54dd0d000c6384f45f18e1951c31998b
 ms.translationtype: MT
 ms.contentlocale: vi-VN
 ms.lasthandoff: 08/18/2020
-ms.locfileid: "46787931"
+ms.locfileid: "46800974"
 ---
-# <a name="products-and-capabilities"></a>Sản phẩm và chức năng
+# <a name="products-and-capabilities"></a>Các sản phẩm và chức năng
 
 ## <a name="services-and-scenarios-supported-by-fasttrack"></a>Các dịch vụ và tình huống được hỗ trợ bởi FastTrack
 
 Chủ đề này bao gồm chi tiết về các tình huống khối lượng công việc được hỗ trợ bởi FastTrack và các kỳ vọng của môi trường nguồn cần thiết trước khi chúng tôi có thể bắt đầu. Dựa trên thiết lập hiện tại của bạn, chúng tôi làm việc với bạn để tạo một kế hoạch khắc phục sự kiện sẽ giúp môi trường nguồn của bạn lên đến các yêu cầu tối thiểu để onboarding thành công.
 
-Fasttrack cung cấp hướng dẫn để giúp bạn đầu tiên với các khả năng cốt lõi (phổ biến cho tất cả các dịch vụ trực tuyến của Microsoft) và sau đó với triển khai từng dịch vụ đủ điều kiện.
-
-Những điều này rơi vào bốn thể loại:
+Fasttrack cung cấp hướng dẫn để giúp bạn đầu tiên với các chức năng cốt lõi (phổ biến cho tất cả các dịch vụ trực tuyến của Microsoft) và sau đó với triển khai từng dịch vụ đủ điều kiện:
 
   - [Thống](#general)
   - [Office 365](#office-365)
   - [Bảo mật & di động của doanh nghiệp](#enterprise-mobility--security)
   - [Windows 10](#windows-10)
+  - [Đảm bảo cho ứng dụng](Win-10-app-assure.md)
+  - [Microsoft Edge mới](Win-10-microsoft-edge.md)
 
 > [!NOTE]
 > Để biết thông tin về các kỳ vọng môi trường nguồn cho chính phủ Hoa Kỳ của Office 365, hãy xem các [kỳ vọng môi trường nguồn cho chính phủ office 365 US](https://docs.microsoft.com/fasttrack/us-gov-appendix-source-environment-expectations).
@@ -417,8 +417,8 @@ Chúng tôi cung cấp hướng dẫn từ xa để cho phép Dịch vụ yammer
 <td><strong>Azure Active Directory (Azure AD) và Azure AD Premium</strong></td>
 <td>  Chúng tôi cung cấp hướng dẫn từ xa để bảo vệ danh tính đám mây của bạn cho các kịch bản sau đây.  
 
-</ul> 
- 
+ <br/>
+
 <strong>Cơ sở hạ tầng tổ chức bảo mật</strong>  </ul>
 <ul>
 <li>  Cấu hình và bật xác thực mạnh cho các danh tính của bạn, bao gồm việc bảo vệ bằng Azure xác thực đa yếu tố (MFA) (chỉ dành cho điện toán đám mây), ứng dụng Microsoft Authenticator và đăng ký kết hợp cho Azure MFA và đặt lại mật khẩu tự phục vụ (SSPR).  </li>
@@ -658,56 +658,7 @@ Liên hệ với một <a href="https://go.microsoft.com/fwlink/?linkid=2080150"
 <li>  Trình quản lý cấu hình Microsoft Endpoint.  </li>
 <li>  Phiên bản trình quản lý cấu hình phải được hỗ trợ bởi phiên bản Windows 10 target. Để biết thêm thông tin, hãy xem bảng hỗ trợ trình quản lý cấu hình tại <a href="https://docs.microsoft.com/sccm/core/plan-design/configs/support-for-windows-10">hỗ trợ cho Windows 10 trong trình quản lý cấu hình</a>.  </li>
 </ul>
-<h3 id="section-1"></h3></td>
-</tr>
-<tr class="even">
-<td><strong>Đảm bảo cho ứng dụng</strong></td>
-<td>  Ứng dụng đảm bảo là một dịch vụ được thiết kế để giải quyết các sự cố với Windows 10 và ứng dụng Microsoft 365 ứng dụng tương thích. Khi bạn yêu cầu ứng dụng đảm bảo dịch vụ, chúng tôi sẽ làm việc với bạn để giải quyết các sự cố ứng dụng hợp lệ tại không có chi phí bổ sung cho bạn bằng một thuê bao đủ điều kiện. Chúng tôi cũng cung cấp hướng dẫn cho khách hàng những vấn đề tương thích khi triển khai Windows Virtual Desktop và Microsoft Edge mới.  
-  Chúng tôi cung cấp hỗ trợ khắc phục các ứng dụng được triển khai trên các sản phẩm Microsoft sau đây:
-<ul>
-<li>  <strong>Windows 10</strong> </li>
-<li> <strong>Ứng dụng Microsoft 365</strong>  </li>
-<li>  <strong>Microsoft Edge mới-</strong> Để được hướng dẫn triển khai, hãy xem <a href="https://docs.microsoft.com/DeployEdge/microsoft-edge-channels">tổng quan về các kênh Microsoft Edge</a>.  </li>
-<li>  <strong>Máy tính</strong> - chạy Windows ảo Để biết thêm thông tin, hãy xem <a href="https://docs.microsoft.com/azure/virtual-desktop/overview">Windows Virtual Desktop là gì?</a>    <a href="https://docs.microsoft.com/azure/virtual-desktop/windows-10-multisession-faq">câu hỏi thường gặp về Windows 10 Enterprise phiên</a>.  </li>
-</ul></td>
-<td><strong>Ứng dụng Windows 10 và Microsoft 365</strong>
-<ul>
-<li>  
-  Các ứng dụng đã làm việc trên Windows 7, Windows 8,1, Office 2010 và Office 2013 cũng hoạt động trên các ứng dụng Windows 10 và Microsoft 365.  
-  </li>
-</ul>
-<strong>Microsoft Edge mới</strong>
-<ul>
-<li>  
-  Nếu ứng dụng web hoặc site của bạn hoạt động trên Internet Explorer 11, các phiên bản Google Chrome được hỗ trợ, hoặc bất kỳ phiên bản nào của Microsoft Edge, họ cũng sẽ làm việc với Microsoft Edge mới.  
-  </li>
-<li>  
-  Khi web không liên tục phát triển, hãy đảm bảo bạn xem lại danh sách <a href="https://docs.microsoft.com/microsoft-edge/web-platform/site-impacting-changes">đã phát hành của tính năng tương thích trang đã biết-các thay đổi tác động đối với Microsoft Edge</a>.  
-  </li>
-</ul>
-  <strong>Máy tính chạy Windows ảo </strong>  
-<ul>
-<li>  
-  Các ứng dụng ảo hóa chạy trên máy chủ lưu trữ phiên máy tính từ xa của Windows Server (RDSH) cũng chạy trên Windows 10 Enterprise Multi-session như một phần của Windows Virtual Desktop.  
-  </li>
-<li>  
-  Các ứng dụng đang chạy trên bất kỳ môi trường cơ sở hạ tầng máy tính bàn ảo Windows 7 hoặc Windows 10 nào (VDI) cũng chạy trên Windows 7 Enterprise và Windows 10 Enterprise như một phần của Windows Virtual Desktop. * </li>
-<li>  
-  Các ứng dụng đang chạy trên Windows 7 hoặc Windows 10 thiết bị máy khách cũng chạy trên Windows 7 Enterprise và Windows 10 Enterprise như một phần của Windows Virtual Desktop. * </li>
-</ul>
-* Các hạn chế về tính tương thích của Windows 10 Enterprise đa phiên, bao gồm:
-<ul>
-<li>  
-  Chuyển hướng hạn chế của phần cứng.  
-  </li>
-<li>  
-  Ứng dụng a/V-chuyên sâu có thể thực hiện trong công suất giảm đi.  
-  </li>
-<li>  
-  Các ứng dụng 16 bit không được hỗ trợ cho máy tính chạy Windows ảo 64 bit.  
-  </li>
-</ul></td>
-</tr>
+
 <tr class="odd">
 <td><strong>Bảo vệ chống mối đe dọa nâng cao của Microsoft Defender (ATP)</strong></td>
 <td>  Microsoft Defender Advanced Threat Protection (ATP) là một nền tảng được thiết kế để giúp ngăn chặn các mạng doanh nghiệp, phát hiện, điều tra và phản hồi các mối đe dọa nâng cao.  
@@ -847,17 +798,6 @@ Liên hệ với một <a href="https://go.microsoft.com/fwlink/?linkid=2080150"
 Liên hệ với một <a href="https://go.microsoft.com/fwlink/?linkid=2080150">đối tác Microsoft</a> để được trợ giúp với các dịch vụ này.  
 </ul></td>
 <td></td>
-</tr>
-<tr class="even">
-<td><strong>Microsoft Edge</strong> (dành cho khách hàng Windows 10 Enterprise)</td>
-<td><ul>
-<li>  Chúng tôi cung cấp hướng dẫn triển khai từ xa và trợ giúp tương thích cho: triển khai Microsoft Edge mới trên Windows 10 Enterprise với Microsoft Endpoint Manager (Microsoft Endpoint Configuration Manager hoặc InTune).  </li>
-<li>  Cấu hình Microsoft Edge (sử dụng chính sách nhóm hoặc cấu hình ứng dụng InTune và chính sách ứng dụng).  </li>
-<li>  Kiểm kê danh sách các site có thể yêu cầu dùng trong chế độ Internet Explorer.  </li>
-<li>  Bật chế độ Internet Explorer với danh sách site hiện có của doanh nghiệp.  
-  Ngoài ra, nếu bạn có một ứng dụng web hoặc site hoạt động với Internet Explorer hoặc Google Chrome và bạn trải nghiệm các vấn đề tương thích, chúng tôi cung cấp hướng dẫn để giải quyết sự cố mà không cần phải có thêm chi phí. Xem <strong>ứng dụng đảm bảo</strong> phần của bảng này để biết thêm chi tiết.  </li>
-</ul></td>
-<td></td>
-</tr>
+
 </tbody>
 </table>
