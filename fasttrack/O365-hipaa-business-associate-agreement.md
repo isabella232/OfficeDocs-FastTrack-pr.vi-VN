@@ -1,5 +1,5 @@
 ---
-title: Phụ lục A-FastTrack Trung tâm liên kết hợp đồng nghiệp vụ HIPAA
+title: Phụ lục A - Thỏa thuận Liên kết Kinh doanh HIPAA của Trung tâm FastTrack
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
@@ -7,17 +7,17 @@ ms.date: 8/17/2020
 ms.audience: ITPro
 ms.topic: article
 ms.service: o365-administration
-localization_priority: Priority
+localization_priority: Normal
 description: 'Nếu bạn có thỏa thuận liên kết HIPAA Business (BAA) với Microsoft for FastTrack Services, tất cả các dịch vụ được liệt kê trong lợi ích Trung tâm FastTrack cho Office 365 được bao gồm trong BAA, ngoại trừ:'
-ms.openlocfilehash: bfb0ee1e853f1e4bfcd8d58ed0fc3f573b5e75f6
-ms.sourcegitcommit: 81ad135578a329f8b0a3325c4e43bb8f90648597
+ms.openlocfilehash: 0e8b61c73d48ec0f5b2ebefa0143f516dcd51a98
+ms.sourcegitcommit: d67bbe7e9f71c9983280cb3858a4fff0d7ac884b
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 08/17/2020
-ms.locfileid: "46776412"
+ms.lasthandoff: 08/20/2020
+ms.locfileid: "46817503"
 ---
-# <a name="appendix-a---fasttrack-center-hipaa-business-associate-agreement"></a><span data-ttu-id="89b32-103">Phụ lục A-FastTrack Trung tâm liên kết hợp đồng nghiệp vụ HIPAA</span><span class="sxs-lookup"><span data-stu-id="89b32-103">Appendix A - FastTrack Center HIPAA Business Associate Agreement</span></span>
+# <a name="appendix-a---fasttrack-center-hipaa-business-associate-agreement"></a><span data-ttu-id="73398-103">Phụ lục A - Thỏa thuận Liên kết Kinh doanh HIPAA của Trung tâm FastTrack</span><span class="sxs-lookup"><span data-stu-id="73398-103">Appendix A - FastTrack Center HIPAA Business Associate Agreement</span></span>
 
-<span data-ttu-id="89b32-104">Nếu bạn có thỏa thuận liên kết HIPAA Business (BAA) đã đồng ý với Microsoft, tất cả các dịch vụ được liệt kê trong [Office 365](products-and-capabilities.md#office-365) được thực hiện theo các Baa đó.</span><span class="sxs-lookup"><span data-stu-id="89b32-104">If you have a HIPAA Business Associate Agreement (BAA) agreed with Microsoft, all services listed in [Office 365](products-and-capabilities.md#office-365) are performed in accordance with that BAA.</span></span>
+<span data-ttu-id="73398-104">Nếu bạn có thỏa thuận liên kết HIPAA Business (BAA) đã đồng ý với Microsoft, tất cả các dịch vụ được liệt kê trong [Office 365](products-and-capabilities.md#office-365) được thực hiện theo các Baa đó.</span><span class="sxs-lookup"><span data-stu-id="73398-104">If you have a HIPAA Business Associate Agreement (BAA) agreed with Microsoft, all services listed in [Office 365](products-and-capabilities.md#office-365) are performed in accordance with that BAA.</span></span>
 
 
