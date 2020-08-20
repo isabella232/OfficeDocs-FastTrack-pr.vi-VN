@@ -7,14 +7,14 @@ ms.date: 7/01/2020
 ms.audience: ITPro
 ms.topic: article
 ms.service: o365-administration
-localization_priority: Priority
+localization_priority: Normal
 description: Những khách hàng mua ít nhất 20.000 giấy phép cho người thuê Exchange Online đủ điều kiện cho các dịch vụ bổ sung của Trung tâm FastTrack. Xem các dịch vụ và gói đủ điều kiện để biết thêm chi tiết.
-ms.openlocfilehash: 833d53b2b3e27aff99bf9b329d68b53804f9f27a
-ms.sourcegitcommit: 1b2242be54dd0d000c6384f45f18e1951c31998b
+ms.openlocfilehash: 48559090e5fe55cf0001a5e11793dec75a12dfaf
+ms.sourcegitcommit: d67bbe7e9f71c9983280cb3858a4fff0d7ac884b
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 08/18/2020
-ms.locfileid: "46800926"
+ms.lasthandoff: 08/20/2020
+ms.locfileid: "46817551"
 ---
 # <a name="appendix-a---fasttrack-center-additional-benefit"></a>Phụ lục A - Lợi ích bổ sung của Trung tâm FastTrack
 

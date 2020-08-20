@@ -1,5 +1,5 @@
 ---
-title: Xử lý và kỳ vọng
+title: Quy trình và Sự kỳ vọng
 ms.author: rberg@steyer.net
 author: rberg@steyer.net
 manager: jimmuir
@@ -7,17 +7,17 @@ ms.date: 8/17/2020
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
-localization_priority: Priority
+localization_priority: Normal
 ms.collection: FastTrack
 description: Trong chủ đề này, chúng tôi bao gồm cách thu hút FastTrack để được hỗ trợ, cách hỗ trợ được cung cấp, gợi ý lời khuyên cho một trải nghiệm thành công và hiểu được trách nhiệm chính của cả FastTrack và công ty của bạn.
-ms.openlocfilehash: c484179acd265df11496418fb4af21758d363d7e
-ms.sourcegitcommit: 81ad135578a329f8b0a3325c4e43bb8f90648597
+ms.openlocfilehash: 229679a0bd248e79cd8ebedc563b173a20756f80
+ms.sourcegitcommit: d67bbe7e9f71c9983280cb3858a4fff0d7ac884b
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 08/17/2020
-ms.locfileid: "46777309"
+ms.lasthandoff: 08/20/2020
+ms.locfileid: "46817587"
 ---
-# <a name="process-and-expectations"></a>Xử lý và kỳ vọng
+# <a name="process-and-expectations"></a>Quy trình và Sự kỳ vọng
 
 Trong chủ đề này, chúng tôi bao gồm cách thu hút FastTrack để được hỗ trợ, cách hỗ trợ được cung cấp, gợi ý lời khuyên cho một trải nghiệm thành công và hiểu được trách nhiệm chính của cả FastTrack và công ty của bạn.
 
