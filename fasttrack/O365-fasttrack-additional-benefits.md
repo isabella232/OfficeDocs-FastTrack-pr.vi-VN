@@ -7,14 +7,14 @@ ms.date: 7/01/2020
 ms.audience: ITPro
 ms.topic: article
 ms.service: o365-administration
-localization_priority: Normal
+localization_priority: None
 description: Những khách hàng mua ít nhất 20.000 giấy phép cho người thuê Exchange Online đủ điều kiện cho các dịch vụ bổ sung của Trung tâm FastTrack. Xem các dịch vụ và gói đủ điều kiện để biết thêm chi tiết.
-ms.openlocfilehash: 48559090e5fe55cf0001a5e11793dec75a12dfaf
-ms.sourcegitcommit: d67bbe7e9f71c9983280cb3858a4fff0d7ac884b
+ms.openlocfilehash: 7b98f341bf645b83a91e11eec1a1f2347380d97a
+ms.sourcegitcommit: de2cc20b4ab297633cb254d42532719022bb8d99
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 08/20/2020
-ms.locfileid: "46817551"
+ms.lasthandoff: 09/02/2020
+ms.locfileid: "47338444"
 ---
 # <a name="appendix-a---fasttrack-center-additional-benefit"></a>Phụ lục A - Lợi ích bổ sung của Trung tâm FastTrack
 
@@ -25,7 +25,7 @@ Những khách hàng mua ít nhất 20.000 giấy phép cho người thuê Excha
   
 ## <a name="onboarding-and-migration-phases"></a>Các giai đoạn onboarding và di chuyển
 
-## <a name="core"></a>Cơ
+## <a name="core"></a>Core
 
 Bổ sung dịch vụ Core triển khai bao gồm hướng dẫn cấu hình cho dịch vụ liên kết Active Directory dư thừa (AD FS) và các chính sách truy nhập máy khách AD FS cho dịch vụ đó. 
   

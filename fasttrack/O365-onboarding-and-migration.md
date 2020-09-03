@@ -7,15 +7,15 @@ ms.date: 7/01/2020
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
-localization_priority: Normal
+localization_priority: None
 ms.collection: FastTrack
 description: Office 365 triển khai có bốn giai đoạn chính — bắt đầu, đánh giá, khắc phục và bật. Bạn có thể làm theo các giai đoạn này với giai đoạn di chuyển dữ liệu tùy chọn.
-ms.openlocfilehash: 0b87d47bb38a55de95a38b09239eff638ee247b2
-ms.sourcegitcommit: d67bbe7e9f71c9983280cb3858a4fff0d7ac884b
+ms.openlocfilehash: 69b77911afc351ff48f6198049204822e5dd0d3c
+ms.sourcegitcommit: de2cc20b4ab297633cb254d42532719022bb8d99
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 08/20/2020
-ms.locfileid: "46817359"
+ms.lasthandoff: 09/02/2020
+ms.locfileid: "47338264"
 ---
 # <a name="onboarding-and-migration-phases"></a>Giai đoạn triển khai và di chuyển
 
@@ -81,7 +81,7 @@ Trong giai đoạn này, trình quản lý FastTrack của bạn hoạt động 
 
 Khi tất cả các hoạt động khắc phục được hoàn tất, thay đổi tiêu điểm để cấu hình cơ sở hạ tầng cốt lõi cho mức tiêu thụ dịch vụ, việc cung cấp Office 365 và tiến hành các hoạt động để cung cấp dịch vụ. 
   
-## <a name="core"></a>Cơ
+## <a name="core"></a>Core
 
 Core triển khai liên quan đến việc cung cấp dịch vụ và đối tượng thuê và tích hợp danh tính. Nó cũng bao gồm các bước để cung cấp nền tảng cho các dịch vụ triển khai như Exchange Online, SharePoint Online và Skype for Business Online. Bạn và trình quản lý FastTrack của bạn vẫn tiếp tục có các cuộc họp kiểm tra kế hoạch thành công để đánh giá tiến độ đối với các mục tiêu của bạn và xác định những gì bạn cần thêm trợ giúp.
   

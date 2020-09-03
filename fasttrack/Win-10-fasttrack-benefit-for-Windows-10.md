@@ -7,15 +7,15 @@ ms.date: 7/01/2020
 ms.audience: ITPro
 ms.topic: overview
 ms.service: windows-10-administration
-localization_priority: Normal
+localization_priority: None
 ms.collection: FastTrack
 description: Bạn sử dụng lợi ích Trung tâm FastTrack cho Windows 10 khi mua  *ít nhất*  150 giấy phép cho một dịch vụ hoặc gói đủ điều kiện.
-ms.openlocfilehash: 6616b967bac16402f732c56d763dc67accf19f70
-ms.sourcegitcommit: d67bbe7e9f71c9983280cb3858a4fff0d7ac884b
+ms.openlocfilehash: 3293ff9212224774cd101171a20e18972e51f8c4
+ms.sourcegitcommit: de2cc20b4ab297633cb254d42532719022bb8d99
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 08/20/2020
-ms.locfileid: "46817671"
+ms.lasthandoff: 09/02/2020
+ms.locfileid: "47338540"
 ---
 # <a name="fasttrack-center-benefit-for-windows-10"></a>Lợi ích của Trung tâm FastTrack dành cho Windows 10
 

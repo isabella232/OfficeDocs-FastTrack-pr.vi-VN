@@ -7,15 +7,15 @@ ms.date: 7/01/2020
 ms.audience: ITPro
 ms.topic: overview
 ms.service: windows-10-administration
-localization_priority: Normal
+localization_priority: None
 ms.collection: FastTrack
 description: Bạn có các trách nhiệm sau trong quá trình Windows 10 onboarding.
-ms.openlocfilehash: f86a889f1819afa8a8dceefb45ab9dc1ab439535
-ms.sourcegitcommit: d67bbe7e9f71c9983280cb3858a4fff0d7ac884b
+ms.openlocfilehash: 7a6ec109d0a07c255925c86f20b24df4ea2f0ed8
+ms.sourcegitcommit: de2cc20b4ab297633cb254d42532719022bb8d99
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 08/20/2020
-ms.locfileid: "46817155"
+ms.lasthandoff: 09/02/2020
+ms.locfileid: "47338120"
 ---
 # <a name="your-responsibilities"></a>Trách nhiệm của bạn
 > [!CAUTION]

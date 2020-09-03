@@ -7,15 +7,15 @@ ms.date: 7/01/2020
 ms.audience: ITPro
 ms.topic: overview
 ms.service: windows-10-administration
-localization_priority: Normal
+localization_priority: None
 ms.collection: FastTrack
 description: Lợi ích của Trung tâm FastTrack cho Windows 10 cung cấp quyền truy nhập vào bảo vệ mối đe dọa nâng cao của Microsoft Defender – một dịch vụ mới được thiết kế để giúp các mạng doanh nghiệp ngăn chặn, phát hiện, điều tra và phản hồi các mối đe dọa nâng cao.
-ms.openlocfilehash: 98a1978d5f1585613d6e24f28bb6bc54e608c76c
-ms.sourcegitcommit: d67bbe7e9f71c9983280cb3858a4fff0d7ac884b
+ms.openlocfilehash: b3a5a64204d779f492eb23ac9d9b76aa2708acd3
+ms.sourcegitcommit: de2cc20b4ab297633cb254d42532719022bb8d99
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 08/20/2020
-ms.locfileid: "46817647"
+ms.lasthandoff: 09/02/2020
+ms.locfileid: "47338528"
 ---
 # <a name="microsoft-defender-advanced-threat-protection"></a>Tính năng Chống Mối đe dọa Nâng cao của Bộ bảo vệ Microsoft
 

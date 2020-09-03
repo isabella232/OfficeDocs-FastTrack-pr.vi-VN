@@ -9,15 +9,15 @@ ms.topic: overview
 f1_keywords:
 - microsoft-365-onboarding-benefit
 ms.service: m365-administration
-localization_priority: Priority
+localization_priority: None
 ms.collection: FastTrack
 description: FastTrack cho Microsoft 365 cung cấp hướng dẫn về lập kế hoạch, triển khai và áp dụng bao gồm truy nhập từ xa vào chuyên môn kỹ thuật của Microsoft, thực hành tốt nhất, công cụ và tài nguyên. FastTrack cho Microsoft 365 giúp các tổ chức và đối tác của họ tăng tốc triển khai và nhận được thông qua người dùng cuối của Office 365, Windows 10 và tính di động của doanh nghiệp + bảo mật.
-ms.openlocfilehash: 2e0c429de0a3557260e9c9689514d8f1728e639e
-ms.sourcegitcommit: 1b2242be54dd0d000c6384f45f18e1951c31998b
+ms.openlocfilehash: caaac70314d1c93405da5d0f0c3587d58b8343f6
+ms.sourcegitcommit: de2cc20b4ab297633cb254d42532719022bb8d99
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 08/18/2020
-ms.locfileid: "46800950"
+ms.lasthandoff: 09/02/2020
+ms.locfileid: "47338432"
 ---
 # <a name="fasttrack-center-benefit-for-microsoft-365"></a>Lợi ích Trung tâm FastTrack dành cho Microsoft 365
 

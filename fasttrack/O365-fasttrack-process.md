@@ -7,15 +7,15 @@ ms.date: 7/01/2020
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
-localization_priority: Normal
+localization_priority: None
 ms.collection: FastTrack
 description: Quy trình fasttrack cung cấp các dịch vụ hỗ trợ triển khai và người dùng.
-ms.openlocfilehash: ee0f8519ed1f6730236e1ba2d139131d91290b0f
-ms.sourcegitcommit: d67bbe7e9f71c9983280cb3858a4fff0d7ac884b
+ms.openlocfilehash: 48469fb79fd093b1b9a9a299cd807b8dfa440843
+ms.sourcegitcommit: de2cc20b4ab297633cb254d42532719022bb8d99
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 08/20/2020
-ms.locfileid: "46817539"
+ms.lasthandoff: 09/02/2020
+ms.locfileid: "47338563"
 ---
 # <a name="the-fasttrack-process"></a>Quy trình FastTrack
 

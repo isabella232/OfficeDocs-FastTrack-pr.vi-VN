@@ -7,15 +7,15 @@ ms.date: 7/01/2020
 ms.audience: ITPro
 ms.topic: overview
 ms.service: windows-10-administration
-localization_priority: Normal
+localization_priority: None
 ms.collection: FastTrack
 description: FastTrack cung cấp hướng dẫn triển khai Windows 10 để giúp bạn nâng cấp từ Windows 7 Professional và Windows 8,1 Professional sang Windows 10 Enterprise.
-ms.openlocfilehash: 0b19ada41624d8c8fa8d3ab5e85a14b42edd53f3
-ms.sourcegitcommit: d67bbe7e9f71c9983280cb3858a4fff0d7ac884b
+ms.openlocfilehash: e4cebb463833c71cc9129155e86821c69f180a27
+ms.sourcegitcommit: de2cc20b4ab297633cb254d42532719022bb8d99
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 08/20/2020
-ms.locfileid: "46817143"
+ms.lasthandoff: 09/02/2020
+ms.locfileid: "47338132"
 ---
 # <a name="windows-10"></a>Windows 10
 

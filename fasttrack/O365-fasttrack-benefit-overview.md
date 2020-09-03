@@ -9,15 +9,15 @@ ms.topic: overview
 f1_keywords:
 - office-365-onboarding-benefit-process
 ms.service: o365-administration
-localization_priority: Priority
+localization_priority: None
 ms.collection: FastTrack
 description: Với lợi ích Trung tâm FastTrack cho Office 365, bạn làm việc từ xa với các chuyên gia FastTrack để nhận được môi trường Office 365 của bạn sẵn sàng để sử dụng và lập kế hoạch cho việc triển khai và sử dụng trong tổ chức của bạn. Để tìm hiểu thêm về đủ điều kiện, hãy xem mục lợi ích của Trung tâm FastTrack cho Office 365.
-ms.openlocfilehash: 40d49036d4aba6655a51c950efd0e29384a45f5c
-ms.sourcegitcommit: 1b2242be54dd0d000c6384f45f18e1951c31998b
+ms.openlocfilehash: 30d428cb5cc4e4fb8c9a267029a52618678c5ee1
+ms.sourcegitcommit: de2cc20b4ab297633cb254d42532719022bb8d99
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 08/18/2020
-ms.locfileid: "46800902"
+ms.lasthandoff: 09/02/2020
+ms.locfileid: "47338228"
 ---
 # <a name="fasttrack-center-benefit-overview"></a>Tổng quan về Lợi ích của Trung tâm FastTrack
 

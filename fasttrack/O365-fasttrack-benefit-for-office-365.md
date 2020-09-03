@@ -9,15 +9,15 @@ ms.topic: overview
 f1_keywords:
 - office-365-onboarding-benefit
 ms.service: o365-administration
-localization_priority: Priority
+localization_priority: None
 ms.collection: FastTrack
 description: Bạn sử dụng lợi ích Trung tâm FastTrack cho Office 365 khi bạn mua ít nhất 150 giấy phép cho một dịch vụ đủ điều kiện hoặc gói cho đối tượng thuê Office 365 của bạn. Sau đó, bạn làm việc với các chuyên gia FastTrack để đánh giá, khắc phục sự trợ giúp và sử dụng ổ đĩa của các dịch vụ đó. Những chuyên gia này cũng cung cấp hướng dẫn di chuyển.
-ms.openlocfilehash: 657b0baf6c4427dcae8aba70949e45df9f690be1
-ms.sourcegitcommit: 1b2242be54dd0d000c6384f45f18e1951c31998b
+ms.openlocfilehash: 151bd1f653fb8aa67e112132da6f89b36d168cb5
+ms.sourcegitcommit: de2cc20b4ab297633cb254d42532719022bb8d99
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 08/18/2020
-ms.locfileid: "46800914"
+ms.lasthandoff: 09/02/2020
+ms.locfileid: "47338588"
 ---
 # <a name="fasttrack-center-benefit-for-office-365"></a>Lợi ích Trung tâm FastTrack dành cho Office 365
 
@@ -62,7 +62,7 @@ Bạn đang tìm kiếm [lợi ích của Trung tâm Fasttrack cho Windows 10](W
 
 - Windows 10
 - Đảm bảo cho ứng dụng
-- Microsoft Edge mới
+- Phiên bản Microsoft Edge mới
 - Tính năng Chống Mối đe dọa Nâng cao của Bộ bảo vệ Microsoft
     
 > [!NOTE]
