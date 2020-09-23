@@ -10,12 +10,12 @@ ms.service: windows-10-administration
 localization_priority: Normal
 ms.collection: FastTrack
 description: Khi bạn mua bất kỳ dịch vụ nào của Windows 10 hoặc Microsoft 365, thì các chuyên gia FastTrack cung cấp hướng dẫn về tư vấn và khắc phục sự triển khai cho các ứng dụng Windows 10 và Microsoft 365 và luôn cập nhật mà không có chi phí bổ sung (với đăng ký đủ điều kiện).
-ms.openlocfilehash: 874a23083e9c838486fad93d5da46e269f12282a
-ms.sourcegitcommit: d67bbe7e9f71c9983280cb3858a4fff0d7ac884b
+ms.openlocfilehash: 5252f880f126dd20de792e5cbdb18abc2473764d
+ms.sourcegitcommit: dd7b2975ade7feaa12be079c8e54fa5612383538
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 08/20/2020
-ms.locfileid: "46817695"
+ms.lasthandoff: 09/22/2020
+ms.locfileid: "48206259"
 ---
 # <a name="assistance-offered"></a>Nội dung hỗ trợ được cung cấp  
 
@@ -36,7 +36,14 @@ FastTrack cung cấp hỗ trợ khắc phục sự trợ giúp cho các ứng d�
 
 - Các ứng dụng đã làm việc trên Windows 7, Windows 8,1, Office 2010 và Office 2013 cũng hoạt động trên các ứng dụng Windows 10 và Microsoft 365.
 
-### <a name="the-new-microsoft-edge"></a>Microsoft Edge mới
+### <a name="windows-10-on-arm"></a>Windows 10 trên ARM
+
+- Các ứng dụng đã làm việc trên Windows 7, Office 2010 hoặc các phiên bản sau này hoạt động trên các ứng dụng Windows 10 và Microsoft 365 trên các thiết bị ARM64.
+
+> [!NOTE]
+> Windows 10 trên các loại trừ và giới hạn của ARM bao gồm các ứng dụng dựa vào trình điều khiển phần mềm không tương thích trong ARM, sử dụng OpenGL hoặc OpenCL, hoặc chỉ sẵn dùng trong 64 bit (x64).
+
+### <a name="the-new-microsoft-edge"></a>Phiên bản Microsoft Edge mới
 
 - Nếu ứng dụng web hoặc site của bạn hoạt động trên Internet Explorer 11, các phiên bản Google Chrome được hỗ trợ, hoặc bất kỳ phiên bản nào của Microsoft Edge, họ cũng sẽ làm việc với Microsoft Edge mới.
 
@@ -45,13 +52,14 @@ FastTrack cung cấp hỗ trợ khắc phục sự trợ giúp cho các ứng d�
 ### <a name="windows-virtual-desktop"></a>Máy tính chạy Windows ảo
 
 - Các ứng dụng ảo hóa chạy trên máy chủ lưu trữ phiên máy tính từ xa của Windows Server (RDSH) cũng chạy trên Windows 10 Enterprise Multi-session như một phần của Windows Virtual Desktop.
-- Các ứng dụng đang chạy trên bất kỳ môi trường cơ sở hạ tầng máy tính bàn ảo Windows 7 hoặc Windows 10 nào (VDI) cũng chạy trên Windows 7 Enterprise và Windows 10 Enterprise như một phần của Windows Virtual Desktop. *
-- Các ứng dụng đang chạy trên Windows 7 hoặc Windows 10 thiết bị khách cũng chạy trên Windows 7 Enterprise và Windows 10 Enterprise như một phần của Windows Virtual trên máy tính.\*
+- Các ứng dụng đang chạy trên bất kỳ môi trường cơ sở hạ tầng máy tính bàn ảo Windows 7 hoặc Windows 10 nào (VDI) cũng chạy trên Windows 7 Enterprise và Windows 10 Enterprise như một phần của Windows Virtual trên máy tính.
+- Các ứng dụng đang chạy trên Windows 7 hoặc Windows 10 thiết bị khách cũng chạy trên Windows 7 Enterprise và Windows 10 Enterprise như một phần của Windows Virtual trên máy tính.
 
-\*Các loại trừ và giới hạn tương thích của Windows 10 Enterprise đa phiên bao gồm:
-- Chuyển hướng hạn chế của phần cứng.
-- Ứng dụng a/V-chuyên sâu có thể thực hiện trong công suất giảm đi.
-- Các ứng dụng 16 bit không được hỗ trợ cho máy tính chạy Windows ảo 64 bit.
+> [!NOTE]
+> Các loại trừ và giới hạn tương thích của Windows 10 Enterprise đa phiên bao gồm: 
+> - Chuyển hướng hạn chế của phần cứng.
+> - Ứng dụng a/V-chuyên sâu có thể thực hiện trong công suất giảm đi.
+> - Các ứng dụng 16 bit không được hỗ trợ cho máy tính chạy Windows ảo 64 bit.
 
 Để biết thêm thông tin, hãy xem [câu hỏi thường gặp](https://docs.microsoft.com/azure/virtual-desktop/windows-10-multisession-faq)về [Windows Virtual Desktop là gì?](https://docs.microsoft.com/azure/virtual-desktop/overview) và Windows 10 Enterprise.
 
