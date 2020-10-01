@@ -3,19 +3,19 @@ title: Các giai đoạn onboarding và di chuyển cho chính phủ Office 365 
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 8/17/2020
+ms.date: 10/1/20
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: None
 ms.collection: FastTrack
 description: Office 365 triển khai cho Office 365 US Government có bốn giai đoạn chính — bắt đầu, đánh giá, khắc phục và bật. Bạn có thể làm theo các giai đoạn này với giai đoạn di chuyển dữ liệu tùy chọn như được hiển thị trong hình dưới đây.
-ms.openlocfilehash: bc7f6040e6e7be01395e13f4b6af6d46074fa987
-ms.sourcegitcommit: 81ad135578a329f8b0a3325c4e43bb8f90648597
+ms.openlocfilehash: c35f5d9338e649c0dc8cf4a5e579132ea601f85a
+ms.sourcegitcommit: c2bf382289217ef12913ef3419e6378716fd411a
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 08/17/2020
-ms.locfileid: "46776496"
+ms.lasthandoff: 09/30/2020
+ms.locfileid: "48320002"
 ---
 # <a name="onboarding-and-migration-phases-for-office-365-us-government"></a>Các giai đoạn onboarding và di chuyển cho chính phủ Office 365 US
 
@@ -77,7 +77,7 @@ Trong giai đoạn này, trình quản lý FastTrack của bạn hoạt động 
 
 Khi tất cả các hoạt động khắc phục được hoàn tất, thay đổi tiêu điểm để cấu hình cơ sở hạ tầng cốt lõi cho mức tiêu thụ dịch vụ, việc cung cấp Office 365 và tiến hành các hoạt động để cung cấp dịch vụ. 
   
-## <a name="core"></a>Cơ
+## <a name="core"></a>Core
 
 Core triển khai liên quan đến việc cung cấp dịch vụ và đối tượng thuê và tích hợp danh tính. Nó cũng bao gồm các bước để cung cấp nền tảng cho các dịch vụ triển khai như Exchange Online, SharePoint Online và Skype for Business Online. Bạn và trình quản lý FastTrack của bạn vẫn tiếp tục có các cuộc họp kiểm tra kế hoạch thành công để đánh giá tiến độ đối với các mục tiêu của bạn và xác định những gì bạn cần thêm trợ giúp.
   
@@ -139,7 +139,7 @@ FastTrack chuyên gia cung cấp hướng dẫn về di chuyển dữ liệu san
   
 ![Các bước của Skype for Business triển khai trong khi bật phase_2](media/SfBOifappborderupdate.png)
   
-## <a name="microsoft-teams"></a>Nhóm Microsoft
+## <a name="microsoft-teams"></a>Microsoft Teams
 
 > [!NOTE]
 > Sau đây không sẵn dùng trong các gói GCC cao hoặc DoD.

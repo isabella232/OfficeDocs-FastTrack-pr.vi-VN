@@ -3,19 +3,19 @@ title: Fasttheo dõi trách nhiệm đối với Office 365 US Government
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 8/17/2020
+ms.date: 10/1/20
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: None
 ms.collection: FastTrack
 description: Các chuyên gia FastTrack có các trách nhiệm sau trong onboarding.
-ms.openlocfilehash: bc8c0e76a11f9e159303b7f4140e3f9fd9144ce2
-ms.sourcegitcommit: 81ad135578a329f8b0a3325c4e43bb8f90648597
+ms.openlocfilehash: e11ce3ce5bbfd04a1f821425364ba86964e8690f
+ms.sourcegitcommit: c2bf382289217ef12913ef3419e6378716fd411a
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 08/17/2020
-ms.locfileid: "46776484"
+ms.lasthandoff: 09/30/2020
+ms.locfileid: "48319978"
 ---
 # <a name="fasttrack-responsibilities-for-office-365-us-government"></a>Fasttheo dõi trách nhiệm đối với Office 365 US Government
 
@@ -158,7 +158,7 @@ Cung cấp hướng dẫn về:
   - Bật hướng dẫn nội trú của Skype for Business Meeting broadcast.  
   - Thiết lập tổ chức cho liên kết với dịch vụ phát rộng cuộc họp.
     
-## <a name="microsoft-teams"></a>Nhóm Microsoft
+## <a name="microsoft-teams"></a>Microsoft Teams
 
 Cung cấp hướng dẫn về:
 - Xác nhận yêu cầu tối thiểu.   

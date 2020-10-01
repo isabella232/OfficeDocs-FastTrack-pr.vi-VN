@@ -3,19 +3,19 @@ title: Tính đủ điều kiện
 ms.author: rberg@steyer.net
 author: rberg@steyer.net
 manager: jimmuir
-ms.date: 8/17/2020
+ms.date: 10/1/20
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: m365-administration
 localization_priority: Normal
 ms.collection: FastTrack
 description: Trong chủ đề này, chúng tôi dàn bài các yêu cầu đủ điều kiện để nhận hỗ trợ từ xa, có hướng dẫn từ các chuyên gia FastTrack bao gồm trong mua giấy phép Microsoft 365 và thông tin chi tiết các sản phẩm và chức năng cụ thể được bảo vệ.
-ms.openlocfilehash: ce37dd547b93dd2a66b18d5250626c14ed20ff53
-ms.sourcegitcommit: d67bbe7e9f71c9983280cb3858a4fff0d7ac884b
+ms.openlocfilehash: 36e838da202103ee2f6623f9c709f8e558cd5b22
+ms.sourcegitcommit: c2bf382289217ef12913ef3419e6378716fd411a
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 08/20/2020
-ms.locfileid: "46817575"
+ms.lasthandoff: 09/30/2020
+ms.locfileid: "48320026"
 ---
 # <a name="eligibility"></a>Tính đủ điều kiện
 
@@ -40,14 +40,14 @@ Các chuyên gia FastTrack có thể cung cấp cho bạn trợ giúp từ xa, c
   - Quản trị thông tin Microsoft
   - Bảo vệ thông tin của Microsoft
   - Microsoft InTune
-  - Nhóm Microsoft
+  - Microsoft Teams
   - Bảo vệ mối đe dọa nâng cao của Office 365 (ATP)
   - OneDrive for Business
   - Power BI
   - Dự án trực tuyến
   - SharePoint Online
-  - Skype for Business Online
   - Windows 10
+  - Máy tính chạy Windows ảo
   - Yammer Enterprise
 
 ## <a name="eligible-plans"></a>Các gói đủ điều kiện
@@ -65,6 +65,7 @@ Bạn phải mua ít nhất là 150 giấy phép cho mỗi đối tượng thuê
   - Kiểm tra & Microsoft 365 E5 eDiscovery\*
   - Quản trị & bảo vệ thông tin E5 của Microsoft 365\*
   - Quản lý rủi ro Microsoft 365 E5\*
+  - Microsoft 365 F1\*
   - Microsoft 365 F3\*
   - Microsoft 365 Business\*
   - Ứng dụng Microsoft 365 dành cho doanh nghiệp\*
@@ -115,6 +116,19 @@ Bạn phải mua ít nhất là 150 giấy phép cho mỗi đối tượng thuê
   - Exchange Online Protection
   - Bảo vệ mối đe dọa nâng cao của Office 365
 
+#### <a name="microsoft-teams"></a>Microsoft Teams
+
+  - Hệ thống điện thoại
+  - Lập kế hoạch gọi
+  - Hội thảo âm thanh
+  - Phòng Microsoft nhóm
+
+#### <a name="onedrive-for-business"></a>OneDrive for Business
+
+  - OneDrive for Business với Office
+  - OneDrive for Business Plan 1
+  - OneDrive for Business Plan 2
+
 #### <a name="project-online"></a>Dự án trực tuyến
 
   - Project Online Essentials
@@ -126,32 +140,16 @@ Bạn phải mua ít nhất là 150 giấy phép cho mỗi đối tượng thuê
   - Gói SharePoint Online 1
   - SharePoint Online gói 2
 
-#### <a name="onedrive-for-business"></a>OneDrive for Business
-
-  - OneDrive for Business với Office
-  - OneDrive for Business Plan 1
-  - OneDrive for Business Plan 2
-
-#### <a name="skype-for-business-online"></a>Skype for Business Online
-
-  - Hệ thống điện thoại\*\*\*
-  - Lập kế hoạch gọi\*\*\*
-  - Hội thảo âm thanh\*\*\*
-  - Skype for Business Online Plan 1
-  - Skype for Business Online Plan 2
-
 #### <a name="yammer"></a>Yammer
 
   - Yammer Enterprise
-
 
 <br>
 
 \*Chỉ khả dụng cho các dịch vụ và tính năng đám mây có đủ điều kiện được mô tả trong mô tả lợi ích này.  
       
 \*\*Để biết thêm thông tin về lợi ích FastTrack cho chính phủ Hoa Kỳ, vui lòng xem [Office 365 US Government](https://aka.ms/aboutgovcloud).  
-      
-\*\*\*Có thể sử dụng cho cả người dùng Skype for Business Online và các nhóm được cấp phép. Yêu cầu mua bán hàng của Skype for Business hoặc nhóm.  
+       
       
 ### <a name="enterprise-mobility--security-plans"></a>Tính năng vận động doanh nghiệp + gói bảo mật  
       

@@ -3,19 +3,19 @@ title: Quy trình và Sự kỳ vọng
 ms.author: rberg@steyer.net
 author: rberg@steyer.net
 manager: jimmuir
-ms.date: 8/17/2020
+ms.date: 10/1/20
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: Normal
 ms.collection: FastTrack
 description: Trong chủ đề này, chúng tôi bao gồm cách thu hút FastTrack để được hỗ trợ, cách hỗ trợ được cung cấp, gợi ý lời khuyên cho một trải nghiệm thành công và hiểu được trách nhiệm chính của cả FastTrack và công ty của bạn.
-ms.openlocfilehash: 229679a0bd248e79cd8ebedc563b173a20756f80
-ms.sourcegitcommit: d67bbe7e9f71c9983280cb3858a4fff0d7ac884b
+ms.openlocfilehash: 293cde4bd1bde0b0a8db74ea3d17f39669c9b0f0
+ms.sourcegitcommit: c2bf382289217ef12913ef3419e6378716fd411a
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 08/20/2020
-ms.locfileid: "46817587"
+ms.lasthandoff: 09/30/2020
+ms.locfileid: "48319942"
 ---
 # <a name="process-and-expectations"></a>Quy trình và Sự kỳ vọng
 
@@ -43,6 +43,8 @@ Có hai nơi mà bạn có thể yêu cầu trợ giúp từ một chuyên gia F
 3.  Tìm kiếm khách hàng của bạn bằng cách nhập tên khách hàng, tên miền hoặc TPID.
 4.  Chọn khách hàng của bạn từ các kết quả tìm kiếm.
 5.  Hoàn thành việc **hỗ trợ yêu cầu với biểu mẫu Microsoft 365** .
+
+Để yêu cầu hỗ trợ cho ứng dụng đảm bảo, hãy hoàn tất [ứng dụng đảm bảo yêu cầu dịch vụ](https://go.microsoft.com/fwlink/?linkid=2022721).
 
 ## <a name="fasttrack-expectations"></a>Độ mong đợi FastTrack
 

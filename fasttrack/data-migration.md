@@ -3,19 +3,19 @@ title: Di chuyển dữ liệu
 ms.author: rberg@steyer.net
 author: rberg@steyer.net
 manager: jimmuir
-ms.date: 8/17/2020
+ms.date: 10/1/20
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: Normal
 ms.collection: FastTrack
 description: FastTrack có thể giúp bạn di chuyển thư và dữ liệu tệp trong môi trường nguồn của bạn sang Office 365 (Exchange Online, SharePoint Online và OneDrive for Business). Loại trợ giúp mà chúng tôi cung cấp phụ thuộc vào số lượng giấy phép Office 365 của bạn.
-ms.openlocfilehash: 6b2c9cc3afba415c200b14fe34e65f1c3286e450
-ms.sourcegitcommit: d67bbe7e9f71c9983280cb3858a4fff0d7ac884b
+ms.openlocfilehash: a8bb82e5a0409c52fe2603d33a4412182288f24a
+ms.sourcegitcommit: c2bf382289217ef12913ef3419e6378716fd411a
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 08/20/2020
-ms.locfileid: "46817719"
+ms.lasthandoff: 09/30/2020
+ms.locfileid: "48319954"
 ---
 # <a name="data-migration"></a>Di chuyển dữ liệu
 
@@ -281,6 +281,7 @@ Bảng sau đây trình bày các chi tiết di chuyển cụ thể cho từng m
 <li> Nội dung không thuộc sở hữu của tài khoản Google Drive đang được di chuyển </li>
 <li> Quyền và siêu dữ liệu cơ bản của người dùng bên ngoài (<strong>lưu ý</strong>: sử dụng báo cáo quản trị Google Drive để xác định nội dung được chia sẻ với người dùng bên ngoài. Hướng dẫn người dùng cuối để chia sẻ nội dung với người dùng bên ngoài sau khi di chuyển.) </li>
 <li> Quyền thành viên ổ đĩa chia sẻ (<strong>ghi chú</strong>: dùng các báo cáo quản trị của Google Drive để xác định thành viên ổ đĩa chia sẻ. Hướng dẫn người dùng cuối để cấu hình các thiết đặt thành viên này trên mục tiêu trước khi di chuyển.) </li>
+<li> Các tệp được đánh dấu là hạn chế hoặc không được copyable </li>
 <li> Các tệp hoặc thư mục vượt quá <a href="https://go.microsoft.com/fwlink/?linkid=846724"><span class="underline">hạn chế và giới hạn của SharePoint Online</span> hiện tại</a> </li>
 </ul></td>
 </tr>

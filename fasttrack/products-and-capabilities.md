@@ -3,19 +3,19 @@ title: Các sản phẩm và chức năng
 ms.author: rberg@steyer.net
 author: rberg@steyer.net
 manager: jimmuir
-ms.date: 8/17/2020
+ms.date: 10/1/20
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: m365-administration
 localization_priority: Normal
 ms.collection: FastTrack
 description: Chủ đề này bao gồm chi tiết về các tình huống khối lượng công việc được hỗ trợ bởi FastTrack và các kỳ vọng của môi trường nguồn cần thiết trước khi chúng tôi có thể bắt đầu. Dựa trên thiết lập hiện tại của bạn, chúng tôi làm việc với bạn để tạo một kế hoạch khắc phục sự kiện sẽ giúp môi trường nguồn của bạn lên đến các yêu cầu tối thiểu để onboarding thành công.
-ms.openlocfilehash: d25c1df8e628f14487952cacc86ccf8fb9dad8c1
-ms.sourcegitcommit: d67bbe7e9f71c9983280cb3858a4fff0d7ac884b
+ms.openlocfilehash: a3477be6958dea88874bbc042445bbc693c10ffb
+ms.sourcegitcommit: c2bf382289217ef12913ef3419e6378716fd411a
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 08/20/2020
-ms.locfileid: "46817707"
+ms.lasthandoff: 09/30/2020
+ms.locfileid: "48320038"
 ---
 # <a name="products-and-capabilities"></a>Các sản phẩm và chức năng
 
@@ -29,8 +29,9 @@ Fasttrack cung cấp hướng dẫn để giúp bạn đầu tiên với các ch
   - [Office 365](#office-365)
   - [Bảo mật & di động của doanh nghiệp](#enterprise-mobility--security)
   - [Windows 10](#windows-10)
-  - [Đảm bảo cho ứng dụng](Win-10-app-assure.md)
-  - [Microsoft Edge mới](Win-10-microsoft-edge.md)
+  - [Máy tính chạy Windows ảo](#windows-virtual-desktop)
+  - [Đảm bảo cho ứng dụng](#app-assure)
+  - [Phiên bản Microsoft Edge mới](#the-new-microsoft-edge)
 
 > [!NOTE]
 > Để biết thông tin về các kỳ vọng môi trường nguồn cho chính phủ Hoa Kỳ của Office 365, hãy xem các [kỳ vọng môi trường nguồn cho chính phủ office 365 US](https://docs.microsoft.com/fasttrack/us-gov-appendix-source-environment-expectations).
@@ -189,7 +190,7 @@ Phần mềm máy khách trực tuyến như Project for Office 365, Outlook for
 <td>Ngoài phần <strong>lõi triển khai</strong> <a href="#general">nói chung</a>, không có các yêu cầu hệ thống tối thiểu.</td>
 </tr>
 <tr class="even">
-<td><strong>Nhóm Microsoft</strong></td>
+<td><strong>Microsoft Teams</strong></td>
 <td>  Chúng tôi cung cấp hướng dẫn từ xa cho:
 <ul>
 <li>  Xác nhận yêu cầu tối thiểu trong Exchange Online, SharePoint Online, các nhóm Office 365 và Azure AD để hỗ trợ nhóm.  </li>
@@ -209,18 +210,13 @@ Phần mềm máy khách trực tuyến như Project for Office 365, Outlook for
 Nếu áp dụng, chúng tôi cũng cung cấp hướng dẫn cho:
 <ul>
 <li>  Thiết bị phòng Microsoft Nhóm:  </li>
-</ul>
 <ul>
 <li>  Tạo tài khoản trực tuyến cần thiết cho điện thoại được hỗ trợ và thiết bị phòng hội thảo được liệt kê trong <a href="https://go.microsoft.com/fwlink/?linkid=2066478">danh mục thiết bị nhóm</a>.  </li>
-</ul>
-<ul>
+<li>  Hỗ trợ từ xa với cấu hình cạnh Dịch vụ của các thiết bị phòng Microsoft nhóm được chứng nhận.  </li>
 <li>  Bật hội thảo âm thanh:  </li>
-</ul>
-<ul>
 <li>  Thiết lập tổ chức thiết đặt mặc định cho cầu nối hội thảo.  </li>
 <li>  Phân công cầu nối hội thảo cho người dùng được cấp phép.  </li>
 </ul>
-<ul>
 <li>  Hệ thống điện thoại:
 <ul>
 <li>  Thiết lập tổ chức cho thiết đặt mặc định bằng giọng nói trên đám mây.  </li>
@@ -232,11 +228,20 @@ Nếu áp dụng, chúng tôi cũng cung cấp hướng dẫn cho:
 </ul></li>
 <li>  Hướng dẫn định tuyến trực tiếp:
 <ul>
-<li>  Hướng dẫn thiết lập tổ chức để thiết kế định tuyến trực tiếp các tình huống được lưu trữ đối tác hoặc các tình huống được triển khai của khách hàng cho một trang duy nhất.  </li>
+<li>  Hướng dẫn thiết lập tổ chức để thiết kế định tuyến trực tiếp các tình huống được lưu trữ đối tác hoặc các tình huống được triển khai của khách hàng cho tối đa 10 site.  </li>
+<li> Xem lại cấu hình bộ điều khiển viền phiên (SBC). </li>
+
+<li> Hỗ trợ từ xa với cấu hình kế hoạch quay số. </li>
+
+<li> Cấu hình tuyến đường thoại.</li>
+
+<li> Bỏ qua phương tiện và tối ưu hóa phương tiện cục bộ. </li>
+
 </ul></li>
 </ul></li>
 <li>  Cho phép các sự kiện trực tiếp của nhóm.  </li>
 <li>  Thiết lập và tích hợp tổ chức vào Microsoft Stream.  </li>
+<li>  Hướng dẫn cho Skype for Business thành chuyển tiếp nhóm.  </li>
 </ul></td>
 <td><ul>
 <li>  Các danh tính được kích hoạt trong Azure AD cho Office 365.  </li>
@@ -341,62 +346,6 @@ Hướng dẫn bổ sung được cung cấp cho OneDrive for Business tùy thu�
 </ul>
   <strong>Lưu ý:</strong> Nâng cấp môi trường SharePoint tại cơ sở sang SharePoint Server không nằm trong phạm vi. Liên hệ với một <a href="https://go.microsoft.com/fwlink/?linkid=2080150">đối tác Microsoft</a> để được trợ giúp. Để biết thêm thông tin, hãy xem các <a href="https://go.microsoft.com/fwlink/?linkid=853548">mức Cập Nhật công khai tối thiểu cho các tính năng của SharePoint Hybrid</a><em>.</em>  <br>
   <strong>Lưu ý:</strong> Để biết thông tin về các khả năng đa địa lý, hãy xem các chức <a href="https://go.microsoft.com/fwlink/?linkid=831056">năng đa địa lý trong OneDrive và SharePoint Online trong Office 365</a><em>.</em>  </td>
-</tr>
-<tr class="odd">
-<td><strong>Skype for Business Online</strong></td>
-<td>  Chúng tôi cung cấp hướng dẫn từ xa cho:
-<ul>
-<li>  Cấu hình cổng tường lửa.  </li>
-
-<li>  Thiết lập DNS.  </li>
-<li>  Đánh giá mạng:
-<ul>
-<li>  Cổng và kiểm tra điểm cuối.  </li>
-<li>  Kiểm tra chất lượng kết nối.  </li>
-<li>  Ước tính băng thông.  </li>
-</ul></li>
-<li>  Tạo tài khoản cho bất kỳ thiết bị hệ thống phòng nào.  </li>
-<li>  Triển khai ứng dụng khách Skype for Business Online được hỗ trợ.  </li>
-<li>  Thiết lập cấu hình máy chủ tên miền giữa các Lync 2010 tại cơ sở của bạn, Lync 2013, hoặc Skype for Business 2015 môi trường máy chủ và Skype for Business Online đối tượng thuê (nếu có), gọi các gói, Skype Meeting Broadcast và hệ thống điện thoại và gọi kế hoạch (trong thị trường sẵn có).  
-  Nếu có thể áp dụng, FastTrack cũng hướng dẫn bạn qua:  </li>
-<li>  Cấu hình thiết bị hệ thống phòng:
-<ul>
-<li>  Việc tạo tài khoản trực tuyến cần thiết cho các thiết bị phòng hội thảo được hỗ trợ được liệt kê trên tab Hệ thống phòng họp trong <a href="https://go.microsoft.com/fwlink/?LinkId=615775">danh mục các giải pháp Skype for Business</a>.  </li>
-</ul></li>
-<li>  Cấu hình máy chủ tên miền hỗn hợp và phân tách.  </li>
-<li>  Cấu hình hội thảo âm thanh:
-<ul>
-<li>  Thiết lập tổ chức thiết đặt mặc định cho cầu nối hội thảo.  </li>
-<li>  Phân công cầu nối hội thảo cho người dùng được cấp phép.  </li>
-</ul></li>
-<li>  Cấu hình thiết đặt mặc định hệ thống điện thoại:
-<ul>
-<li>  Các gói đang gọi:
-<ul>
-<li>  Gán số cho những người dùng giấy phép.  </li>
-<li>  Số nội bộ porting hướng dẫn thông qua giao diện người dùng lên đến 99  </li>
-<li>  Dịch vụ số nội bộ porting hỗ trợ qua 999  </li>
-</ul></li>
-</ul></li>
-<li>  Đặt cấu hình phát rộng cuộc họp Skype for Business:
-<ul>
-<li>  Thiết lập tổ chức cho liên kết với dịch vụ phát rộng cuộc họp.  </li>
-</ul></li>
-</ul></td>
-<td>  <strong>Đối với Lync Hybrid:</strong>  
-<ul>
-<li>  Một cụm nhánh Active Directory tại cơ sở.  </li>
-<li>  Môi trường máy chủ Lync 2010 với công cụ quản trị Lync 2013 hoặc công cụ quản trị Skype for Business 2015 và vai trò máy chủ Lync 2010 Edge.  </li>
-<li>  Môi trường máy chủ Lync 2013 và vai trò máy chủ Lync 2013 Edge.  </li>
-</ul>
-  <strong>Đối với Skype for Business Hybrid:</strong>  
-<ul>
-<li>  Một cụm nhánh Active Directory tại cơ sở.  </li>
-<li>  Một tài khoản một Active Directory Forest đã trở đi và rừng tài nguyên (Exchange và/hoặc Skype for Business).  </li>
-<li>  Nhiều rừng tài khoản Active Directory, với một khu rừng là một khu rừng tài khoản Active Directory tập trung với Exchange và/hoặc Skype for Business trong đó.  </li>
-<li>  Môi trường máy chủ Skype for Business 2015 bao gồm vai trò máy chủ Skype for Business Edge.  </li>
-</ul>
-  <strong>Lưu ý:</strong> Dịch vụ bổ sung này là để cấu hình và phê chuẩn các nhiệm vụ của miền tách (hỗn hợp) và không đưa vào các cấu phần tại cơ sở (ví dụ, công cụ quản trị Lync 2013 hoặc Lync 2013/Skype dành cho các máy chủ trực tuyến, hoặc Lync 2010, Lync 2013 hoặc Skype for Business Edge Servers).  </td>
 </tr>
 <tr class="even">
 <td><strong>Yammer Enterprise</strong></td>
@@ -524,7 +473,6 @@ Bạn đã phải:
 <li>  Triển khai ứng dụng cho từng nền tảng được hỗ trợ thông qua các nối kết web hoặc nối kết sâu.  </li>
 <li>  Chính sách truy nhập có điều kiện.  </li>
 <li>  Việc triển khai các hồ sơ email, mạng không dây và VPN) nếu bạn có một cơ quan cấp chứng chỉ hiện có, cơ sở hạ tầng mạng không dây hoặc VPN trong tổ chức của bạn.  </li>
-<li>  Thiết lập trình kết nối Exchange của Microsoft InTune (khi áp dụng).  </li>
 <li>  Kết nối với kho dữ liệu InTune.  </li>
 <li>  Đang tích hợp InTune với:
 <ul>
@@ -553,11 +501,9 @@ Bạn đã phải:
 
   Chúng tôi hướng dẫn bạn đến với việc sẵn sàng cho các môi trường trình quản lý cấu hình hiện có với InTune. Các bước chính xác tùy thuộc vào môi trường nguồn của bạn. Những bước này có thể bao gồm:  
 <ul>
-<li>  Giải thích về các lợi ích của trình quản lý cấu hình đám mây với InTune.  </li>
 <li>  Cấp phép người dùng cuối của bạn.  </li>
 <li>  Cấu hình các định danh được sử dụng bởi InTune bằng cách tận dụng Active Directory tại chỗ và danh tính đám mây của bạn.  </li>
 <li>  Thêm người dùng vào thuê bao InTune của bạn, xác định vai trò quản trị CNTT và tạo nhóm người dùng và thiết bị.  </li>
-<li>  Bật tính năng đám mây trong bảng điều khiển trình quản lý cấu hình.  </li>
 <li>  Việc cung cấp hướng dẫn thiết lập kết hợp Azure AD join.  </li>
 <li>  Cung cấp hướng dẫn về việc thiết lập Azure AD cho MDM tự động đăng ký.  </li>
 <li>  Cung cấp hướng dẫn về cách thiết lập cổng kết nối quản lý điện toán đám mây.  </li>
@@ -582,10 +528,7 @@ Bạn đã phải:
   </td>
 <td>  Người quản trị CNTT cần có cơ quan cấp chứng chỉ hiện có, mạng không dây và hạ tầng VPN đã làm việc trong môi trường sản xuất của họ khi lập kế hoạch triển khai mạng không dây và hồ sơ VPN bằng InTune.  
   <strong>Lưu ý</strong>: lợi ích Dịch vụ fasttrack không bao gồm trợ giúp thiết lập hoặc cấu hình cơ quan cấp chứng chỉ, mạng không dây, hạ tầng VPN hoặc giấy chứng nhận đẩy táo MDM cho InTune.  
-
-<strong>Trình quản lý cấu hình đám mây được đính kèm bằng InTune</strong>  
-
- Với đám mây-đính kèm, người quản trị CNTT có trách nhiệm chuẩn bị môi trường tại cơ sở. Điều này có thể bao gồm các vấn đề khắc phục sự cố ngăn cản bạn từ điện toán đám mây-đính kèm môi trường trình quản lý cấu hình của bạn với InTune.  
+ 
   <strong>Lưu ý</strong>: lợi ích của dịch vụ fasttrack không bao gồm trợ giúp thiết lập hoặc nâng cấp máy chủ site của trình quản lý cấu hình hoặc máy khách trình quản lý cấu hình đến các yêu cầu tối thiểu cần thiết để hỗ trợ đám mây-đính kèm. Liên hệ với một <a href="https://go.microsoft.com/fwlink/?linkid=2080150">đối tác Microsoft</a> để được trợ giúp về điều này.
 
   <strong>InTune tích hợp với bảo vệ mối đe dọa nâng cao của Microsoft Defender (ATP)</strong> 
@@ -618,7 +561,7 @@ Bạn đã phải:
 <tbody>
 <tr class="odd">
 <td><strong>Windows 10</strong></td>
-<td>  Chúng tôi cung cấp hướng dẫn để giúp bạn nâng cấp từ Windows 7 Professional và Windows 8,1 Professional sang Windows 10 Enterprise.  
+<td>  Chúng tôi cung cấp hướng dẫn nâng cấp từ Windows 7 Professional và Windows 8,1 Professional sang Windows 10 Enterprise.  
   Chúng tôi cung cấp hướng dẫn từ xa cho:
 <ul>
 <li>  Hiểu rõ ý định về Windows 10 của bạn.  </li>
@@ -627,13 +570,11 @@ Bạn đã phải:
 <li>  Đề xuất các tùy chọn cho bạn để đánh giá các ứng dụng Windows 10 của bạn.  </li>
 <li>  Cho phép sử dụng phân tích máy tính để bàn và hướng dẫn thông qua việc tạo kế hoạch triển khai phân tích máy tính bàn.  </li>
 <li>  Đánh giá tương thích của Microsoft 365 bằng cách tận dụng bảng điều khiển sẵn sàng của Office 365 trong trình quản lý cấu hình hoặc với bộ công cụ sẵn sàng độc lập cho Office Plus hỗ trợ triển khai ứng dụng Microsoft 365.  </li>
-<li>  Đánh giá các chiến lược quản lý hiện đại của bạn, bao gồm trình quản lý cấu hình đám mây với Microsoft InTune hoặc triển khai InTune là giải pháp quản lý đám mây duy nhất.  </li>
 <li>  Tạo danh sách kiểm tra khắc phục những gì bạn cần làm để mang đến môi trường nguồn của bạn lên đến các yêu cầu tối thiểu để triển khai thành công.  </li>
 <li>  Cung cấp hướng dẫn nâng cấp cho các thiết bị hiện có của bạn vào Windows 10 Enterprise nếu họ đáp ứng các yêu cầu phần cứng thiết bị cần thiết.  </li>
 <li>  Cung cấp hướng dẫn nâng cấp để hỗ trợ chuyển động triển khai hiện có của bạn. FastTrack Recommends và cung cấp hướng dẫn cho việc nâng cấp tại chỗ lên Windows 10. Hướng dẫn cũng sẵn dùng cho việc cài đặt Windows sạch ảnh và các kịch bản triển khai Windows Autopilot.  </li>
 <li>  Triển khai ứng dụng Microsoft 365 bằng trình quản lý cấu hình như là một phần của triển khai Windows 10.   </li>
 <li>  Cung cấp hướng dẫn để giúp tổ chức của bạn luôn Cập Nhật với Windows 10 Enterprise và ứng dụng Microsoft 365 bằng môi trường trình quản lý cấu hình hiện có của bạn hoặc Microsoft 365.  </li>
-<li>  Cung cấp hướng dẫn để cho phép quản lý hiện đại bằng cách gắn kết với trình quản lý cấu hình điện toán đám mây vào InTune hoặc bằng cách triển khai InTune độc lập (khi bắt buộc).  </li>
 </ul>
   <strong>Sau đây là phạm vi </strong>  
 <ul>
@@ -799,5 +740,212 @@ Liên hệ với một <a href="https://go.microsoft.com/fwlink/?linkid=2080150"
 </ul></td>
 <td></td>
 
+</tbody>
+</table>
+
+## <a name="windows-virtual-desktop"></a>Máy tính chạy Windows ảo
+
+<table>
+<thead>
+<tr class="header">
+<th><strong>Service</strong></th>
+<th><strong>Chi tiết hướng dẫn FastTrack</strong></th>
+<th><strong>Mong đợi môi trường nguồn</strong></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><strong>Máy tính chạy Windows ảo</strong></td>
+<td><p>Chúng tôi cung cấp hướng dẫn triển khai cho triển khai vào Windows Virtual trên máy tính (một dịch vụ ảo hóa và ứng dụng trên máy tính). Windows Virtual Desktop sẽ lợi dụng trải nghiệm đa phiên Windows 10 và được tối ưu hóa cho các ứng dụng Microsoft 365 dành cho doanh nghiệp với tính bảo mật và quản lý tích hợp cho Microsoft 365.</p>
+<p>Chúng tôi cung cấp hướng dẫn từ xa cho:</p>
+<ul>
+<li>Triển khai môi trường Windows Virtual trên máy tính của bạn với Windows 10 Enterprise Multi-session và ứng dụng Microsoft 365 dành cho doanh nghiệp bằng cách sử dụng như sau:
+<ul>
+<li>Ảnh Azure Marketplace.</li>
+<li>Ảnh chia sẻ.</li>
+<li>Bộ công cụ triển khai Office (ODT).</li>
+</ul></li>
+<li>Cấu hình FSLogix:
+<ul>
+<li>Triển khai đại diện FSLogix bằng bộ chứa hồ sơ.</li>
+<li>Triển khai đại diện FSLogix với bộ chứa Office.</li>
+<li>Cấu hình thư mục FSLogix với loại trừ nội dung.</li>
+</ul></li>
+<li>Triển khai Microsoft Edge.</li>
+<li>Triển khai nhóm Microsoft.</li>
+<li>Kết nối bằng máy khách của Windows Virtual Desktop.</li>
+</ul>
+
+<strong>Sau đây là phạm vi</strong>
+<ul>
+<li>Quản lý dự án triển khai Windows Virtual trên máy tính của khách hàng.</li>
+<li>Hỗ trợ trên site.</li>
+<li>Ảo hóa và triển khai ứng dụng của bên thứ ba.</li>
+<li>Hình ảnh tùy chỉnh.</li>
+<li>Di chuyển và kịch bản liên quan đến VMware và Citrix.</li>
+<li>Kịch bản trong Linux.</li>
+<li>Chuyển đổi hoặc di chuyển của hồ sơ người dùng.</li>
+</ul>
+Liên hệ với một <a href="https://go.microsoft.com/fwlink/?linkid=2080150">đối tác Microsoft</a>   để được trợ giúp với các dịch vụ này.</td>
+<td>Bạn đã có thể có những điều sau đây:
+<ul>
+<li>Các <a href="https://docs.microsoft.com/azure/virtual-desktop/overview#requirements">yêu cầu cấp phép Virtual trên máy tính chạy Windows</a>.</li>
+<li>Lưới Azure:
+<ul>
+<li>Tạo mạng (VNET) ảo và lưới nhỏ.</li>
+<li>Tường lửa và nhóm bảo mật mạng.</li>
+<li>VPN và ExpressRoute.</li>
+<li>Định tuyến đến Azure từ tại chỗ.</li>
+<li>Các quy tắc tường lửa để cho phép kết nối với Windows Virtual trên máy tính.
+</ul>
+Để biết thêm thông tin, hãy xem mục <a href="https://docs.microsoft.com/azure/virtual-desktop/overview#supported-remote-desktop-clients"> hỗ trợ máy khách từ xa</a>.
+</ul>
+<ul><li>Thiết lập chung Azure AD:
+<ul>
+<li>Chiến lược <i>căn cước (bạn chỉ có thể sử dụng một trong ba tùy chọn sau đây):</i>
+<ul>
+<li>Active Directory với Azure AD Connect trong Azure.</li>
+<li>Active Directory với Azure AD Connect tại cơ sở qua VPN hoặc ExpressRoute.</li>
+<li>Dịch vụ miền Active Directory (AD DS).</li>
+</ul></li>
+</ul></li>
+</ul></td>
+</tr>
+</tbody>
+</table>
+
+## <a name="app-assure"></a>Đảm bảo cho ứng dụng
+
+
+<table>
+<thead>
+<tr class="header">
+<th><strong>Service</strong></th>
+<th><strong>Chi tiết hướng dẫn FastTrack</strong></th>
+<th><strong>Sản phẩm được hỗ trợ</strong></th>
+</tr>
+</thead>
+<tbody>
+</tr>
+<tr class="even">
+<td><strong>Đảm bảo cho ứng dụng</strong></td>
+<td>  Ứng dụng đảm bảo là một dịch vụ được thiết kế để giải quyết các sự cố với Windows 10 và ứng dụng Microsoft 365 ứng dụng tương thích. Khi bạn yêu cầu ứng dụng đảm bảo dịch vụ, chúng tôi sẽ làm việc với bạn để giải quyết các sự cố ứng dụng hợp lệ tại không có chi phí bổ sung cho bạn bằng một thuê bao đủ điều kiện. Chúng tôi cũng cung cấp hướng dẫn cho khách hàng những vấn đề tương thích khi triển khai Windows Virtual Desktop và Microsoft Edge mới và thực hiện tất cả các nỗ lực hợp lý để giải quyết các vấn đề tương thích. Chúng tôi cung cấp hỗ trợ khắc phục các ứng dụng được triển khai trên các sản phẩm Microsoft sau đây:
+<ul>
+<li>  <strong>Windows 10 </strong> (bao gồm các thiết bị ARM64)</li>
+<li> <strong>Ứng dụng Microsoft 365</strong>  </li>
+<li>  <strong>Microsoft Edge mới-</strong> Để được hướng dẫn triển khai, hãy xem <a href="https://docs.microsoft.com/DeployEdge/microsoft-edge-channels">tổng quan về các kênh Microsoft Edge</a>.  </li>
+<li>  <strong>Máy tính</strong> - chạy Windows ảo Để biết thêm thông tin, hãy xem <a href="https://docs.microsoft.com/azure/virtual-desktop/windows-10-multisession-faq">câu hỏi thường gặp</a>về <a href="https://docs.microsoft.com/azure/virtual-desktop/overview">Windows Virtual Desktop là gì?</a> và Windows 10 Enterprise.  </li>
+</ul>
+
+<strong>Sau đây là phạm vi </strong>  
+<ul>
+<li>  Kiểm tra và thử nghiệm ứng dụng để xác định những điều không có và không hoạt động trên các ứng dụng Windows 10 và Microsoft 365. Để biết thêm hướng dẫn về quy trình này, hãy truy cập <a href="https://go.microsoft.com/fwlink/?linkid=2080140">Trung tâm triển khai màn hình máy tính</a>. Nếu bạn quan tâm đến việc đánh giá sẵn sàng nâng cấp chuyên sâu, hãy hoàn thành <a href="https://go.microsoft.com/fwlink/?linkid=2053818">yêu cầu khách hàng cho biểu mẫu đánh giá máy tính bàn hiện đại</a> .</li>
+<li>  Nghiên cứu các ứng dụng ISV bên thứ ba dành cho tính tương thích và câu lệnh hỗ trợ của Windows 10. Để biết thêm thông tin, hãy xem <a href="https://docs.microsoft.com/sccm/desktop-analytics/overview">phân tích máy tính để bàn</a>.</li>
+<li>Chỉ bao bì ứng dụng-các dịch vụ. Tuy nhiên, ứng dụng đảm bảo các ứng dụng gói nhóm mà chúng tôi đã khắc phục đối với Windows 10 để đảm bảo rằng chúng có thể được triển khai trong môi trường của khách hàng.</li>
+</ul>
+
+<strong>Các trách nhiệm của khách hàng bao gồm</strong>  
+<ul>
+<li>  Tạo hàng tồn kho ứng dụng.</li>
+<li>  Phê chuẩn những ứng dụng này trên các ứng dụng Windows 10 và Microsoft 365.</li>
+</ul>
+<strong>Lưu ý:</strong>  Microsoft không thể thực hiện thay đổi đối với mã nguồn của bạn. Tuy nhiên, ứng dụng đảm bảo nhóm có thể cung cấp hướng dẫn cho nhà phát triển ứng dụng nếu mã nguồn sẵn dùng cho ứng dụng của bạn. 
+
+
+  Liên hệ với một <a href="https://go.microsoft.com/fwlink/?linkid=2080150">đối tác Microsoft</a> để được trợ giúp với các dịch vụ này.  </td>
+
+</td>
+<td><strong>Ứng dụng Windows 10 và Microsoft 365</strong>
+<ul>
+<li>  
+  Các ứng dụng đã làm việc trên Windows 7, Windows 8,1, Office 2010 và Office 2013 cũng hoạt động trên các ứng dụng Windows 10 và Microsoft 365.  
+  </li>
+</ul>
+<strong>Windows 10 trên ARM</strong>
+<ul>
+<li>  
+Các ứng dụng đã làm việc trên Windows 7, Office 2010 hoặc các phiên bản sau này hoạt động trên các ứng dụng Windows 10 và Microsoft 365 trên các thiết bị ARM64. 
+  </li>
+</ul>
+  <strong>Lưu ý:</strong> Windows 10 trên các loại trừ và giới hạn của ARM bao gồm:
+<ul>
+<li>  
+ Các ứng dụng dựa vào trình điều khiển phần mềm không tương thích trong ARM.  
+  </li>
+<li>  
+  Các ứng dụng sử dụng OpenGL hoặc OpenCL.   
+  </li>
+<li>  
+  Các ứng dụng chỉ sẵn dùng trong 64 bit (x64).  
+  </li>
+</ul>
+<strong>Microsoft Edge mới</strong>
+<ul>
+<li>  
+  Nếu ứng dụng web hoặc site của bạn hoạt động trên Internet Explorer 11, các phiên bản Google Chrome được hỗ trợ, hoặc bất kỳ phiên bản nào của Microsoft Edge, họ cũng sẽ làm việc với Microsoft Edge mới.  
+  </li>
+<li>  
+  Khi web không liên tục phát triển, hãy đảm bảo bạn xem lại danh sách <a href="https://docs.microsoft.com/microsoft-edge/web-platform/site-impacting-changes">đã phát hành của tính năng tương thích trang đã biết-các thay đổi tác động đối với Microsoft Edge</a>.  
+  </li>
+</ul>
+  <strong>Máy tính chạy Windows ảo </strong>  
+<ul>
+<li>  
+  Các ứng dụng ảo hóa chạy trên máy chủ lưu trữ phiên máy tính từ xa của Windows Server (RDSH) cũng chạy trên Windows 10 Enterprise Multi-session như một phần của Windows Virtual Desktop.  
+  </li>
+<li>  
+  Các ứng dụng đang chạy trên bất kỳ môi trường cơ sở hạ tầng máy tính bàn ảo Windows 7 hoặc Windows 10 nào (VDI) cũng chạy trên Windows 7 Enterprise và Windows 10 Enterprise như một phần của Windows Virtual trên máy tính.  
+  </li>
+<li>  
+  Các ứng dụng đang chạy trên Windows 7 hoặc Windows 10 thiết bị khách cũng chạy trên Windows 7 Enterprise và Windows 10 Enterprise như một phần của Windows Virtual trên máy tính.  
+  </li>
+</ul>
+  <strong>Lưu ý:</strong> Các loại trừ và giới hạn tương thích của Windows 10 Enterprise đa phiên bao gồm:
+<ul>
+<li>  
+  Chuyển hướng hạn chế của phần cứng.  
+  </li>
+<li>  
+  Ứng dụng a/V-chuyên sâu có thể thực hiện trong công suất giảm đi.  
+  </li>
+<li>  
+  Các ứng dụng 16 bit không được hỗ trợ cho máy tính chạy Windows ảo 64 bit.  
+  </li>
+</ul></td>
+</tr>
+</tbody>
+</table>
+
+## <a name="the-new-microsoft-edge"></a>Phiên bản Microsoft Edge mới
+
+
+<table>
+<thead>
+<tr class="header">
+<th><strong>Service</strong></th>
+<th><strong>Chi tiết hướng dẫn FastTrack</strong></th>
+<th><strong>Mong đợi môi trường nguồn</strong></th>
+</tr>
+</thead>
+<tbody>
+</tr>
+<tr class="even">
+<td><strong>Microsoft Edge</strong> (dành cho khách hàng Windows 10 Enterprise)</td>
+<td><ul>
+<li>  Chúng tôi cung cấp hướng dẫn triển khai từ xa và trợ giúp tương thích cho: triển khai Microsoft Edge mới trên Windows 10 Enterprise với Microsoft Endpoint Manager (Microsoft Endpoint Configuration Manager hoặc InTune).  </li>
+<li>  Cấu hình Microsoft Edge (sử dụng chính sách nhóm hoặc cấu hình ứng dụng InTune và chính sách ứng dụng).  </li>
+<li>  Kiểm kê danh sách các site có thể yêu cầu dùng trong chế độ Internet Explorer.  </li>
+<li>  Bật chế độ Internet Explorer với danh sách site hiện có của doanh nghiệp.  
+  Ngoài ra, nếu bạn có một ứng dụng web hoặc site hoạt động với Internet Explorer hoặc Google Chrome và bạn trải nghiệm các vấn đề tương thích, chúng tôi cung cấp hướng dẫn để giải quyết sự cố mà không cần phải có thêm chi phí. Xem <a href="https://docs.microsoft.com/fasttrack/products-and-capabilities#app-assure">ứng dụng đảm bảo</a> để biết thêm chi tiết.  </li>
+</ul>
+
+<strong>Sau đây là phạm vi </strong>  
+<ul>
+<li>Quản lý dự án triển khai Microsoft Edge của khách hàng.</li>
+<li>  Hỗ trợ trên site.</li>
+
+</td>
+<td></td>
+</tr>
 </tbody>
 </table>
