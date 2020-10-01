@@ -1,35 +1,35 @@
 ---
-title: Tổng quan về phụ lục B-FastTrack Trung tâm lợi ích cho chính phủ Office 365 US
+title: Phụ lục B - Tổng quan về Lợi ích Trung tâm FastTrack dành cho Office 365 US Government
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 8/17/2020
+ms.date: 10/1/20
 ms.audience: ITPro
 ms.topic: article
 ms.service: o365-administration
 localization_priority: None
 description: Với lợi ích Trung tâm FastTrack cho Office 365, bạn làm việc từ xa với các chuyên gia FastTrack để nhận được môi trường Office 365 của bạn sẵn sàng để sử dụng và lập kế hoạch cho việc triển khai và sử dụng trong tổ chức của bạn.
-ms.openlocfilehash: 71aa948e87a2f4c5193bf4a1e860d10bb0fa9e3f
-ms.sourcegitcommit: 81ad135578a329f8b0a3325c4e43bb8f90648597
+ms.openlocfilehash: 87bb7ee331b9abbd92d984d9f2ac940762cf34c2
+ms.sourcegitcommit: c2bf382289217ef12913ef3419e6378716fd411a
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 08/17/2020
-ms.locfileid: "46776471"
+ms.lasthandoff: 09/30/2020
+ms.locfileid: "48319966"
 ---
-# <a name="appendix-b---fasttrack-center-benefit-overview-for-office-365-us-government"></a><span data-ttu-id="ca5a1-103">Tổng quan về phụ lục B-FastTrack Trung tâm lợi ích cho chính phủ Office 365 US</span><span class="sxs-lookup"><span data-stu-id="ca5a1-103">Appendix B - FastTrack Center Benefit Overview for Office 365 US Government</span></span>
+# <a name="appendix-b---fasttrack-center-benefit-overview-for-office-365-us-government"></a><span data-ttu-id="4b2d9-103">Phụ lục B - Tổng quan về Lợi ích Trung tâm FastTrack dành cho Office 365 US Government</span><span class="sxs-lookup"><span data-stu-id="4b2d9-103">Appendix B - FastTrack Center Benefit Overview for Office 365 US Government</span></span>
 
-<span data-ttu-id="ca5a1-104">Với lợi ích Trung tâm FastTrack cho Office 365, bạn làm việc từ xa với các chuyên gia FastTrack để nhận được môi trường Office 365 của bạn sẵn sàng để sử dụng và lập kế hoạch cho việc triển khai và sử dụng trong tổ chức của bạn.</span><span class="sxs-lookup"><span data-stu-id="ca5a1-104">With FastTrack Center Benefit for Office 365, you work remotely with FastTrack Specialists to get your Office 365 environment ready for use and plan rollout and usage within your organization.</span></span> 
+<span data-ttu-id="4b2d9-104">Với lợi ích Trung tâm FastTrack cho Office 365, bạn làm việc từ xa với các chuyên gia FastTrack để nhận được môi trường Office 365 của bạn sẵn sàng để sử dụng và lập kế hoạch cho việc triển khai và sử dụng trong tổ chức của bạn.</span><span class="sxs-lookup"><span data-stu-id="4b2d9-104">With FastTrack Center Benefit for Office 365, you work remotely with FastTrack Specialists to get your Office 365 environment ready for use and plan rollout and usage within your organization.</span></span> 
   
-<span data-ttu-id="ca5a1-105">Mặc dù hầu hết các sản phẩm và tính năng đều giống nhau giữa Office 365 Suite và chính phủ Office 365 US, không phải tất cả các tính năng hiện đang sẵn dùng trong tất cả các gói.</span><span class="sxs-lookup"><span data-stu-id="ca5a1-105">Although most products and features are the same between Office 365 Suite and Office 365 U.S. Government, not all features are currently available in all plans.</span></span> <span data-ttu-id="ca5a1-106">Xem lại mô tả Dịch vụ [Office 365 US](https://aka.ms/aboutgovcloud) cho danh sách các tính năng được cập nhật mới nhất.</span><span class="sxs-lookup"><span data-stu-id="ca5a1-106">Review the [Office 365 US Government](https://aka.ms/aboutgovcloud) service description for the most up-to-date list of features.</span></span>
+<span data-ttu-id="4b2d9-105">Mặc dù hầu hết các sản phẩm và tính năng đều giống nhau giữa Office 365 Suite và chính phủ Office 365 US, không phải tất cả các tính năng hiện đang sẵn dùng trong tất cả các gói.</span><span class="sxs-lookup"><span data-stu-id="4b2d9-105">Although most products and features are the same between Office 365 Suite and Office 365 U.S. Government, not all features are currently available in all plans.</span></span> <span data-ttu-id="4b2d9-106">Xem lại mô tả Dịch vụ [Office 365 US](https://aka.ms/aboutgovcloud) cho danh sách các tính năng được cập nhật mới nhất.</span><span class="sxs-lookup"><span data-stu-id="4b2d9-106">Review the [Office 365 US Government](https://aka.ms/aboutgovcloud) service description for the most up-to-date list of features.</span></span>
 
 > [!NOTE]
-> <span data-ttu-id="ca5a1-107">Để nhận dịch vụ FastTrack, hãy đi đến [trang fasttrack](https://go.microsoft.com/fwlink/?linkid=780698) và yêu cầu hỗ trợ.</span><span class="sxs-lookup"><span data-stu-id="ca5a1-107">To receive FastTrack services, go to the [FastTrack site](https://go.microsoft.com/fwlink/?linkid=780698) and request assistance.</span></span>  
+> <span data-ttu-id="4b2d9-107">Để nhận dịch vụ FastTrack, hãy đi đến [trang fasttrack](https://go.microsoft.com/fwlink/?linkid=780698) và yêu cầu hỗ trợ.</span><span class="sxs-lookup"><span data-stu-id="4b2d9-107">To receive FastTrack services, go to the [FastTrack site](https://go.microsoft.com/fwlink/?linkid=780698) and request assistance.</span></span>  
 
-<span data-ttu-id="ca5a1-108">Chúng tôi bao gồm các chủ đề sau đây:</span><span class="sxs-lookup"><span data-stu-id="ca5a1-108">We cover the following topics:</span></span>
-- [<span data-ttu-id="ca5a1-109">Xử lý và kỳ vọng</span><span class="sxs-lookup"><span data-stu-id="ca5a1-109">Process and Expectations</span></span>](process-and-expectations.md) 
-- [<span data-ttu-id="ca5a1-110">Các kỳ vọng môi trường nguồn cho chính phủ Hoa Kỳ của Office 365</span><span class="sxs-lookup"><span data-stu-id="ca5a1-110">Source Environment Expectations for Office 365 US Government</span></span>](US-Gov-appendix-source-environment-expectations.md)   
-- [<span data-ttu-id="ca5a1-111">Các giai đoạn onboarding và di chuyển cho chính phủ Office 365 US</span><span class="sxs-lookup"><span data-stu-id="ca5a1-111">Onboarding and Migration Phases for Office 365 US Government</span></span>](US-Gov-appendix-onboarding-and-migration.md)
-- [<span data-ttu-id="ca5a1-112">Di chuyển dữ liệu</span><span class="sxs-lookup"><span data-stu-id="ca5a1-112">Data Migration</span></span>](data-migration.md)    
-- [<span data-ttu-id="ca5a1-113">Fasttheo dõi trách nhiệm đối với Office 365 US Government</span><span class="sxs-lookup"><span data-stu-id="ca5a1-113">FastTrack Responsibilities for Office 365 US Government</span></span>](US-Gov-appendix-fasttrack-responsibilities.md)   
-- [<span data-ttu-id="ca5a1-114">Trách nhiệm của bạn đối với Office 365 US Government</span><span class="sxs-lookup"><span data-stu-id="ca5a1-114">Your Responsibilities for Office 365 US Government</span></span>](US-Gov-appendix-your-responsibilities.md)    
+<span data-ttu-id="4b2d9-108">Chúng tôi bao gồm các chủ đề sau đây:</span><span class="sxs-lookup"><span data-stu-id="4b2d9-108">We cover the following topics:</span></span>
+- [<span data-ttu-id="4b2d9-109">Quy trình và Sự kỳ vọng</span><span class="sxs-lookup"><span data-stu-id="4b2d9-109">Process and Expectations</span></span>](process-and-expectations.md) 
+- [<span data-ttu-id="4b2d9-110">Các kỳ vọng môi trường nguồn cho chính phủ Hoa Kỳ của Office 365</span><span class="sxs-lookup"><span data-stu-id="4b2d9-110">Source Environment Expectations for Office 365 US Government</span></span>](US-Gov-appendix-source-environment-expectations.md)   
+- [<span data-ttu-id="4b2d9-111">Các giai đoạn onboarding và di chuyển cho chính phủ Office 365 US</span><span class="sxs-lookup"><span data-stu-id="4b2d9-111">Onboarding and Migration Phases for Office 365 US Government</span></span>](US-Gov-appendix-onboarding-and-migration.md)
+- [<span data-ttu-id="4b2d9-112">Di chuyển dữ liệu</span><span class="sxs-lookup"><span data-stu-id="4b2d9-112">Data Migration</span></span>](data-migration.md)    
+- [<span data-ttu-id="4b2d9-113">Fasttheo dõi trách nhiệm đối với Office 365 US Government</span><span class="sxs-lookup"><span data-stu-id="4b2d9-113">FastTrack Responsibilities for Office 365 US Government</span></span>](US-Gov-appendix-fasttrack-responsibilities.md)   
+- [<span data-ttu-id="4b2d9-114">Trách nhiệm của bạn đối với Office 365 US Government</span><span class="sxs-lookup"><span data-stu-id="4b2d9-114">Your Responsibilities for Office 365 US Government</span></span>](US-Gov-appendix-your-responsibilities.md)    
 
