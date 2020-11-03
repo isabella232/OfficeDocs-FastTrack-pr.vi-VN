@@ -1,7 +1,7 @@
 ---
 title: Nội dung hỗ trợ được cung cấp
-ms.author: v-rberg
-author: v-rberg-msft
+ms.author: v-bermic@microsoft.com
+author: rberg-steyer@microsoft.com
 manager: jimmuir
 ms.date: 7/01/2020
 ms.audience: ITPro
@@ -10,12 +10,12 @@ ms.service: windows-10-administration
 localization_priority: None
 ms.collection: FastTrack
 description: Khi bạn mua bất kỳ dịch vụ nào trong Windows 10 hoặc Microsoft 365, các chuyên gia FastTrack đều cung cấp hướng dẫn triển khai từ xa để bảo vệ các điểm cuối. Dịch vụ của chúng tôi là phù hợp với môi trường và nhu cầu cho mỗi khách hàng.
-ms.openlocfilehash: a649f5a5959d877b75ad1f08edfbb18a015ba5bb
-ms.sourcegitcommit: de2cc20b4ab297633cb254d42532719022bb8d99
+ms.openlocfilehash: ecd4ff51b7db85ffab0f0e2887040621b6ea5e7d
+ms.sourcegitcommit: ca476a4195477d43a6f3a212bf27bfe473cc1ffa
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 09/02/2020
-ms.locfileid: "47338564"
+ms.lasthandoff: 11/02/2020
+ms.locfileid: "48827286"
 ---
 # <a name="assistance-offered"></a>Nội dung hỗ trợ được cung cấp  
 

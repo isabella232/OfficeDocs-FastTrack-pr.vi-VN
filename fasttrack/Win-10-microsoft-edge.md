@@ -1,7 +1,7 @@
 ---
 title: Microsoft Edge mới
-ms.author: v-rberg
-author: v-rberg-msft
+ms.author: v-bermic@microsoft.com
+author: rberg-steyer@microsoft.com
 manager: jimmuir
 ms.date: 7/01/2020
 ms.audience: ITPro
@@ -10,12 +10,12 @@ ms.service: windows-10-administration
 localization_priority: Normal
 ms.collection: FastTrack
 description: Lợi ích FastTrack cho Windows 10 cung cấp hướng dẫn triển khai cho các khách hàng Microsoft Edge mới cho Windows 10 Enterprise với 150 hoặc thêm chỗ.
-ms.openlocfilehash: 521249edbcca687432074792b1cdf86f4298b263
-ms.sourcegitcommit: de2cc20b4ab297633cb254d42532719022bb8d99
+ms.openlocfilehash: 986d4a7328bd7e4b78bdd4c18284507ad7466f98
+ms.sourcegitcommit: ca476a4195477d43a6f3a212bf27bfe473cc1ffa
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 09/02/2020
-ms.locfileid: "47338492"
+ms.lasthandoff: 11/02/2020
+ms.locfileid: "48827304"
 ---
 # <a name="the-new-microsoft-edge"></a>Phiên bản Microsoft Edge mới
 

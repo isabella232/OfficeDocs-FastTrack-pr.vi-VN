@@ -1,7 +1,7 @@
 ---
 title: Lợi ích của Trung tâm FastTrack dành cho Office 365
-ms.author: v-rberg
-author: v-rberg-msft
+ms.author: v-bermic@microsoft.com
+author: rberg-steyer@microsoft.com
 manager: jimmuir
 ms.date: 7/01/2020
 ms.audience: ITPro
@@ -12,12 +12,12 @@ ms.service: o365-administration
 localization_priority: None
 ms.collection: FastTrack
 description: Bạn sử dụng lợi ích Trung tâm FastTrack cho Office 365 khi bạn mua ít nhất 150 giấy phép cho một dịch vụ đủ điều kiện hoặc gói cho đối tượng thuê Office 365 của bạn. Sau đó, bạn làm việc với các chuyên gia FastTrack để đánh giá, khắc phục sự trợ giúp và sử dụng ổ đĩa của các dịch vụ đó. Những chuyên gia này cũng cung cấp hướng dẫn di chuyển.
-ms.openlocfilehash: 151bd1f653fb8aa67e112132da6f89b36d168cb5
-ms.sourcegitcommit: de2cc20b4ab297633cb254d42532719022bb8d99
+ms.openlocfilehash: e55ea3df161fa93aa0a0da978e39d8d0eec42ac4
+ms.sourcegitcommit: ca476a4195477d43a6f3a212bf27bfe473cc1ffa
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 09/02/2020
-ms.locfileid: "47338588"
+ms.lasthandoff: 11/02/2020
+ms.locfileid: "48827136"
 ---
 # <a name="fasttrack-center-benefit-for-office-365"></a>Lợi ích Trung tâm FastTrack dành cho Office 365
 
@@ -41,7 +41,7 @@ Bạn sử dụng lợi ích Trung tâm FastTrack cho Office 365 khi bạn mua  
 - [Ứng dụng Microsoft 365](O365-fasttrack-responsibilities.md#microsoft-365-apps)
 - [Quản trị thông tin Microsoft](O365-fasttrack-responsibilities.md#microsoft-information-governance)
 - [Bảo vệ thông tin của Microsoft](O365-fasttrack-responsibilities.md#microsoft-information-protection)
-- [Nhóm Microsoft](O365-fasttrack-responsibilities.md#microsoft-teams)
+- [Microsoft Teams](O365-fasttrack-responsibilities.md#microsoft-teams)
 - [Bảo vệ mối đe dọa nâng cao của Office 365](O365-fasttrack-responsibilities.md#office-365-advanced-threat-protection)
 - [OneDrive for Business](O365-fasttrack-responsibilities.md#onedrive-for-business)
 - [Outlook for iOS và Android](O365-fasttrack-responsibilities.md#outlook-for-ios-and-android)

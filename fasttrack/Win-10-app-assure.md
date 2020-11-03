@@ -1,7 +1,7 @@
 ---
 title: Đảm bảo cho ứng dụng
-ms.author: v-rberg
-author: v-rberg-msft
+ms.author: v-bermic@microsoft.com
+author: rberg-steyer@microsoft.com
 manager: jimmuir
 ms.date: 7/01/2020
 ms.audience: ITPro
@@ -10,12 +10,12 @@ ms.service: windows-10-administration
 localization_priority: Normal
 ms.collection: FastTrack
 description: Lợi ích của Trung tâm FastTrack cho Windows 10 cung cấp quyền truy nhập vào ứng dụng đảm bảo – một dịch vụ được thiết kế để giải quyết vấn đề với Windows 10 và ứng dụng Microsoft 365 ứng dụng tương thích.
-ms.openlocfilehash: b568b1c2a0a9473318404f50c37bbbc739018b41
-ms.sourcegitcommit: d67bbe7e9f71c9983280cb3858a4fff0d7ac884b
+ms.openlocfilehash: fabf275f2a1af2f7ae13e049fb87f221f7fa82ac
+ms.sourcegitcommit: ca476a4195477d43a6f3a212bf27bfe473cc1ffa
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 08/20/2020
-ms.locfileid: "46817683"
+ms.lasthandoff: 11/02/2020
+ms.locfileid: "48827376"
 ---
 # <a name="app-assure"></a>Đảm bảo cho ứng dụng
 

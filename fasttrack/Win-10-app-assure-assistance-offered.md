@@ -1,7 +1,7 @@
 ---
 title: Nội dung hỗ trợ được cung cấp
-ms.author: v-rberg
-author: v-rberg-msft
+ms.author: v-bermic@microsoft.com
+author: rberg-steyer@microsoft.com
 manager: jimmuir
 ms.date: 7/01/2020
 ms.audience: ITPro
@@ -10,12 +10,12 @@ ms.service: windows-10-administration
 localization_priority: Normal
 ms.collection: FastTrack
 description: Khi bạn mua bất kỳ dịch vụ nào của Windows 10 hoặc Microsoft 365, thì các chuyên gia FastTrack cung cấp hướng dẫn về tư vấn và khắc phục sự triển khai cho các ứng dụng Windows 10 và Microsoft 365 và luôn cập nhật mà không có chi phí bổ sung (với đăng ký đủ điều kiện).
-ms.openlocfilehash: 5252f880f126dd20de792e5cbdb18abc2473764d
-ms.sourcegitcommit: dd7b2975ade7feaa12be079c8e54fa5612383538
+ms.openlocfilehash: c5c13e948651de813e1351e191e4aa135382339d
+ms.sourcegitcommit: ca476a4195477d43a6f3a212bf27bfe473cc1ffa
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "48206259"
+ms.lasthandoff: 11/02/2020
+ms.locfileid: "48827424"
 ---
 # <a name="assistance-offered"></a>Nội dung hỗ trợ được cung cấp  
 
@@ -23,7 +23,7 @@ Khi bạn mua bất kỳ dịch vụ nào của Windows 10 hoặc Microsoft 365 
 
 Để được trợ giúp, hãy hoàn tất [ứng dụng đảm bảo yêu cầu dịch vụ](https://go.microsoft.com/fwlink/?linkid=2022721).
 
-Đối tác cũng có thể nhận trợ giúp qua [site Fasttrack](https://go.microsoft.com/fwlink/?linkid=780698) thay mặt cho khách hàng. Để làm như vậy, các dấu hiệu đối tác vào site, chọn bản ghi khách hàng, **dịch vụ**bấm chuột và hoàn tất **yêu cầu hỗ trợ cho ứng dụng đảm bảo** biểu mẫu.
+Đối tác cũng có thể nhận trợ giúp qua [site Fasttrack](https://go.microsoft.com/fwlink/?linkid=780698) thay mặt cho khách hàng. Để làm như vậy, các dấu hiệu đối tác vào site, chọn bản ghi khách hàng, **dịch vụ** bấm chuột và hoàn tất **yêu cầu hỗ trợ cho ứng dụng đảm bảo** biểu mẫu.
 
 > [!NOTE]
 > Trợ giúp được cung cấp trong tiếng Trung truyền thống và tiếng Trung giản thể (các tài nguyên nói tiếng Mandarin chỉ), tiếng Anh, tiếng Pháp, tiếng Đức, tiếng ý, tiếng Nhật, tiếng Hàn, tiếng Bồ Đào Nha (Brazil) và tiếng Tây Ban Nha. 

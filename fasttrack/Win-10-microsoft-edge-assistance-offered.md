@@ -1,7 +1,7 @@
 ---
 title: Nội dung hỗ trợ được cung cấp
-ms.author: v-rberg
-author: v-rberg-msft
+ms.author: v-bermic@microsoft.com
+author: rberg-steyer@microsoft.com
 manager: jimmuir
 ms.date: 7/01/2020
 ms.audience: ITPro
@@ -10,12 +10,12 @@ ms.service: windows-10-administration
 localization_priority: Normal
 ms.collection: FastTrack
 description: Khi bạn mua bất kỳ dịch vụ nào của Windows 10 hoặc Microsoft 365 (càng chi tiết trong các gói dịch vụ và gói đủ điều kiện), thì các chuyên gia FastTrack cung cấp hướng dẫn triển khai từ xa và hỗ trợ tương thích nếu bạn có một ứng dụng web hoặc site hoạt động với Internet Explorer hoặc Google Chrome.
-ms.openlocfilehash: 7dbbe81784e208898ee35e8036a7ac7403cfe5c3
-ms.sourcegitcommit: d67bbe7e9f71c9983280cb3858a4fff0d7ac884b
+ms.openlocfilehash: e656673cbbb5130c7cb24b43219a29db4f58c130
+ms.sourcegitcommit: ca476a4195477d43a6f3a212bf27bfe473cc1ffa
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 08/20/2020
-ms.locfileid: "46817635"
+ms.lasthandoff: 11/02/2020
+ms.locfileid: "48827328"
 ---
 # <a name="assistance-offered"></a>Nội dung hỗ trợ được cung cấp
 
@@ -45,7 +45,7 @@ FastTrack cung cấp hướng dẫn từ xa cho những điều sau đây:
  
 Để nhận trợ giúp về tương thích ứng dụng, hãy hoàn tất [ứng dụng đảm bảo yêu cầu dịch vụ](https://go.microsoft.com/fwlink/?linkid=2022721).
 
-Đối tác cũng có thể nhận trợ giúp qua [site Fasttrack](https://go.microsoft.com/fwlink/?linkid=780698) thay mặt cho khách hàng. Để làm như vậy, các dấu hiệu đối tác vào site, chọn bản ghi khách hàng, **dịch vụ**bấm chuột và hoàn tất **yêu cầu hỗ trợ cho ứng dụng đảm bảo** biểu mẫu.
+Đối tác cũng có thể nhận trợ giúp qua [site Fasttrack](https://go.microsoft.com/fwlink/?linkid=780698) thay mặt cho khách hàng. Để làm như vậy, các dấu hiệu đối tác vào site, chọn bản ghi khách hàng, **dịch vụ** bấm chuột và hoàn tất **yêu cầu hỗ trợ cho ứng dụng đảm bảo** biểu mẫu.
 
 ## <a name="out-of-scope"></a>Vượt quá phạm vi
 

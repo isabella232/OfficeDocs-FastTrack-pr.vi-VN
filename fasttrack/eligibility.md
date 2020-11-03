@@ -1,21 +1,21 @@
 ---
 title: Tính đủ điều kiện
-ms.author: rberg@steyer.net
-author: rberg@steyer.net
+ms.author: v-bermic
+author: rberg-steyer
 manager: jimmuir
-ms.date: 10/1/20
+ms.date: 11/2/20
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: m365-administration
 localization_priority: Normal
 ms.collection: FastTrack
 description: Trong chủ đề này, chúng tôi dàn bài các yêu cầu đủ điều kiện để nhận hỗ trợ từ xa, có hướng dẫn từ các chuyên gia FastTrack bao gồm trong mua giấy phép Microsoft 365 và thông tin chi tiết các sản phẩm và chức năng cụ thể được bảo vệ.
-ms.openlocfilehash: 36e838da202103ee2f6623f9c709f8e558cd5b22
-ms.sourcegitcommit: c2bf382289217ef12913ef3419e6378716fd411a
+ms.openlocfilehash: 103ac3686aec9705fe9b48b9467a1927e1a9d018
+ms.sourcegitcommit: ca476a4195477d43a6f3a212bf27bfe473cc1ffa
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 09/30/2020
-ms.locfileid: "48320026"
+ms.lasthandoff: 11/02/2020
+ms.locfileid: "48827640"
 ---
 # <a name="eligibility"></a>Tính đủ điều kiện
 

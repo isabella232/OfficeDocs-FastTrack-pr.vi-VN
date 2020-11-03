@@ -1,21 +1,21 @@
 ---
 title: Fasttheo dõi trách nhiệm đối với Office 365 US Government
-ms.author: v-rberg
-author: v-rberg-msft
+ms.author: v-bermic@microsoft.com
+author: rberg-steyer@microsoft.com
 manager: jimmuir
-ms.date: 10/1/20
+ms.date: 11/2/20
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: None
 ms.collection: FastTrack
 description: Các chuyên gia FastTrack có các trách nhiệm sau trong onboarding.
-ms.openlocfilehash: e11ce3ce5bbfd04a1f821425364ba86964e8690f
-ms.sourcegitcommit: c2bf382289217ef12913ef3419e6378716fd411a
+ms.openlocfilehash: 1f381e6b7ee58316c952362c7b7f85cc2ebcda02
+ms.sourcegitcommit: ca476a4195477d43a6f3a212bf27bfe473cc1ffa
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 09/30/2020
-ms.locfileid: "48319978"
+ms.lasthandoff: 11/02/2020
+ms.locfileid: "48827184"
 ---
 # <a name="fasttrack-responsibilities-for-office-365-us-government"></a>Fasttheo dõi trách nhiệm đối với Office 365 US Government
 
@@ -80,7 +80,7 @@ Cung cấp hướng dẫn về:
   - Đặt cấu hình đồng bộ hóa mật khẩu (hash mật khẩu) lên Office 365 (Azure Active Directory) bằng công cụ Azure Active Directory Connect, nếu được yêu cầu.  
   - Đối với môi trường một và nhiều rừng:
       - Đặt cấu hình Azure Active Directory Pass-thông qua xác thực, nếu bắt buộc (không sẵn dùng trong các gói GCC cao hoặc DoD).
-      - Cấu hình Azure Active Directory seamless đăng nhập đơn (SSO), nếu bắt buộc (không sẵn dùng trong các gói GCC cao hoặc DoD).
+      - Cấu hình Azure Active Directory seamless Sign-On đơn (SSO), nếu bắt buộc (không sẵn dùng trong các gói GCC cao hoặc DoD).
     > [!NOTE]
     > Thông qua xác thực Azure Active Directory cho môi trường nhiều rừng được hỗ trợ nếu có tin cậy rừng giữa các khu rừng Active Directory và nếu định tuyến hậu tố tên được cấu hình đúng. Các đại diện bổ sung có thể được cài đặt tại nhiều máy chủ tại chỗ để cung cấp khả năng sẵn dùng cao cho các yêu cầu đăng nhập. Để biết thêm thông tin, hãy xem mục [Azure Active Directory Pass-thông qua xác thực: bắt đầu nhanh](https://go.microsoft.com/fwlink/?linkid=860094) và [Azure Active Directory liền mạch Single đăng nhập: bắt đầu nhanh](https://go.microsoft.com/fwlink/?linkid=860095). 
     > [!NOTE]

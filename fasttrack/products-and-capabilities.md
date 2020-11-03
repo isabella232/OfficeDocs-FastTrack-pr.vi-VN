@@ -1,21 +1,21 @@
 ---
 title: Các sản phẩm và chức năng
-ms.author: rberg@steyer.net
-author: rberg@steyer.net
+ms.author: v-bermic
+author: rberg-steyer
 manager: jimmuir
-ms.date: 10/1/20
+ms.date: 11/2/20
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: m365-administration
 localization_priority: Normal
 ms.collection: FastTrack
 description: Chủ đề này bao gồm chi tiết về các tình huống khối lượng công việc được hỗ trợ bởi FastTrack và các kỳ vọng của môi trường nguồn cần thiết trước khi chúng tôi có thể bắt đầu. Dựa trên thiết lập hiện tại của bạn, chúng tôi làm việc với bạn để tạo một kế hoạch khắc phục sự kiện sẽ giúp môi trường nguồn của bạn lên đến các yêu cầu tối thiểu để onboarding thành công.
-ms.openlocfilehash: a3477be6958dea88874bbc042445bbc693c10ffb
-ms.sourcegitcommit: c2bf382289217ef12913ef3419e6378716fd411a
+ms.openlocfilehash: 7071187e2bc2b52930a03b4bf9dabd4f717b88df
+ms.sourcegitcommit: ca476a4195477d43a6f3a212bf27bfe473cc1ffa
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 09/30/2020
-ms.locfileid: "48320038"
+ms.lasthandoff: 11/02/2020
+ms.locfileid: "48827112"
 ---
 # <a name="products-and-capabilities"></a>Các sản phẩm và chức năng
 
@@ -34,7 +34,7 @@ Fasttrack cung cấp hướng dẫn để giúp bạn đầu tiên với các ch
   - [Phiên bản Microsoft Edge mới](#the-new-microsoft-edge)
 
 > [!NOTE]
-> Để biết thông tin về các kỳ vọng môi trường nguồn cho chính phủ Hoa Kỳ của Office 365, hãy xem các [kỳ vọng môi trường nguồn cho chính phủ office 365 US](https://docs.microsoft.com/fasttrack/us-gov-appendix-source-environment-expectations).
+> Để biết thông tin về các kỳ vọng môi trường nguồn cho chính phủ Hoa Kỳ của Office 365, hãy xem các [kỳ vọng môi trường nguồn cho chính phủ office 365 US](https://docs.microsoft.com/fasttrack/us-gov-appendix-source-environment-expectations).
  
 ## <a name="general"></a>Thống
 
@@ -78,7 +78,7 @@ Chúng tôi cung cấp hướng dẫn từ xa cho:
 <li>  Nhiều rừng tài khoản Active Directory và rừng tài nguyên (Exchange và/hoặc Lync 2010, Lync 2013 hoặc Skype for Business).  </li>
 <li>  Nhiều rừng tài khoản Active Directory với một trong các khu rừng là một trong các khu rừng tài khoản Active Directory tập trung bao gồm Exchange và/hoặc Lync 2010, Lync 2013 hoặc Skype for Business.  </li>
 <li>  Nhiều rừng tài khoản Active Directory với tổ chức Exchange của riêng mình.  </li>
-<li>  Nhiệm vụ được yêu cầu cho cấu hình đối tượng thuê và tích hợp với Azure Active Directory, nếu cần thiết.   </li>
+<li>  Nhiệm vụ được yêu cầu cho cấu hình đối tượng thuê và tích hợp với Azure Active Directory, nếu cần thiết.   </li>
 </ul>
   <strong>Quan</strong>  <ul>
 <li>  Đối với các kịch bản Active Directory nhiều rừng, nếu Lync 2010, Lync 2013 hoặc Skype for Business được triển khai, nó phải được triển khai trong cùng một khu vực Active Directory như Exchange.  </li>
@@ -101,7 +101,7 @@ Chúng tôi cung cấp hướng dẫn từ xa cho:
   Ngoài ra, nếu bạn có một macro hoặc phần bổ trợ đã làm việc với các phiên bản trước của Office và bạn trải nghiệm các vấn đề tương thích, chúng tôi cung cấp hướng dẫn khắc phục sự cố tương thích mà không cần phải có chi phí bổ sung thông qua chương trình đảm bảo ứng dụng. Xem <strong>ứng dụng đảm bảo</strong> phần của <a href="#windows-10">Windows 10</a> để biết thêm chi tiết. </li>
 </ul></td>
 <td><ul>
-<li>  Phần mềm máy khách trực tuyến phải ở mức tối thiểu như được xác định trong <a href="https://go.microsoft.com/fwlink/?LinkID=723597">yêu cầu hệ thống đối với Microsoft 365 và Office</a>.  </li>
+<li>  Phần mềm máy khách trực tuyến phải ở mức tối thiểu như được xác định trong <a href="https://go.microsoft.com/fwlink/?LinkID=723597">yêu cầu hệ thống đối với Microsoft 365 và Office</a>.  </li>
 </ul></td>
 </tr>
 <tr class="odd">
@@ -149,7 +149,7 @@ Chúng tôi cung cấp hướng dẫn từ xa cho:
 <li>  Đặt cấu hình máy khách hộp thư (Outlook cho Windows, Outlook trên web và Outlook for iOS và Android).  </li>
 </ul>
   <strong>Di chuyển dữ liệu</strong>  <br>
-Để biết thông tin về cách sử dụng lợi ích FastTrack để di chuyển dữ liệu sang Office 365, hãy xem <a href="https://review.docs.microsoft.com/fasttrack/data-migration">di chuyển dữ liệu</a>.   
+Để biết thông tin về cách sử dụng lợi ích FastTrack để di chuyển dữ liệu sang Office 365, hãy xem <a href="https://docs.microsoft.com/fasttrack/data-migration">di chuyển dữ liệu</a>.   
 <td>  Môi trường nguồn của bạn phải có một trong các mức tối thiểu sau đây:
 <ul>
 <li>  Một hoặc nhiều tổ chức Exchange với Exchange Server 2003 trở đi.  </li>
@@ -157,7 +157,7 @@ Chúng tôi cung cấp hướng dẫn từ xa cho:
 <li>  Một môi trường G Suite đơn (Gmail, danh bạ và lịch chỉ).  </li>
 <li>  Để biết thông tin về các khả năng đa địa lý, hãy xem các chức <a href="https://go.microsoft.com/fwlink/?linkid=872776">năng đa địa lý trong Exchange Online</a>.  </li>
 </ul>
-Phần mềm máy khách trực tuyến như Project for Office 365, Outlook for Windows, Outlook for iOS và Android, OneDrive for Business Sync Client, Power BI trên máy tính và Skype for Business phải ở mức tối thiểu như được xác định trong <a href="https://go.microsoft.com/fwlink/?LinkID=723597">yêu cầu hệ thống đối với Microsoft 365 Office</a>.  </td>
+Phần mềm máy khách trực tuyến như Project for Office 365, Outlook for Windows, Outlook for iOS và Android, OneDrive for Business Sync Client, Power BI trên máy tính và Skype for Business phải ở mức tối thiểu như được xác định trong <a href="https://go.microsoft.com/fwlink/?LinkID=723597">yêu cầu hệ thống đối với Microsoft 365 Office</a>.  </td>
 </tr>
 <tr class="even">
 <td><strong>Quản trị thông tin Microsoft</strong></td>
@@ -186,6 +186,7 @@ Phần mềm máy khách trực tuyến như Project for Office 365, Outlook for
 <li>  Biết dữ liệu của bạn với nội dung Explorer và hoạt động Explorer.  </li>
 <li>  Phát hành nhãn bằng chính sách (thủ công và tự động).  </li>
 <li>  Tạo các chính sách ngăn ngừa mất dữ liệu cho các cuộc trò chuyện và kênh của Microsoft.  </li>
+<li>  Tạo chính sách được cho các thiết bị do Microsoft Endpoint Manager quản lý.  </li>
 </ul></td>
 <td>Ngoài phần <strong>lõi triển khai</strong> <a href="#general">nói chung</a>, không có các yêu cầu hệ thống tối thiểu.</td>
 </tr>
@@ -211,7 +212,7 @@ Nếu áp dụng, chúng tôi cũng cung cấp hướng dẫn cho:
 <ul>
 <li>  Thiết bị phòng Microsoft Nhóm:  </li>
 <ul>
-<li>  Tạo tài khoản trực tuyến cần thiết cho điện thoại được hỗ trợ và thiết bị phòng hội thảo được liệt kê trong <a href="https://go.microsoft.com/fwlink/?linkid=2066478">danh mục thiết bị nhóm</a>.  </li>
+<li>  Tạo tài khoản trực tuyến cần thiết cho điện thoại được hỗ trợ và thiết bị phòng hội thảo được liệt kê trong <a href="https://go.microsoft.com/fwlink/?linkid=2066478">danh mục thiết bị nhóm</a>.  </li>
 <li>  Hỗ trợ từ xa với cấu hình cạnh Dịch vụ của các thiết bị phòng Microsoft nhóm được chứng nhận.  </li>
 <li>  Bật hội thảo âm thanh:  </li>
 <li>  Thiết lập tổ chức thiết đặt mặc định cho cầu nối hội thảo.  </li>
@@ -249,9 +250,9 @@ Nếu áp dụng, chúng tôi cũng cung cấp hướng dẫn cho:
 <li>  Hộp thư Exchange đang trình bày (trực tuyến và tại cơ sở trong cấu hình Exchange hỗn hợp).  </li>
 <li>  Đã bật cho các nhóm Office 365.  </li>
 </ul>
-  <strong>Lưu ý:</strong>   Nếu người dùng không được gán và được bật với giấy phép SharePoint Online, họ sẽ không có OneDrive for Business lưu trữ trong Office 365. Chia sẻ tệp tiếp tục làm việc trong các kênh nhưng người dùng không thể chia sẻ tệp trong các cuộc trò chuyện mà không cần lưu trữ OneDrive for Business trong Office 365. Các nhóm không hỗ trợ SharePoint tại chỗ.  <br>
-  <strong>Lưu ý:</strong>   Trạng thái lý tưởng dành cho tất cả người dùng có hộp thư của họ được lưu trữ trên Exchange Online. Người dùng có hộp thư được định vị tại chỗ phải có các danh tính của họ được đồng bộ hóa với thư mục Office 365 thông qua Azure AD Connect. Đối với những khách hàng hỗn hợp Exchange này, nếu hộp thư của người dùng tại chỗ, người dùng không thể thêm hoặc cấu hình các đường kết nối.  
-  Các bản cài đặt cho máy khách Microsoft nhóm Windows và máy Mac có thể được tải xuống từ đó  <a href="https://go.microsoft.com/fwlink/?linkid=839411">https://go.microsoft.com/fwlink/?linkid=839411</a> .  </td>
+  <strong>Lưu ý:</strong> Nếu người dùng không được gán và được bật với giấy phép SharePoint Online, họ sẽ không có OneDrive for Business lưu trữ trong Office 365. Chia sẻ tệp tiếp tục làm việc trong các kênh nhưng người dùng không thể chia sẻ tệp trong các cuộc trò chuyện mà không cần lưu trữ OneDrive for Business trong Office 365. Các nhóm không hỗ trợ SharePoint tại chỗ.  <br>
+  <strong>Lưu ý:</strong> Trạng thái lý tưởng dành cho tất cả người dùng có hộp thư của họ được lưu trữ trên Exchange Online. Người dùng có hộp thư được định vị tại chỗ phải có các danh tính của họ được đồng bộ hóa với thư mục Office 365 thông qua Azure AD Connect. Đối với những khách hàng hỗn hợp Exchange này, nếu hộp thư của người dùng tại chỗ, người dùng không thể thêm hoặc cấu hình các đường kết nối.  
+  Các bản cài đặt cho máy khách Microsoft nhóm Windows và máy Mac có thể được tải xuống từ đó <a href="https://go.microsoft.com/fwlink/?linkid=839411">https://go.microsoft.com/fwlink/?linkid=839411</a> .  </td>
 </tr>
 <tr class="odd">
 <td><strong>Bảo vệ mối đe dọa nâng cao của Office 365 (ATP)</strong></td>
@@ -284,7 +285,7 @@ Nếu áp dụng, chúng tôi cũng cung cấp hướng dẫn cho:
 <li>  Gán giấy phép Power BI.  </li>
 <li>  Triển khai ứng dụng Power BI trên máy tính.  </li>
 </ul></td>
-<td>Phần mềm máy khách trực tuyến như Power BI trên máy tính phải ở mức tối thiểu như được xác định trong <a href="https://go.microsoft.com/fwlink/?LinkID=723597">yêu cầu hệ thống đối với Microsoft 365 và Office</a>.</td>
+<td>Phần mềm máy khách trực tuyến như Power BI trên máy tính phải ở mức tối thiểu như được xác định trong <a href="https://go.microsoft.com/fwlink/?LinkID=723597">yêu cầu hệ thống đối với Microsoft 365 và Office</a>.</td>
 </tr>
 <tr class="even">
 <td><strong>Dự án trực tuyến</strong></td>
@@ -295,7 +296,7 @@ Nếu áp dụng, chúng tôi cũng cung cấp hướng dẫn cho:
 <li>  Thiết lập hồ bơi tài nguyên doanh nghiệp (ERP).  </li>
 <li>  Tạo dự án đầu tiên của bạn.  </li>
 </ul></td>
-<td>Phần mềm máy khách trực tuyến như Project for Office 365 phải ở mức tối thiểu như được xác định trong <a href="https://go.microsoft.com/fwlink/?LinkID=723597">yêu cầu hệ thống đối với Microsoft 365 và Office</a>.</td>
+<td>Phần mềm máy khách trực tuyến như Project for Office 365 phải ở mức tối thiểu như được xác định trong <a href="https://go.microsoft.com/fwlink/?LinkID=723597">yêu cầu hệ thống đối với Microsoft 365 và Office</a>.</td>
 </tr>
 <tr class="odd">
 <td><strong>Project Online Professional và Premium</strong></td>
@@ -308,7 +309,7 @@ Nếu áp dụng, chúng tôi cũng cung cấp hướng dẫn cho:
 <li>  Thiết lập máy chủ phân phối trên site đơn cho máy khách Project Online trên máy tính, bao gồm hỗ trợ khi tạo tệp configuration.xml để dùng với công cụ triển khai Office 365.  </li>
 <li>  Kết nối Project Online trên máy khách để dự án Online Professional hoặc Project Online Premium.  </li>
 </ul></td>
-<td>Phần mềm máy khách trực tuyến như Project for Office 365 phải ở mức tối thiểu như được xác định trong <a href="https://go.microsoft.com/fwlink/?LinkID=723597">yêu cầu hệ thống đối với Microsoft 365 và Office</a>.</td>
+<td>Phần mềm máy khách trực tuyến như Project for Office 365 phải ở mức tối thiểu như được xác định trong <a href="https://go.microsoft.com/fwlink/?LinkID=723597">yêu cầu hệ thống đối với Microsoft 365 và Office</a>.</td>
 </tr>
 <tr class="even">
 <td><strong>SharePoint Online và OneDrive for Business</strong></td>
@@ -334,7 +335,7 @@ Hướng dẫn bổ sung được cung cấp cho OneDrive for Business tùy thu�
 <li>  Triển khai đồng bộ hóa máy khách OneDrive for Business.  </li>
 </ul>
   <strong>Di chuyển dữ liệu</strong>  <br>
-Để biết thông tin về cách sử dụng lợi ích FastTrack để di chuyển dữ liệu sang Office 365, hãy xem <a href="https://review.docs.microsoft.com/fasttrack/data-migration">di chuyển dữ liệu</a>.
+Để biết thông tin về cách sử dụng lợi ích FastTrack để di chuyển dữ liệu sang Office 365, hãy xem <a href="https://docs.microsoft.com/fasttrack/data-migration">di chuyển dữ liệu</a>.
 </ul></td>
 <td><br><strong>Đối với SharePoint Hybrid:</strong>  
 <ul>
@@ -344,15 +345,15 @@ Hướng dẫn bổ sung được cung cấp cho OneDrive for Business tùy thu�
 <ul>
 <li>  Để bật SharePoint Hybrid, bạn phải có một trong những môi trường SharePoint Server tại cơ sở sau: 2013, 2016, hoặc 2019.  </li>
 </ul>
-  <strong>Lưu ý:</strong> Nâng cấp môi trường SharePoint tại cơ sở sang SharePoint Server không nằm trong phạm vi. Liên hệ với một <a href="https://go.microsoft.com/fwlink/?linkid=2080150">đối tác Microsoft</a> để được trợ giúp. Để biết thêm thông tin, hãy xem các <a href="https://go.microsoft.com/fwlink/?linkid=853548">mức Cập Nhật công khai tối thiểu cho các tính năng của SharePoint Hybrid</a><em>.</em>  <br>
-  <strong>Lưu ý:</strong> Để biết thông tin về các khả năng đa địa lý, hãy xem các chức <a href="https://go.microsoft.com/fwlink/?linkid=831056">năng đa địa lý trong OneDrive và SharePoint Online trong Office 365</a><em>.</em>  </td>
+  <strong>Lưu ý:</strong> Nâng cấp môi trường SharePoint tại cơ sở sang SharePoint Server không nằm trong phạm vi. Liên hệ với một <a href="https://go.microsoft.com/fwlink/?linkid=2080150">đối tác Microsoft</a> để được trợ giúp. Để biết thêm thông tin, hãy xem các <a href="https://go.microsoft.com/fwlink/?linkid=853548">mức Cập Nhật công khai tối thiểu cho các tính năng của SharePoint Hybrid</a><em>.</em>  <br>
+  <strong>Lưu ý:</strong> Để biết thông tin về các khả năng đa địa lý, hãy xem các chức <a href="https://go.microsoft.com/fwlink/?linkid=831056">năng đa địa lý trong OneDrive và SharePoint Online trong Office 365</a><em>.</em>  </td>
 </tr>
 <tr class="even">
 <td><strong>Yammer Enterprise</strong></td>
 <td><ul>
 Chúng tôi cung cấp hướng dẫn từ xa để cho phép Dịch vụ yammer Enterprise.  
 </ul></td>
-<td>Phần mềm máy khách trực tuyến phải ở mức tối thiểu như được xác định trong <a href="https://go.microsoft.com/fwlink/?LinkID=723597">yêu cầu hệ thống đối với Microsoft 365 và Office</a>.</td>
+<td>Phần mềm máy khách trực tuyến phải ở mức tối thiểu như được xác định trong <a href="https://go.microsoft.com/fwlink/?LinkID=723597">yêu cầu hệ thống đối với Microsoft 365 và Office</a>.</td>
 </tr>
 </tbody>
 </table>
@@ -402,7 +403,7 @@ Chúng tôi cung cấp hướng dẫn từ xa để cho phép Dịch vụ yammer
   Xem lại các điều khoản sử dụng của Azure AD.  
   </li>
 <li>  
-  Quản lý và kiểm soát quyền truy nhập vào các tài khoản quản trị đặc quyền có quản lý căn cước có đặc quyền Azure AD.  
+  Quản lý và kiểm soát quyền truy nhập vào các tài khoản quản trị đặc quyền bằng quản lý định danh Azure AD đặc quyền.  
   </li>
 </ul>
   
@@ -597,7 +598,7 @@ Liên hệ với một <a href="https://go.microsoft.com/fwlink/?linkid=2080150"
 Để nâng cấp cơ sở hạ tầng, bạn phải đáp ứng các yêu cầu này:
 <ul>
 <li>  Trình quản lý cấu hình Microsoft Endpoint.  </li>
-<li>  Phiên bản trình quản lý cấu hình phải được hỗ trợ bởi phiên bản Windows 10 target. Để biết thêm thông tin, hãy xem bảng hỗ trợ trình quản lý cấu hình tại <a href="https://docs.microsoft.com/sccm/core/plan-design/configs/support-for-windows-10">hỗ trợ cho Windows 10 trong trình quản lý cấu hình</a>.  </li>
+<li>  Phiên bản trình quản lý cấu hình phải được hỗ trợ bởi phiên bản Windows 10 target. Để biết thêm thông tin, hãy xem bảng hỗ trợ trình quản lý cấu hình tại <a href="https://docs.microsoft.com/sccm/core/plan-design/configs/support-for-windows-10">hỗ trợ cho Windows 10 trong trình quản lý cấu hình</a>.  </li>
 </ul>
 
 <tr class="odd">
@@ -651,7 +652,7 @@ Liên hệ với một <a href="https://go.microsoft.com/fwlink/?linkid=2080150"
   Phiên bản Windows Server 2019 Core.  
   </li>
 <li>  
-  Phiên bản Windows Server bán hàng năm (SAC) phiên bản 1803.  
+  Phiên bản Windows Server Semi-Annual Channel (SAC) 1803.  
   </li>
 <li>  
   Phiên bản macOS 10,13, 10,14 và 10,15.  
@@ -786,7 +787,7 @@ Liên hệ với một <a href="https://go.microsoft.com/fwlink/?linkid=2080150"
 <li>Kịch bản trong Linux.</li>
 <li>Chuyển đổi hoặc di chuyển của hồ sơ người dùng.</li>
 </ul>
-Liên hệ với một <a href="https://go.microsoft.com/fwlink/?linkid=2080150">đối tác Microsoft</a>   để được trợ giúp với các dịch vụ này.</td>
+Liên hệ với một <a href="https://go.microsoft.com/fwlink/?linkid=2080150">đối tác Microsoft</a> để được trợ giúp với các dịch vụ này.</td>
 <td>Bạn đã có thể có những điều sau đây:
 <ul>
 <li>Các <a href="https://docs.microsoft.com/azure/virtual-desktop/overview#requirements">yêu cầu cấp phép Virtual trên máy tính chạy Windows</a>.</li>

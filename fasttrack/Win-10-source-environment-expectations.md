@@ -1,7 +1,7 @@
 ---
 title: Kỳ vọng về môi trường nguồn
-ms.author: v-rberg
-author: v-rberg-msft
+ms.author: v-bermic@microsoft.com
+author: rberg-steyer@microsoft.com
 manager: jimmuir
 ms.date: 7/01/2020
 ms.audience: ITPro
@@ -10,12 +10,12 @@ ms.service: windows-10-administration
 localization_priority: None
 ms.collection: FastTrack
 description: Lợi ích của Trung tâm FastTrack cung cấp hướng dẫn để bạn thiết lập các mức tích hợp với môi trường nguồn của bạn cho việc triển khai Windows 10.
-ms.openlocfilehash: e9289f534ec0686655e58c12c5e12379b1849b33
-ms.sourcegitcommit: de2cc20b4ab297633cb254d42532719022bb8d99
+ms.openlocfilehash: b44c6b8b6219809769f7276575d7a8c08ddffd6b
+ms.sourcegitcommit: ca476a4195477d43a6f3a212bf27bfe473cc1ffa
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 09/02/2020
-ms.locfileid: "47338168"
+ms.lasthandoff: 11/02/2020
+ms.locfileid: "48827268"
 ---
 # <a name="source-environment-expectations"></a>Kỳ vọng về môi trường nguồn
 
@@ -32,7 +32,7 @@ Lợi ích của Trung tâm FastTrack cung cấp hướng dẫn để bạn thi�
 
 Để nâng cấp cơ sở hạ tầng, bạn phải đáp ứng các yêu cầu này:   
 
-- Trình quản lý cấu hình Microsoft Endpoint  
+- Trình quản lý Cấu hình Điểm cuối Microsoft  
 - Phiên bản trình quản lý cấu hình phải được hỗ trợ bởi phiên bản Windows 10 target
 
 Để biết thêm thông tin, hãy xem bảng hỗ trợ trình quản lý cấu hình tại [hỗ trợ cho Windows 10 trong trình quản lý cấu hình](https://docs.microsoft.com/sccm/core/plan-design/configs/support-for-windows-10).

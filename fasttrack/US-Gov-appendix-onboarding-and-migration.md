@@ -1,21 +1,21 @@
 ---
 title: Các giai đoạn onboarding và di chuyển cho chính phủ Office 365 US
-ms.author: v-rberg
-author: v-rberg-msft
+ms.author: v-bermic@microsoft.com
+author: rberg-steyer@microsoft.com
 manager: jimmuir
-ms.date: 10/1/20
+ms.date: 11/2/20
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: None
 ms.collection: FastTrack
 description: Office 365 triển khai cho Office 365 US Government có bốn giai đoạn chính — bắt đầu, đánh giá, khắc phục và bật. Bạn có thể làm theo các giai đoạn này với giai đoạn di chuyển dữ liệu tùy chọn như được hiển thị trong hình dưới đây.
-ms.openlocfilehash: c35f5d9338e649c0dc8cf4a5e579132ea601f85a
-ms.sourcegitcommit: c2bf382289217ef12913ef3419e6378716fd411a
+ms.openlocfilehash: f7e8545d34b0f9df72e9f518983975d825ffbfb7
+ms.sourcegitcommit: ca476a4195477d43a6f3a212bf27bfe473cc1ffa
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 09/30/2020
-ms.locfileid: "48320002"
+ms.lasthandoff: 11/02/2020
+ms.locfileid: "48827544"
 ---
 # <a name="onboarding-and-migration-phases-for-office-365-us-government"></a>Các giai đoạn onboarding và di chuyển cho chính phủ Office 365 US
 

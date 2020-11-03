@@ -1,7 +1,7 @@
 ---
 title: Di chuyển dữ liệu
-ms.author: v-rberg
-author: v-rberg-msft
+ms.author: v-bermic@microsoft.com
+author: rberg-steyer@microsoft.com
 manager: jimmuir
 ms.date: 7/01/2020
 ms.audience: ITPro
@@ -10,12 +10,12 @@ ms.service: o365-administration
 localization_priority: None
 ms.collection: FastTrack
 description: FastTrack chuyên gia cung cấp hướng dẫn về các bước di chuyển dữ liệu sang Office 365. Điều này sẵn dùng cho tất cả khách hàng đủ điều kiện với các dịch vụ Office 365 dành cho Exchange Online, OneDrive for Business và SharePoint Online.
-ms.openlocfilehash: c7878e96557650a6dd340a08fb6348e2d60ab302
-ms.sourcegitcommit: de2cc20b4ab297633cb254d42532719022bb8d99
+ms.openlocfilehash: 82a8bcbd39091a5cfaa024538cb64b25d5d35717
+ms.sourcegitcommit: ca476a4195477d43a6f3a212bf27bfe473cc1ffa
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 09/02/2020
-ms.locfileid: "47338600"
+ms.lasthandoff: 11/02/2020
+ms.locfileid: "48827316"
 ---
 # <a name="data-migration"></a>Di chuyển dữ liệu
 > [!CAUTION]

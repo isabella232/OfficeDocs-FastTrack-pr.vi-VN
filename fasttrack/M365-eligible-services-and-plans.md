@@ -1,7 +1,7 @@
 ---
 title: Dịch vụ và gói đủ điều kiện
-ms.author: v-rberg
-author: v-rberg-msft
+ms.author: v-bermic@microsoft.com
+author: rberg-steyer@microsoft.com
 manager: jimmuir
 ms.date: 7/01/2020
 ms.audience: ITPro
@@ -10,12 +10,12 @@ ms.service: m365-administration
 localization_priority: None
 ms.collection: FastTrack
 description: Khi bạn mua bất kỳ dịch vụ nào của Microsoft 365, Fasttheo dõi các chuyên gia cung cấp hướng dẫn cho bạn để lên tàu đến Microsoft 365 và bắt đầu sử dụng chúng.
-ms.openlocfilehash: 0a8549399ea73b2e509696a16783aa7e94b4cf0b
-ms.sourcegitcommit: de2cc20b4ab297633cb254d42532719022bb8d99
+ms.openlocfilehash: 71f746cd5193c3c912e3cf08b3a89a369ad7d97c
+ms.sourcegitcommit: ca476a4195477d43a6f3a212bf27bfe473cc1ffa
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 09/02/2020
-ms.locfileid: "47338288"
+ms.lasthandoff: 11/02/2020
+ms.locfileid: "48827064"
 ---
 # <a name="eligible-services-and-plans"></a>Dịch vụ và gói đủ điều kiện
 
@@ -60,7 +60,7 @@ Trung tâm FastTrack cung cấp trợ giúp cho các dịch vụ sau đây:
 - Quản trị thông tin Microsoft
 - Bảo vệ thông tin của Microsoft
 - Microsoft InTune
-- Nhóm Microsoft
+- Microsoft Teams
 - Bảo vệ mối đe dọa nâng cao của Office 365
 - OneDrive for Business
 - Power BI

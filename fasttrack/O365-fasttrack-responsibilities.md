@@ -1,7 +1,7 @@
 ---
 title: Trách nhiệm của FastTrack
-ms.author: v-rberg
-author: v-rberg-msft
+ms.author: v-bermic@microsoft.com
+author: rberg-steyer@microsoft.com
 manager: jimmuir
 ms.date: 7/01/2020
 ms.audience: ITPro
@@ -10,12 +10,12 @@ ms.service: o365-administration
 localization_priority: None
 ms.collection: FastTrack
 description: Các chuyên gia FastTrack có các trách nhiệm sau trong onboarding.
-ms.openlocfilehash: 9300f7e15d77de5a87218482ea811085c989ef12
-ms.sourcegitcommit: de2cc20b4ab297633cb254d42532719022bb8d99
+ms.openlocfilehash: b0387ee7c525469e999f52f8f1994c8f41fb20fe
+ms.sourcegitcommit: ca476a4195477d43a6f3a212bf27bfe473cc1ffa
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 09/02/2020
-ms.locfileid: "47338216"
+ms.lasthandoff: 11/02/2020
+ms.locfileid: "48827172"
 ---
 # <a name="fasttrack-responsibilities"></a>Trách nhiệm của FastTrack
 
@@ -83,7 +83,7 @@ Cung cấp hướng dẫn về:
   - Đặt cấu hình đồng bộ hóa mật khẩu (hash mật khẩu) lên Office 365 (Azure Active Directory) bằng công cụ Azure Active Directory Connect, nếu được yêu cầu.
   - Đối với môi trường một và nhiều rừng:
       - Đặt cấu hình Azure Active Directory Pass-thông qua xác thực, nếu cần thiết.\*\*
-      - Đặt cấu hình Azure Active Directory liền mạch đăng nhập đơn (SSO), nếu được yêu cầu.\*\*\*
+      - Cấu hình Azure Active Directory seamless Sign-On đơn (SSO), nếu cần thiết.\*\*\*
     > [!NOTE]
     > Thông qua xác thực Azure Active Directory cho môi trường nhiều rừng được hỗ trợ nếu có tin cậy rừng giữa các khu rừng Active Directory và nếu định tuyến hậu tố tên được cấu hình đúng. Các đại diện bổ sung có thể được cài đặt tại nhiều máy chủ tại chỗ để cung cấp khả năng sẵn dùng cao cho các yêu cầu đăng nhập. Để biết thêm thông tin, hãy xem mục [Azure Active Directory Pass-thông qua xác thực: bắt đầu nhanh](https://go.microsoft.com/fwlink/?linkid=860094) và [Azure Active Directory liền mạch Single đăng nhập: bắt đầu nhanh](https://go.microsoft.com/fwlink/?linkid=860095). 
 - Đối với một rừng đơn khi danh tính được liên kết là mục tiêu: 
@@ -166,7 +166,7 @@ Cung cấp hướng dẫn về:
 - Phát hành nhãn bằng chính sách (thủ công và tự động).
 - Tạo các chính sách ngăn ngừa mất dữ liệu cho các cuộc trò chuyện và kênh của Microsoft.
 
-## <a name="microsoft-teams"></a>Nhóm Microsoft
+## <a name="microsoft-teams"></a>Microsoft Teams
 
 Cung cấp hướng dẫn về:
 - Xác nhận yêu cầu tối thiểu.

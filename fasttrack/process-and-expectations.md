@@ -1,21 +1,21 @@
 ---
 title: Quy trình và Sự kỳ vọng
-ms.author: rberg@steyer.net
-author: rberg@steyer.net
+ms.author: v-bermic
+author: rberg-steyer
 manager: jimmuir
-ms.date: 10/1/20
+ms.date: 11/2/20
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: Normal
 ms.collection: FastTrack
 description: Trong chủ đề này, chúng tôi bao gồm cách thu hút FastTrack để được hỗ trợ, cách hỗ trợ được cung cấp, gợi ý lời khuyên cho một trải nghiệm thành công và hiểu được trách nhiệm chính của cả FastTrack và công ty của bạn.
-ms.openlocfilehash: 293cde4bd1bde0b0a8db74ea3d17f39669c9b0f0
-ms.sourcegitcommit: c2bf382289217ef12913ef3419e6378716fd411a
+ms.openlocfilehash: 42855c5a246f452d241fd104b4d56cc673c83618
+ms.sourcegitcommit: ca476a4195477d43a6f3a212bf27bfe473cc1ffa
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 09/30/2020
-ms.locfileid: "48319942"
+ms.lasthandoff: 11/02/2020
+ms.locfileid: "48827658"
 ---
 # <a name="process-and-expectations"></a>Quy trình và Sự kỳ vọng
 
@@ -55,7 +55,7 @@ FastTrack cung cấp hướng dẫn kết thúc về di chuyển đến và sử
 Bạn làm việc từ xa với các chuyên gia FastTrack thông qua các cuộc hội thảo kỹ thuật, hội thảo và điểm kiểm tra cuộc họp, bao gồm:
 
   - Các **cuộc hội thảo kỹ thuật và hội thảo:** Những vấn đề này cung cấp chủ đề sâu sắc và những cách thực hành tốt nhất để tăng tốc độ triển khai dịch vụ Microsoft 365 của bạn. Những cuộc họp này thường cung cấp tổng quan về tài liệu sẵn có, công cụ phần mềm và bảng điều khiển quản trị. Thời lượng chuẩn: 60 phút.
-  - Điểm **kiểm tra cuộc họp:**   Các touchpoints hàng tuần hoặc hàng tuần để đảm bảo rằng việc triển khai của bạn đang tiến triển. Thời lượng chuẩn: 30 phút.
+  - Điểm **kiểm tra cuộc họp:** Các touchpoints hàng tuần hoặc hàng tuần để đảm bảo rằng việc triển khai của bạn đang tiến triển. Thời lượng chuẩn: 30 phút.
 
 ### <a name="expected-outcomes-and-key-milestones"></a>Kết quả dự kiến và các mốc quan trọng 
 
@@ -305,7 +305,7 @@ Xóa các trách nhiệm cho tất cả các bên cần thiết cho một triể
 <li>  Đối với môi trường một và nhiều rừng:
 <ul>
 <li>  Cấu hình Azure AD Pass-thông qua xác thực (nếu cần thiết).  </li>
-<li>  Đặt cấu hình Azure AD seamless đăng nhập đơn (SSO) (nếu bắt buộc).  </li>
+<li>  Cấu hình Azure AD seamless Sign-On đơn (SSO) (nếu bắt buộc).  </li>
 </ul></li>
 </ul></li>
 </ul></td>

@@ -1,21 +1,21 @@
 ---
 title: Di chuyển dữ liệu
-ms.author: rberg@steyer.net
-author: rberg@steyer.net
+ms.author: v-bermic
+author: rberg-steyer
 manager: jimmuir
-ms.date: 10/1/20
+ms.date: 11/2/20
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: Normal
 ms.collection: FastTrack
 description: FastTrack có thể giúp bạn di chuyển thư và dữ liệu tệp trong môi trường nguồn của bạn sang Office 365 (Exchange Online, SharePoint Online và OneDrive for Business). Loại trợ giúp mà chúng tôi cung cấp phụ thuộc vào số lượng giấy phép Office 365 của bạn.
-ms.openlocfilehash: a8bb82e5a0409c52fe2603d33a4412182288f24a
-ms.sourcegitcommit: c2bf382289217ef12913ef3419e6378716fd411a
+ms.openlocfilehash: 7b796ea88c884445bd7069c6c7768c8fc3e3d170
+ms.sourcegitcommit: ca476a4195477d43a6f3a212bf27bfe473cc1ffa
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 09/30/2020
-ms.locfileid: "48319954"
+ms.lasthandoff: 11/02/2020
+ms.locfileid: "48827664"
 ---
 # <a name="data-migration"></a>Di chuyển dữ liệu
 
@@ -23,8 +23,8 @@ FastTrack có thể giúp bạn di chuyển thư và dữ liệu tệp trong mô
 
 Loại trợ giúp mà chúng tôi cung cấp phụ thuộc vào số lượng giấy phép Office 365:
 
-  - **Đối với đối tượng thuê Office 365 với 150-499 giấy phép**: fasttrack chỉ cung cấp hướng dẫn di chuyển; bạn chịu trách nhiệm thực hiện di chuyển dữ liệu. Chúng tôi hướng dẫn bạn qua các tài liệu giúp bạn lập kế hoạch và sử dụng các công cụ miễn phí để thực hiện di chuyển tự phục vụ.
-  - **Đối với đối tượng thuê Office 365 với 500 hoặc nhiều giấy phép**: fasttrack cung cấp hướng dẫn di chuyển và dịch vụ di chuyển dữ liệu. Chúng tôi cung cấp hướng dẫn để giúp bạn lập kế hoạch cho việc di chuyển của mình, đặt cấu hình môi trường nguồn và đối tượng thuê Office 365 và tận dụng dịch vụ di chuyển dữ liệu của chúng tôi để di chuyển dữ liệu của bạn. Bạn tạo và lên lịch các sự kiện di chuyển của bạn. Chúng tôi khởi chạy các sự kiện di chuyển phù hợp với lịch biểu của bạn, theo dõi tiến độ của họ và cung cấp báo cáo trạng thái.
+  - **Đối với đối tượng thuê Office 365 với 150-499 giấy phép** : fasttrack chỉ cung cấp hướng dẫn di chuyển; bạn chịu trách nhiệm thực hiện di chuyển dữ liệu. Chúng tôi hướng dẫn bạn qua các tài liệu giúp bạn lập kế hoạch và sử dụng các công cụ miễn phí để thực hiện di chuyển tự phục vụ.
+  - **Đối với đối tượng thuê Office 365 với 500 hoặc nhiều giấy phép** : fasttrack cung cấp hướng dẫn di chuyển và dịch vụ di chuyển dữ liệu. Chúng tôi cung cấp hướng dẫn để giúp bạn lập kế hoạch cho việc di chuyển của mình, đặt cấu hình môi trường nguồn và đối tượng thuê Office 365 và tận dụng dịch vụ di chuyển dữ liệu của chúng tôi để di chuyển dữ liệu của bạn. Bạn tạo và lên lịch các sự kiện di chuyển của bạn. Chúng tôi khởi chạy các sự kiện di chuyển phù hợp với lịch biểu của bạn, theo dõi tiến độ của họ và cung cấp báo cáo trạng thái.
 
 > [!NOTE]
 > Nếu bạn đã mua hoặc gia hạn gói thương mại trước 9/1/2017, bạn chỉ cần có giấy phép 150 để đủ điều kiện cho dịch vụ di chuyển dữ liệu. Đối với các gói giáo dục, chỉ giấy phép giảng viên và nhân viên đã thanh toán đủ điều kiện cho dịch vụ di chuyển dữ liệu.
@@ -54,7 +54,7 @@ Khi bạn chọn sử dụng FastTrack để di chuyển email của mình sang 
   - FastTrack chỉ di chuyển đến hộp thư Office 365 hiện hoạt.
   - Bạn phải đáp ứng các yêu cầu cụ thể nếu bạn dự định di chuyển từ môi trường Exchange tại cơ sở. Tham khảo các điều [kiện tiên quyết hỗn](https://go.microsoft.com/fwlink/?LinkId=787528) hợp để biết chi tiết.
   - Mỗi môi trường nguồn phải nằm trên cấp độ gói dịch vụ (SP) mới nhất (SP) và Rollup (RU)/Cumulative Update (CU) cho sản phẩm tương ứng trong môi trường nguồn.
-  - Danh sách phân phối (đối tượng*Mailenabledgroup* ) và liên hệ bên ngoài (đối tượng*Mailenabledcontact* ) tồn tại trong Active Directory tại chỗ của bạn không phải là một phần của di chuyển dữ liệu hộp thư. Tuy nhiên, bạn có thể đồng bộ hóa chúng bằng cách kết nối Azure Active Directory (Azure AD). 
+  - Danh sách phân phối (đối tượng *Mailenabledgroup* ) và liên hệ bên ngoài (đối tượng *Mailenabledcontact* ) tồn tại trong Active Directory tại chỗ của bạn không phải là một phần của di chuyển dữ liệu hộp thư. Tuy nhiên, bạn có thể đồng bộ hóa chúng bằng cách kết nối Azure Active Directory (Azure AD). 
 
 ## <a name="source-environments"></a>Môi trường nguồn
 
@@ -79,7 +79,7 @@ Bảng sau đây trình bày các chi tiết di chuyển cụ thể cho từng m
 <tr class="odd">
 <td><strong>Exchange 2010, Exchange 2013, Exchange 2016, Exchange 2019</strong><br />
 <br />
-<strong>Lưu ý:</strong>   Đối với phụ thuộc Exchange tại cơ sở, hãy xem điều <a href="https://go.microsoft.com/fwlink/?LinkId=787528"><span class="underline">kiện tiên quyết về triển khai hỗn</span></a>hợp.</td>
+<strong>Lưu ý:</strong> Đối với phụ thuộc Exchange tại cơ sở, hãy xem điều <a href="https://go.microsoft.com/fwlink/?LinkId=787528"><span class="underline">kiện tiên quyết về triển khai hỗn</span></a>hợp.</td>
 <td>Di chuyển với triển khai kết hợp</td>
 <td><ul>
 <li>Điện</li>
@@ -107,7 +107,7 @@ Bảng sau đây trình bày các chi tiết di chuyển cụ thể cho từng m
 <tr class="even">
 <td><strong>Môi trường G Suite (Gmail, danh bạ và lịch)</strong><br />
 <br />
-<strong>Lưu ý:</strong>   Môi trường G Suite của bạn phải đáp ứng các điều kiện tiên quyết được mô tả trong <a href="https://docs.microsoft.com/Exchange/mailbox-migration/perform-g-suite-migration">thực hiện di chuyển g Suite</a>.</td>
+<strong>Lưu ý:</strong> Môi trường G Suite của bạn phải đáp ứng các điều kiện tiên quyết được mô tả trong <a href="https://docs.microsoft.com/Exchange/mailbox-migration/perform-g-suite-migration">thực hiện di chuyển g Suite</a>.</td>
 <td>Chuyển giao hoặc theo giai đoạn</td>
 <td><ul>
 <li> Điện </li>
@@ -242,7 +242,7 @@ Bảng sau đây trình bày các chi tiết di chuyển cụ thể cho từng m
 <li> Không thể truy nhập hoặc tài liệu bị lỗi </li>
 <li> Chia sẻ ẩn </li>
 <li> Chia sẻ (như quyền cấp ở mức chia sẻ) </li>
-<li> Các tệp hoặc thư mục vượt quá <a href="https://go.microsoft.com/fwlink/?linkid=846724"><span class="underline">hạn chế và giới hạn của SharePoint Online</span> hiện tại</a> </li>
+<li> Các tệp hoặc thư mục vượt quá <a href="https://go.microsoft.com/fwlink/?linkid=846724"> <span class="underline">hạn chế và giới hạn của SharePoint Online</span> hiện tại</a> </li>
 </ul></td>
 </tr>
 <tr class="even">
@@ -282,7 +282,7 @@ Bảng sau đây trình bày các chi tiết di chuyển cụ thể cho từng m
 <li> Quyền và siêu dữ liệu cơ bản của người dùng bên ngoài (<strong>lưu ý</strong>: sử dụng báo cáo quản trị Google Drive để xác định nội dung được chia sẻ với người dùng bên ngoài. Hướng dẫn người dùng cuối để chia sẻ nội dung với người dùng bên ngoài sau khi di chuyển.) </li>
 <li> Quyền thành viên ổ đĩa chia sẻ (<strong>ghi chú</strong>: dùng các báo cáo quản trị của Google Drive để xác định thành viên ổ đĩa chia sẻ. Hướng dẫn người dùng cuối để cấu hình các thiết đặt thành viên này trên mục tiêu trước khi di chuyển.) </li>
 <li> Các tệp được đánh dấu là hạn chế hoặc không được copyable </li>
-<li> Các tệp hoặc thư mục vượt quá <a href="https://go.microsoft.com/fwlink/?linkid=846724"><span class="underline">hạn chế và giới hạn của SharePoint Online</span> hiện tại</a> </li>
+<li> Các tệp hoặc thư mục vượt quá <a href="https://go.microsoft.com/fwlink/?linkid=846724"> <span class="underline">hạn chế và giới hạn của SharePoint Online</span> hiện tại</a> </li>
 </ul></td>
 </tr>
 <tr class="odd">
@@ -317,7 +317,7 @@ Bảng sau đây trình bày các chi tiết di chuyển cụ thể cho từng m
 <li> Các ứng dụng hộp, thẻ đánh dấu, yêu thích và dòng công việc </li>
 <li> Nội dung không thuộc sở hữu của tài khoản hộp được di chuyển </li>
 <li> Quyền và siêu dữ liệu cơ bản của người dùng bên ngoài (<strong>lưu ý</strong>: sử dụng báo cáo hộp để xác định nội dung được chia sẻ với người dùng bên ngoài. Hướng dẫn người dùng cuối để chia sẻ nội dung với người dùng bên ngoài sau khi di chuyển.) </li>
-<li> Các tệp hoặc thư mục vượt quá <a href="https://go.microsoft.com/fwlink/?linkid=846724"><span class="underline">hạn chế và giới hạn của SharePoint Online</span> hiện tại</a> </li>
+<li> Các tệp hoặc thư mục vượt quá <a href="https://go.microsoft.com/fwlink/?linkid=846724"> <span class="underline">hạn chế và giới hạn của SharePoint Online</span> hiện tại</a> </li>
 </ul></td>
 </tr>
 <tr class="even">
@@ -355,7 +355,7 @@ Bảng sau đây trình bày các chi tiết di chuyển cụ thể cho từng m
 <li> Ứng dụng và mục yêu thích Dropbox (Pins/Stars) </li>
 <li> Nội dung không thuộc sở hữu của tài khoản Dropbox được di chuyển </li>
 <li> Quyền và siêu dữ liệu cơ bản của người dùng bên ngoài (<strong>lưu ý</strong>: sử dụng báo cáo Dropbox để xác định nội dung được chia sẻ với người dùng bên ngoài. Hướng dẫn người dùng cuối để chia sẻ nội dung với người dùng bên ngoài sau khi di chuyển) </li>
-<li> Các tệp hoặc thư mục vượt quá <a href="https://go.microsoft.com/fwlink/?linkid=846724"><span class="underline">hạn chế và giới hạn của SharePoint Online</span> hiện tại</a> </li>
+<li> Các tệp hoặc thư mục vượt quá <a href="https://go.microsoft.com/fwlink/?linkid=846724"> <span class="underline">hạn chế và giới hạn của SharePoint Online</span> hiện tại</a> </li>
 </ul></td>
 </tr>
 </tbody>
@@ -435,7 +435,7 @@ Bảng sau đây trình bày các chi tiết di chuyển cụ thể cho từng m
 <li> Không thể truy nhập hoặc tài liệu bị lỗi </li>
 <li> Chia sẻ ẩn </li>
 <li> Chia sẻ (như quyền cấp ở mức chia sẻ) </li>
-<li> Các tệp hoặc thư mục vượt quá <a href="https://go.microsoft.com/fwlink/?linkid=846724"><span class="underline">hạn chế và giới hạn của SharePoint Online</span> hiện tại</a> </li>
+<li> Các tệp hoặc thư mục vượt quá <a href="https://go.microsoft.com/fwlink/?linkid=846724"> <span class="underline">hạn chế và giới hạn của SharePoint Online</span> hiện tại</a> </li>
 </ul></td>
 </tr>
 <tr class="even">
@@ -474,7 +474,7 @@ Bảng sau đây trình bày các chi tiết di chuyển cụ thể cho từng m
 <li> Nội dung không thuộc sở hữu của tài khoản Google Drive đang được di chuyển </li>
 <li> Quyền và siêu dữ liệu cơ bản của người dùng bên ngoài (<strong>lưu ý</strong>: sử dụng báo cáo quản trị Google Drive để xác định nội dung được chia sẻ với người dùng bên ngoài. Hướng dẫn người dùng cuối để chia sẻ nội dung với người dùng bên ngoài sau khi di chuyển.) </li>
 <li> Quyền thành viên ổ đĩa chia sẻ (<strong>ghi chú</strong>: dùng các báo cáo quản trị của Google Drive để xác định thành viên ổ đĩa chia sẻ. Hướng dẫn người dùng cuối để cấu hình các thiết đặt thành viên này trên mục tiêu trước khi di chuyển.) </li>
-<li> Các tệp hoặc thư mục vượt quá <a href="https://go.microsoft.com/fwlink/?linkid=846724"><span class="underline">hạn chế và giới hạn của SharePoint Online</span> hiện tại</a> </li>
+<li> Các tệp hoặc thư mục vượt quá <a href="https://go.microsoft.com/fwlink/?linkid=846724"> <span class="underline">hạn chế và giới hạn của SharePoint Online</span> hiện tại</a> </li>
 </ul></td>
 </tr>
 <tr class="odd">
@@ -509,7 +509,7 @@ Bảng sau đây trình bày các chi tiết di chuyển cụ thể cho từng m
 <li> Các ứng dụng hộp, thẻ đánh dấu, yêu thích và dòng công việc </li>
 <li> Nội dung không thuộc sở hữu của tài khoản hộp được di chuyển </li>
 <li> Quyền và siêu dữ liệu cơ bản của người dùng bên ngoài (<strong>lưu ý</strong>: sử dụng báo cáo hộp để xác định nội dung được chia sẻ với người dùng bên ngoài. Hướng dẫn người dùng cuối để chia sẻ nội dung với người dùng bên ngoài sau khi di chuyển.) </li>
-<li> Các tệp hoặc thư mục vượt quá <a href="https://go.microsoft.com/fwlink/?linkid=846724"><span class="underline">hạn chế và giới hạn của SharePoint Online</span> hiện tại</a> </li>
+<li> Các tệp hoặc thư mục vượt quá <a href="https://go.microsoft.com/fwlink/?linkid=846724"> <span class="underline">hạn chế và giới hạn của SharePoint Online</span> hiện tại</a> </li>
 </ul></td>
 </tr>
 <tr class="even">
@@ -547,7 +547,7 @@ Bảng sau đây trình bày các chi tiết di chuyển cụ thể cho từng m
 <li> Ứng dụng và mục yêu thích Dropbox (Pins/Stars) </li>
 <li> Nội dung không thuộc sở hữu của tài khoản Dropbox được di chuyển </li>
 <li> Quyền và siêu dữ liệu cơ bản của người dùng bên ngoài (<strong>lưu ý</strong>: sử dụng báo cáo Dropbox để xác định nội dung được chia sẻ với người dùng bên ngoài. Hướng dẫn người dùng cuối để chia sẻ nội dung với người dùng bên ngoài sau khi di chuyển.) </li>
-<li> Các tệp hoặc thư mục vượt quá <a href="https://go.microsoft.com/fwlink/?linkid=846724"><span class="underline">hạn chế và giới hạn của SharePoint Online</span> hiện tại</a> </li>
+<li> Các tệp hoặc thư mục vượt quá <a href="https://go.microsoft.com/fwlink/?linkid=846724"> <span class="underline">hạn chế và giới hạn của SharePoint Online</span> hiện tại</a> </li>
 </ul></td>
 </tr>
 </tbody>

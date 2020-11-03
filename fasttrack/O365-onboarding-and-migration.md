@@ -1,7 +1,7 @@
 ---
 title: Giai đoạn triển khai và di chuyển
-ms.author: v-rberg
-author: v-rberg-msft
+ms.author: v-bermic@microsoft.com
+author: rberg-steyer@microsoft.com
 manager: jimmuir
 ms.date: 7/01/2020
 ms.audience: ITPro
@@ -10,12 +10,12 @@ ms.service: o365-administration
 localization_priority: None
 ms.collection: FastTrack
 description: Office 365 triển khai có bốn giai đoạn chính — bắt đầu, đánh giá, khắc phục và bật. Bạn có thể làm theo các giai đoạn này với giai đoạn di chuyển dữ liệu tùy chọn.
-ms.openlocfilehash: 69b77911afc351ff48f6198049204822e5dd0d3c
-ms.sourcegitcommit: de2cc20b4ab297633cb254d42532719022bb8d99
+ms.openlocfilehash: 2358700e6e7bb052869c41b1f5b7fdc15e86207b
+ms.sourcegitcommit: ca476a4195477d43a6f3a212bf27bfe473cc1ffa
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 09/02/2020
-ms.locfileid: "47338264"
+ms.lasthandoff: 11/02/2020
+ms.locfileid: "48827016"
 ---
 # <a name="onboarding-and-migration-phases"></a>Giai đoạn triển khai và di chuyển
 
@@ -167,7 +167,7 @@ FastTrack chuyên gia cung cấp hướng dẫn về di chuyển dữ liệu san
 - Bảo vệ thông tin.
 - Ghi nhãn hợp nhất.
 
-## <a name="microsoft-teams"></a>Nhóm Microsoft
+## <a name="microsoft-teams"></a>Microsoft Teams
 
 Đối với Microsoft nhóm, chúng tôi cung cấp hướng dẫn cho:
 - Xác nhận yêu cầu tối thiểu.  
