@@ -3,19 +3,19 @@ title: Các sản phẩm và chức năng
 ms.author: v-bermic
 author: rberg-steyer
 manager: jimmuir
-ms.date: 11/2/20
+ms.date: 12/1/20
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: m365-administration
 localization_priority: Normal
 ms.collection: FastTrack
 description: Chủ đề này bao gồm chi tiết về các tình huống khối lượng công việc được hỗ trợ bởi FastTrack và các kỳ vọng của môi trường nguồn cần thiết trước khi chúng tôi có thể bắt đầu. Dựa trên thiết lập hiện tại của bạn, chúng tôi làm việc với bạn để tạo một kế hoạch khắc phục sự kiện sẽ giúp môi trường nguồn của bạn lên đến các yêu cầu tối thiểu để onboarding thành công.
-ms.openlocfilehash: 7071187e2bc2b52930a03b4bf9dabd4f717b88df
-ms.sourcegitcommit: ca476a4195477d43a6f3a212bf27bfe473cc1ffa
+ms.openlocfilehash: 3fdd57f1d0e8bf53b68f0bc54fda4665ca85f513
+ms.sourcegitcommit: d69d3e1e478a817f8279e9da98880499e9302665
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 11/02/2020
-ms.locfileid: "48827112"
+ms.lasthandoff: 12/01/2020
+ms.locfileid: "49525467"
 ---
 # <a name="products-and-capabilities"></a>Các sản phẩm và chức năng
 
@@ -27,7 +27,7 @@ Fasttrack cung cấp hướng dẫn để giúp bạn đầu tiên với các ch
 
   - [Thống](#general)
   - [Office 365](#office-365)
-  - [Bảo mật & di động của doanh nghiệp](#enterprise-mobility--security)
+  - [Tính năng di động doanh nghiệp + bảo mật](#enterprise-mobility--security)
   - [Windows 10](#windows-10)
   - [Máy tính chạy Windows ảo](#windows-virtual-desktop)
   - [Đảm bảo cho ứng dụng](#app-assure)
@@ -163,14 +163,23 @@ Phần mềm máy khách trực tuyến như Project for Office 365, Outlook for
 <td><strong>Quản trị thông tin Microsoft</strong></td>
 <td>  Chúng tôi cung cấp hướng dẫn từ xa cho:
 <ul>
-<li>  Quản trị thông tin.  </li>
 <li>  Các nhãn và chính sách duy trì.  </li>
 <li>  Quản lý bản ghi.  </li>
 <li>  Xóa chính sách.  </li>
 <li>  Tuân thủ liên lạc.  </li>
 <li>  Quản lý rủi ro người dùng nội bộ.  </li>
 <li>  Khám phá điện tử nâng cao.  </li>
-</ul></td>
+</ul>
+
+  <strong>Sau đây là phạm vi </strong>  
+<ul>
+<li> Phát triển một kế hoạch tệp quản lý bản ghi.</li>
+<li> Kết nối dữ liệu.</li>
+<li> Các rào cản thông tin.</li>
+<li> Quản lý truy nhập đặc quyền.</li>
+<li> Phát triển kiến trúc thông tin trong SharePoint.</li>
+<li> Kịch bản tùy chỉnh và mã hóa.</li>
+</td>
 <td>Ngoài phần <strong>lõi triển khai</strong> <a href="#general">nói chung</a>, không có các yêu cầu hệ thống tối thiểu.</td>
 </tr>
 <tr class="odd">
@@ -186,8 +195,20 @@ Phần mềm máy khách trực tuyến như Project for Office 365, Outlook for
 <li>  Biết dữ liệu của bạn với nội dung Explorer và hoạt động Explorer.  </li>
 <li>  Phát hành nhãn bằng chính sách (thủ công và tự động).  </li>
 <li>  Tạo các chính sách ngăn ngừa mất dữ liệu cho các cuộc trò chuyện và kênh của Microsoft.  </li>
-<li>  Tạo chính sách được cho các thiết bị do Microsoft Endpoint Manager quản lý.  </li>
-</ul></td>
+<li>  Tạo chính sách điểm cuối cho các thiết bị chạy Windows 10.  </li>
+</ul>
+
+<strong>Sau đây là phạm vi </strong>  
+<ul>
+<li>Khóa khách hàng.</li>
+<li>Phát triển biểu thức thông thường tùy chỉnh cho các kiểu thông tin nhạy cảm.</li>
+<li>Tạo hoặc sửa đổi từ điển từ khóa.</li>
+<li>Kịch bản tùy chỉnh và mã hóa.</li>
+</ul>
+<strong>Lưu ý:</strong> Để biết thêm thông tin, hãy xem mục <strong> bảo vệ thông tin Azure </strong> trong <a href="#enterprise-mobility--security">doanh nghiệp Mobility + Security</a>.
+<ul>
+
+</td>
 <td>Ngoài phần <strong>lõi triển khai</strong> <a href="#general">nói chung</a>, không có các yêu cầu hệ thống tối thiểu.</td>
 </tr>
 <tr class="even">
@@ -358,7 +379,7 @@ Chúng tôi cung cấp hướng dẫn từ xa để cho phép Dịch vụ yammer
 </tbody>
 </table>
 
-## <a name="enterprise-mobility--security"></a>Bảo mật & di động của doanh nghiệp
+## <a name="enterprise-mobility--security"></a>Tính năng di động doanh nghiệp + bảo mật
 
 <table>
 <thead>
@@ -420,40 +441,36 @@ Chúng tôi cung cấp hướng dẫn từ xa để cho phép Dịch vụ yammer
 <td>Active Directory tại chỗ và môi trường của nó đã được chuẩn bị sẵn sàng cho Azure AD Premium, bao gồm việc khắc phục các vấn đề đã xác định ngăn chặn việc tích hợp với Azure AD và Azure AD Premium.</td>
 </tr>
 <tr class="odd">
-<td><strong>Bảo vệ thông tin Azure (P2 hoặc EMS E5)</strong></td>
+<td><strong>Bảo vệ thông tin Azure </strong></td>
 <td>  Chúng tôi cung cấp hướng dẫn về cách:
 <ul>
 <li>  Kích hoạt và cấu hình đối tượng thuê của bạn.  </li>
 <li>  Tạo và thiết lập nhãn và chính sách.  </li>
 <li>  Áp dụng bảo vệ thông tin cho tài liệu.  </li>
 <li>  Tự động phân loại và thông tin nhãn trong các ứng dụng Office (chẳng hạn như Word, PowerPoint, Excel và Outlook) đang chạy trên Windows và sử dụng máy khách bảo vệ thông tin Azure.  </li>
-<li>  Sử dụng tệp tại phần còn lại bằng cách dùng máy quét bảo vệ thông tin Azure.  </li>
+<li>  Khám phá và dán tệp tại phần còn lại bằng cách dùng máy quét bảo vệ thông tin Azure.  </li>
 <li>  Theo dõi email trong quá cảnh bằng quy tắc dòng thư Exchange Online.  </li>
 </ul>
 Chúng tôi cũng cung cấp hướng dẫn nếu bạn muốn áp dụng bảo vệ bằng cách sử dụng dịch vụ quản lý quyền Microsoft Azure (Azure RMS), mã hóa thư Office 365 (OME), và ngăn chặn mất dữ liệu ().  </td>
-<td>  Bạn đã phải:
+<td>  Trách nhiệm điều kiện khách hàng bao gồm:
 <ul>
-<li>  Sử dụng Azure AD.  </li>
-<li>  Sử dụng Windows hoặc iOS (các hệ điều hành khác nằm ngoài phạm vi).  
+<li>  Danh sách các vị trí chia sẻ tệp sẽ được quét.  </li>
+<li>  Phân loại phân loại được phê duyệt. </li>
+<li> Hiểu về bất kỳ giới hạn hoặc yêu cầu nào về quy định về quản lý khóa.  </li>
+<li>  Tài khoản Dịch vụ được tạo cho Active Directory tại chỗ của bạn đã được đồng bộ hóa với Azure AD. </li>
+<li>  Các nhãn được đặt cấu hình cho phân loại và bảo vệ. </li>
+<li> Tất cả các điều kiện tiên quyết cho máy quét bảo vệ thông tin Azure được đặt ra. Để biết thêm thông tin, hãy xem <a href="https://docs.microsoft.com/azure/information-protection/deploy-aip-scanner-prereqs">điều kiện tiên quyết để cài đặt và triển khai máy quét ghi nhãn thông tin Azure hợp nhất</a>. </li>
+<li>  Đảm bảo các thiết bị người dùng đang chạy hệ điều hành được hỗ trợ và có các điều kiện tiên quyết cần thiết được cài đặt. Xem các chi tiết sau đây để biết thêm chi tiết.</li>
+<ul>
+<li> <a href="https://docs.microsoft.com/azure/information-protection/rms-client/clientv2-admin-guide-install">Hướng dẫn quản trị: cài đặt máy khách gắn nhãn thông tin Azure hợp nhất cho người dùng</a>   </li>
+<li>  <a href="https://docs.microsoft.com/azure/information-protection/rms-client/mobile-app-faq">Ứng dụng bảo vệ thông tin Azure cho iOS hoặc Android là gì?</a>  </li>
+</ul>
+<li> Cài đặt và cấu hình của trình kết nối Azure RMS và máy chủ bao gồm cả trình kết nối Active Directory RMS (AD RMS) cho hỗ trợ hỗn hợp.  </li>
+<li> Thiết lập và cấu hình mang khóa của riêng bạn (BYOK), mã hóa phím kép (YKE) (chỉ dành cho máy khách gắn nhãn nhất quán), hoặc giữ phím của riêng bạn (HYOK) (chỉ dành cho khách hàng cổ điển), bạn nên yêu cầu một trong các tùy chọn này cho quá trình triển khai của bạn.  </li>
   </ul>
-<strong>Lưu ý</strong>: máy tính và thiết bị di động phải chạy trên một <a href="https://docs.microsoft.com/azure/information-protection/requirements#client-devices">hệ điều hành</a> có hỗ trợ bảo vệ thông tin Azure.  
-<li>  Có vị trí chia sẻ tệp chính của bạn.  </li>
-<strong>Lưu ý</strong>: hỗ trợ hỗn hợp yêu cầu trình kết nối AD RMS. 
-<li>  Có phân loại phân loại được phê duyệt.  </li>
-<li>  Hiểu mọi hạn chế về quy định cho việc quản lý khóa được bảo vệ của bạn.  </li>
 </ul>
   
-<strong>Máy quét bảo vệ thông tin Azure</strong>  
-  
-Bạn đã phải:  
-<ul>
-<li>  Sử dụng Windows Server 2012 R2 hoặc Windows Server 2016.  </li>
-<li>  Có kết nối Internet.  </li>
-<li>  Có Microsoft SQL Server 2012 trở đi trong một ví dụ địa phương hoặc từ xa.  </li>
-<li>  Có tài khoản Dịch vụ được tạo cho Active Directory tại cơ sở của bạn và được đồng bộ hóa với Azure AD.  </li>
-<li>  Đã tải xuống AzInfoProtection.exe.  </li>
-<li>  Có các nhãn được đặt cấu hình để phân loại tự động/bảo vệ.  </li>
-</ul></td>
+</td>
 </tr>
 <tr class="even">
 <td><strong>Microsoft InTune</strong></td>
@@ -473,7 +490,7 @@ Bạn đã phải:
 <ul>
 <li>  Triển khai ứng dụng cho từng nền tảng được hỗ trợ thông qua các nối kết web hoặc nối kết sâu.  </li>
 <li>  Chính sách truy nhập có điều kiện.  </li>
-<li>  Việc triển khai các hồ sơ email, mạng không dây và VPN) nếu bạn có một cơ quan cấp chứng chỉ hiện có, cơ sở hạ tầng mạng không dây hoặc VPN trong tổ chức của bạn.  </li>
+<li>  Triển khai email, mạng không dây và hồ sơ VPN nếu bạn có một cơ quan có chứng chỉ hiện có, mạng không dây hoặc cơ sở hạ tầng VPN trong tổ chức của bạn.  </li>
 <li>  Kết nối với kho dữ liệu InTune.  </li>
 <li>  Đang tích hợp InTune với:
 <ul>
@@ -540,11 +557,7 @@ Bạn đã phải:
  
   Người quản trị CNTT chịu trách nhiệm đăng ký thiết bị của họ với tổ chức của họ bằng cách có nhà cung cấp phần cứng tải lên các ID phần cứng của họ thay mặt cho họ hoặc bằng cách tải nó vào dịch vụ Autopilot của Windows.  
   
-<strong>Triển khai Outlook cho iOS và Android an toàn với InTune </strong>  
-<ul>
-<li>  Các danh tính người dùng được kích hoạt trong Azure AD cho Office 365.  </li>
-<li>  Cấu hình Exchange Online hoặc Exchange Online với giấy phép người dùng được gán.  </li>
-</ul></td>
+</td>
 </tr>
 </tbody>
 </table>
@@ -865,19 +878,17 @@ Liên hệ với một <a href="https://go.microsoft.com/fwlink/?linkid=2080150"
 <strong>Windows 10 trên ARM</strong>
 <ul>
 <li>  
-Các ứng dụng đã làm việc trên Windows 7, Office 2010 hoặc các phiên bản sau này hoạt động trên các ứng dụng Windows 10 và Microsoft 365 trên các thiết bị ARM64. 
+Các ứng dụng đã làm việc trên Windows 7, Office 2010 hoặc phiên bản mới hơn cũng hoạt động trên các ứng dụng Windows 10 và Microsoft 365 trên các thiết bị ARM64. 
   </li>
 </ul>
-  <strong>Lưu ý:</strong> Windows 10 trên các loại trừ và giới hạn của ARM bao gồm:
+  <strong>Yù</strong> 
 <ul>
+<li> Mô phỏng x64 (64 bit) sẵn dùng trong bản xem trước dành cho khách hàng tham gia <a href="https://insider.windows.com/">chương trình</a>người dùng nội bộ Windows.  </li>
 <li>  
- Các ứng dụng dựa vào trình điều khiển phần mềm không tương thích trong ARM.  
+ Đối với khách hàng không phải cửa sổ người dùng nội bộ trên Windows 10 phiên bản 2004 (hoặc mới hơn), ARM64 Photoshop được hỗ trợ bằng cách sử dụng <a href="https://www.microsoft.com/p/opencl-and-opengl-compatibility-pack/9nqpsl29bfff?rtc=1&activetab=pivot:overviewtab">gói tương thích OpenCL và OpenGL</a>. 
   </li>
 <li>  
-  Các ứng dụng sử dụng OpenGL hoặc OpenCL.   
-  </li>
-<li>  
-  Các ứng dụng chỉ sẵn dùng trong 64 bit (x64).  
+  Khách hàng trong chương trình Windows Insider có thể tải xuống phiên bản người dùng nội bộ của gói tương thích OpenCL và OpenGL để sử dụng với các ứng dụng bổ sung.    
   </li>
 </ul>
 <strong>Microsoft Edge mới</strong>

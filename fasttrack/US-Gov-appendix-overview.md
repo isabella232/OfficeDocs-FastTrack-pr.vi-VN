@@ -3,18 +3,18 @@ title: Phụ lục B - Tổng quan về Lợi ích Trung tâm FastTrack dành ch
 ms.author: v-bermic@microsoft.com
 author: rberg-steyer@microsoft.com
 manager: jimmuir
-ms.date: 11/2/20
+ms.date: 12/1/20
 ms.audience: ITPro
 ms.topic: article
 ms.service: o365-administration
 localization_priority: None
 description: Với lợi ích Trung tâm FastTrack cho Office 365, bạn làm việc từ xa với các chuyên gia FastTrack để nhận được môi trường Office 365 của bạn sẵn sàng để sử dụng và lập kế hoạch cho việc triển khai và sử dụng trong tổ chức của bạn.
-ms.openlocfilehash: c1149d981da62e89b8d50ef20b547ba18f0c7a47
-ms.sourcegitcommit: ca476a4195477d43a6f3a212bf27bfe473cc1ffa
+ms.openlocfilehash: c1fe2fbff2bd3deaa37f3cce8ea4be5f65003917
+ms.sourcegitcommit: d69d3e1e478a817f8279e9da98880499e9302665
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 11/02/2020
-ms.locfileid: "48827592"
+ms.lasthandoff: 12/01/2020
+ms.locfileid: "49525407"
 ---
 # <a name="appendix-b---fasttrack-center-benefit-overview-for-office-365-us-government"></a>Phụ lục B - Tổng quan về Lợi ích Trung tâm FastTrack dành cho Office 365 US Government
 
