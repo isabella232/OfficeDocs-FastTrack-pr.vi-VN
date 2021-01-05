@@ -3,19 +3,19 @@ title: Tính đủ điều kiện
 ms.author: v-bermic
 author: rberg-steyer
 manager: jimmuir
-ms.date: 12/1/20
+ms.date: 1/4/2021
 ms.audience: ITPro
 ms.topic: conceptual
-ms.service: m365-administration
+ms.service: o365-administration
 localization_priority: Normal
 ms.collection: FastTrack
 description: Trong chủ đề này, chúng tôi dàn bài các yêu cầu đủ điều kiện để nhận hỗ trợ từ xa, có hướng dẫn từ các chuyên gia FastTrack bao gồm trong mua giấy phép Microsoft 365 và thông tin chi tiết các sản phẩm và chức năng cụ thể được bảo vệ.
-ms.openlocfilehash: 4bfc085d29c447ab5c29f0ad274ddf59f3a97fda
-ms.sourcegitcommit: d69d3e1e478a817f8279e9da98880499e9302665
+ms.openlocfilehash: 976333b6999eb008024b2808674144cbe9ead586
+ms.sourcegitcommit: cf07b074931fd6877ba7e8938440dc7ebaf4ac69
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 12/01/2020
-ms.locfileid: "49525395"
+ms.lasthandoff: 01/04/2021
+ms.locfileid: "49750025"
 ---
 # <a name="eligibility"></a>Tính đủ điều kiện
 
@@ -35,7 +35,10 @@ Các chuyên gia FastTrack có thể cung cấp cho bạn trợ giúp từ xa, c
 > [!NOTE]
 > Office 365 ProPlus đã được đổi tên thành ứng dụng Microsoft 365. Trong một số trường hợp, bạn có thể tìm thấy các ứng dụng của tên kế thừa. Để biết chi tiết về khi thay đổi này có hiệu lực, vui lòng xem [tên thay đổi cho Office 365 ProPlus](https://docs.microsoft.com/deployoffice/name-change).
 
+  - Bảo vệ Microsoft 365
+  - Bảo mật ứng dụng đám mây Microsoft
   - Bảo vệ chống mối đe dọa nâng cao của Microsoft Defender (ATP)
+  - Microsoft Defender cho định danh 
   - Microsoft Edge
   - Quản trị thông tin Microsoft
   - Bảo vệ thông tin của Microsoft
