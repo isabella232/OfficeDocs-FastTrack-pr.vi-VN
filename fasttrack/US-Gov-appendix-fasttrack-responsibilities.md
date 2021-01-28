@@ -3,19 +3,19 @@ title: Fasttheo dõi trách nhiệm đối với Office 365 US Government
 ms.author: v-bermic
 author: rberg-steyer
 manager: jimmuir
-ms.date: 1/4/2021
+ms.date: 1/27/2021
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: None
 ms.collection: FastTrack
 description: Các chuyên gia FastTrack có các trách nhiệm sau trong onboarding.
-ms.openlocfilehash: 42ad4053ef169470abd5de96cd59329704d1b224
-ms.sourcegitcommit: cf07b074931fd6877ba7e8938440dc7ebaf4ac69
+ms.openlocfilehash: a7860d56652de3aba80e77b7f9b054e8a80be6f4
+ms.sourcegitcommit: cd8426ce64dda56439933576e7da75b1c27f5de1
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 01/04/2021
-ms.locfileid: "49750085"
+ms.lasthandoff: 01/27/2021
+ms.locfileid: "50016682"
 ---
 # <a name="fasttrack-responsibilities-for-office-365-us-government"></a>Fasttheo dõi trách nhiệm đối với Office 365 US Government
 
@@ -95,6 +95,13 @@ Cung cấp hướng dẫn về:
 - Kiểm tra chức năng SSO nếu được triển khai.   
 - Lái xe nhận con nuôi và giá trị dịch vụ thành công.
     
+## <a name="compliance"></a>Luaät
+
+Cung cấp hướng dẫn về:
+- Hỗ trợ từ xa với **quản trị thông tin Microsoft** (xem [bảo mật và tuân thủ](products-and-capabilities.md#security-and-compliance)).
+- Hỗ trợ từ xa với **Microsoft Information Protection** (xem [bảo mật và tuân thủ](products-and-capabilities.md#security-and-compliance)).
+- Hỗ trợ từ xa với **Azure Information Protection** (xem [bảo mật và tuân thủ](products-and-capabilities.md#security-and-compliance)).
+
 ## <a name="exchange-online"></a>Exchange Online
 
 Cung cấp hướng dẫn về: 

@@ -10,12 +10,12 @@ ms.service: windows-10-administration
 localization_priority: Normal
 ms.collection: FastTrack
 description: Khi bạn mua bất kỳ dịch vụ nào của Windows 10 hoặc Microsoft 365, thì các chuyên gia FastTrack cung cấp hướng dẫn về tư vấn và khắc phục sự triển khai cho các ứng dụng Windows 10 và Microsoft 365 và luôn cập nhật mà không có chi phí bổ sung (với đăng ký đủ điều kiện).
-ms.openlocfilehash: c5c13e948651de813e1351e191e4aa135382339d
-ms.sourcegitcommit: ca476a4195477d43a6f3a212bf27bfe473cc1ffa
+ms.openlocfilehash: 4cd513a4e0c1edda3598a6650bdea91d90f5584f
+ms.sourcegitcommit: cd8426ce64dda56439933576e7da75b1c27f5de1
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 11/02/2020
-ms.locfileid: "48827424"
+ms.lasthandoff: 01/27/2021
+ms.locfileid: "50016428"
 ---
 # <a name="assistance-offered"></a>Nội dung hỗ trợ được cung cấp  
 
@@ -43,9 +43,9 @@ FastTrack cung cấp hỗ trợ khắc phục sự trợ giúp cho các ứng d�
 > [!NOTE]
 > Windows 10 trên các loại trừ và giới hạn của ARM bao gồm các ứng dụng dựa vào trình điều khiển phần mềm không tương thích trong ARM, sử dụng OpenGL hoặc OpenCL, hoặc chỉ sẵn dùng trong 64 bit (x64).
 
-### <a name="the-new-microsoft-edge"></a>Phiên bản Microsoft Edge mới
+### <a name="microsoft-edge"></a>Microsoft Edge
 
-- Nếu ứng dụng web hoặc site của bạn hoạt động trên Internet Explorer 11, các phiên bản Google Chrome được hỗ trợ, hoặc bất kỳ phiên bản nào của Microsoft Edge, họ cũng sẽ làm việc với Microsoft Edge mới.
+- Nếu ứng dụng web hoặc site của bạn hoạt động trên Internet Explorer 11, các phiên bản Google Chrome được hỗ trợ, hoặc bất kỳ phiên bản nào của Microsoft Edge, họ cũng sẽ làm việc với Microsoft Edge.
 
 Để được hướng dẫn về triển khai Microsoft Edge, hãy xem [tổng quan về các kênh Microsoft Edge](https://docs.microsoft.com/DeployEdge/microsoft-edge-channels). Khi web không liên tục phát triển, chúng tôi đã phát hành một danh sách các tính [năng tương thích site đã biết-các thay đổi tác động đối với Microsoft Edge](https://docs.microsoft.com/microsoft-edge/web-platform/site-impacting-changes).
 

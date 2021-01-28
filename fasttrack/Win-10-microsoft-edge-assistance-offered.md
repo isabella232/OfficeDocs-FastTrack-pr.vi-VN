@@ -10,12 +10,12 @@ ms.service: windows-10-administration
 localization_priority: Normal
 ms.collection: FastTrack
 description: Khi bạn mua bất kỳ dịch vụ nào của Windows 10 hoặc Microsoft 365 (càng chi tiết trong các gói dịch vụ và gói đủ điều kiện), thì các chuyên gia FastTrack cung cấp hướng dẫn triển khai từ xa và hỗ trợ tương thích nếu bạn có một ứng dụng web hoặc site hoạt động với Internet Explorer hoặc Google Chrome.
-ms.openlocfilehash: e656673cbbb5130c7cb24b43219a29db4f58c130
-ms.sourcegitcommit: ca476a4195477d43a6f3a212bf27bfe473cc1ffa
+ms.openlocfilehash: c63a5eaac44eae8006ed8cb3d9285d57808c141c
+ms.sourcegitcommit: cd8426ce64dda56439933576e7da75b1c27f5de1
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 11/02/2020
-ms.locfileid: "48827328"
+ms.lasthandoff: 01/27/2021
+ms.locfileid: "50016622"
 ---
 # <a name="assistance-offered"></a>Nội dung hỗ trợ được cung cấp
 
@@ -24,7 +24,7 @@ Khi bạn mua bất kỳ dịch vụ nào trong Windows 10 hoặc Microsoft 365 
 ## <a name="assistance"></a>Về
 
 FastTrack cung cấp hướng dẫn từ xa cho những điều sau đây:
-- Hướng dẫn để triển khai Microsoft Edge mới trên Windows 10 Enterprise với Microsoft Endpoint Manager (Microsoft Endpoint Configuration Manager hoặc Microsoft InTune).
+- Hướng dẫn để triển khai Microsoft Edge trên Windows 10 Enterprise với Microsoft Endpoint Manager (Microsoft Endpoint Configuration Manager hoặc Microsoft InTune).
 - Hướng dẫn về cấu hình Microsoft Edge (sử dụng chính sách nhóm hoặc cấu hình ứng dụng InTune và chính sách ứng dụng).
 - Hướng dẫn để kiểm kê danh sách các site có thể yêu cầu sử dụng trong chế độ Internet Explorer.
 - Hướng dẫn để cho phép chế độ Internet Explorer có danh sách site hiện có của doanh nghiệp.

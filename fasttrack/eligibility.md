@@ -3,19 +3,19 @@ title: Tính đủ điều kiện
 ms.author: v-bermic
 author: rberg-steyer
 manager: jimmuir
-ms.date: 1/4/2021
+ms.date: 1/27/2021
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: Normal
 ms.collection: FastTrack
 description: Trong chủ đề này, chúng tôi dàn bài các yêu cầu đủ điều kiện để nhận hỗ trợ từ xa, có hướng dẫn từ các chuyên gia FastTrack bao gồm trong mua giấy phép Microsoft 365 và thông tin chi tiết các sản phẩm và chức năng cụ thể được bảo vệ.
-ms.openlocfilehash: 976333b6999eb008024b2808674144cbe9ead586
-ms.sourcegitcommit: cf07b074931fd6877ba7e8938440dc7ebaf4ac69
+ms.openlocfilehash: 53ff3d12318a77fc66810e92ec5dae090f281035
+ms.sourcegitcommit: cd8426ce64dda56439933576e7da75b1c27f5de1
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 01/04/2021
-ms.locfileid: "49750025"
+ms.lasthandoff: 01/27/2021
+ms.locfileid: "50016466"
 ---
 # <a name="eligibility"></a>Tính đủ điều kiện
 
@@ -168,7 +168,7 @@ Bạn phải mua ít nhất là 150 giấy phép cho mỗi đối tượng thuê
 
 #### <a name="azure-information-protection"></a>Bảo vệ thông tin Azure
 
-  - Gói bảo vệ thông tin Azure 2\*\*\*\*\*
+  - Bảo vệ thông tin Azure
 
 #### <a name="microsoft-intune"></a>Microsoft InTune
 
@@ -184,10 +184,7 @@ Bạn phải mua ít nhất là 150 giấy phép cho mỗi đối tượng thuê
       
 <br>
 
-\*\*\*\*Sẵn dùng cho các dịch vụ điện toán đám mây đủ điều kiện cho các lợi ích FastTrack. Nếu không thì đây sẽ được định tuyến tới một chuyên gia FastTrack hoặc đối tác giới thiệu.  
-      
-\*\*\*\*\*Có sẵn cho P2, như một phần của E5, hoặc dưới dạng một gói độc lập. Sẵn dùng cho các dịch vụ điện toán đám mây đủ điều kiện cho các lợi ích FastTrack. Đối với dịch vụ điện toán đám mây P1, FastTrack chia sẻ hướng dẫn tự triển khai.  
-      
+\*\*\*\*Sẵn dùng cho các dịch vụ điện toán đám mây đủ điều kiện cho các lợi ích FastTrack. Nếu không thì đây sẽ được định tuyến tới một chuyên gia FastTrack hoặc đối tác giới thiệu.    
 
 ### <a name="windows-10-plans"></a>Gói Windows 10
 

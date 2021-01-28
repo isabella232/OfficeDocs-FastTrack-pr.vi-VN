@@ -3,19 +3,19 @@ title: Các sản phẩm và chức năng
 ms.author: v-bermic
 author: rberg-steyer
 manager: jimmuir
-ms.date: 1/4/2021
+ms.date: 1/27/2021
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: Normal
 ms.collection: FastTrack
 description: Chủ đề này bao gồm chi tiết về các tình huống khối lượng công việc được hỗ trợ bởi FastTrack và các kỳ vọng của môi trường nguồn cần thiết trước khi chúng tôi có thể bắt đầu. Dựa trên thiết lập hiện tại của bạn, chúng tôi làm việc với bạn để tạo một kế hoạch khắc phục sự kiện sẽ giúp môi trường nguồn của bạn lên đến các yêu cầu tối thiểu để onboarding thành công.
-ms.openlocfilehash: 5e65d160822ed50840ecc65f484433bf0d485913
-ms.sourcegitcommit: cf07b074931fd6877ba7e8938440dc7ebaf4ac69
+ms.openlocfilehash: abbc97a7b2d70b0b0111f1cbe96904bbe552e463
+ms.sourcegitcommit: cd8426ce64dda56439933576e7da75b1c27f5de1
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 01/04/2021
-ms.locfileid: "49750109"
+ms.lasthandoff: 01/27/2021
+ms.locfileid: "50016694"
 ---
 # <a name="products-and-capabilities"></a>Các sản phẩm và chức năng
 
@@ -32,7 +32,7 @@ Fasttrack cung cấp hướng dẫn để giúp bạn đầu tiên với các ch
   - [Windows 10](#windows-10)
   - [Máy tính chạy Windows ảo](#windows-virtual-desktop)
   - [Đảm bảo cho ứng dụng](#app-assure)
-  - [Phiên bản Microsoft Edge mới](#the-new-microsoft-edge)
+  - [Microsoft Edge](#microsoft-edge)
 
 > [!NOTE]
 > Để biết thông tin về các kỳ vọng môi trường nguồn cho chính phủ Hoa Kỳ của Office 365, hãy xem các [kỳ vọng môi trường nguồn cho chính phủ office 365 US](https://docs.microsoft.com/fasttrack/us-gov-appendix-source-environment-expectations). 
@@ -590,7 +590,7 @@ Liên hệ với một <a href="https://go.microsoft.com/fwlink/?linkid=2080150"
 <li>  Trình xem nhóm để được hỗ trợ từ xa (đăng ký trình xem nhóm là bắt buộc).  </li>
 <li>  Các giải pháp đối tác thoại di động Threat Defense (MTD) (một gói đăng ký MTD là bắt buộc).  </li>
 <li>  Một giải pháp quản lý chi phí viễn thông (đăng ký giải pháp quản lý chi phí viễn thông là bắt buộc).  </li>
-<li>  Microsoft Defender ATP (các giấy phép Windows E5 hoặc Microsoft 365 E5 là bắt buộc).  </li>
+
 </ul></li>
 <li>  Các thiết bị đăng ký của mỗi nền tảng được hỗ trợ để InTune.  </li>
 </ul></li>
@@ -604,7 +604,7 @@ Liên hệ với một <a href="https://go.microsoft.com/fwlink/?linkid=2080150"
 </ul></li>
 <li>  Cung cấp hướng dẫn di chuyển từ quản lý PC kế thừa sang InTune MDM.  </li>
 </ul>
-  <strong>Lưu ý</strong>: quản lý PC kế thừa không còn được hỗ trợ từ ngày 15 tháng 10, 2020 trở đi.  
+ 
 </li>
 </ul>
   
@@ -617,7 +617,7 @@ Liên hệ với một <a href="https://go.microsoft.com/fwlink/?linkid=2080150"
 <li>  Thêm người dùng vào thuê bao InTune của bạn, xác định vai trò quản trị CNTT và tạo nhóm người dùng và thiết bị.  </li>
 <li>  Việc cung cấp hướng dẫn thiết lập kết hợp Azure AD join.  </li>
 <li>  Cung cấp hướng dẫn về việc thiết lập Azure AD cho MDM tự động đăng ký.  </li>
-<li>  Cung cấp hướng dẫn về cách thiết lập cổng kết nối quản lý điện toán đám mây.  </li>
+<li>  Cung cấp hướng dẫn về cách thiết lập cổng kết nối quản lý đám mây khi được dùng làm giải pháp để đồng quản lý việc quản lý thiết bị Internet từ xa.  </li>
 <li>  Cấu hình các công việc được hỗ trợ mà bạn muốn chuyển sang InTune.  </li>
 <li>  Cài đặt máy khách trình quản lý cấu hình trên thiết bị đã đăng ký InTune.  </li>
 </ul> 
@@ -633,9 +633,7 @@ Liên hệ với một <a href="https://go.microsoft.com/fwlink/?linkid=2080150"
 <li>  Chính sách truy nhập có điều kiện.  </li>
 <li>  Các chính sách cấu hình ứng dụng.  </li>
 </ul></li>
-</ul>
-  
-  <strong>Lưu ý</strong>: fasttrack không hỗ trợ việc bảo mật Outlook for iOS và Android với chính sách hộp thư Exchange của thiết bị di động. Liên hệ với một <a href="https://go.microsoft.com/fwlink/?linkid=2080150">đối tác Microsoft</a> để được trợ giúp về điều này.  
+</ul>  
   </td>
 <td>  Người quản trị CNTT cần có cơ quan cấp chứng chỉ hiện có, mạng không dây và hạ tầng VPN đã làm việc trong môi trường sản xuất của họ khi lập kế hoạch triển khai mạng không dây và hồ sơ VPN bằng InTune.  
   <strong>Lưu ý</strong>: lợi ích Dịch vụ fasttrack không bao gồm trợ giúp thiết lập hoặc cấu hình cơ quan cấp chứng chỉ, mạng không dây, hạ tầng VPN hoặc giấy chứng nhận đẩy táo MDM cho InTune.  
@@ -1052,7 +1050,6 @@ Chúng tôi cũng cung cấp hướng dẫn nếu bạn muốn áp dụng bảo 
 <li>  Trình xem nhóm để được hỗ trợ từ xa (đăng ký trình xem nhóm là bắt buộc).  </li>
 <li>  Các giải pháp đối tác thoại di động Threat Defense (MTD) (một gói đăng ký MTD là bắt buộc).  </li>
 <li>  Một giải pháp quản lý chi phí viễn thông (đăng ký giải pháp quản lý chi phí viễn thông là bắt buộc).  </li>
-<li>  Microsoft Defender ATP (các giấy phép Windows E5 hoặc Microsoft 365 E5 là bắt buộc).  </li>
 </ul></li>
 <li>  Các thiết bị đăng ký của mỗi nền tảng được hỗ trợ để InTune.  </li>
 </ul></li>
@@ -1066,7 +1063,7 @@ Chúng tôi cũng cung cấp hướng dẫn nếu bạn muốn áp dụng bảo 
 </ul></li>
 <li>  Cung cấp hướng dẫn di chuyển từ quản lý PC kế thừa sang InTune MDM.  </li>
 </ul>
-  <strong>Lưu ý</strong>: quản lý PC kế thừa không còn được hỗ trợ từ ngày 15 tháng 10, 2020 trở đi.  
+  
 </li>
 </ul>
   
@@ -1079,7 +1076,7 @@ Chúng tôi cũng cung cấp hướng dẫn nếu bạn muốn áp dụng bảo 
 <li>  Thêm người dùng vào thuê bao InTune của bạn, xác định vai trò quản trị CNTT và tạo nhóm người dùng và thiết bị.  </li>
 <li>  Việc cung cấp hướng dẫn thiết lập kết hợp Azure AD join.  </li>
 <li>  Cung cấp hướng dẫn về việc thiết lập Azure AD cho MDM tự động đăng ký.  </li>
-<li>  Cung cấp hướng dẫn về cách thiết lập cổng kết nối quản lý điện toán đám mây.  </li>
+<li>  Cung cấp hướng dẫn về cách thiết lập cổng kết nối quản lý đám mây khi được dùng làm giải pháp để đồng quản lý việc quản lý thiết bị Internet từ xa.  </li>
 <li>  Cấu hình các công việc được hỗ trợ mà bạn muốn chuyển sang InTune.  </li>
 <li>  Cài đặt máy khách trình quản lý cấu hình trên thiết bị đã đăng ký InTune.  </li>
 </ul> 
@@ -1095,9 +1092,7 @@ Chúng tôi cũng cung cấp hướng dẫn nếu bạn muốn áp dụng bảo 
 <li>  Chính sách truy nhập có điều kiện.  </li>
 <li>  Các chính sách cấu hình ứng dụng.  </li>
 </ul></li>
-</ul>
-  
-  <strong>Lưu ý</strong>: fasttrack không hỗ trợ việc bảo mật Outlook for iOS và Android với chính sách hộp thư Exchange của thiết bị di động. Liên hệ với một <a href="https://go.microsoft.com/fwlink/?linkid=2080150">đối tác Microsoft</a> để được trợ giúp về điều này.  
+</ul>  
   </td>
 <td>  Người quản trị CNTT cần có cơ quan cấp chứng chỉ hiện có, mạng không dây và hạ tầng VPN đã làm việc trong môi trường sản xuất của họ khi lập kế hoạch triển khai mạng không dây và hồ sơ VPN bằng InTune.  
   <strong>Lưu ý</strong>: lợi ích Dịch vụ fasttrack không bao gồm trợ giúp thiết lập hoặc cấu hình cơ quan cấp chứng chỉ, mạng không dây, hạ tầng VPN hoặc giấy chứng nhận đẩy táo MDM cho InTune.  
@@ -1197,6 +1192,7 @@ Liên hệ với một <a href="https://go.microsoft.com/fwlink/?linkid=2080150"
 <li>  
   Điều tra và khắc phục sự tự động.  
   </li>
+<li> Microsoft Defender ATP (các giấy phép Windows E5 hoặc Microsoft 365 E5 là bắt buộc).  </li>
 <li>  
   Điểm số bảo mật.  
   </li>
@@ -1396,11 +1392,11 @@ Liên hệ với một <a href="https://go.microsoft.com/fwlink/?linkid=2080150"
 <tbody>
 <tr class="even">
 <td><strong>Đảm bảo cho ứng dụng</strong></td>
-<td>  Ứng dụng đảm bảo là một dịch vụ được thiết kế để giải quyết các sự cố với Windows 10 và ứng dụng Microsoft 365 ứng dụng tương thích. Khi bạn yêu cầu ứng dụng đảm bảo dịch vụ, chúng tôi sẽ làm việc với bạn để giải quyết các sự cố ứng dụng hợp lệ tại không có chi phí bổ sung cho bạn bằng một thuê bao đủ điều kiện. Chúng tôi cũng cung cấp hướng dẫn cho khách hàng những vấn đề tương thích khi triển khai Windows Virtual Desktop và Microsoft Edge mới và thực hiện tất cả các nỗ lực hợp lý để giải quyết các vấn đề tương thích. Chúng tôi cung cấp hỗ trợ khắc phục các ứng dụng được triển khai trên các sản phẩm Microsoft sau đây:
+<td>  Ứng dụng đảm bảo là một dịch vụ được thiết kế để giải quyết các sự cố với Windows 10 và ứng dụng Microsoft 365 ứng dụng tương thích. Khi bạn yêu cầu ứng dụng đảm bảo dịch vụ, chúng tôi sẽ làm việc với bạn để giải quyết các sự cố ứng dụng hợp lệ tại không có chi phí bổ sung cho bạn bằng một thuê bao đủ điều kiện. Chúng tôi cũng cung cấp hướng dẫn cho khách hàng những vấn đề tương thích khi triển khai Windows Virtual Desktop và Microsoft Edge và thực hiện tất cả các nỗ lực hợp lý để giải quyết các vấn đề tương thích. Chúng tôi cung cấp hỗ trợ khắc phục các ứng dụng được triển khai trên các sản phẩm Microsoft sau đây:
 <ul>
 <li>  <strong>Windows 10 </strong> (bao gồm các thiết bị ARM64)</li>
 <li> <strong>Ứng dụng Microsoft 365</strong>  </li>
-<li>  <strong>Microsoft Edge mới-</strong> Để được hướng dẫn triển khai, hãy xem <a href="https://docs.microsoft.com/DeployEdge/microsoft-edge-channels">tổng quan về các kênh Microsoft Edge</a>.  </li>
+<li>  <strong>Microsoft Edge-</strong> Để được hướng dẫn triển khai, hãy xem <a href="https://docs.microsoft.com/DeployEdge/microsoft-edge-channels">tổng quan về các kênh Microsoft Edge</a>.  </li>
 <li>  <strong>Máy tính</strong> - chạy Windows ảo Để biết thêm thông tin, hãy xem <a href="https://docs.microsoft.com/azure/virtual-desktop/windows-10-multisession-faq">câu hỏi thường gặp</a>về <a href="https://docs.microsoft.com/azure/virtual-desktop/overview">Windows Virtual Desktop là gì?</a> và Windows 10 Enterprise.  </li>
 </ul>
 
@@ -1444,10 +1440,10 @@ Các ứng dụng đã làm việc trên Windows 7, Office 2010 hoặc phiên b�
   Khách hàng trong chương trình Windows Insider có thể tải xuống phiên bản người dùng nội bộ của gói tương thích OpenCL và OpenGL để sử dụng với các ứng dụng bổ sung.    
   </li>
 </ul>
-<strong>Microsoft Edge mới</strong>
+<strong>Microsoft Edge</strong>
 <ul>
 <li>  
-  Nếu ứng dụng web hoặc site của bạn hoạt động trên Internet Explorer 11, các phiên bản Google Chrome được hỗ trợ, hoặc bất kỳ phiên bản nào của Microsoft Edge, họ cũng sẽ làm việc với Microsoft Edge mới.  
+  Nếu ứng dụng web hoặc site của bạn hoạt động trên Internet Explorer 11, các phiên bản Google Chrome được hỗ trợ, hoặc bất kỳ phiên bản nào của Microsoft Edge, họ cũng sẽ làm việc với Microsoft Edge.  
   </li>
 <li>  
   Khi web không liên tục phát triển, hãy đảm bảo bạn xem lại danh sách <a href="https://docs.microsoft.com/microsoft-edge/web-platform/site-impacting-changes">đã phát hành của tính năng tương thích trang đã biết-các thay đổi tác động đối với Microsoft Edge</a>.  
@@ -1481,7 +1477,7 @@ Các ứng dụng đã làm việc trên Windows 7, Office 2010 hoặc phiên b�
 </tbody>
 </table>
 
-## <a name="the-new-microsoft-edge"></a>Phiên bản Microsoft Edge mới
+## <a name="microsoft-edge"></a>Microsoft Edge
 
 
 <table>
@@ -1496,7 +1492,7 @@ Các ứng dụng đã làm việc trên Windows 7, Office 2010 hoặc phiên b�
 <tr class="even">
 <td><strong>Microsoft Edge</strong> (dành cho khách hàng Windows 10 Enterprise)</td>
 <td><ul>
-<li>  Chúng tôi cung cấp hướng dẫn triển khai từ xa và trợ giúp tương thích cho: triển khai Microsoft Edge mới trên Windows 10 Enterprise với Microsoft Endpoint Manager (Microsoft Endpoint Configuration Manager hoặc InTune).  </li>
+<li>  Chúng tôi cung cấp hướng dẫn triển khai từ xa và trợ giúp tương thích cho: triển khai Microsoft Edge trên Windows 10 Enterprise với Microsoft Endpoint Manager (Microsoft Endpoint Configuration Manager hoặc InTune).  </li>
 <li>  Cấu hình Microsoft Edge (sử dụng chính sách nhóm hoặc cấu hình ứng dụng InTune và chính sách ứng dụng).  </li>
 <li>  Kiểm kê danh sách các site có thể yêu cầu dùng trong chế độ Internet Explorer.  </li>
 <li>  Bật chế độ Internet Explorer với danh sách site hiện có của doanh nghiệp.  

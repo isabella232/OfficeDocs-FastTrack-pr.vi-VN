@@ -10,19 +10,19 @@ ms.service: windows-10-administration
 localization_priority: None
 ms.collection: FastTrack
 description: Bạn sử dụng lợi ích Trung tâm FastTrack cho Windows 10 khi mua  *ít nhất*  150 giấy phép cho một dịch vụ hoặc gói đủ điều kiện.
-ms.openlocfilehash: 851f774dda5d6ea93890f7eb3e6d85f766d9fdd8
-ms.sourcegitcommit: ca476a4195477d43a6f3a212bf27bfe473cc1ffa
+ms.openlocfilehash: d60c422ae958ffe70e92979b74ae8eed8e736034
+ms.sourcegitcommit: cd8426ce64dda56439933576e7da75b1c27f5de1
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 11/02/2020
-ms.locfileid: "48827352"
+ms.lasthandoff: 01/27/2021
+ms.locfileid: "50016442"
 ---
 # <a name="fasttrack-center-benefit-for-windows-10"></a>Lợi ích của Trung tâm FastTrack dành cho Windows 10
 
 > [!CAUTION]
 > Nội dung này không còn hiện tại và được lên lịch để loại bỏ. Sử dụng mục lục trong dẫn hướng bên trái cho nội dung hiện tại.
 
-Bạn có thể sử dụng lợi ích Trung tâm FastTrack cho Windows 10 khi mua ít nhất 150 giấy phép cho một dịch vụ đủ điều kiện hoặc gói. Sau đó, bạn làm việc với các chuyên gia FastTrack để đánh giá, khắc phục và triển khai Windows 10, Microsoft Edge mới hoặc bảo vệ chuỗi nâng cao của Microsoft Defender và phối hợp các lợi ích của Trung tâm FastTrack cho các ứng dụng Microsoft 365. 
+Bạn có thể sử dụng lợi ích Trung tâm FastTrack cho Windows 10 khi mua ít nhất 150 giấy phép cho một dịch vụ đủ điều kiện hoặc gói. Sau đó, bạn làm việc với các chuyên gia FastTrack để đánh giá, khắc phục và triển khai Windows 10, Microsoft Edge hoặc Microsoft Defender Advanced thread Protection và phối hợp các lợi ích của Trung tâm FastTrack cho các ứng dụng Microsoft 365. 
 
 Lợi ích Trung tâm FastTrack cho Windows 10 cũng cung cấp ứng dụng đảm bảo dịch vụ. Với dịch vụ này, một chuyên gia FastTrack sẽ sẵn dùng để cung cấp hướng dẫn tư vấn và khắc phục nếu bạn gặp sự cố về tương thích ứng dụng. 
 

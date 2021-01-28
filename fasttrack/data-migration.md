@@ -3,19 +3,19 @@ title: Di chuyển dữ liệu
 ms.author: v-bermic
 author: rberg-steyer
 manager: jimmuir
-ms.date: 1/4/2021
+ms.date: 1/27/2021
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: Normal
 ms.collection: FastTrack
 description: FastTrack có thể giúp bạn di chuyển thư và dữ liệu tệp trong môi trường nguồn của bạn sang Office 365 (Exchange Online, SharePoint Online và OneDrive for Business). Loại trợ giúp mà chúng tôi cung cấp phụ thuộc vào số lượng giấy phép Office 365 của bạn.
-ms.openlocfilehash: ec7bc5cf9c25ef1e386c7fae42a5fd8e1716dee5
-ms.sourcegitcommit: cf07b074931fd6877ba7e8938440dc7ebaf4ac69
+ms.openlocfilehash: 0ecfdfab7c7f7ae8879ea6374c3560dcaeb2f283
+ms.sourcegitcommit: cd8426ce64dda56439933576e7da75b1c27f5de1
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 01/04/2021
-ms.locfileid: "49750049"
+ms.lasthandoff: 01/27/2021
+ms.locfileid: "50016478"
 ---
 # <a name="data-migration"></a>Di chuyển dữ liệu
 
@@ -83,7 +83,7 @@ Bảng sau đây trình bày các chi tiết di chuyển cụ thể cho từng m
 <td>Di chuyển với triển khai kết hợp</td>
 <td><ul>
 <li>Điện</li>
-<li>Quy tắc hộp thư</li>
+<li>Quy tắc hộp thư phía máy chủ</li>
 <li>Đại diện</li>
 <li>Liên hệ hộp thư </li>
 <li> Ba </li>
@@ -102,6 +102,7 @@ Bảng sau đây trình bày các chi tiết di chuyển cụ thể cho từng m
 <li> Lưu trữ dữ liệu từ các tệp bảng lưu trữ cá nhân (PST) </li>
 <li> Các mục bị lỗi </li>
 <li> Hộp thư không hoạt động </li>
+<li> Quy tắc hộp thư phía máy khách</li>
 </ul></td>
 </tr>
 <tr class="even">
