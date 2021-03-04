@@ -3,7 +3,7 @@ title: Lợi ích Trung tâm FastTrack dành cho Microsoft 365
 ms.author: v-bermic
 author: rberg-steyer
 manager: jimmuir
-ms.date: 1/27/2021
+ms.date: 2/24/2021
 ms.audience: ITPro
 ms.topic: overview
 f1_keywords:
@@ -12,12 +12,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.collection: FastTrack
 description: FastTrack là một lợi ích được thiết kế để giúp bạn triển khai Microsoft 365 (bao gồm trong đăng ký đủ điều kiện) không có chi phí bổ sung. Bạn có thể sử dụng dịch vụ FastTrack với một thuê bao đủ điều kiện mới hoặc hiện có.
-ms.openlocfilehash: 9bd0a852147432bebc8e98a30f5924d9260d3041
-ms.sourcegitcommit: cd8426ce64dda56439933576e7da75b1c27f5de1
+ms.openlocfilehash: 4c8ef5005692dc963be111228dcd47fc3c95ca08
+ms.sourcegitcommit: cf630a48697177b9cce6c0fbc67a7e7a0b752167
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 01/27/2021
-ms.locfileid: "50016676"
+ms.lasthandoff: 03/03/2021
+ms.locfileid: "50416443"
 ---
 # <a name="fasttrack-center-benefit-for-microsoft-365"></a>Lợi ích Trung tâm FastTrack dành cho Microsoft 365
 

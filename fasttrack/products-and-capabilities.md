@@ -3,23 +3,23 @@ title: Các sản phẩm và chức năng
 ms.author: v-bermic
 author: rberg-steyer
 manager: jimmuir
-ms.date: 1/27/2021
+ms.date: 2/24/2021
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: Normal
 ms.collection: FastTrack
 description: Chủ đề này bao gồm chi tiết về các tình huống khối lượng công việc được hỗ trợ bởi FastTrack và các kỳ vọng của môi trường nguồn cần thiết trước khi chúng tôi có thể bắt đầu. Dựa trên thiết lập hiện tại của bạn, chúng tôi làm việc với bạn để tạo một kế hoạch khắc phục sự kiện sẽ giúp môi trường nguồn của bạn lên đến các yêu cầu tối thiểu để onboarding thành công.
-ms.openlocfilehash: abbc97a7b2d70b0b0111f1cbe96904bbe552e463
-ms.sourcegitcommit: cd8426ce64dda56439933576e7da75b1c27f5de1
+ms.openlocfilehash: 05936adee3f21e6078933a686dfa8dc24c33d1be
+ms.sourcegitcommit: cf630a48697177b9cce6c0fbc67a7e7a0b752167
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 01/27/2021
-ms.locfileid: "50016694"
+ms.lasthandoff: 03/03/2021
+ms.locfileid: "50416571"
 ---
 # <a name="products-and-capabilities"></a>Các sản phẩm và chức năng
 
-## <a name="services-and-scenarios-supported-by-fasttrack"></a>Các dịch vụ và tình huống được hỗ trợ bởi FastTrack
+## <a name="services-and-scenarios-supported-by-fasttrack"></a>Các dịch vụ và tình huống được hỗ trợ bởi FastTrack 
 
 Chủ đề này bao gồm chi tiết về các tình huống khối lượng công việc được hỗ trợ bởi FastTrack và các kỳ vọng của môi trường nguồn cần thiết trước khi chúng tôi có thể bắt đầu. Dựa trên thiết lập hiện tại của bạn, chúng tôi làm việc với bạn để tạo một kế hoạch khắc phục sự kiện sẽ giúp môi trường nguồn của bạn lên đến các yêu cầu tối thiểu để onboarding thành công.
 
@@ -189,34 +189,103 @@ Chúng tôi cung cấp hướng dẫn từ xa cho:
 </tr>
 <tr class="odd">
 <td><strong>Bảo vệ thông tin Azure </strong></td>
+<td>  Để biết thêm thông tin về bảo vệ thông tin Azure, hãy xem mục <strong>bảo vệ thông tin của Microsoft</strong> trong bảng này.
+
+  </td>
+<td>  
+  <tr class="odd">
+<td><strong>Phản hồi phát hiện &</strong></td>
+<td>  
+
+<strong>Khám phá điện tử nâng cao</strong>
+  
+<ul>
+<li>  Bật các liên kết an toàn, tệp đính kèm an toàn và chống lừa đảo.  </li>
+<li>  Cấu hình tự động hóa, điều tra và phản hồi.  </li>
+<li>  Sử dụng trình mô phỏng tấn công.  </li>
+<li>  Báo cáo và phân tích mối đe dọa.  </li>
+</ul>
+
+<strong>Kiểm toán nâng cao</strong> (chỉ được hỗ trợ trong E5)
+
+Chúng tôi cung cấp hướng dẫn từ xa cho: 
+<ul>
+<li> Bật kiểm tra nâng cao.</li>
+<li> Thực hiện một giao diện người dùng Nhật ký kiểm tra tìm kiếm và các lệnh PowerShell kiểm tra cơ bản.</li>
+</ul>
+
+<strong> Trình quản lý tuân thủ</strong>
+
+Chúng tôi cung cấp hướng dẫn từ xa cho:  
+
+<ul> <li>Xem lại các kiểu vai trò.  </li>
+<li> Thêm và cấu hình Các đánh giá.</li>
+<li> Đánh giá việc tuân thủ bằng việc thực hiện hành động cải thiện và xác định cách thức làm ảnh hưởng đến điểm tuân thủ của bạn.</li>
+<li> Xem lại ánh xạ điều khiển được dựng sẵn và đánh giá các điều khiển.</li>
+<li> Tạo một báo cáo trong một đánh giá.</li>
+</ul>
+
+<strong>Sau đây là phạm vi </strong> 
+<ul>
+<li> Kịch bản tùy chỉnh hoặc mã hóa.</li>
+<li> Khám phá điện tử API. </li>
+<li> Kết nối dữ liệu. </li>
+<li> Ranh giới tuân thủ và bộ lọc bảo mật.</li>
+<li> Điều tra dữ liệu.</li>
+<li> Các yêu cầu chủ đề dữ liệu.</li>
+<li> Thiết kế, kiến trúc sư và xem xét tài liệu của bên thứ ba.</li>
+<li> Tuân thủ các quy định và yêu cầu của khu vực.</li>
+<li> Thực hiện các hành động cải thiện được đề xuất để đánh giá trong trình quản lý tuân thủ.</li>
+</ul>
+</td>
+<td>Ngoài phần <strong>lõi triển khai</strong> <a href="#general">nói chung</a>, không có các yêu cầu hệ thống tối thiểu.</td>
+</tr>
+
+<tr class="odd">
+<td><strong>Quản lý mối đe dọa người dùng nội bộ</strong></td>
+
 <td>  Chúng tôi cung cấp hướng dẫn từ xa cho:
 <ul>
-<li>  Kích hoạt và cấu hình đối tượng thuê của bạn.  </li>
-<li>  Tạo và thiết lập nhãn và chính sách.  </li>
-<li>  Áp dụng bảo vệ thông tin cho tài liệu.  </li>
-<li>  Tự động phân loại và ghi nhãn thông tin trong các ứng dụng Office (chẳng hạn như Word, PowerPoint, Excel và Outlook) đang chạy trên Windows và sử dụng máy khách bảo vệ thông tin Azure.  </li>
-<li>  Phát hiện và ghi nhãn tệp tại phần còn lại bằng cách dùng máy quét bảo vệ thông tin Azure.  </li>
-<li>  Giám sát email trong quá cảnh bằng quy tắc dòng thư Exchange Online.  </li>
+<li> Tạo chính sách và xem lại thiết đặt.</li>
+<li> Truy nhập báo cáo và cảnh báo.</li>
+<li> Tạo trường hợp.</li>
+<li> Tạo mẫu thông báo.</li>
+<li> Hướng dẫn tạo đường kết nối tài nguyên nhân sự (HR).</li>
 </ul>
-Chúng tôi cũng cung cấp hướng dẫn nếu bạn muốn áp dụng bảo vệ bằng cách sử dụng dịch vụ quản lý quyền Microsoft Azure (Azure RMS), mã hóa thư Office 365 (OME), và ngăn chặn mất dữ liệu ().  </td>
-<td>  Trách nhiệm điều kiện khách hàng bao gồm:
+
+<strong> Tuân thủ liên lạc </strong> 
+
+Chúng tôi cung cấp hướng dẫn từ xa cho: 
 <ul>
-<li>  Danh sách các vị trí chia sẻ tệp sẽ được quét.  </li>
-<li>  Phân loại phân loại được phê duyệt. </li>
-<li> Hiểu về bất kỳ giới hạn hoặc yêu cầu nào về quy định về quản lý khóa.  </li>
-<li>  Tài khoản Dịch vụ được tạo cho Active Directory tại chỗ của bạn đã được đồng bộ hóa với Azure AD. </li>
-<li>  Các nhãn được đặt cấu hình cho phân loại và bảo vệ. </li>
-<li> Tất cả các điều kiện tiên quyết cho máy quét bảo vệ thông tin Azure được đặt ra. Để biết thêm thông tin, hãy xem <a href="https://docs.microsoft.com/azure/information-protection/deploy-aip-scanner-prereqs">điều kiện tiên quyết để cài đặt và triển khai máy quét ghi nhãn thông tin Azure hợp nhất</a>. </li>
-<li>  Đảm bảo các thiết bị người dùng đang chạy hệ điều hành được hỗ trợ và có các điều kiện tiên quyết cần thiết được cài đặt. Xem các chi tiết sau đây để biết thêm chi tiết.</li>
+<li> Tạo chính sách và xem lại thiết đặt.</li>
+<li> Truy nhập báo cáo và cảnh báo.</li>
+<li> Tạo mẫu thông báo.</li>
+</ul>
+
+<strong> Trình quản lý tuân thủ</strong>
+
+Chúng tôi cung cấp hướng dẫn từ xa cho:  
+
+<ul> <li>Xem lại các kiểu vai trò.  </li>
+<li> Thêm và cấu hình Các đánh giá.</li>
+<li> Đánh giá việc tuân thủ bằng việc thực hiện hành động cải thiện và xác định cách thức làm ảnh hưởng đến điểm tuân thủ của bạn.</li>
+<li> Xem lại ánh xạ điều khiển được dựng sẵn và đánh giá các điều khiển.</li>
+<li> Tạo một báo cáo trong một đánh giá.</li>
+</ul>
+
+<strong>Sau đây là phạm vi </strong> 
 <ul>
-<li> <a href="https://docs.microsoft.com/azure/information-protection/rms-client/clientv2-admin-guide-install">Hướng dẫn quản trị: cài đặt máy khách gắn nhãn thông tin Azure hợp nhất cho người dùng</a>   </li>
-<li>  <a href="https://docs.microsoft.com/azure/information-protection/rms-client/mobile-app-faq">Ứng dụng bảo vệ thông tin Azure cho iOS hoặc Android là gì?</a>  </li>
-</ul>
-<li> Cài đặt và cấu hình của trình kết nối Azure RMS và máy chủ bao gồm cả trình kết nối Active Directory RMS (AD RMS) cho hỗ trợ hỗn hợp.  </li>
-<li> Thiết lập và cấu hình mang khóa của riêng bạn (BYOK), mã hóa phím kép (YKE) (chỉ dành cho máy khách gắn nhãn nhất quán), hoặc giữ phím của riêng bạn (HYOK) (chỉ dành cho khách hàng cổ điển), bạn nên yêu cầu một trong các tùy chọn này cho quá trình triển khai của bạn.  </li>
-  </ul>
-</ul>
-  
+<li> Tạo và quản lý dòng điện tự động hóa.</li>
+<li> Các đường kết nối dữ liệu (ngoài trình kết nối nhân sự). </li>
+<li> Cấu hình biểu thức thông thường tùy chỉnh (RegEx).</li>
+<li> Thiết kế, kiến trúc sư và xem xét tài liệu của bên thứ ba.</li>
+<li> Các rào cản thông tin.</li>
+<li> Quản lý truy nhập đặc quyền.</li>
+<li> Tuân thủ các quy định và yêu cầu của khu vực.</li>
+<li> Thực hiện các hành động cải thiện được đề xuất để đánh giá trong trình quản lý tuân thủ.</li>
+</ul></td>
+<td>Ngoài phần <strong>lõi triển khai</strong> <a href="#general">nói chung</a>, không có các yêu cầu hệ thống tối thiểu.</td>
+</tr>
 </td>
 </tr>
 
@@ -379,6 +448,7 @@ Chúng tôi cũng cung cấp hướng dẫn nếu bạn muốn áp dụng bảo 
 <li>  
   Thiết bị di động (Android và iOS).  
   </li>
+<li> Cơ sở hạ tầng máy tính bàn ảo (VDI) (liên tục hoặc không liên tục).  </li>
 </ul></li>
 <li>  Máy chủ triển khai và cấu hình:
 <ul>
@@ -418,13 +488,24 @@ Chúng tôi cũng cung cấp hướng dẫn nếu bạn muốn áp dụng bảo 
 <li>  
   Điều khiển ứng dụng.  
   </li>
+<li> Điều khiển thiết bị.</li>
 <li>  
   Khai thác bảo vệ.  
   </li>
 <li>  
   Tường lửa mạng.  
   </li>
+
+
+
 </ul></li>
+<li> Cấu hình hoặc quản lý các tính năng bảo vệ tài khoản như sau: </li>
+<ul>
+
+<li> Windows Xin chào</li>
+<li> Bảo vệ chứng danh</li>
+</ul>
+<li> Cấu hình hoặc quản lý BitLocker.</li>
 <li>  Đăng ký hoặc cấu hình của chuyên gia đe dọa Microsoft.  </li>
 <li>  Cấu hình hoặc đào tạo duyệt lại API hoặc thông tin bảo mật và quản lý sự kiện (SIEM).  </li>
 <li>  Đăng ký hoặc cấu hình của Microsoft Threat Protection (MTP).  </li>
@@ -512,24 +593,40 @@ Liên hệ với một <a href="https://go.microsoft.com/fwlink/?linkid=2080150"
 
 <tr class="even">
 <td><strong>Quản trị thông tin Microsoft</strong></td>
+
 <td>  Chúng tôi cung cấp hướng dẫn từ xa cho:
 <ul>
-<li>  Các nhãn và chính sách duy trì.  </li>
-<li>  Quản lý bản ghi.  </li>
-<li>  Xóa chính sách.  </li>
-<li>  Tuân thủ liên lạc.  </li>
-<li>  Quản lý rủi ro người dùng nội bộ.  </li>
-<li>  Khám phá điện tử nâng cao.  </li>
+<li>  Tạo và phát hành các nhãn và chính sách duy trì (chỉ được hỗ trợ trong E5).  
+</li>
+<li>  Quản lý bản ghi (chỉ được hỗ trợ trong E5).  </li>
+<ul><li>  Xem lại việc tạo lên kế hoạch tệp. </li>
+<li>  Tạo và quản lý bản ghi (bao gồm các bản ghi dựa trên sự kiện).  </li>
+<li>  Đang xem lại bố trí. </ul> </li>
+</ul>
+
+<strong> Trình quản lý tuân thủ</strong>
+
+Chúng tôi cung cấp hướng dẫn từ xa cho:  
+
+<ul> <li>Xem lại các kiểu vai trò.  </li>
+<li> Thêm và cấu hình Các đánh giá.</li>
+<li> Đánh giá việc tuân thủ bằng việc thực hiện hành động cải thiện và xác định cách thức làm ảnh hưởng đến điểm tuân thủ của bạn.</li>
+<li> Xem lại ánh xạ điều khiển được dựng sẵn và đánh giá các điều khiển.</li>
+<li> Tạo một báo cáo trong một đánh giá.</li>
 </ul>
 
   <strong>Sau đây là phạm vi </strong>  
 <ul>
 <li> Phát triển một kế hoạch tệp quản lý bản ghi.</li>
 <li> Kết nối dữ liệu.</li>
-<li> Các rào cản thông tin.</li>
-<li> Quản lý truy nhập đặc quyền.</li>
 <li> Phát triển kiến trúc thông tin trong SharePoint.</li>
 <li> Kịch bản tùy chỉnh và mã hóa.</li>
+<li> Thiết kế, kiến trúc sư và xem xét tài liệu của bên thứ ba.</li>
+<li> Hỗ trợ E3.</li>
+<li> Tuân thủ các quy định và yêu cầu của khu vực.</li>
+<li> Thực hiện các hành động cải thiện được đề xuất để đánh giá trong trình quản lý tuân thủ.</li>
+</ul>
+
 </td>
 <td>Ngoài phần <strong>lõi triển khai</strong> <a href="#general">nói chung</a>, không có các yêu cầu hệ thống tối thiểu.</td>
 </tr>
@@ -537,17 +634,41 @@ Liên hệ với một <a href="https://go.microsoft.com/fwlink/?linkid=2080150"
 <td><strong>Bảo vệ thông tin của Microsoft</strong></td>
 <td>  Chúng tôi cung cấp hướng dẫn từ xa cho:
 <ul>
-<li>  Phân loại dữ liệu.  </li>
-<li>  Các kiểu thông tin nhạy cảm.  </li>
-<li>  Tạo nhãn nhạy cảm.  </li>
-<li>  Áp dụng nhãn nhạy cảm.  </li>
-<li>  Ghi nhãn hợp nhất.  </li>
-<li>  Trainable classifiers.  </li>
-<li>  Biết dữ liệu của bạn với nội dung Explorer và hoạt động Explorer.  </li>
-<li>  Phát hành nhãn bằng chính sách (thủ công và tự động).  </li>
-<li>  Tạo các chính sách ngăn ngừa mất dữ liệu cho các cuộc trò chuyện và kênh của Microsoft.  </li>
-<li>  Tạo chính sách điểm cuối cho các thiết bị chạy Windows 10.  </li>
+<li>  Phân loại dữ liệu (được hỗ trợ trong E3 và E5).  </li>
+<li>  Các kiểu thông tin nhạy cảm (được hỗ trợ trong E3 và E5).  </li>
+<li>  Tạo nhãn nhạy cảm (được hỗ trợ trong E3 và E5).  </li>
+<li>  Áp dụng nhãn nhạy cảm (được hỗ trợ trong E3 và E5).  </li>
+<li>  Trainable classifiers (được hỗ trợ trong E5).  </li>
+<li>  Biết dữ liệu của bạn với nội dung Explorer và hoạt động Explorer (được hỗ trợ trong E5).  </li>
+<li>  Phát hành nhãn bằng chính sách (thủ công và tự động) (được hỗ trợ trong E5).  </li>
+<li>  Tạo các chính sách ngăn ngừa mất dữ liệu cho các thiết bị chạy Windows 10 (được hỗ trợ trong E5).  </li>
+<li>  Tạo chính sách cho các cuộc trò chuyện và kênh Microsoft nhóm.  </li>
 </ul>
+
+<strong> Trình quản lý tuân thủ</strong>
+
+Chúng tôi cung cấp hướng dẫn từ xa cho:  
+
+<ul> <li>Xem lại các kiểu vai trò.  </li>
+<li> Thêm và cấu hình Các đánh giá.</li>
+<li> Đánh giá việc tuân thủ bằng việc thực hiện hành động cải thiện và xác định cách thức làm ảnh hưởng đến điểm tuân thủ của bạn.</li>
+<li> Xem lại ánh xạ điều khiển được dựng sẵn và đánh giá các điều khiển.</li>
+<li> Tạo một báo cáo trong một đánh giá.</li>
+</ul>
+
+<strong> Bảo vệ thông tin Azure</strong>
+
+Chúng tôi cung cấp hướng dẫn từ xa cho:  
+<ul>
+<li>  Kích hoạt và cấu hình đối tượng thuê của bạn.  </li>
+<li>  Tạo và thiết lập nhãn và chính sách (được hỗ trợ trong P1 và P2).  </li>
+<li>  Áp dụng bảo vệ thông tin cho tài liệu (được hỗ trợ trong P1 và P2).  </li>
+<li>  Tự động phân loại và ghi nhãn thông tin trong các ứng dụng Office (chẳng hạn như Word, PowerPoint, Excel và Outlook) đang chạy trên Windows và sử dụng máy khách bảo vệ thông tin Azure (được hỗ trợ trong P2).  </li>
+<li>  Phát hiện và ghi nhãn tệp tại phần còn lại bằng cách dùng máy quét bảo vệ thông tin Azure (được hỗ trợ trong P1 và P2).  </li>
+<li>  Giám sát email trong quá cảnh bằng quy tắc dòng thư Exchange Online.  </li>
+</ul>
+
+  Chúng tôi cũng cung cấp hướng dẫn nếu bạn muốn áp dụng bảo vệ bằng cách sử dụng dịch vụ quản lý quyền Microsoft Azure (Azure RMS), mã hóa thư Office 365 (OME), và ngăn chặn mất dữ liệu ().
 
 <strong>Sau đây là phạm vi </strong>  
 <ul>
@@ -555,12 +676,37 @@ Liên hệ với một <a href="https://go.microsoft.com/fwlink/?linkid=2080150"
 <li>Phát triển biểu thức thông thường tùy chỉnh cho các kiểu thông tin nhạy cảm.</li>
 <li>Tạo hoặc sửa đổi từ điển từ khóa.</li>
 <li>Kịch bản tùy chỉnh và mã hóa.</li>
+<li> Azure purview.</li>
+<li> Thiết kế, kiến trúc sư và xem xét tài liệu của bên thứ ba.</li>
+<li> Tuân thủ các quy định và yêu cầu của khu vực.</li>
+<li> Thực hiện các hành động cải thiện được đề xuất để đánh giá trong trình quản lý tuân thủ.</li>
 </ul>
-<strong>Lưu ý:</strong> Để biết thêm thông tin, hãy xem mục <strong> bảo vệ thông tin Azure </strong> trong <a href="#enterprise-mobility--security">doanh nghiệp Mobility + Security</a>.
+
 <ul>
 
 </td>
-<td>Ngoài phần <strong>lõi triển khai</strong> <a href="#general">nói chung</a>, không có các yêu cầu hệ thống tối thiểu.</td>
+<td>Ngoài phần <strong>lõi triển khai</strong> <a href="#general">nói chung</a>, không có các yêu cầu hệ thống tối thiểu nào với ngoại lệ của Azure Information Protection.
+
+<strong>Bảo vệ thông tin Azure</strong>
+
+Trách nhiệm điều kiện khách hàng bao gồm:  
+<ul>
+<li>  Danh sách các vị trí chia sẻ tệp sẽ được quét.  </li>
+<li>  Phân loại phân loại được phê duyệt. </li>
+<li> Hiểu về bất kỳ giới hạn hoặc yêu cầu nào về quy định về quản lý khóa.  </li>
+<li>  Tài khoản Dịch vụ được tạo cho Active Directory tại chỗ của bạn đã được đồng bộ hóa với Azure AD. </li>
+<li>  Các nhãn được đặt cấu hình cho phân loại và bảo vệ. </li>
+<li> Tất cả các điều kiện tiên quyết cho máy quét bảo vệ thông tin Azure được đặt ra. Để biết thêm thông tin, hãy xem <a href="https://docs.microsoft.com/azure/information-protection/deploy-aip-scanner-prereqs">điều kiện tiên quyết để cài đặt và triển khai máy quét ghi nhãn thông tin Azure hợp nhất</a>. </li>
+<li>  Đảm bảo các thiết bị người dùng đang chạy hệ điều hành được hỗ trợ và có các điều kiện tiên quyết cần thiết được cài đặt. Xem các chi tiết sau đây để biết thêm chi tiết.</li>
+<ul>
+<li> <a href="https://docs.microsoft.com/azure/information-protection/rms-client/clientv2-admin-guide-install">Hướng dẫn quản trị: cài đặt máy khách gắn nhãn thông tin Azure hợp nhất cho người dùng</a>   </li>
+<li>  <a href="https://docs.microsoft.com/azure/information-protection/rms-client/mobile-app-faq">Ứng dụng bảo vệ thông tin Azure cho iOS hoặc Android là gì?</a>  </li>
+</ul>
+<li> Cài đặt và cấu hình của trình kết nối Azure RMS và máy chủ bao gồm cả trình kết nối Active Directory RMS (AD RMS) cho hỗ trợ hỗn hợp.  </li>
+<li> Thiết lập và cấu hình mang khóa của riêng bạn (BYOK), mã hóa phím kép (YKE) (chỉ dành cho máy khách gắn nhãn nhất quán), hoặc giữ phím của riêng bạn (HYOK) (chỉ dành cho khách hàng cổ điển), bạn nên yêu cầu một trong các tùy chọn này cho quá trình triển khai của bạn.  </li>
+  </ul>
+</ul>
+</td>
 </tr>
 
 </td>
@@ -667,7 +813,7 @@ Liên hệ với một <a href="https://go.microsoft.com/fwlink/?linkid=2080150"
 
 ## <a name="office-365"></a>Office 365
 
-<<table>
+<table>
 <thead>
 <tr class="header">
 <th><strong>Service</strong></th>
@@ -710,22 +856,38 @@ Phần mềm máy khách trực tuyến như Project for Office 365, Outlook for
 <td><strong>Quản trị thông tin Microsoft</strong></td>
 <td>  Chúng tôi cung cấp hướng dẫn từ xa cho:
 <ul>
-<li>  Các nhãn và chính sách duy trì.  </li>
-<li>  Quản lý bản ghi.  </li>
-<li>  Xóa chính sách.  </li>
-<li>  Tuân thủ liên lạc.  </li>
-<li>  Quản lý rủi ro người dùng nội bộ.  </li>
-<li>  Khám phá điện tử nâng cao.  </li>
+<li>  Tạo và phát hành các nhãn và chính sách duy trì (chỉ được hỗ trợ trong E5).  
+</li>
+<li>  Quản lý bản ghi (chỉ được hỗ trợ trong E5).  </li>
+<ul><li>  Xem lại việc tạo lên kế hoạch tệp. </li>
+<li>  Tạo và quản lý bản ghi (bao gồm các bản ghi dựa trên sự kiện).  </li>
+<li>  Đang xem lại bố trí. </ul> </li>
+</ul>
+
+<strong> Trình quản lý tuân thủ</strong>
+
+Chúng tôi cung cấp hướng dẫn từ xa cho:  
+
+<ul> <li>Xem lại các kiểu vai trò.  </li>
+<li> Thêm và cấu hình Các đánh giá.</li>
+<li> Đánh giá việc tuân thủ bằng việc thực hiện hành động cải thiện và xác định cách thức làm ảnh hưởng đến điểm tuân thủ của bạn.</li>
+<li> Xem lại ánh xạ điều khiển được dựng sẵn và đánh giá các điều khiển.</li>
+<li> Tạo một báo cáo trong một đánh giá.</li>
 </ul>
 
   <strong>Sau đây là phạm vi </strong>  
 <ul>
 <li> Phát triển một kế hoạch tệp quản lý bản ghi.</li>
 <li> Kết nối dữ liệu.</li>
-<li> Các rào cản thông tin.</li>
-<li> Quản lý truy nhập đặc quyền.</li>
 <li> Phát triển kiến trúc thông tin trong SharePoint.</li>
 <li> Kịch bản tùy chỉnh và mã hóa.</li>
+<li> Thiết kế, kiến trúc sư và xem xét tài liệu của bên thứ ba.</li>
+<li> Hỗ trợ E3.</li>
+<li> Tuân thủ các quy định và yêu cầu của khu vực.</li>
+<li> Thực hiện các hành động cải thiện được đề xuất để đánh giá trong trình quản lý tuân thủ.</li>
+</ul>
+
+
 </td>
 <td>Ngoài phần <strong>lõi triển khai</strong> <a href="#general">nói chung</a>, không có các yêu cầu hệ thống tối thiểu.</td>
 </tr>
@@ -733,17 +895,41 @@ Phần mềm máy khách trực tuyến như Project for Office 365, Outlook for
 <td><strong>Bảo vệ thông tin của Microsoft</strong></td>
 <td>  Chúng tôi cung cấp hướng dẫn từ xa cho:
 <ul>
-<li>  Phân loại dữ liệu.  </li>
-<li>  Các kiểu thông tin nhạy cảm.  </li>
-<li>  Tạo nhãn nhạy cảm.  </li>
-<li>  Áp dụng nhãn nhạy cảm.  </li>
-<li>  Ghi nhãn hợp nhất.  </li>
-<li>  Trainable classifiers.  </li>
-<li>  Biết dữ liệu của bạn với nội dung Explorer và hoạt động Explorer.  </li>
-<li>  Phát hành nhãn bằng chính sách (thủ công và tự động).  </li>
-<li>  Tạo các chính sách ngăn ngừa mất dữ liệu cho các cuộc trò chuyện và kênh của Microsoft.  </li>
-<li>  Tạo chính sách điểm cuối cho các thiết bị chạy Windows 10.  </li>
+<li>  Phân loại dữ liệu (được hỗ trợ trong E3 và E5).  </li>
+<li>  Các kiểu thông tin nhạy cảm (được hỗ trợ trong E3 và E5).  </li>
+<li>  Tạo nhãn nhạy cảm (được hỗ trợ trong E3 và E5).  </li>
+<li>  Áp dụng nhãn nhạy cảm (được hỗ trợ trong E3 và E5).  </li>
+<li>  Trainable classifiers (được hỗ trợ trong E5).  </li>
+<li>  Biết dữ liệu của bạn với nội dung Explorer và hoạt động Explorer (được hỗ trợ trong E5).  </li>
+<li>  Phát hành nhãn bằng chính sách (thủ công và tự động) (được hỗ trợ trong E5).  </li>
+<li>  Tạo các chính sách ngăn ngừa mất dữ liệu cho các thiết bị chạy Windows 10 (được hỗ trợ trong E5).  </li>
+<li>  Tạo chính sách cho các cuộc trò chuyện và kênh Microsoft nhóm.  </li>
 </ul>
+
+<strong> Trình quản lý tuân thủ</strong>
+
+Chúng tôi cung cấp hướng dẫn từ xa cho:  
+
+<ul> <li>Xem lại các kiểu vai trò.  </li>
+<li> Thêm và cấu hình Các đánh giá.</li>
+<li> Đánh giá việc tuân thủ bằng việc thực hiện hành động cải thiện và xác định cách thức làm ảnh hưởng đến điểm tuân thủ của bạn.</li>
+<li> Xem lại ánh xạ điều khiển được dựng sẵn và đánh giá các điều khiển.</li>
+<li> Tạo một báo cáo trong một đánh giá.</li>
+</ul>
+
+<strong> Bảo vệ thông tin Azure</strong>
+
+Chúng tôi cung cấp hướng dẫn từ xa cho:  
+<ul>
+<li>  Kích hoạt và cấu hình đối tượng thuê của bạn.  </li>
+<li>  Tạo và thiết lập nhãn và chính sách (được hỗ trợ trong P1 và P2).  </li>
+<li>  Áp dụng bảo vệ thông tin cho tài liệu (được hỗ trợ trong P1 và P2).  </li>
+<li>  Tự động phân loại và ghi nhãn thông tin trong các ứng dụng Office (chẳng hạn như Word, PowerPoint, Excel và Outlook) đang chạy trên Windows và sử dụng máy khách bảo vệ thông tin Azure (được hỗ trợ trong P2).  </li>
+<li>  Phát hiện và ghi nhãn tệp tại phần còn lại bằng cách dùng máy quét bảo vệ thông tin Azure (được hỗ trợ trong P1 và P2).  </li>
+<li>  Giám sát email trong quá cảnh bằng quy tắc dòng thư Exchange Online.  </li>
+</ul>
+  
+Chúng tôi cũng cung cấp hướng dẫn nếu bạn muốn áp dụng bảo vệ bằng cách sử dụng dịch vụ quản lý quyền Microsoft Azure (Azure RMS), mã hóa thư Office 365 (OME), và ngăn chặn mất dữ liệu ().
 
 <strong>Sau đây là phạm vi </strong>  
 <ul>
@@ -751,12 +937,36 @@ Phần mềm máy khách trực tuyến như Project for Office 365, Outlook for
 <li>Phát triển biểu thức thông thường tùy chỉnh cho các kiểu thông tin nhạy cảm.</li>
 <li>Tạo hoặc sửa đổi từ điển từ khóa.</li>
 <li>Kịch bản tùy chỉnh và mã hóa.</li>
+<li> Azure purview.</li>
+<li> Thiết kế, kiến trúc sư và xem xét tài liệu của bên thứ ba.</li>
+<li> Tuân thủ các quy định và yêu cầu của khu vực.</li>
+<li> Thực hiện các hành động cải thiện được đề xuất để đánh giá trong trình quản lý tuân thủ.</li>
 </ul>
-<strong>Lưu ý:</strong> Để biết thêm thông tin, hãy xem mục <strong> bảo vệ thông tin Azure </strong> trong <a href="#enterprise-mobility--security">doanh nghiệp Mobility + Security</a>.
-<ul>
 
 </td>
-<td>Ngoài phần <strong>lõi triển khai</strong> <a href="#general">nói chung</a>, không có các yêu cầu hệ thống tối thiểu.</td>
+<td>Ngoài phần <strong>lõi triển khai</strong> <a href="#general">nói chung</a>, không có các yêu cầu hệ thống tối thiểu nào với ngoại lệ của Azure Information Protection.
+
+<strong>Bảo vệ thông tin Azure</strong>
+
+Trách nhiệm điều kiện khách hàng bao gồm:  
+<ul>
+<li>  Danh sách các vị trí chia sẻ tệp sẽ được quét.  </li>
+<li>  Phân loại phân loại được phê duyệt. </li>
+<li> Hiểu về bất kỳ giới hạn hoặc yêu cầu nào về quy định về quản lý khóa.  </li>
+<li>  Tài khoản Dịch vụ được tạo cho Active Directory tại chỗ của bạn đã được đồng bộ hóa với Azure AD. </li>
+<li>  Các nhãn được đặt cấu hình cho phân loại và bảo vệ. </li>
+<li> Tất cả các điều kiện tiên quyết cho máy quét bảo vệ thông tin Azure được đặt ra. Để biết thêm thông tin, hãy xem <a href="https://docs.microsoft.com/azure/information-protection/deploy-aip-scanner-prereqs">điều kiện tiên quyết để cài đặt và triển khai máy quét ghi nhãn thông tin Azure hợp nhất</a>. </li>
+<li>  Đảm bảo các thiết bị người dùng đang chạy hệ điều hành được hỗ trợ và có các điều kiện tiên quyết cần thiết được cài đặt. Xem các chi tiết sau đây để biết thêm chi tiết.</li>
+<ul>
+<li> <a href="https://docs.microsoft.com/azure/information-protection/rms-client/clientv2-admin-guide-install">Hướng dẫn quản trị: cài đặt máy khách gắn nhãn thông tin Azure hợp nhất cho người dùng</a>   </li>
+<li>  <a href="https://docs.microsoft.com/azure/information-protection/rms-client/mobile-app-faq">Ứng dụng bảo vệ thông tin Azure cho iOS hoặc Android là gì?</a>  </li>
+</ul>
+<li> Cài đặt và cấu hình của trình kết nối Azure RMS và máy chủ bao gồm cả trình kết nối Active Directory RMS (AD RMS) cho hỗ trợ hỗn hợp.  </li>
+<li> Thiết lập và cấu hình mang khóa của riêng bạn (BYOK), mã hóa phím kép (YKE) (chỉ dành cho máy khách gắn nhãn nhất quán), hoặc giữ phím của riêng bạn (HYOK) (chỉ dành cho khách hàng cổ điển), bạn nên yêu cầu một trong các tùy chọn này cho quá trình triển khai của bạn.  </li>
+  </ul>
+</ul>.
+
+</td>
 </tr>
 <tr class="even">
 <td><strong>Microsoft Teams</strong></td>
@@ -995,33 +1205,8 @@ Chúng tôi cung cấp hướng dẫn từ xa để cho phép Dịch vụ yammer
 </tr>
 <tr class="odd">
 <td><strong>Bảo vệ thông tin Azure </strong></td>
-<td>  Chúng tôi cung cấp hướng dẫn từ xa cho:
-<ul>
-<li>  Kích hoạt và cấu hình đối tượng thuê của bạn.  </li>
-<li>  Tạo và thiết lập nhãn và chính sách.  </li>
-<li>  Áp dụng bảo vệ thông tin cho tài liệu.  </li>
-<li>  Tự động phân loại và ghi nhãn thông tin trong các ứng dụng Office (chẳng hạn như Word, PowerPoint, Excel và Outlook) đang chạy trên Windows và sử dụng máy khách bảo vệ thông tin Azure.  </li>
-<li>  Phát hiện và ghi nhãn tệp tại phần còn lại bằng cách dùng máy quét bảo vệ thông tin Azure.  </li>
-<li>  Giám sát email trong quá cảnh bằng quy tắc dòng thư Exchange Online.  </li>
-</ul>
-Chúng tôi cũng cung cấp hướng dẫn nếu bạn muốn áp dụng bảo vệ bằng cách sử dụng dịch vụ quản lý quyền Microsoft Azure (Azure RMS), mã hóa thư Office 365 (OME), và ngăn chặn mất dữ liệu ().  </td>
-<td>  Trách nhiệm điều kiện khách hàng bao gồm:
-<ul>
-<li>  Danh sách các vị trí chia sẻ tệp sẽ được quét.  </li>
-<li>  Phân loại phân loại được phê duyệt. </li>
-<li> Hiểu về bất kỳ giới hạn hoặc yêu cầu nào về quy định về quản lý khóa.  </li>
-<li>  Tài khoản Dịch vụ được tạo cho Active Directory tại chỗ của bạn đã được đồng bộ hóa với Azure AD. </li>
-<li>  Các nhãn được đặt cấu hình cho phân loại và bảo vệ. </li>
-<li> Tất cả các điều kiện tiên quyết cho máy quét bảo vệ thông tin Azure được đặt ra. Để biết thêm thông tin, hãy xem <a href="https://docs.microsoft.com/azure/information-protection/deploy-aip-scanner-prereqs">điều kiện tiên quyết để cài đặt và triển khai máy quét ghi nhãn thông tin Azure hợp nhất</a>. </li>
-<li>  Đảm bảo các thiết bị người dùng đang chạy hệ điều hành được hỗ trợ và có các điều kiện tiên quyết cần thiết được cài đặt. Xem các chi tiết sau đây để biết thêm chi tiết.</li>
-<ul>
-<li> <a href="https://docs.microsoft.com/azure/information-protection/rms-client/clientv2-admin-guide-install">Hướng dẫn quản trị: cài đặt máy khách gắn nhãn thông tin Azure hợp nhất cho người dùng</a>   </li>
-<li>  <a href="https://docs.microsoft.com/azure/information-protection/rms-client/mobile-app-faq">Ứng dụng bảo vệ thông tin Azure cho iOS hoặc Android là gì?</a>  </li>
-</ul>
-<li> Cài đặt và cấu hình của trình kết nối Azure RMS và máy chủ bao gồm cả trình kết nối Active Directory RMS (AD RMS) cho hỗ trợ hỗn hợp.  </li>
-<li> Thiết lập và cấu hình mang khóa của riêng bạn (BYOK), mã hóa phím kép (YKE) (chỉ dành cho máy khách gắn nhãn nhất quán), hoặc giữ phím của riêng bạn (HYOK) (chỉ dành cho khách hàng cổ điển), bạn nên yêu cầu một trong các tùy chọn này cho quá trình triển khai của bạn.  </li>
-  </ul>
-</ul>
+<td>  Để biết thêm thông tin về việc bảo vệ thông tin Azure, hãy xem mục <strong>bảo vệ thông tin của Microsoft</strong> trong <a href="https://docs.microsoft.com/fasttrack/products-and-capabilities#security-and-compliance"> bảo mật và tuân thủ.  </td>
+<td>  
   
 </td>
 </tr>
@@ -1248,6 +1433,7 @@ Liên hệ với một <a href="https://go.microsoft.com/fwlink/?linkid=2080150"
 <li>  
   Thiết bị di động (Android và iOS).  
   </li>
+<li> Cơ sở hạ tầng máy tính bàn ảo (VDI) (liên tục hoặc không liên tục).  </li>
 </ul></li>
 <li>  Máy chủ triển khai và cấu hình:
 <ul>
@@ -1287,13 +1473,21 @@ Liên hệ với một <a href="https://go.microsoft.com/fwlink/?linkid=2080150"
 <li>  
   Điều khiển ứng dụng.  
   </li>
+<li> Điều khiển thiết bị.</li>
 <li>  
   Khai thác bảo vệ.  
   </li>
 <li>  
   Tường lửa mạng.  
   </li>
+
+<ul>
+<li> Windows Xin chào</li>
+<li> Bảo vệ chứng danh</li>
+</ul>
+
 </ul></li>
+<li> Cấu hình hoặc quản lý BitLocker.</li>
 <li>  Đăng ký hoặc cấu hình của chuyên gia đe dọa Microsoft.  </li>
 <li>  Cấu hình hoặc đào tạo duyệt lại API hoặc thông tin bảo mật và quản lý sự kiện (SIEM).  </li>
 <li>  Đăng ký hoặc cấu hình của Microsoft Threat Protection (MTP).  </li>
@@ -1490,13 +1684,13 @@ Các ứng dụng đã làm việc trên Windows 7, Office 2010 hoặc phiên b�
 </thead>
 <tbody>
 <tr class="even">
-<td><strong>Microsoft Edge</strong> (dành cho khách hàng Windows 10 Enterprise)</td>
-<td><ul>
-<li>  Chúng tôi cung cấp hướng dẫn triển khai từ xa và trợ giúp tương thích cho: triển khai Microsoft Edge trên Windows 10 Enterprise với Microsoft Endpoint Manager (Microsoft Endpoint Configuration Manager hoặc InTune).  </li>
+<td><strong>Microsoft Edge</strong> </td>
+<td>
+Chúng tôi cung cấp hướng dẫn và trợ giúp về tính tương thích của từ xa cho: <ul> <li>Triển khai Microsoft Edge trên Windows 10 với Microsoft Endpoint Manager (Microsoft Endpoint Configuration Manager hoặc InTune).  </li>
 <li>  Cấu hình Microsoft Edge (sử dụng chính sách nhóm hoặc cấu hình ứng dụng InTune và chính sách ứng dụng).  </li>
-<li>  Kiểm kê danh sách các site có thể yêu cầu dùng trong chế độ Internet Explorer.  </li>
-<li>  Bật chế độ Internet Explorer với danh sách site hiện có của doanh nghiệp.  
-  Ngoài ra, nếu bạn có một ứng dụng web hoặc site hoạt động với Internet Explorer hoặc Google Chrome và bạn trải nghiệm các vấn đề tương thích, chúng tôi cung cấp hướng dẫn để giải quyết sự cố mà không cần phải có thêm chi phí. Xem <a href="https://docs.microsoft.com/fasttrack/products-and-capabilities#app-assure">ứng dụng đảm bảo</a> để biết thêm chi tiết.  </li>
+<li>  Phát minh ra danh sách các site có thể yêu cầu sử dụng trong chế độ Internet Explorer.  </li>
+<li>  Bật chế độ Internet Explorer với danh sách site hiện có của doanh nghiệp. (Để biết thêm thông tin, hãy xem mục <a href="https://docs.microsoft.com/fasttrack/process-and-expectations#engaging-fasttrack">tham gia FastTrack</a>). Ngoài ra, nếu bạn có một ứng dụng web hoặc site hoạt động với Internet Explorer hoặc Google Chrome và bạn trải nghiệm các vấn đề tương thích, chúng tôi cung cấp hướng dẫn để giải quyết sự cố mà không cần phải có thêm chi phí. Để yêu cầu hỗ trợ tương thích cho ứng dụng đảm bảo, hãy đăng nhập vào <a href="https://fasttrack.microsoft.com/portal#/signin">cổng thông tin Fasttrack</a> để bắt đầu một cam kết.  </li>
+<li> Hướng dẫn lập kế hoạch cho các hướng dẫn về việc áp dụng và cấu hình cạnh cho thẻ đánh dấu tìm kiếm.</li>
 </ul>
 
 <strong>Sau đây là phạm vi </strong>  
