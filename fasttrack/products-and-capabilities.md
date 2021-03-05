@@ -10,12 +10,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.collection: FastTrack
 description: Chủ đề này bao gồm chi tiết về các tình huống khối lượng công việc được hỗ trợ bởi FastTrack và các kỳ vọng của môi trường nguồn cần thiết trước khi chúng tôi có thể bắt đầu. Dựa trên thiết lập hiện tại của bạn, chúng tôi làm việc với bạn để tạo một kế hoạch khắc phục sự kiện sẽ giúp môi trường nguồn của bạn lên đến các yêu cầu tối thiểu để onboarding thành công.
-ms.openlocfilehash: 05936adee3f21e6078933a686dfa8dc24c33d1be
-ms.sourcegitcommit: cf630a48697177b9cce6c0fbc67a7e7a0b752167
+ms.openlocfilehash: e49ada61aee869785f061bbebbee4ae14aaee045
+ms.sourcegitcommit: 895a8b9df9a7cd26e27e95e5fd3145e7306c78e8
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 03/03/2021
-ms.locfileid: "50416571"
+ms.lasthandoff: 03/05/2021
+ms.locfileid: "50464214"
 ---
 # <a name="products-and-capabilities"></a>Các sản phẩm và chức năng
 
@@ -208,7 +208,7 @@ Chúng tôi cung cấp hướng dẫn từ xa cho:
 
 <strong>Kiểm toán nâng cao</strong> (chỉ được hỗ trợ trong E5)
 
-Chúng tôi cung cấp hướng dẫn từ xa cho: 
+Chúng tôi cung cấp hướng dẫn từ xa cho:  
 <ul>
 <li> Bật kiểm tra nâng cao.</li>
 <li> Thực hiện một giao diện người dùng Nhật ký kiểm tra tìm kiếm và các lệnh PowerShell kiểm tra cơ bản.</li>
