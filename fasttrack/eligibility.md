@@ -3,19 +3,19 @@ title: Tính đủ điều kiện
 ms.author: v-bermic
 author: rberg-steyer
 manager: jimmuir
-ms.date: 2/24/2021
+ms.date: 3/24/2021
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: Normal
 ms.collection: FastTrack
 description: Trong chủ đề này, chúng tôi dàn bài các yêu cầu đủ điều kiện để nhận hỗ trợ từ xa, có hướng dẫn từ các chuyên gia FastTrack bao gồm trong mua giấy phép Microsoft 365 và thông tin chi tiết các sản phẩm và chức năng cụ thể được bảo vệ.
-ms.openlocfilehash: 095d3630431265e7f584388b21614e071ea8711c
-ms.sourcegitcommit: cf630a48697177b9cce6c0fbc67a7e7a0b752167
+ms.openlocfilehash: 50f7dcc063285aae352b91595e1e79763a19cf3f
+ms.sourcegitcommit: 31d2c36fd00f47330dc2c90a646f8ce8a9687e1d
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 03/03/2021
-ms.locfileid: "50416431"
+ms.lasthandoff: 03/24/2021
+ms.locfileid: "51187991"
 ---
 # <a name="eligibility"></a>Tính đủ điều kiện
 
@@ -37,14 +37,14 @@ Các chuyên gia FastTrack có thể cung cấp cho bạn trợ giúp từ xa, c
 
   - Bảo vệ Microsoft 365
   - Bảo mật ứng dụng đám mây Microsoft
-  - Bảo vệ chống mối đe dọa nâng cao của Microsoft Defender (ATP)
+  - Microsoft Defender cho điểm cuối
   - Microsoft Defender cho định danh 
+  - Microsoft Defender cho Office 365
   - Microsoft Edge
   - Quản trị thông tin Microsoft
   - Bảo vệ thông tin của Microsoft
   - Microsoft InTune
   - Microsoft Teams
-  - Bảo vệ mối đe dọa nâng cao của Office 365 (ATP)
   - OneDrive for Business
   - Power BI
   - Dự án trực tuyến
@@ -117,7 +117,7 @@ Bạn phải mua ít nhất là 150 giấy phép cho mỗi đối tượng thuê
   - Exchange Online gói 2
   - Kiosk của Exchange Online
   - Exchange Online Protection
-  - Bảo vệ mối đe dọa nâng cao của Office 365
+  - Microsoft Defender cho Office 365
 
 #### <a name="microsoft-teams"></a>Microsoft Teams
 

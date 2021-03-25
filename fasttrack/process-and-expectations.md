@@ -3,19 +3,19 @@ title: Quy trình và Sự kỳ vọng
 ms.author: v-bermic
 author: rberg-steyer
 manager: jimmuir
-ms.date: 2/24/2021
+ms.date: 3/24/2021
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: Normal
 ms.collection: FastTrack
 description: Trong chủ đề này, chúng tôi bao gồm cách thu hút FastTrack để được hỗ trợ, cách hỗ trợ được cung cấp, gợi ý lời khuyên cho một trải nghiệm thành công và hiểu được trách nhiệm chính của cả FastTrack và công ty của bạn.
-ms.openlocfilehash: 99b21f0fa76cf5c392d47dcb53d78710130327bd
-ms.sourcegitcommit: cf630a48697177b9cce6c0fbc67a7e7a0b752167
+ms.openlocfilehash: f5e734bc51f4f32c65c395df5e62c7003b2f6049
+ms.sourcegitcommit: 31d2c36fd00f47330dc2c90a646f8ce8a9687e1d
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 03/03/2021
-ms.locfileid: "50416595"
+ms.lasthandoff: 03/24/2021
+ms.locfileid: "51187979"
 ---
 # <a name="process-and-expectations"></a>Quy trình và Sự kỳ vọng
 

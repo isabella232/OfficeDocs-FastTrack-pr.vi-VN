@@ -3,18 +3,18 @@ title: Phụ lục A - Thỏa thuận Liên kết Kinh doanh HIPAA của Trung t
 ms.author: v-bermic
 author: rberg-steyer
 manager: jimmuir
-ms.date: 2/24/2021
+ms.date: 3/24/2021
 ms.audience: ITPro
 ms.topic: article
 ms.service: o365-administration
 localization_priority: Normal
 description: 'Nếu bạn có thỏa thuận liên kết HIPAA Business (BAA) với Microsoft for FastTrack Services, tất cả các dịch vụ được liệt kê trong lợi ích Trung tâm FastTrack cho Office 365 được bao gồm trong BAA, ngoại trừ:'
-ms.openlocfilehash: bd014c7d2b982e1d3da8b5d628f9bbc02bcabc0a
-ms.sourcegitcommit: cf630a48697177b9cce6c0fbc67a7e7a0b752167
+ms.openlocfilehash: 05b94dc26fdd0fc6400ced55f6eadf562e38d434
+ms.sourcegitcommit: 31d2c36fd00f47330dc2c90a646f8ce8a9687e1d
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 03/03/2021
-ms.locfileid: "50416526"
+ms.lasthandoff: 03/24/2021
+ms.locfileid: "51188087"
 ---
 # <a name="appendix-a---fasttrack-center-hipaa-business-associate-agreement"></a>Phụ lục A - Thỏa thuận Liên kết Kinh doanh HIPAA của Trung tâm FastTrack
 

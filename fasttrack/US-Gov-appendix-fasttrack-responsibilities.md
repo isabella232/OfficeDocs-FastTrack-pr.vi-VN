@@ -3,19 +3,19 @@ title: Fasttheo dõi trách nhiệm đối với Office 365 US Government
 ms.author: v-bermic
 author: rberg-steyer
 manager: jimmuir
-ms.date: 2/24/2021
+ms.date: 3/24/2021
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: None
 ms.collection: FastTrack
 description: Các chuyên gia FastTrack có các trách nhiệm sau trong onboarding.
-ms.openlocfilehash: d75d5f7c541d0800e82d08f1b060b89bfa82ee88
-ms.sourcegitcommit: cf630a48697177b9cce6c0fbc67a7e7a0b752167
+ms.openlocfilehash: dde74c9880072ad8e5ff6386d09f88967af0ab16
+ms.sourcegitcommit: 31d2c36fd00f47330dc2c90a646f8ce8a9687e1d
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 03/03/2021
-ms.locfileid: "50416548"
+ms.lasthandoff: 03/24/2021
+ms.locfileid: "51188075"
 ---
 # <a name="fasttrack-responsibilities-for-office-365-us-government"></a>Fasttheo dõi trách nhiệm đối với Office 365 US Government
 

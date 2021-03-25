@@ -3,19 +3,19 @@ title: Các sản phẩm và chức năng
 ms.author: v-bermic
 author: rberg-steyer
 manager: jimmuir
-ms.date: 2/24/2021
+ms.date: 3/24/2021
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: Normal
 ms.collection: FastTrack
 description: Chủ đề này bao gồm chi tiết về các tình huống khối lượng công việc được hỗ trợ bởi FastTrack và các kỳ vọng của môi trường nguồn cần thiết trước khi chúng tôi có thể bắt đầu. Dựa trên thiết lập hiện tại của bạn, chúng tôi làm việc với bạn để tạo một kế hoạch khắc phục sự kiện sẽ giúp môi trường nguồn của bạn lên đến các yêu cầu tối thiểu để onboarding thành công.
-ms.openlocfilehash: e49ada61aee869785f061bbebbee4ae14aaee045
-ms.sourcegitcommit: 895a8b9df9a7cd26e27e95e5fd3145e7306c78e8
+ms.openlocfilehash: 2bfca103fd9c58d95d9ba4a750e446a6e93b5719
+ms.sourcegitcommit: 31d2c36fd00f47330dc2c90a646f8ce8a9687e1d
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 03/05/2021
-ms.locfileid: "50464214"
+ms.lasthandoff: 03/24/2021
+ms.locfileid: "51188111"
 ---
 # <a name="products-and-capabilities"></a>Các sản phẩm và chức năng
 
@@ -62,6 +62,7 @@ Chúng tôi cung cấp hướng dẫn từ xa cho:
 <li>Việc chuẩn bị các danh mục Active Directory tại chỗ để đồng bộ hóa với Azure Active Directory (Azure AD) bao gồm cài đặt và cấu hình Azure AD Connect (một hoặc nhiều-rừng) và cấp phép (bao gồm các cấp độ dựa trên nhóm).</li>
 <li>Tạo các danh tính đám mây bao gồm nhập hàng loạt và cấp phép bao gồm sử dụng cấp phép dựa trên nhóm.</li>
 <li>Chọn và bật phương pháp xác thực đúng cho cuộc hành trình đám mây, đồng bộ hóa hash mật khẩu, thông qua xác thực hoặc dịch vụ liên kết Active Directory (AD FS).</li>
+<li> Việc chọn và bật trải nghiệm xác thực thuận tiện hơn cho người dùng của bạn có xác thực passwordless (nhanh chóng nhận dạng trực tuyến (FIDO) 2 hoặc ứng dụng Microsoft Authenticator).</li>
 <li>Bật AD FS cho khách hàng bằng một cụm máy chủ và danh mục Active Directory được đồng bộ hóa với công cụ Azure AD Connect. Điều này yêu cầu Windows Server 2012 R2 Active Directory Federation Services 2,0 hoặc cao hơn.</li>
 <li>Di chuyển xác thực từ AD FS thành Azure AD bằng cách sử dụng đồng bộ hóa hash mật khẩu hoặc thông qua xác thực.</li>
 <li>Di chuyển các ứng dụng được tích hợp sẵn (chẳng hạn như các ứng dụng của Azure AD Gallery-as-a-Service (SaaS) từ AD FS vào Azure AD cho đăng nhập đơn (SSO).</li>
@@ -140,6 +141,7 @@ Chúng tôi cung cấp hướng dẫn từ xa cho:
 <strong>Cơ sở hạ tầng tổ chức bảo mật</strong>  </ul>
 <ul>
 <li>  Cấu hình và bật xác thực mạnh cho các danh tính của bạn, bao gồm việc bảo vệ bằng Azure xác thực đa yếu tố (MFA) (chỉ dành cho điện toán đám mây), ứng dụng Microsoft Authenticator và đăng ký kết hợp cho Azure MFA và đặt lại mật khẩu tự phục vụ (SSPR).  </li>
+<li> Triển khai ứng dụng FIDO2 hoặc Microsoft Authenticator. </li>
 <li>  Đối với khách hàng không phải Azure AD Premium, hướng dẫn được cung cấp để bảo mật danh tính của bạn bằng cách sử dụng mặc định bảo mật.  </li>
 <li>  Đối với khách hàng Azure AD Premium, hướng dẫn được cung cấp để bảo vệ danh tính của bạn với quyền truy nhập có điều kiện.  </li>
 <li>  Phát hiện và ngăn chặn việc sử dụng mật khẩu yếu với bảo vệ bằng mật khẩu Azure AD.  </li>
@@ -194,16 +196,21 @@ Chúng tôi cung cấp hướng dẫn từ xa cho:
   </td>
 <td>  
   <tr class="odd">
-<td><strong>Phản hồi phát hiện &</strong></td>
+<td><strong>Khám phá & trả lời</strong></td>
 <td>  
 
 <strong>Khám phá điện tử nâng cao</strong>
   
+Chúng tôi cung cấp hướng dẫn từ xa cho: 
 <ul>
-<li>  Bật các liên kết an toàn, tệp đính kèm an toàn và chống lừa đảo.  </li>
-<li>  Cấu hình tự động hóa, điều tra và phản hồi.  </li>
-<li>  Sử dụng trình mô phỏng tấn công.  </li>
-<li>  Báo cáo và phân tích mối đe dọa.  </li>
+<li>  Tạo một trường hợp mới.   </li>
+<li>  Đặt giam giữ.  </li>
+<li>  Đang thực hiện tìm kiếm. </li>
+<li>  Thêm kết quả tìm kiếm vào tập hợp xem lại. </li>
+<li>  Đang chạy phân tích trên bộ xem lại.  </li>
+<li>  Xem lại và gắn thẻ tài liệu.  </li>
+<li>  Xuất dữ liệu từ bộ xem lại. </li>
+<li>  Nhập dữ liệu không phải của Office 365. </li>
 </ul>
 
 <strong>Kiểm toán nâng cao</strong> (chỉ được hỗ trợ trong E5)
@@ -242,7 +249,7 @@ Chúng tôi cung cấp hướng dẫn từ xa cho:
 </tr>
 
 <tr class="odd">
-<td><strong>Quản lý mối đe dọa người dùng nội bộ</strong></td>
+<td><strong>Quản lý rủi ro người dùng nội bộ</strong></td>
 
 <td>  Chúng tôi cung cấp hướng dẫn từ xa cho:
 <ul>
@@ -366,8 +373,8 @@ Chúng tôi cung cấp hướng dẫn từ xa cho:
 
 
 <tr class="even">
-<td><strong>Bảo vệ chống mối đe dọa nâng cao của Microsoft Defender (ATP)</strong></td>
-<td>  Microsoft Defender Advanced Threat Protection (ATP) là một nền tảng được thiết kế để giúp ngăn chặn các mạng doanh nghiệp, phát hiện, điều tra và phản hồi các mối đe dọa nâng cao.  
+<td><strong>Microsoft Defender cho điểm cuối</strong></td>
+<td>  Microsoft Defender cho điểm cuối là một nền tảng được thiết kế để giúp các mạng doanh nghiệp ngăn chặn, phát hiện, điều tra và phản hồi các mối đe dọa nâng cao.  
   Chúng tôi cung cấp hướng dẫn từ xa cho:
 <ul>
 <li>  Triển khai công nghệ để bảo vệ điểm cuối của bạn.  </li>
@@ -375,7 +382,7 @@ Chúng tôi cung cấp hướng dẫn từ xa cho:
 <li>  Đánh giá phiên bản hệ điều hành và quản lý thiết bị (bao gồm InTune, trình quản lý cấu hình Microsoft Endpoint, đối tượng chính sách Nhóm (GPOs) và các cấu hình của bên thứ ba cũng như trạng thái của dịch vụ AV bảo vệ Windows hoặc phần mềm bảo mật khác của điểm cuối.  </li>
 <li>  Đánh giá trạng thái của các dịch vụ Windows AV hoặc phần mềm bảo mật điểm cuối khác của bạn.  </li>
 <li>  Đánh giá proxy và tường lửa hạn chế lưu lượng mạng.  </li>
-<li>  Bật dịch vụ ATP của Microsoft Defender bằng cách giải thích cách triển khai hồ sơ đại diện ATP bằng điểm cuối trên máy tính.  </li>
+<li>  Cho phép Microsoft Defender cho dịch vụ điểm cuối bằng cách giải thích cách triển khai một hậu vệ cho hồ sơ đại diện Endpoint bằng điểm cuối trên máy tính.  </li>
 <li>  Hướng dẫn triển khai, hỗ trợ cấu hình và giáo dục về:
 <ul>
 <li>  
@@ -399,7 +406,7 @@ Chúng tôi cung cấp hướng dẫn từ xa cho:
 </ul></li>
 <li>  Xem lại mô phỏng và hướng dẫn (chẳng hạn như kịch bản thực hành, phần mềm độc hại giả và các điều tra tự động).  </li>
 <li>  Tổng quan về các tính năng của báo cáo và phân tích mối đe dọa.  </li>
-<li>  Tích hợp Office 365 ATP với Microsoft Defender ATP.  </li>
+<li>  Tích hợp Microsoft Defender cho Office 365 với Microsoft Defender cho điểm cuối.  </li>
 <li>  Tiến hành walkthroughs của cổng thông tin bảo mật Microsoft Defender.  </li>
 <li>  Các hệ điều hành sau đây:
 <ul>
@@ -434,7 +441,7 @@ Chúng tôi cung cấp hướng dẫn từ xa cho:
 <li>  Quản lý dự án các hoạt động khắc phục của khách hàng.  </li>
 <li>  Hỗ trợ trên site.  </li>
 <li>  Quản lý và trả lời mối đe dọa đang diễn ra.  </li>
-<li>  Onboarding hoặc cấu hình cho các đại diện ATP sau đây của Microsoft Defender:
+<li>  Onboarding hoặc cấu hình cho các đại diện Microsoft sau đây cho điểm cuối:
 <ul>
 <li>  
   Windows Server 2008.  
@@ -590,6 +597,19 @@ Liên hệ với một <a href="https://go.microsoft.com/fwlink/?linkid=2080150"
 </ul>
 </ul></td>
 </tr>
+
+<tr class="odd">
+<td><strong>Microsoft Defender cho Office 365</strong></td>
+<td>  Chúng tôi cung cấp hướng dẫn từ xa cho:
+<ul>
+<li>  Bật các liên kết an toàn, tệp đính kèm an toàn và chống lừa đảo.  </li>
+<li>  Cấu hình tự động hóa, điều tra và phản hồi.  </li>
+<li>  Sử dụng trình mô phỏng tấn công.  </li>
+<li>  Báo cáo và phân tích mối đe dọa.  </li>
+</ul></td>
+<td>Ngoài phần <strong>lõi triển khai</strong> <a href="#general">nói chung</a>, không có các yêu cầu hệ thống tối thiểu.</td>
+</tr>
+
 
 <tr class="even">
 <td><strong>Quản trị thông tin Microsoft</strong></td>
@@ -786,9 +806,9 @@ Trách nhiệm điều kiện khách hàng bao gồm:
  
   <strong>Lưu ý</strong>: lợi ích của dịch vụ fasttrack không bao gồm trợ giúp thiết lập hoặc nâng cấp máy chủ site của trình quản lý cấu hình hoặc máy khách trình quản lý cấu hình đến các yêu cầu tối thiểu cần thiết để hỗ trợ đám mây-đính kèm. Liên hệ với một <a href="https://go.microsoft.com/fwlink/?linkid=2080150">đối tác Microsoft</a> để được trợ giúp về điều này.
 
-  <strong>InTune tích hợp với bảo vệ mối đe dọa nâng cao của Microsoft Defender (ATP)</strong> 
+  <strong>InTune tích hợp với Microsoft Defender cho điểm cuối</strong> 
  
-  <strong>Lưu ý</strong>: chúng tôi cung cấp trợ giúp về việc tích hợp InTune với Microsoft Defender ATP và tạo chính sách tuân thủ thiết bị dựa trên đánh giá mức độ rủi ro Windows 10 của nó. Chúng tôi không cung cấp trợ giúp về việc mua, cấp phép hoặc kích hoạt. Liên hệ với một <a href="https://go.microsoft.com/fwlink/?linkid=2080150">đối tác Microsoft</a> để được trợ giúp về điều này.  
+  <strong>Lưu ý</strong>: chúng tôi cung cấp trợ giúp về việc tích hợp InTune với Microsoft Defender cho điểm cuối và tạo chính sách tuân thủ thiết bị dựa trên đánh giá mức rủi ro Windows 10 của nó. Chúng tôi không cung cấp trợ giúp về việc mua, cấp phép hoặc kích hoạt. Liên hệ với một <a href="https://go.microsoft.com/fwlink/?linkid=2080150">đối tác Microsoft</a> để được trợ giúp về điều này.  
   
 <strong>Windows Autopilot</strong> 
  
@@ -797,17 +817,7 @@ Trách nhiệm điều kiện khách hàng bao gồm:
 </td>
 </tr>
 
-<tr class="odd">
-<td><strong>Bảo vệ mối đe dọa nâng cao của Office 365 (ATP)</strong></td>
-<td>  Chúng tôi cung cấp hướng dẫn từ xa cho:
-<ul>
-<li>  Bật các liên kết an toàn, tệp đính kèm an toàn và chống lừa đảo.  </li>
-<li>  Cấu hình tự động hóa, điều tra và phản hồi.  </li>
-<li>  Sử dụng trình mô phỏng tấn công.  </li>
-<li>  Báo cáo và phân tích mối đe dọa.  </li>
-</ul></td>
-<td>Ngoài phần <strong>lõi triển khai</strong> <a href="#general">nói chung</a>, không có các yêu cầu hệ thống tối thiểu.</td>
-</tr>
+
 </tbody>
 </table>
 
@@ -829,7 +839,7 @@ Trách nhiệm điều kiện khách hàng bao gồm:
 <ul>
 <li>  Thiết lập các tính năng của Exchange Online Protection (EOP) cho tất cả các miền được hỗ trợ thư trong Office 365.  </li>
 <li>  Chỉ định bản ghi thư Exchange (MX) của bạn vào Office 365.  </li>
-<li>  Thiết lập tính năng Office 365 ATP nếu đó là một phần của dịch vụ đăng ký của bạn. Để biết thêm thông tin, hãy xem phần <strong>bảo vệ mối đe dọa nâng cao của Office 365</strong> của bảng này.  </li>
+<li>  Thiết lập tính năng của Microsoft Defender cho Office 365 nếu đó là một phần của dịch vụ đăng ký của bạn. Để biết thêm thông tin, hãy xem phần <strong>Microsoft Defender cho Office 365</strong> của bảng này.  </li>
 <li>  Thiết lập tính năng ngăn ngừa mất dữ liệu (cho tất cả các tên miền được hỗ trợ trong Office 365 như một phần của dịch vụ đăng ký của bạn. Việc này sẽ được thực hiện sau khi các bản ghi MX trỏ đến Office 365.  </li>
 <li>  Thiết lập mã hóa thư Office 365 (OME) cho tất cả các miền hỗ trợ thư được xác nhận trong Office 365 như một phần của dịch vụ đăng ký của bạn. Việc này sẽ được thực hiện sau khi các bản ghi MX trỏ đến Office 365.  </li>
 </ul>
@@ -852,119 +862,28 @@ Trách nhiệm điều kiện khách hàng bao gồm:
 </ul>
 Phần mềm máy khách trực tuyến như Project for Office 365, Outlook for Windows, Outlook for iOS và Android, OneDrive for Business Sync Client, Power BI trên máy tính và Skype for Business phải ở mức tối thiểu như được xác định trong <a href="https://go.microsoft.com/fwlink/?LinkID=723597">yêu cầu hệ thống đối với Microsoft 365 Office</a>.  </td>
 </tr>
+
+<td><strong>Microsoft Defender cho Office 365</strong></td>
+<td>  Để biết thêm thông tin, hãy xem mục <strong>Microsoft Defender cho Office 365</strong> trong <a href="https://docs.microsoft.com/fasttrack/products-and-capabilities#security-and-compliance">bảo mật và tuân thủ</a>.  
+</td>
+<td></td>
+</tr>
+
+
 <tr class="even">
 <td><strong>Quản trị thông tin Microsoft</strong></td>
-<td>  Chúng tôi cung cấp hướng dẫn từ xa cho:
-<ul>
-<li>  Tạo và phát hành các nhãn và chính sách duy trì (chỉ được hỗ trợ trong E5).  
-</li>
-<li>  Quản lý bản ghi (chỉ được hỗ trợ trong E5).  </li>
-<ul><li>  Xem lại việc tạo lên kế hoạch tệp. </li>
-<li>  Tạo và quản lý bản ghi (bao gồm các bản ghi dựa trên sự kiện).  </li>
-<li>  Đang xem lại bố trí. </ul> </li>
-</ul>
-
-<strong> Trình quản lý tuân thủ</strong>
-
-Chúng tôi cung cấp hướng dẫn từ xa cho:  
-
-<ul> <li>Xem lại các kiểu vai trò.  </li>
-<li> Thêm và cấu hình Các đánh giá.</li>
-<li> Đánh giá việc tuân thủ bằng việc thực hiện hành động cải thiện và xác định cách thức làm ảnh hưởng đến điểm tuân thủ của bạn.</li>
-<li> Xem lại ánh xạ điều khiển được dựng sẵn và đánh giá các điều khiển.</li>
-<li> Tạo một báo cáo trong một đánh giá.</li>
-</ul>
-
-  <strong>Sau đây là phạm vi </strong>  
-<ul>
-<li> Phát triển một kế hoạch tệp quản lý bản ghi.</li>
-<li> Kết nối dữ liệu.</li>
-<li> Phát triển kiến trúc thông tin trong SharePoint.</li>
-<li> Kịch bản tùy chỉnh và mã hóa.</li>
-<li> Thiết kế, kiến trúc sư và xem xét tài liệu của bên thứ ba.</li>
-<li> Hỗ trợ E3.</li>
-<li> Tuân thủ các quy định và yêu cầu của khu vực.</li>
-<li> Thực hiện các hành động cải thiện được đề xuất để đánh giá trong trình quản lý tuân thủ.</li>
-</ul>
-
+<td>  Để biết thêm thông tin, hãy xem <strong> quản trị thông tin Microsoft</strong> trong <a href="https://docs.microsoft.com/fasttrack/products-and-capabilities#security-and-compliance">bảo mật và tuân thủ</a>. 
 
 </td>
-<td>Ngoài phần <strong>lõi triển khai</strong> <a href="#general">nói chung</a>, không có các yêu cầu hệ thống tối thiểu.</td>
+<td></td>
 </tr>
 <tr class="odd">
 <td><strong>Bảo vệ thông tin của Microsoft</strong></td>
-<td>  Chúng tôi cung cấp hướng dẫn từ xa cho:
-<ul>
-<li>  Phân loại dữ liệu (được hỗ trợ trong E3 và E5).  </li>
-<li>  Các kiểu thông tin nhạy cảm (được hỗ trợ trong E3 và E5).  </li>
-<li>  Tạo nhãn nhạy cảm (được hỗ trợ trong E3 và E5).  </li>
-<li>  Áp dụng nhãn nhạy cảm (được hỗ trợ trong E3 và E5).  </li>
-<li>  Trainable classifiers (được hỗ trợ trong E5).  </li>
-<li>  Biết dữ liệu của bạn với nội dung Explorer và hoạt động Explorer (được hỗ trợ trong E5).  </li>
-<li>  Phát hành nhãn bằng chính sách (thủ công và tự động) (được hỗ trợ trong E5).  </li>
-<li>  Tạo các chính sách ngăn ngừa mất dữ liệu cho các thiết bị chạy Windows 10 (được hỗ trợ trong E5).  </li>
-<li>  Tạo chính sách cho các cuộc trò chuyện và kênh Microsoft nhóm.  </li>
-</ul>
-
-<strong> Trình quản lý tuân thủ</strong>
-
-Chúng tôi cung cấp hướng dẫn từ xa cho:  
-
-<ul> <li>Xem lại các kiểu vai trò.  </li>
-<li> Thêm và cấu hình Các đánh giá.</li>
-<li> Đánh giá việc tuân thủ bằng việc thực hiện hành động cải thiện và xác định cách thức làm ảnh hưởng đến điểm tuân thủ của bạn.</li>
-<li> Xem lại ánh xạ điều khiển được dựng sẵn và đánh giá các điều khiển.</li>
-<li> Tạo một báo cáo trong một đánh giá.</li>
-</ul>
-
-<strong> Bảo vệ thông tin Azure</strong>
-
-Chúng tôi cung cấp hướng dẫn từ xa cho:  
-<ul>
-<li>  Kích hoạt và cấu hình đối tượng thuê của bạn.  </li>
-<li>  Tạo và thiết lập nhãn và chính sách (được hỗ trợ trong P1 và P2).  </li>
-<li>  Áp dụng bảo vệ thông tin cho tài liệu (được hỗ trợ trong P1 và P2).  </li>
-<li>  Tự động phân loại và ghi nhãn thông tin trong các ứng dụng Office (chẳng hạn như Word, PowerPoint, Excel và Outlook) đang chạy trên Windows và sử dụng máy khách bảo vệ thông tin Azure (được hỗ trợ trong P2).  </li>
-<li>  Phát hiện và ghi nhãn tệp tại phần còn lại bằng cách dùng máy quét bảo vệ thông tin Azure (được hỗ trợ trong P1 và P2).  </li>
-<li>  Giám sát email trong quá cảnh bằng quy tắc dòng thư Exchange Online.  </li>
-</ul>
-  
-Chúng tôi cũng cung cấp hướng dẫn nếu bạn muốn áp dụng bảo vệ bằng cách sử dụng dịch vụ quản lý quyền Microsoft Azure (Azure RMS), mã hóa thư Office 365 (OME), và ngăn chặn mất dữ liệu ().
-
-<strong>Sau đây là phạm vi </strong>  
-<ul>
-<li>Khóa khách hàng.</li>
-<li>Phát triển biểu thức thông thường tùy chỉnh cho các kiểu thông tin nhạy cảm.</li>
-<li>Tạo hoặc sửa đổi từ điển từ khóa.</li>
-<li>Kịch bản tùy chỉnh và mã hóa.</li>
-<li> Azure purview.</li>
-<li> Thiết kế, kiến trúc sư và xem xét tài liệu của bên thứ ba.</li>
-<li> Tuân thủ các quy định và yêu cầu của khu vực.</li>
-<li> Thực hiện các hành động cải thiện được đề xuất để đánh giá trong trình quản lý tuân thủ.</li>
-</ul>
+<td>  
+Để biết thêm thông tin, hãy xem <strong>bảo vệ thông tin của Microsoft </strong> trong <a href="https://docs.microsoft.com/fasttrack/products-and-capabilities#security-and-compliance">bảo mật và tuân thủ</a>.
 
 </td>
-<td>Ngoài phần <strong>lõi triển khai</strong> <a href="#general">nói chung</a>, không có các yêu cầu hệ thống tối thiểu nào với ngoại lệ của Azure Information Protection.
-
-<strong>Bảo vệ thông tin Azure</strong>
-
-Trách nhiệm điều kiện khách hàng bao gồm:  
-<ul>
-<li>  Danh sách các vị trí chia sẻ tệp sẽ được quét.  </li>
-<li>  Phân loại phân loại được phê duyệt. </li>
-<li> Hiểu về bất kỳ giới hạn hoặc yêu cầu nào về quy định về quản lý khóa.  </li>
-<li>  Tài khoản Dịch vụ được tạo cho Active Directory tại chỗ của bạn đã được đồng bộ hóa với Azure AD. </li>
-<li>  Các nhãn được đặt cấu hình cho phân loại và bảo vệ. </li>
-<li> Tất cả các điều kiện tiên quyết cho máy quét bảo vệ thông tin Azure được đặt ra. Để biết thêm thông tin, hãy xem <a href="https://docs.microsoft.com/azure/information-protection/deploy-aip-scanner-prereqs">điều kiện tiên quyết để cài đặt và triển khai máy quét ghi nhãn thông tin Azure hợp nhất</a>. </li>
-<li>  Đảm bảo các thiết bị người dùng đang chạy hệ điều hành được hỗ trợ và có các điều kiện tiên quyết cần thiết được cài đặt. Xem các chi tiết sau đây để biết thêm chi tiết.</li>
-<ul>
-<li> <a href="https://docs.microsoft.com/azure/information-protection/rms-client/clientv2-admin-guide-install">Hướng dẫn quản trị: cài đặt máy khách gắn nhãn thông tin Azure hợp nhất cho người dùng</a>   </li>
-<li>  <a href="https://docs.microsoft.com/azure/information-protection/rms-client/mobile-app-faq">Ứng dụng bảo vệ thông tin Azure cho iOS hoặc Android là gì?</a>  </li>
-</ul>
-<li> Cài đặt và cấu hình của trình kết nối Azure RMS và máy chủ bao gồm cả trình kết nối Active Directory RMS (AD RMS) cho hỗ trợ hỗn hợp.  </li>
-<li> Thiết lập và cấu hình mang khóa của riêng bạn (BYOK), mã hóa phím kép (YKE) (chỉ dành cho máy khách gắn nhãn nhất quán), hoặc giữ phím của riêng bạn (HYOK) (chỉ dành cho khách hàng cổ điển), bạn nên yêu cầu một trong các tùy chọn này cho quá trình triển khai của bạn.  </li>
-  </ul>
-</ul>.
+<td>
 
 </td>
 </tr>
@@ -1032,17 +951,7 @@ Nếu áp dụng, chúng tôi cũng cung cấp hướng dẫn cho:
   <strong>Lưu ý:</strong> Trạng thái lý tưởng dành cho tất cả người dùng có hộp thư của họ được lưu trữ trên Exchange Online. Người dùng có hộp thư được định vị tại chỗ phải có các danh tính của họ được đồng bộ hóa với thư mục Office 365 thông qua Azure AD Connect. Đối với những khách hàng hỗn hợp Exchange này, nếu hộp thư của người dùng tại chỗ, người dùng không thể thêm hoặc cấu hình các đường kết nối.  
   Các bản cài đặt cho máy khách Microsoft nhóm Windows và máy Mac có thể được tải xuống từ đó <a href="https://go.microsoft.com/fwlink/?linkid=839411">https://go.microsoft.com/fwlink/?linkid=839411</a> .  </td>
 </tr>
-<tr class="odd">
-<td><strong>Bảo vệ mối đe dọa nâng cao của Office 365 (ATP)</strong></td>
-<td>  Chúng tôi cung cấp hướng dẫn từ xa cho:
-<ul>
-<li>  Bật các liên kết an toàn, tệp đính kèm an toàn và chống lừa đảo.  </li>
-<li>  Cấu hình tự động hóa, điều tra và phản hồi.  </li>
-<li>  Sử dụng trình mô phỏng tấn công.  </li>
-<li>  Báo cáo và phân tích mối đe dọa.  </li>
-</ul></td>
-<td>Ngoài phần <strong>lõi triển khai</strong> <a href="#general">nói chung</a>, không có các yêu cầu hệ thống tối thiểu.</td>
-</tr>
+
 <tr class="even">
 <td><strong>Outlook for iOS và Android</strong></td>
 <td>  Chúng tôi cung cấp hướng dẫn từ xa cho:
@@ -1128,15 +1037,15 @@ Hướng dẫn bổ sung được cung cấp cho OneDrive for Business tùy thu�
 </tr>
 <tr class="even">
 <td><strong>Yammer Enterprise</strong></td>
-<td><ul>
+<td>
 Chúng tôi cung cấp hướng dẫn từ xa để cho phép Dịch vụ yammer Enterprise.  
-</ul></td>
+</td>
 <td>Phần mềm máy khách trực tuyến phải ở mức tối thiểu như được xác định trong <a href="https://go.microsoft.com/fwlink/?LinkID=723597">yêu cầu hệ thống đối với Microsoft 365 và Office</a>.</td>
 </tr>
 </tbody>
 </table>
 
-## <a name="enterprise-mobility--security"></a>Tính năng di động doanh nghiệp + bảo mật
+## <a name="enterprise-mobility--security"></a>Tính năng di động doanh nghiệp + bảo mật 
 
 <table>
 <thead>
@@ -1149,59 +1058,8 @@ Chúng tôi cung cấp hướng dẫn từ xa để cho phép Dịch vụ yammer
 <tbody>
 <tr class="even">
 <td><strong>Azure Active Directory (Azure AD) và Azure AD Premium</strong></td>
-<td>  Chúng tôi cung cấp hướng dẫn từ xa để bảo vệ danh tính đám mây của bạn cho các kịch bản sau đây.  
-
- <br/>
-
-<strong>Cơ sở hạ tầng tổ chức bảo mật</strong>  </ul>
-<ul>
-<li>  Cấu hình và bật xác thực mạnh cho các danh tính của bạn, bao gồm việc bảo vệ bằng Azure xác thực đa yếu tố (MFA) (chỉ dành cho điện toán đám mây), ứng dụng Microsoft Authenticator và đăng ký kết hợp cho Azure MFA và đặt lại mật khẩu tự phục vụ (SSPR).  </li>
-<li>  Đối với khách hàng không phải Azure AD Premium, hướng dẫn được cung cấp để bảo mật danh tính của bạn bằng cách sử dụng mặc định bảo mật.  </li>
-<li>  Đối với khách hàng Azure AD Premium, hướng dẫn được cung cấp để bảo vệ danh tính của bạn với quyền truy nhập có điều kiện.  </li>
-<li>  Phát hiện và ngăn chặn việc sử dụng mật khẩu yếu với bảo vệ bằng mật khẩu Azure AD.  </li>
-<li>  Việc truy nhập từ xa vào các ứng dụng web tại cơ sở với Azure AD Application proxy.  </li>
-<li>  Cho phép phát hiện và khắc phục dựa trên khả năng bảo vệ căn cước Azure.  </li>
-<li>  Bật màn hình đăng nhập tùy chỉnh, bao gồm Logo, văn bản và hình ảnh với thương hiệu tùy chỉnh.  </li>
-<li>  Các ứng dụng và dịch vụ chia sẻ an toàn với người dùng khách bằng cách sử dụng Azure AD B2B.  </li>
-<li>  Quản lý quyền truy nhập cho người quản trị Office 365 của bạn bằng cách sử dụng các vai trò quản trị dựa trên vai trò (RBAC) được dựng sẵn và giảm số lượng tài khoản quản trị đặc quyền.  </li>
-<li>  Cấu hình kết hợp Azure AD join.  </li>
-<li>  Đặt cấu hình Azure AD join.  </li>
-</ul>
-  
-<strong>Giám sát và báo cáo</strong>  
-<ul>
-<li>  
-  Bật giám sát từ xa cho AD FS, Azure AD Connect và bộ điều khiển tên miền với Azure AD Connect Health.  
-  </li>
-</ul>
-  
-<strong>Nhà</strong>  
-<ul>
-<li>  
-  Quản lý danh tính Azure AD của bạn và vòng đời Access với Thang quản lý lợi quyền Azure AD.
-  </li>
-<li>  
-  Quản lý tư cách thành viên nhóm Azure AD, truy nhập ứng dụng doanh nghiệp và gán vai trò với Azure AD Access.  
-  </li>
-<li>  
-  Xem lại các điều khoản sử dụng của Azure AD.  
-  </li>
-<li>  
-  Quản lý và kiểm soát quyền truy nhập vào các tài khoản quản trị đặc quyền bằng quản lý định danh Azure AD đặc quyền.  
-  </li>
-</ul>
-  
-<strong>Tự động hóa và hiệu quả </strong>  
-<ul>
-<li>  
-  Bật Azure AD SSPR.  
-  </li>
-<li>  Cho phép người dùng tạo và quản lý các nhóm điện toán đám 365 mây riêng của họ với Azure AD self-quản lý nhóm dịch vụ.  </li>
-<li>  Quản lý quyền truy nhập được ủy nhiệm cho các ứng dụng doanh nghiệp với Azure AD được ủy nhiệm quản lý nhóm.  </li>
-<li>  Kích hoạt các nhóm động Azure AD.  </li>
-<li>  Tổ chức các ứng dụng trong cổng thông tin ứng dụng của tôi bằng bộ sưu tập.  </li>
-</ul></td>
-<td>Active Directory tại chỗ và môi trường của nó đã được chuẩn bị sẵn sàng cho Azure AD Premium, bao gồm việc khắc phục các vấn đề đã xác định ngăn chặn việc tích hợp với Azure AD và Azure AD Premium.</td>
+<td>  Để biết thêm thông tin, hãy xem <strong> Azure Active Directory (AZURE AD) và AZURE AD Premium</strong> trong <a href="https://docs.microsoft.com/fasttrack/products-and-capabilities#security-and-compliance">bảo mật và tuân thủ</a>.</td>
+<td></td>
 </tr>
 <tr class="odd">
 <td><strong>Bảo vệ thông tin Azure </strong></td>
@@ -1212,85 +1070,9 @@ Chúng tôi cung cấp hướng dẫn từ xa để cho phép Dịch vụ yammer
 </tr>
 <tr class="even">
 <td><strong>Microsoft InTune</strong></td>
-<td>  Chúng tôi cung cấp hướng dẫn từ xa về việc sẵn sàng để sử dụng InTune là nhà cung cấp dịch vụ thiết bị di động trên nền tảng điện toán đám mây (MDM) và cơ quan quản lý ứng dụng dành cho thiết bị di động (MAM) cho các ứng dụng và thiết bị Các bước chính xác tùy thuộc vào môi trường nguồn của bạn và dựa trên thiết bị di động của bạn và các nhu cầu quản lý ứng dụng di động. Các bước có thể bao gồm:
-<ul>
-<li>  Cấp phép người dùng cuối của bạn.  </li>
-<li>  Cấu hình các định danh được sử dụng bởi InTune bằng cách tận dụng một trong các Active Directory tại chỗ của bạn hoặc danh tính đám mây (Azure AD).  </li>
-<li>  Thêm người dùng vào thuê bao InTune của bạn, xác định vai trò quản trị CNTT và tạo nhóm người dùng và thiết bị.  </li>
-<li>  Đặt cấu hình cơ quan MDM của bạn, dựa trên nhu cầu quản lý của bạn, bao gồm:
-<ul>
-<li>  Thiết đặt InTune làm cơ quan MDM của bạn khi InTune là giải pháp MDM duy nhất của bạn.  </li>
-</ul></li>
-<li>  Cung cấp hướng dẫn MDM cho:
-<ul>
-<li>  Cấu hình các nhóm kiểm tra để được dùng để xác thực các chính sách quản lý MDM.  </li>
-<li>  Cấu hình chính sách và dịch vụ quản lý MDM như:
-<ul>
-<li>  Triển khai ứng dụng cho từng nền tảng được hỗ trợ thông qua các nối kết web hoặc nối kết sâu.  </li>
-<li>  Chính sách truy nhập có điều kiện.  </li>
-<li>  Triển khai email, mạng không dây và hồ sơ VPN nếu bạn có một cơ quan có chứng chỉ hiện có, mạng không dây hoặc cơ sở hạ tầng VPN trong tổ chức của bạn.  </li>
-<li>  Kết nối với kho dữ liệu InTune.  </li>
-<li>  Đang tích hợp InTune với:
-<ul>
-<li>  Trình xem nhóm để được hỗ trợ từ xa (đăng ký trình xem nhóm là bắt buộc).  </li>
-<li>  Các giải pháp đối tác thoại di động Threat Defense (MTD) (một gói đăng ký MTD là bắt buộc).  </li>
-<li>  Một giải pháp quản lý chi phí viễn thông (đăng ký giải pháp quản lý chi phí viễn thông là bắt buộc).  </li>
-</ul></li>
-<li>  Các thiết bị đăng ký của mỗi nền tảng được hỗ trợ để InTune.  </li>
-</ul></li>
-</ul></li>
-<li>  Hướng dẫn về việc bảo vệ ứng dụng về:
-<ul>
-<li>  Cấu hình các chính sách bảo vệ ứng dụng cho từng nền tảng được hỗ trợ.  </li>
-<li>  Cấu hình chính sách truy nhập có điều kiện cho ứng dụng được quản lý.  </li>
-<li>  Nhắm vào các nhóm người dùng phù hợp với các chính sách không được đề cập trước đó.  </li>
-<li>  Sử dụng báo cáo sử dụng ứng dụng được quản lý.  </li>
-</ul></li>
-<li>  Cung cấp hướng dẫn di chuyển từ quản lý PC kế thừa sang InTune MDM.  </li>
-</ul>
-  
-</li>
-</ul>
-  
-<strong>Đám mây-đính kèm</strong>  
-
-  Chúng tôi hướng dẫn bạn đến với việc sẵn sàng cho các môi trường trình quản lý cấu hình hiện có với InTune. Các bước chính xác tùy thuộc vào môi trường nguồn của bạn. Những bước này có thể bao gồm:  
-<ul>
-<li>  Cấp phép người dùng cuối của bạn.  </li>
-<li>  Cấu hình các định danh được sử dụng bởi InTune bằng cách tận dụng Active Directory tại chỗ và danh tính đám mây của bạn.  </li>
-<li>  Thêm người dùng vào thuê bao InTune của bạn, xác định vai trò quản trị CNTT và tạo nhóm người dùng và thiết bị.  </li>
-<li>  Việc cung cấp hướng dẫn thiết lập kết hợp Azure AD join.  </li>
-<li>  Cung cấp hướng dẫn về việc thiết lập Azure AD cho MDM tự động đăng ký.  </li>
-<li>  Cung cấp hướng dẫn về cách thiết lập cổng kết nối quản lý đám mây khi được dùng làm giải pháp để đồng quản lý việc quản lý thiết bị Internet từ xa.  </li>
-<li>  Cấu hình các công việc được hỗ trợ mà bạn muốn chuyển sang InTune.  </li>
-<li>  Cài đặt máy khách trình quản lý cấu hình trên thiết bị đã đăng ký InTune.  </li>
-</ul> 
-
-<strong>Triển khai Outlook Mobile for iOS và Android an toàn</strong> Chúng tôi có thể cung cấp hướng dẫn để giúp bạn triển khai Outlook Mobile for iOS và Android trong tổ chức của bạn để đảm bảo người dùng của bạn đã cài đặt tất cả các ứng dụng được yêu cầu.  
-  Các bước để triển khai an toàn Outlook Mobile cho iOS và Android bằng InTune tùy thuộc vào môi trường nguồn của bạn. Nó có thể bao gồm:
-<ul>
-<li>  Tải xuống Outlook for iOS và Android, Microsoft Authenticator và InTune Company Portal Apps thông qua ứng dụng Apple App Store hoặc Google Play Store.  </li>
-<li>  Hướng dẫn về việc thiết lập:
-<ul>
-<li>  Outlook for iOS và Android, Microsoft Authenticator và InTune Company Portal triển khai ứng dụng với InTune.  </li>
-<li>  Các chính sách bảo vệ ứng dụng.  </li>
-<li>  Chính sách truy nhập có điều kiện.  </li>
-<li>  Các chính sách cấu hình ứng dụng.  </li>
-</ul></li>
-</ul>  
+<td>  Để biết thêm thông tin, hãy xem <strong> Microsoft InTune</strong> trong <a href="https://docs.microsoft.com/fasttrack/products-and-capabilities#security-and-compliance">bảo mật và tuân thủ</a>.
   </td>
-<td>  Người quản trị CNTT cần có cơ quan cấp chứng chỉ hiện có, mạng không dây và hạ tầng VPN đã làm việc trong môi trường sản xuất của họ khi lập kế hoạch triển khai mạng không dây và hồ sơ VPN bằng InTune.  
-  <strong>Lưu ý</strong>: lợi ích Dịch vụ fasttrack không bao gồm trợ giúp thiết lập hoặc cấu hình cơ quan cấp chứng chỉ, mạng không dây, hạ tầng VPN hoặc giấy chứng nhận đẩy táo MDM cho InTune.  
- 
-  <strong>Lưu ý</strong>: lợi ích của dịch vụ fasttrack không bao gồm trợ giúp thiết lập hoặc nâng cấp máy chủ site của trình quản lý cấu hình hoặc máy khách trình quản lý cấu hình đến các yêu cầu tối thiểu cần thiết để hỗ trợ đám mây-đính kèm. Liên hệ với một <a href="https://go.microsoft.com/fwlink/?linkid=2080150">đối tác Microsoft</a> để được trợ giúp về điều này.
-
-  <strong>InTune tích hợp với bảo vệ mối đe dọa nâng cao của Microsoft Defender (ATP)</strong> 
- 
-  <strong>Lưu ý</strong>: chúng tôi cung cấp trợ giúp về việc tích hợp InTune với Microsoft Defender ATP và tạo chính sách tuân thủ thiết bị dựa trên đánh giá mức độ rủi ro Windows 10 của nó. Chúng tôi không cung cấp trợ giúp về việc mua, cấp phép hoặc kích hoạt. Liên hệ với một <a href="https://go.microsoft.com/fwlink/?linkid=2080150">đối tác Microsoft</a> để được trợ giúp về điều này.  
-  
-<strong>Windows Autopilot</strong> 
- 
-  Người quản trị CNTT chịu trách nhiệm đăng ký thiết bị của họ với tổ chức của họ bằng cách có nhà cung cấp phần cứng tải lên các ID phần cứng của họ thay mặt cho họ hoặc bằng cách tải nó vào dịch vụ Autopilot của Windows.  
+<td>  
   
 </td>
 </tr>
@@ -1325,7 +1107,8 @@ Chúng tôi cung cấp hướng dẫn từ xa để cho phép Dịch vụ yammer
 <li>  Triển khai ứng dụng Microsoft 365 bằng trình quản lý cấu hình như là một phần của triển khai Windows 10.   </li>
 <li>  Cung cấp hướng dẫn để giúp tổ chức của bạn luôn Cập Nhật với Windows 10 Enterprise và ứng dụng Microsoft 365 bằng môi trường trình quản lý cấu hình hiện có của bạn hoặc Microsoft 365.  </li>
 </ul>
-  <strong>Sau đây là phạm vi </strong>  
+  
+<strong>Sau đây là phạm vi </strong>  
 <ul>
 <li>  Nâng cấp trình quản lý cấu hình cho nhánh hiện tại.  </li>
 <li>  Tạo hình ảnh tùy chỉnh cho triển khai Windows 10.  </li>
@@ -1350,153 +1133,8 @@ Liên hệ với một <a href="https://go.microsoft.com/fwlink/?linkid=2080150"
 </ul>
 
 <tr class="odd">
-<td><strong>Bảo vệ chống mối đe dọa nâng cao của Microsoft Defender (ATP)</strong></td>
-<td>  Microsoft Defender Advanced Threat Protection (ATP) là một nền tảng được thiết kế để giúp ngăn chặn các mạng doanh nghiệp, phát hiện, điều tra và phản hồi các mối đe dọa nâng cao.  
-  Chúng tôi cung cấp hướng dẫn từ xa cho:
-<ul>
-<li>  Triển khai công nghệ để bảo vệ điểm cuối của bạn.  </li>
-<li>  Cấu hình bảo vệ điểm cuối và hồ sơ hạn chế thiết bị.  </li>
-<li>  Đánh giá phiên bản hệ điều hành và quản lý thiết bị (bao gồm InTune, trình quản lý cấu hình Microsoft Endpoint, đối tượng chính sách Nhóm (GPOs) và các cấu hình của bên thứ ba cũng như trạng thái của dịch vụ AV bảo vệ Windows hoặc phần mềm bảo mật khác của điểm cuối.  </li>
-<li>  Đánh giá trạng thái của các dịch vụ Windows AV hoặc phần mềm bảo mật điểm cuối khác của bạn.  </li>
-<li>  Đánh giá proxy và tường lửa hạn chế lưu lượng mạng.  </li>
-<li>  Bật dịch vụ ATP của Microsoft Defender bằng cách giải thích cách triển khai hồ sơ đại diện ATP bằng điểm cuối trên máy tính.  </li>
-<li>  Hướng dẫn triển khai, hỗ trợ cấu hình và giáo dục về:
-<ul>
-<li>  
-  Quản lý mối đe dọa và lỗ hổng.  
-  </li>
-<li>  
-  Giảm bề mặt tấn công.  
-  </li>
-<li>  
-  Bảo vệ thế hệ mới.  
-  </li>
-<li>  
-  Endpoint phát hiện và phản hồi.  
-  </li>
-<li>  
-  Điều tra và khắc phục sự tự động.  
-  </li>
-<li> Microsoft Defender ATP (các giấy phép Windows E5 hoặc Microsoft 365 E5 là bắt buộc).  </li>
-<li>  
-  Điểm số bảo mật.  
-  </li>
-</ul></li>
-<li>  Xem lại mô phỏng và hướng dẫn (chẳng hạn như kịch bản thực hành, phần mềm độc hại giả và các điều tra tự động).  </li>
-<li>  Tổng quan về các tính năng của báo cáo và phân tích mối đe dọa.  </li>
-<li>  Tích hợp Office 365 ATP với Microsoft Defender ATP.  </li>
-<li>  Tiến hành walkthroughs của cổng thông tin bảo mật Microsoft Defender.  </li>
-<li>  Các hệ điều hành sau đây:
-<ul>
-<li>  
-  Windows 10.  
-  </li>
-<li>  
-  Windows Server 2016.  
-  </li>
-<li>  
-  Windows Server 2019.  
-  </li>
-<li>  
-  Phiên bản Windows Server 2019 Core.  
-  </li>
-<li>  
-  Phiên bản Windows Server Semi-Annual Channel (SAC) 1803.  
-  </li>
-<li>  
-  Phiên bản macOS 10,13, 10,14 và 10,15.  
-  </li>
-</ul>
-</li>
-</ul>
-<strong>Lưu ý:</strong> Tất cả các phiên bản Windows Server phải được quản lý bởi phiên bản mới nhất của trình quản lý cấu hình Trung tâm hệ thống 2012 (Phiên bản 1012 R2, 1511 hoặc 1602) hoặc Microsoft Endpoint Configuration Manager (Phiên bản 2002 hoặc cao hơn). 
-
-</li>
-</ul>
-
-<strong>Sau đây là phạm vi </strong>  
-<ul>
-<li>  Quản lý dự án các hoạt động khắc phục của khách hàng.  </li>
-<li>  Hỗ trợ trên site.  </li>
-<li>  Quản lý và trả lời mối đe dọa đang diễn ra.  </li>
-<li>  Onboarding hoặc cấu hình cho các đại diện ATP sau đây của Microsoft Defender:
-<ul>
-<li>  
-  Windows Server 2008.  
-  </li>
-<li>  
-  Windows Server 2012.  
-  </li>
-<li>  
-  Windows.  
-  </li>
-<li>  
-  Thiết bị di động (Android và iOS).  
-  </li>
-<li> Cơ sở hạ tầng máy tính bàn ảo (VDI) (liên tục hoặc không liên tục).  </li>
-</ul></li>
-<li>  Máy chủ triển khai và cấu hình:
-<ul>
-<li>  
-  Cấu hình máy chủ proxy cho liên lạc ngoại tuyến.  
-  </li>
-<li>  
-  Cấu hình các gói triển khai trình quản lý cấu hình trên các phiên bản trình quản lý cấu hình xuống cấp.  
-  </li>
-<li>  
-  Máy chủ onboarding đến Azure Security Center.  
-  </li>
-<li>  
-  Máy chủ không do trình quản lý cấu hình quản lý.  
-  </li>
-</ul></li>
-<li>  cài đặt và cấu hình macOS triển khai:
-<ul>
-<li>  
-  Triển khai dựa trên thủ công theo hướng dẫn sử dụng.  
-  </li>
-<li>  
-  Triển khai dựa trên JAMF.
-  </li>
-<li>  
-  Triển khai dựa trên sản phẩm quản lý thiết bị di động khác (MDM).  
-  </li>
-<li>  
-  Triển khai thủ công.  
-  </li>
-</ul></li>
-<li>  Cấu hình các chức năng giảm bề mặt sau đây:
-<ul>
-<li>  
-  Phân tách dựa trên phần cứng.  
-  </li>
-<li>  
-  Điều khiển ứng dụng.  
-  </li>
-<li> Điều khiển thiết bị.</li>
-<li>  
-  Khai thác bảo vệ.  
-  </li>
-<li>  
-  Tường lửa mạng.  
-  </li>
-
-<ul>
-<li> Windows Xin chào</li>
-<li> Bảo vệ chứng danh</li>
-</ul>
-
-</ul></li>
-<li> Cấu hình hoặc quản lý BitLocker.</li>
-<li>  Đăng ký hoặc cấu hình của chuyên gia đe dọa Microsoft.  </li>
-<li>  Cấu hình hoặc đào tạo duyệt lại API hoặc thông tin bảo mật và quản lý sự kiện (SIEM).  </li>
-<li>  Đăng ký hoặc cấu hình của Microsoft Threat Protection (MTP).  </li>
-<li>  Đào tạo hoặc hướng dẫn bao phủ săn bắn nâng cao.  </li>
-<li>  Đào tạo hoặc hướng dẫn bao gồm việc sử dụng hoặc tạo ra các truy vấn Kusto.</li>
-</li>
-</ul>
-Liên hệ với một <a href="https://go.microsoft.com/fwlink/?linkid=2080150">đối tác Microsoft</a> để được trợ giúp với các dịch vụ này.  
-</ul></td>
+<td><strong>Microsoft Defender cho điểm cuối</strong></td>
+<td>  Để biết thêm thông tin, hãy xem mục <strong> Microsoft Defender cho điểm cuối</strong> trong <a href="https://docs.microsoft.com/fasttrack/products-and-capabilities#security-and-compliance">bảo mật và tuân thủ</a>.</td>
 <td></td>
 
 </tbody>
