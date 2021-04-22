@@ -3,21 +3,21 @@ title: Phụ lục A - Thỏa thuận Liên kết Kinh doanh HIPAA của Trung t
 ms.author: v-bermic
 author: rberg-steyer
 manager: jimmuir
-ms.date: 3/24/2021
+ms.date: 4/21/2021
 ms.audience: ITPro
 ms.topic: article
 ms.service: o365-administration
 localization_priority: Normal
-description: 'Nếu bạn có thỏa thuận liên kết HIPAA Business (BAA) với Microsoft for FastTrack Services, tất cả các dịch vụ được liệt kê trong lợi ích Trung tâm FastTrack cho Office 365 được bao gồm trong BAA, ngoại trừ:'
-ms.openlocfilehash: 05b94dc26fdd0fc6400ced55f6eadf562e38d434
-ms.sourcegitcommit: 31d2c36fd00f47330dc2c90a646f8ce8a9687e1d
+description: 'Nếu bạn có Thỏa thuận Liên kết Kinh doanh HIPAA (BAA) với Microsoft cho Dịch vụ FastTrack thì mọi dịch vụ được liệt kê trong Lợi ích Trung tâm FastTrack dành cho Office 365 đều được đưa vào trong baA đó, ngoại trừ:'
+ms.openlocfilehash: a20099e211676b441c6a7d6df78ca86899a75380
+ms.sourcegitcommit: b8762897f4d286636a3dd4e2ff6473ab5346b232
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 03/24/2021
-ms.locfileid: "51188087"
+ms.lasthandoff: 04/21/2021
+ms.locfileid: "51926968"
 ---
 # <a name="appendix-a---fasttrack-center-hipaa-business-associate-agreement"></a>Phụ lục A - Thỏa thuận Liên kết Kinh doanh HIPAA của Trung tâm FastTrack
 
-Nếu bạn có thỏa thuận liên kết HIPAA Business (BAA) đã đồng ý với Microsoft, tất cả các dịch vụ được liệt kê trong [Office 365](products-and-capabilities.md#office-365) được thực hiện theo các Baa đó.
+Nếu bạn có Thỏa thuận Liên kết Kinh doanh HIPAA (BAA) đồng ý với Microsoft, tất cả các dịch vụ được liệt kê trong [Office 365](products-and-capabilities.md#office-365) đều được thực hiện theo BAA đó.
 
 

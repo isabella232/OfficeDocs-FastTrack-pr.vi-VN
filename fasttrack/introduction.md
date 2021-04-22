@@ -3,7 +3,7 @@ title: Lợi ích Trung tâm FastTrack dành cho Microsoft 365
 ms.author: v-bermic
 author: rberg-steyer
 manager: jimmuir
-ms.date: 3/24/2021
+ms.date: 4/21/2021
 ms.audience: ITPro
 ms.topic: overview
 f1_keywords:
@@ -11,39 +11,39 @@ f1_keywords:
 ms.service: o365-administration
 localization_priority: Normal
 ms.collection: FastTrack
-description: FastTrack là một lợi ích được thiết kế để giúp bạn triển khai Microsoft 365 (bao gồm trong đăng ký đủ điều kiện) không có chi phí bổ sung. Bạn có thể sử dụng dịch vụ FastTrack với một thuê bao đủ điều kiện mới hoặc hiện có.
-ms.openlocfilehash: 8842a047a6eb5a9da9e78a6dff6489e7300e234c
-ms.sourcegitcommit: 31d2c36fd00f47330dc2c90a646f8ce8a9687e1d
+description: FastTrack là một lợi ích được thiết kế để giúp bạn triển khai Microsoft 365 (được tích hợp trong các đăng ký đủ điều kiện) mà không mất thêm phí. Bạn có thể sử dụng các dịch vụ FastTrack với đăng ký đủ điều kiện mới hoặc hiện có.
+ms.openlocfilehash: 14ea02061cbcb5f0b1b20ef5d379a204658b4e4a
+ms.sourcegitcommit: b8762897f4d286636a3dd4e2ff6473ab5346b232
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 03/24/2021
-ms.locfileid: "51188003"
+ms.lasthandoff: 04/21/2021
+ms.locfileid: "51926956"
 ---
 # <a name="fasttrack-center-benefit-for-microsoft-365"></a>Lợi ích Trung tâm FastTrack dành cho Microsoft 365
 
-## <a name="what-is-fasttrack-for-microsoft-365"></a>FastTrack cho Microsoft 365 là gì?
+## <a name="what-is-fasttrack-for-microsoft-365"></a>FastTrack dành cho Microsoft 365 là gì?
 
-FastTrack là một lợi ích được thiết kế để giúp bạn triển khai Microsoft 365 (bao gồm trong đăng ký đủ điều kiện) không có chi phí bổ sung. Bạn có thể sử dụng dịch vụ FastTrack với một thuê bao đủ điều kiện mới hoặc hiện có.
+FastTrack là một lợi ích được thiết kế để giúp bạn triển khai Microsoft 365 (được tích hợp trong các đăng ký đủ điều kiện) mà không mất thêm phí. Bạn có thể sử dụng các dịch vụ FastTrack với đăng ký đủ điều kiện mới hoặc hiện có.
 
-Tất cả hướng dẫn FastTrack được cung cấp cho bạn hoặc người đại diện từ xa của bạn bằng cách sử dụng kết hợp các công cụ và tài liệu được phát hành. FastTrack nhân sự không thể hành động thay mặt cho bạn nhưng thay vào đó cung cấp cho bạn kết hợp các trợ giúp bằng lời nói và bằng văn bản và các biện pháp tốt nhất để giúp bạn cho phép bạn thành công cho phép các dịch vụ đủ điều kiện của bạn và cho phép người dùng của bạn tận dụng đầy đủ về mua Microsoft 365.
+Tất cả các hướng dẫn FastTrack được cung cấp cho bạn hoặc đại diện của bạn từ xa bằng cách sử dụng một kết hợp các công cụ và tài liệu được phát hành. Nhân viên FastTrack không thể thay mặt bạn hành động mà thay vào đó lại cung cấp cho bạn sự hỗ trợ bằng lời nói và văn bản cùng các phương pháp tốt nhất để giúp bạn kích hoạt thành công các dịch vụ đủ điều kiện của mình và cho phép người dùng tận dụng tối đa gói mua Microsoft 365 của bạn.
 
-Như đã đề cập, các chuyên gia FastTrack làm việc với bạn từ xa. Họ cố gắng hiểu rõ các kế hoạch của bạn và sử dụng các sản phẩm đủ điều kiện Microsoft mà bạn đã mua và cung cấp cho bạn một cách tiếp cận được đề xuất phù hợp với môi trường của bạn giúp bạn đạt được mục tiêu của mình. Các chuyên gia FastTrack có thể bao gồm các nhân viên của Microsoft, các nhà cung cấp Microsoft-phê duyệt và các đối tác được phê duyệt Microsoft.
+Như đã đề cập trước đó, Các Chuyên gia FastTrack làm việc với bạn từ xa. Họ cố gắng hiểu các kế hoạch và cách dùng của bạn cho các sản phẩm Microsoft đủ điều kiện mà bạn đã mua và cung cấp cho bạn một phương pháp tiếp cận được đề xuất phù hợp với môi trường của bạn để giúp bạn đạt được mục tiêu của mình. Các Chuyên gia FastTrack có thể bao gồm nhân viên Microsoft, nhà cung cấp được Microsoft phê duyệt và các đối tác được Microsoft phê duyệt.
 
-FastTrack cung cấp trợ giúp trong các ngôn ngữ sau: tiếng Trung cổ truyền thống và tiếng Trung giản thể (các tài nguyên nói tiếng Mandarin), tiếng Anh, tiếng Pháp, tiếng Đức, tiếng ý, tiếng Nhật, tiếng Hàn, tiếng Bồ Đào Nha (Brazil), tiếng Tây Ban Nha, tiếng Thái và tiếng Việt.
+FastTrack cung cấp hỗ trợ ở các ngôn ngữ sau: Tiếng Trung Truyền thống và Tiếng Trung Giản thể (tài nguyên chỉ nói tiếng Quan thoại), tiếng Anh, tiếng Pháp, tiếng Đức, tiếng Ý, tiếng Nhật, tiếng Hàn, tiếng Bồ Đào Nha (Brazil), tiếng Tây Ban Nha, tiếng Thái và tiếng Việt.
 
 > [!NOTE]
-> Kể từ khi hướng dẫn FastTrack được thiết kế riêng với bạn và môi trường của bạn, trải nghiệm của bạn có thể bị ảnh hưởng nếu bạn chọn triển khai bên ngoài hướng dẫn này.
+> Vì hướng dẫn FastTrack được điều chỉnh phù hợp cho bạn và môi trường nên trải nghiệm của bạn có thể bị ảnh hưởng nếu bạn chọn triển khai ngoài hướng dẫn này.
 
-## <a name="how-to-use-this-service-description"></a>Cách dùng mô tả Dịch vụ này
+## <a name="how-to-use-this-service-description"></a>Cách sử dụng mô tả dịch vụ này
 
-Mô tả Dịch vụ FastTrack được thiết kế để giúp các bên liên quan kinh doanh và nhóm CNTT hiểu được lợi ích FastTrack và trả lời các câu hỏi chính, bao gồm: mua bán đủ điều kiện? Làm thế nào để được trợ giúp? Tôi có thể trông đợi gì về FastTrack? Tôi có nghĩa vụ gì? Sự tham gia hoạt động như thế nào? Di chuyển dữ liệu là gì?
+Mô tả dịch vụ FastTrack được thiết kế nhằm giúp các bên liên quan doanh nghiệp và các nhóm IT hiểu rõ lợi ích của FastTrack và trả lời các câu hỏi chính, bao gồm: Các giao dịch mua hàng nào đủ điều kiện? Cách nhận trợ giúp? Tôi có thể mong đợi điều gì về FastTrack? Tôi có nghĩa vụ gì? Sự tham gia hoạt động như thế nào? Di chuyển dữ liệu thì sao?
 
-Để tạo thuận lợi cho điều này, nó đã được chia thành bốn phần:
+Để tạo điều kiện cho điều này, phần này được chia thành bốn phần:
 
-  - [Đủ điều kiện](eligibility.md) – hiểu xem liệu việc mua hàng của bạn có đủ điều kiện để được hỗ trợ và xác định các dịch vụ Microsoft 365 được bao phủ bởi các chuyên gia fasttrack.
+  - [Đủ điều kiện](eligibility.md) – Hiểu rõ nếu giao dịch mua hàng của bạn đủ điều kiện nhận hỗ trợ từ FastTrack và xác định các dịch vụ Microsoft 365 được các Chuyên gia FastTrack đề cập đến.
 
-  - [Quy trình và kỳ vọng](process-and-expectations.md) – tìm hiểu cách để thu hút fasttrack để được hỗ trợ, xem tổng quan về cách hỗ trợ được cung cấp, nhận lời khuyên cho một trải nghiệm thành công và hiểu rõ trách nhiệm chính của cả fasttrack và công ty của bạn.
+  - [Quy](process-and-expectations.md) trình và Kỳ vọng – Tìm hiểu cách thu hút FastTrack để được hỗ trợ, tìm hiểu tổng quan về cách cung cấp hỗ trợ, nhận các mẹo cho trải nghiệm thành công và hiểu trách nhiệm chính của cả FastTrack và công ty của bạn.
 
-  - [Sản phẩm và chức năng](products-and-capabilities.md) – lấy thêm chi tiết về hướng dẫn cụ thể fasttrack cung cấp cho mỗi sản phẩm hoặc khả năng của Microsoft 365 và các kỳ vọng của chúng tôi cho môi trường nguồn của bạn trước khi bắt đầu công việc đó.
+  - [Sản](products-and-capabilities.md) phẩm và Khả năng – Nhận thêm chi tiết về hướng dẫn cụ thể mà FastTrack cung cấp cho từng sản phẩm hoặc chức năng của Microsoft 365 và kỳ vọng của chúng tôi về môi trường nguồn trước khi bắt đầu công việc đó.
 
-  - [Di chuyển dữ liệu](data-migration.md) – tìm hiểu loại dữ liệu fasttrack sẽ di chuyển vào môi trường Microsoft 365 và các chi tiết cụ thể xung quanh quy trình và giới hạn.
+  - [Di chuyển](data-migration.md) Dữ liệu – Hiểu rõ loại dữ liệu FastTrack sẽ di chuyển vào môi trường Microsoft 365 và các chi tiết cụ thể xung quanh quy trình và giới hạn.
