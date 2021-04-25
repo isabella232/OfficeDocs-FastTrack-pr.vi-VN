@@ -10,12 +10,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.collection: FastTrack
 description: FastTrack có thể giúp bạn di chuyển dữ liệu thư và tệp trong môi trường nguồn sang Office 365 (Exchange Online, SharePoint Online và OneDrive for Business). Loại hỗ trợ mà chúng tôi cung cấp phụ thuộc vào số lượng giấy phép Office 365 của bạn.
-ms.openlocfilehash: 07165233711d4d4931f8adac4809b56138078f5a
-ms.sourcegitcommit: b8762897f4d286636a3dd4e2ff6473ab5346b232
+ms.openlocfilehash: 8d74a288291907db22213f317ce8e89923590907
+ms.sourcegitcommit: 5d40d060bbcf4b266a0d6f3e4bbc151f94288b00
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 04/21/2021
-ms.locfileid: "51927004"
+ms.lasthandoff: 04/25/2021
+ms.locfileid: "51996265"
 ---
 # <a name="data-migration"></a>Di chuyển dữ liệu
 
@@ -160,7 +160,7 @@ Bảng sau đây trình bày chi tiết di chuyển cụ thể cho từng môi t
 </tbody>
 </table>
 
-## <a name="fasttrack-responsibilities"></a>Trách nhiệm của FastTrack
+## <a name="fasttrack-responsibilities-for-exchange-online-migrations"></a>Trách nhiệm của FastTrack đối với việc di chuyển Exchange Online
 
 Các Chuyên gia FastTrack của chúng tôi thực hiện các hoạt động tiêu chuẩn trong dự án di chuyển. Tham khảo thông tin về trách nhiệm di chuyển dữ liệu trong phần [Quy trình và Kỳ vọng](process-and-expectations.md) đối với các chi tiết.
 
@@ -363,7 +363,7 @@ Bảng sau đây trình bày chi tiết di chuyển cụ thể cho từng môi t
 </tbody>
 </table>
 
-## <a name="fasttrack-responsibilities"></a>Trách nhiệm của FastTrack
+## <a name="fasttrack-responsibilities-for-sharepoint-online-migrations"></a>Trách nhiệm của FastTrack đối với việc di chuyển SharePoint Online
 
 Các Chuyên gia FastTrack của chúng tôi thực hiện các hoạt động tiêu chuẩn trong dự án di chuyển. Tham khảo thông tin về trách nhiệm di chuyển dữ liệu trong phần [Quy trình và Kỳ vọng](process-and-expectations.md) để biết chi tiết
 
@@ -555,7 +555,7 @@ Bảng sau đây trình bày chi tiết di chuyển cụ thể cho từng môi t
 </tbody>
 </table>
 
-## <a name="fasttrack-responsibilities"></a>Trách nhiệm của FastTrack
+## <a name="fasttrack-responsibilities-for-onedrive-for-business-migrations"></a>Trách nhiệm của FastTrack đối với việc di chuyển OneDrive for Business
 
 Các Chuyên gia FastTrack của chúng tôi thực hiện các hoạt động tiêu chuẩn trong dự án di chuyển. Tham khảo thông tin về trách nhiệm di chuyển dữ liệu trong phần [Quy trình và Kỳ vọng](process-and-expectations.md) đối với các chi tiết.
 
@@ -756,7 +756,7 @@ Bảng sau đây trình bày chi tiết di chuyển cụ thể cho từng môi t
 </tbody>
 </table>
 
-## <a name="fasttrack-responsibilities"></a>Trách nhiệm của FastTrack
+## <a name="fasttrack-responsibilities-for-microsoft-teams-and-microsoft-365-groups-migrations"></a>Trách nhiệm của FastTrack đối với việc di chuyển Microsoft Teams và Microsoft 365 Groups
 
 Các Chuyên gia FastTrack của chúng tôi thực hiện các hoạt động tiêu chuẩn trong dự án di chuyển. Tham khảo thông tin về trách nhiệm di chuyển dữ liệu trong phần [Quy trình và Kỳ vọng](process-and-expectations.md) đối với các chi tiết.
 
