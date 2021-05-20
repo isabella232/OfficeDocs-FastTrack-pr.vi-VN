@@ -1,23 +1,23 @@
 ---
-title: Trách nhiệm của Bạn đối với Office 365 cho Chính phủ Hoa Kỳ
+title: Trách nhiệm của Bạn đối với Office 365 chính phủ Hoa Kỳ
 ms.author: v-bermic
 author: rberg-steyer
 manager: jimmuir
-ms.date: 4/21/2021
+ms.date: 5/19/2021
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: None
 ms.collection: FastTrack
 description: Bạn có trách nhiệm sau trong quá trình thực hiện.
-ms.openlocfilehash: f1d7a751443ab924758f094997d152e9633e55dd
-ms.sourcegitcommit: b8762897f4d286636a3dd4e2ff6473ab5346b232
+ms.openlocfilehash: 771a28beda75e9d086d0627828a926c573472e94
+ms.sourcegitcommit: 48c1a68ecf668b849037beb05b5490c6b922e833
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 04/21/2021
-ms.locfileid: "51926908"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52570584"
 ---
-# <a name="your-responsibilities-for-office-365-us-government"></a>Trách nhiệm của Bạn đối với Office 365 cho Chính phủ Hoa Kỳ
+# <a name="your-responsibilities-for-office-365-us-government"></a>Trách nhiệm của Bạn đối với Office 365 chính phủ Hoa Kỳ
 
 Bạn có trách nhiệm sau trong quá trình thực hiện.
   
@@ -41,7 +41,7 @@ Bạn có trách nhiệm sau trong quá trình thực hiện.
 - Quản lý, đặt cấu hình và áp dụng các chính sách bảo mật.    
 - Kích hoạt thiết bị di động.    
 - Cung cấp cấu hình mạng, phân tích, xác thực băng thông, thử nghiệm và giám sát. 
-- Thay đổi quy tắc tường lửa để hỗ trợ các URL và dải địa chỉ IP cụ thể mà dịch vụ Office 365 sử dụng (nếu cần).
+- Thay đổi quy tắc tường lửa để hỗ trợ các URL và dải địa chỉ IP cụ thể mà dịch vụ Office 365 sử dụng (nếu cần thiết).
 - Cung cấp điểm cuối proxy đảo ngược tại cơ sở cho Microsoft (nếu cần thiết).     
 - Alter the network to provide necessary bandwidth for Skype for Business Online services.   
 - Quản lý quy trình phê duyệt quản lý thay đổi kỹ thuật và tạo tài liệu hỗ trợ.    
@@ -52,16 +52,16 @@ Bạn có trách nhiệm sau trong quá trình thực hiện.
     > [!NOTE]
     > Đảm bảo rằng tất cả dữ liệu mong muốn được di chuyển trước khi ngừng hoạt động và loại bỏ môi trường nguồn của bạn.   
 - Xây dựng và duy trì môi trường thử nghiệm của bạn.  
-- Cài đặt các công cụ quản trị và gói dịch vụ của Lync 2013 hoặc Skype for Business Online 2015 để hỗ trợ cấu hình tên miền tách.    
+- Cài đặt Các công cụ quản trị lync 2013 Skype for Business Online 2015 và gói dịch vụ để hỗ trợ cấu hình tên miền tách.    
 - Cài đặt gói dịch vụ và các cập nhật bắt buộc khác trên máy chủ cơ sở hạ tầng.     
 - Cung cấp và cấu hình mọi chứng chỉ Tầng Khe Bảo mật (SSL) công cộng. 
     
 ## <a name="initiate-phase"></a>Giai đoạn khởi tạo
 
-- Thiết lập không gian Microsoft Teams cộng tác cho quan hệ đối tác triển năng và mời các thành viên nhóm FastTrack Center (không sẵn dùng trong các gói GCC High hoặc DoD).   
+- Thiết lập không gian Microsoft Teams cộng tác cho quan hệ đối tác triển năng và mời các thành viên nhóm FastTrack Center (không sẵn dùng trong các gói GCC cao hoặc DoD).   
 - Làm việc với Các chuyên gia FastTrack để bắt đầu triển khai các dịch vụ đủ điều kiện.    
 - Tham gia vào cuộc họp giới chức sự tham gia, quản lý và điều khiển người dự từ tổ chức của bạn và xác nhận đường thời gian khắc phục.    
-- Cung cấp mục tiêu của bạn cho các dịch vụ Office 365 (ví dụ, SharePoint Online, Exchange Online, Microsoft Teams, ứng dụng Microsoft 365) và các mục tiêu của tổ chức.
+- Cung cấp mục tiêu của bạn về Office 365 vụ công cộng (ví dụ: SharePoint Online, Exchange Online, Microsoft Teams và Ứng dụng Microsoft 365) cũng như các mục tiêu của tổ chức.
     
 ## <a name="assess-phase"></a>Giai đoạn đánh giá
 
