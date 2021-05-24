@@ -10,12 +10,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.collection: FastTrack
 description: Trong chủ đề này, chúng tôi vạch ra các yêu cầu đủ điều kiện để nhận hỗ trợ từ xa, có hướng dẫn từ các Chuyên gia FastTrack được bao gồm trong việc mua giấy phép Microsoft 365 và nêu chi tiết về các sản phẩm và chức năng cụ thể được đề cập.
-ms.openlocfilehash: eb3a73f7c1c58fe84cdc92d4ccd625330b4dcc82
-ms.sourcegitcommit: 48c1a68ecf668b849037beb05b5490c6b922e833
+ms.openlocfilehash: 7cadd0543f0daccadc2d522ff00e03becaf06acf
+ms.sourcegitcommit: e03f300ee223d72bc5af84d8d94e580dc649442c
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52570500"
+ms.lasthandoff: 05/21/2021
+ms.locfileid: "52592409"
 ---
 # <a name="eligibility"></a>Tính đủ điều kiện
 
@@ -33,7 +33,7 @@ Các Chuyên gia FastTrack có thể cung cấp cho bạn hỗ trợ từ xa, c�
   - Ứng dụng Microsoft 365
 
 > [!NOTE]
-> Office 365 ProPlus đã được đổi tên thành Ứng dụng Microsoft 365. Trong một số trường hợp, bạn có thể tìm thấy các sử dụng tên thừa tự. Để biết chi tiết khi nào thay đổi này có hiệu lực, vui lòng [xem mục Thay đổi tên cho Office 365 ProPlus.](https://docs.microsoft.com/deployoffice/name-change)
+> Office 365 ProPlus đã được đổi tên thành Ứng dụng Microsoft 365. Trong một số trường hợp, bạn có thể tìm thấy các sử dụng tên thừa tự. Để biết chi tiết khi nào thay đổi này có hiệu lực, vui lòng [xem mục Thay đổi tên cho Office 365 ProPlus.](/deployoffice/name-change)
 
   - Microsoft 365 Bộ bảo vệ
   - Microsoft Cloud App Security
