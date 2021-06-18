@@ -1,49 +1,49 @@
 ---
-title: Giai đoạn Triển Office 365 cho Chính phủ Hoa Kỳ
+title: Giai đoạn Triển năng và Di chuyển cho Chính phủ Hoa Kỳ của Office 365
 ms.author: v-bermic
 author: rberg-steyer
 manager: jimmuir
-ms.date: 5/19/2021
+ms.date: 6/16/2021
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: None
 ms.collection: FastTrack
-description: Office 365 triển khai cho Office 365 chính phủ Hoa Kỳ có bốn giai đoạn chính — Khởi tạo, Đánh giá, Khắc phục và Bật. Bạn có thể theo dõi các giai đoạn này với giai đoạn di chuyển dữ liệu tùy chọn như minh họa trong hình dưới đây.
-ms.openlocfilehash: 7c6684323498ee1d7d71cc7c15e3f9c6797e3e1c
-ms.sourcegitcommit: 48c1a68ecf668b849037beb05b5490c6b922e833
+description: Triển khai Office 365 cho Office 365 cho Chính phủ Hoa Kỳ có bốn giai đoạn chính — Khởi tạo, Đánh giá, Khắc phục và Bật. Bạn có thể theo dõi các giai đoạn này với giai đoạn di chuyển dữ liệu tùy chọn như minh họa trong hình dưới đây.
+ms.openlocfilehash: 0408830b2d1c2068bd22d0b575d30fd652640420
+ms.sourcegitcommit: cff44abb4212a768ccdcfd00226793d4dc3b02d6
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52570572"
+ms.lasthandoff: 06/17/2021
+ms.locfileid: "52994967"
 ---
-# <a name="onboarding-and-migration-phases-for-office-365-us-government"></a>Giai đoạn Triển Office 365 cho Chính phủ Hoa Kỳ
+# <a name="onboarding-and-migration-phases-for-office-365-us-government"></a>Giai đoạn Triển năng và Di chuyển cho Chính phủ Hoa Kỳ của Office 365
 
-Office 365 triển khai có bốn giai đoạn chính—Khởi tạo, Đánh giá, Khắc phục và Bật. Bạn có thể theo dõi các giai đoạn này với giai đoạn di chuyển dữ liệu tùy chọn như minh họa trong hình dưới đây.
+Triển khai Office 365 có bốn giai đoạn chính—Khởi tạo, Đánh giá, Khắc phục và Bật. Bạn có thể theo dõi các giai đoạn này với giai đoạn di chuyển dữ liệu tùy chọn như minh họa trong hình dưới đây.
   
 ![Các giai đoạn của lợi ích Triển năng](media/O365-Onboarding-Phases.png)
   
-Để biết các nhiệm vụ chi tiết cho từng giai đoạn, hãy xem Trách nhiệm [của FastTrack](US-Gov-appendix-fasttrack-responsibilities.md) đối với Office 365 chính phủ Hoa Kỳ và Trách nhiệm của Bạn [đối với các Office 365 chính phủ Hoa Kỳ](US-Gov-appendix-your-responsibilities.md).
+Để biết các nhiệm vụ chi tiết cho từng giai đoạn, hãy xem Trách nhiệm fastTrack đối với [Office 365](US-Gov-appendix-fasttrack-responsibilities.md) cho Chính phủ Hoa Kỳ và Trách nhiệm của Bạn đối với [Office 365 cho Chính phủ Hoa Kỳ.](US-Gov-appendix-your-responsibilities.md)
   
 ## <a name="initiate-phase"></a>Giai đoạn khởi tạo
 
 Sau khi bạn mua số và loại giấy phép thích hợp, hãy làm theo hướng dẫn từ email xác nhận mua hàng để liên kết giấy phép với đối tượng thuê hiện có hoặc đối tượng thuê mới của bạn. 
   
-Bạn có thể nhận trợ giúp thông [qua trung Microsoft 365 quản trị Chính](https://go.microsoft.com/fwlink/?linkid=2032704) hoặc site [FastTrack.](https://go.microsoft.com/fwlink/?linkid=780698) 
+Bạn có thể nhận trợ giúp thông [qua Trung tâm quản trị Microsoft 365](https://go.microsoft.com/fwlink/?linkid=2032704) hoặc site [FastTrack.](https://go.microsoft.com/fwlink/?linkid=780698) 
  
-Để nhận trợ giúp thông qua [trung Microsoft 365](https://go.microsoft.com/fwlink/?linkid=2032704)trị viên, người quản trị của bạn đăng nhập vào trung tâm quản trị, rồi bấm vào tiện ích Bạn **cần trợ** giúp?. 
+Để nhận trợ giúp thông qua Trung tâm quản trị [Microsoft 365](https://go.microsoft.com/fwlink/?linkid=2032704), người quản trị của bạn đăng nhập vào trung tâm quản trị, rồi bấm **vào tiện ích Bạn** cần trợ giúp?. 
 
 Để được trợ giúp qua [site FastTrack:](https://go.microsoft.com/fwlink/?linkid=780698) 
 1.    Đăng nhập vào [site FastTrack.](https://go.microsoft.com/fwlink/?linkid=780698) 
-2.    Chọn **Yêu cầu hỗ trợ Microsoft 365** lời từ các tác **vụ** nhanh ở đầu trang đích của bạn.
-3.    Hoàn thành biểu **mẫu Yêu cầu Hỗ Microsoft 365.**
+2.    Chọn **Yêu cầu hỗ trợ với Microsoft 365** từ các hành **động** nhanh ở đầu trang đích của bạn.
+3.    Hoàn thành biểu **mẫu Yêu cầu Hỗ trợ với Microsoft 365.**
   
 Đối tác cũng có thể nhận trợ giúp [thông qua site FastTrack](https://go.microsoft.com/fwlink/?linkid=780698) thay mặt cho khách hàng. Cách thực hiện:
 1.    Đăng nhập vào [site FastTrack.](https://go.microsoft.com/fwlink/?linkid=780698) 
-2.    Chọn **Yêu cầu hỗ trợ Microsoft 365** lời từ các tác **vụ** nhanh ở đầu trang đích của bạn.
+2.    Chọn **Yêu cầu hỗ trợ với Microsoft 365** từ các hành **động** nhanh ở đầu trang đích của bạn.
 3.    Tìm kiếm khách hàng của bạn bằng cách nhập tên khách hàng, miền hoặc TPID.
 4.    Chọn khách hàng từ kết quả tìm kiếm.
-5.    Hoàn thành biểu **mẫu Yêu cầu Hỗ Microsoft 365.**
+5.    Hoàn thành biểu **mẫu Yêu cầu Hỗ trợ với Microsoft 365.**
 
 Bạn cũng có thể yêu cầu Trợ giúp Về Trung tâm FastTrack từ [site FastTrack](https://go.microsoft.com/fwlink/?linkid=780698) trong danh sách các dịch vụ sẵn có cho đối tượng thuê của mình. 
     
@@ -75,115 +75,115 @@ Trong giai đoạn này, Người quản lý FastTrack của bạn sẽ hợp t�
   
 ## <a name="enable-phase"></a>Cho phép giai đoạn
 
-Khi tất cả các hoạt động khắc phục hoàn tất, tiêu điểm sẽ chuyển sang cấu hình cơ sở hạ tầng cốt lõi cho việc sử dụng dịch vụ, cung cấp Office 365 và tiến hành các hoạt động để thúc đẩy việc tiếp nhận dịch vụ. 
+Khi tất cả các hoạt động khắc phục hoàn tất, tiêu điểm sẽ chuyển sang cấu hình cơ sở hạ tầng cốt lõi cho việc sử dụng dịch vụ, cung cấp Office 365 và thực hiện các hoạt động để thúc đẩy việc tiếp nhận dịch vụ. 
   
 ## <a name="core"></a>Core
 
-Triển thị cốt lõi bao gồm việc cung cấp dịch vụ và tích hợp đối tượng thuê và danh tính. Tài liệu cũng bao gồm các bước cung cấp nền tảng cho các dịch vụ triển Exchange Online như Exchange Online, SharePoint Online Skype for Business Online. Bạn và Người quản lý FastTrack của bạn tiếp tục tổ chức thành công các cuộc họp điểm kiểm tra để đánh giá tiến độ so với mục tiêu của mình và xác định xem mình cần thêm hỗ trợ nào.
+Triển thị cốt lõi bao gồm việc cung cấp dịch vụ và tích hợp đối tượng thuê và danh tính. Bài đăng cũng bao gồm các bước cung cấp nền tảng cho các dịch vụ triển tảng như Exchange Online, SharePoint Online và Skype for Business Online. Bạn và Người quản lý FastTrack của bạn tiếp tục tổ chức thành công các cuộc họp điểm kiểm tra để đánh giá tiến độ so với mục tiêu của mình và xác định xem mình cần thêm hỗ trợ nào.
   
 ![Các bước triển thị cốt lõi trong suốt phần Bật phase_1](media/O365-Onboarding-Enable-Core.png)
   
 ![Các bước triển thị cốt lõi trong suốt phần Bật phase_2](media/204bbb6c-f7fe-4401-aa69-dd828ed44963.png)
   
 > [!NOTE]
-> WAP là viết tắt của Web Application Proxy. SSL là viết tắt của Secure Sockets Layer . SDS là viết tắt của School Data Sync. Để biết thêm thông tin về SDS, hãy [xem Chào mừng bạn đến với Microsoft School Data Sync](https://go.microsoft.com/fwlink/?linkid=871480). 
+> WAP là viết tắt của Web Application Proxy. SSL là viết tắt của Secure Sockets Layer . SDS là viết tắt của Đồng bộ Dữ liệu Trường học. Để biết thêm thông tin về SDS, hãy xem Chào [mừng bạn đến với Đồng bộ Dữ liệu Trường học Microsoft](https://go.microsoft.com/fwlink/?linkid=871480). 
   
 Triển khai cho một hoặc nhiều dịch vụ đủ điều kiện có thể bắt đầu sau khi triển khai cốt lõi hoàn tất.
   
 ## <a name="exchange-online"></a>Exchange Online
 
-Ví dụ Exchange Online, chúng tôi hướng dẫn bạn toàn bộ quy trình để tổ chức của bạn sẵn sàng sử dụng email. Các bước chính xác, tùy thuộc vào môi trường nguồn và kế hoạch di chuyển email của bạn, có thể bao gồm việc cung cấp hướng dẫn cho:
+Đối với Exchange Online, chúng tôi hướng dẫn bạn toàn bộ quy trình để tổ chức của bạn sẵn sàng sử dụng email. Các bước chính xác, tùy thuộc vào môi trường nguồn và kế hoạch di chuyển email của bạn, có thể bao gồm việc cung cấp hướng dẫn cho:
   
-- Thiết lập các Exchange Online Protection (EOP) cho tất cả các tên miền hỗ trợ thư được xác thực trong Office 365.   
+- Thiết lập các tính năng Exchange Online Protection (EOP) cho tất cả các tên miền hỗ trợ thư được xác thực trong Office 365.   
     > [!NOTE]
-    > Bản ghi trao đổi thư (MX) của bạn phải trỏ tới một Office 365.   
-- Thiết lập tính năng Exchange Online Chống Mối đe dọa Nâng cao (ATP) nếu tính năng này là một phần của dịch vụ đăng ký của bạn sau khi bản ghi MX của bạn trỏ Office 365. Tính năng này được đặt cấu hình như một phần của Exchange Online Protection phần mềm chống phần mềm độc hại.   
+    > Bản ghi trao đổi thư (MX) của bạn phải trỏ tới Office 365.   
+- Thiết lập tính năng Chống Mối đe dọa Nâng cao (ATP) của Exchange Online nếu nó là một phần của dịch vụ thuê bao của bạn khi bản ghi MX của bạn trỏ tới Office 365. Tính năng này được đặt cấu hình như một phần của thiết đặt chống phần mềm độc hại của Exchange Online Protection.   
 - Cấu hình cổng tường lửa.   
 - Thiết lập DNS, bao gồm các bản ghi Tự động phát hiện, khung chính sách người gửi (SPF) và bản ghi MX bắt buộc (nếu cần).     
-- Thiết lập dòng email giữa môi trường nhắn tin nguồn và thư của Exchange Online (nếu cần).   
-- Tiến hành di chuyển thư từ môi trường nhắn tin nguồn của bạn Office 365.   
+- Thiết lập dòng email giữa môi trường nhắn tin nguồn của bạn và Exchange Online (nếu cần).   
+- Thực hiện di chuyển thư từ môi trường gửi thư nguồn của bạn sang Office 365.   
     > [!NOTE]
     > Để biết thêm thông tin về việc di chuyển thư và dữ liệu, hãy xem [Di chuyển Dữ liệu](data-migration.md). 
   
-![Exchange triển Exchange trong giai đoạn Bật](media/O365-Onboarding-Enable-Exchange.png)
+![Các bước triển hành Exchange trong giai đoạn Bật](media/O365-Onboarding-Enable-Exchange.png)
   
-## <a name="sharepoint-online-and-onedrive-for-business"></a>SharePoint Trực tuyến và Trực OneDrive for Business
+## <a name="sharepoint-online-and-onedrive-for-business"></a>SharePoint Online và OneDrive for Business
 
-Để biết SharePoint Online và OneDrive for Business, chúng tôi cung cấp hướng dẫn cho: 
+Đối với SharePoint Online và OneDrive for Business, chúng tôi cung cấp hướng dẫn cho: 
 - Thiết lập DNS.   
 - Cấu hình cổng tường lửa.   
 - Cấp phép và người dùng.   
-- Configuring SharePoint hybrid features, like hybrid search, hybrid sites, hybrid taxonomy, content types, hybrid self-service site creation (SharePoint Server 2013 only), extended app launcher, hybrid OneDrive for Business, and extranet sites.
+- Đặt cấu hình các tính năng kết hợp của SharePoint, như tìm kiếm kết hợp, site hỗn hợp, phương pháp phân loại hỗn hợp, kiểu nội dung, tạo site tự phục vụ kết hợp (chỉ SharePoint Server 2013), công cụ khởi động ứng dụng mở rộng, OneDrive for Business kết hợp và các site mạng nội bộ mở rộng.
     
-Các Chuyên gia FastTrack sẽ cung cấp hướng dẫn về việc di chuyển dữ liệu sang Office 365 bằng cách sử dụng một tổ hợp các công cụ và tài liệu, đồng thời thực hiện các tác vụ cấu hình nếu có thể và khả thi.
+Các Chuyên gia FastTrack sẽ cung cấp hướng dẫn về việc di chuyển dữ liệu sang Office 365 bằng cách sử dụng kết hợp các công cụ và tài liệu, đồng thời thực hiện các tác vụ cấu hình nếu có thể và khả thi.
   
-![SharePoint và Skype for Business các bước tiếp thị](media/O365-Onboarding-Enable-SP.png)
+![Các bước triển tất cả trong SharePoint và Skype for Business](media/O365-Onboarding-Enable-SP.png)
   
 ## <a name="onedrive-for-business"></a>OneDrive for Business
 
-Ví OneDrive for Business, các bước sẽ phụ thuộc vào việc bạn hiện có đang dùng SharePoint không và liệu bạn có đang dùng phiên bản nào hay không. 
+Đối với OneDrive for Business, các bước sẽ phụ thuộc vào việc bạn hiện có đang dùng SharePoint hay không và liệu bạn có đang dùng phiên bản nào hay không. 
   
-![OneDrive triển OneDrive trong giai đoạn Bật](media/O365-Onboarding-Enable-ODB.png)
+![Các bước triển thị OneDrive trong giai đoạn Bật](media/O365-Onboarding-Enable-ODB.png)
   
 ## <a name="skype-for-business-online"></a>Skype for Business Online
 
-Để biết Skype for Business Online, chúng tôi cung cấp hướng dẫn cho: 
+Đối với Skype for Business Online, chúng tôi cung cấp hướng dẫn cho: 
 - Cấu hình cổng tường lửa.    
 - Thiết lập DNS.    
 - Tạo tài khoản cho mọi thiết bị hệ thống phòng.    
 - Triển khai máy khách Skype for Business Online được hỗ trợ.   
-- Thiết lập cấu hình máy chủ tên miền tách giữa môi trường máy chủ Lync 2010, Lync 2013 hoặc Skype for Business 2015 tại chỗ của bạn Skype for Business đối tượng thuê Trực tuyến (nếu có).
-- Bật Gói Gọi điện, Cuộc họp Skype Phát rộng, Hệ thống Điện thoại và Gọi điện (ở những thị trường sẵn có - không sẵn dùng trong các gói GCC cao hoặc DoD). 
+- Thiết lập cấu hình máy chủ tên miền tách giữa môi trường máy chủ Lync 2010, Lync 2013 hoặc Skype for Business 2015 tại chỗ của bạn và đối tượng thuê Skype for Business Online (nếu áp dụng).
+- Bật Gói gọi điện, Skype Meeting Broadcast, Hệ thống Điện thoại và Gói gọi điện (ở những thị trường sẵn có - không sẵn dùng trong các gói GCC High hoặc DoD). 
     
 ![Các bước tiếp diễn trong Lync trong phần Bật phase_1](media/O365-Onboarding-Enable-Lync.png)
   
-![Skype for Business các bước tiếp diễn trong phần Bật phase_2](media/SfBOifappborderupdate.png)
+![Các bước triển tất cả các bước trong Skype for Business trong phase_2](media/SfBOifappborderupdate.png)
   
 ## <a name="microsoft-teams"></a>Microsoft Teams
 
 > [!NOTE]
-> Sau đây là những tính năng không sẵn dùng GCC gói High hoặc DoD.
+> Sau đây là không khả dụng trong các gói GCC High hoặc DoD.
 
-Ví dụ Microsoft Teams, chúng tôi cung cấp hướng dẫn cho: 
+Đối với Microsoft Teams, chúng tôi cung cấp hướng dẫn cho: 
 - Xác nhận các yêu cầu tối thiểu.   
 - Cấu hình cổng tường lửa.   
 - Thiết lập DNS.  
-- Xác nhận Microsoft Teams được bật trên đối tượng thuê Office 365 bạn.    
+- Xác nhận Microsoft Teams được bật trên đối tượng thuê Office 365 của bạn.    
 - Bật hoặc tắt giấy phép người dùng.
     
-![Sơ đồ Microsoft Teams FastTrack (Cho phép giai đoạn)](media/42a2d990-4e27-4758-b0cd-0024963c1542.png)
+![Sơ đồ FastTrack Microsoft Teams (Cho phép giai đoạn)](media/42a2d990-4e27-4758-b0cd-0024963c1542.png)
   
 ## <a name="power-bi"></a>Power BI
 
 Đối với Power BI, chúng tôi cung cấp hướng dẫn cho:  
 - Gán giấy phép Power BI.    
-- Triển khai ứng Power BI Desktop cụ thể.   
+- Triển khai ứng dụng Power BI trên Máy tính bàn.   
 ## <a name="project-online"></a>Project Online
 
-Ví dụ Project Online, chúng tôi cung cấp hướng dẫn cho: 
-- Xác minh chức SharePoint cơ bản mà Project Online phụ thuộc.    
+Đối với Project Online, chúng tôi cung cấp hướng dẫn cho: 
+- Xác nhận chức năng SharePoint cơ bản mà Project Online tin tưởng.    
 - Thêm dịch vụ Project Online vào đối tượng thuê của bạn (bao gồm thêm đăng ký cho người dùng).    
 - Thiết lập Nhóm Tài nguyên Doanh nghiệp (ERP).   
 - Tạo dự án đầu tiên của bạn. 
     
-![Các bước xảy ra trong giai đoạn Bật cho máy Project Online](media/d8dd7d31-1df6-4df4-a1aa-4dbdd34b973e.png)
+![Các bước diễn ra trong giai đoạn Bật cho Project Online](media/d8dd7d31-1df6-4df4-a1aa-4dbdd34b973e.png)
   
 ## <a name="yammer-enterprise"></a>Yammer Enterprise
 
-Ví dụ Yammer, chúng tôi cung cấp hướng dẫn để bật dịch Yammer Enterprise vụ.
+Đối với Yammer, chúng tôi cung cấp hướng dẫn để bật dịch vụ Yammer Enterprise.
 
 > [!NOTE]
-> Yammer Enterprise không phải là một cấu phần của Chính phủ Hoa Kỳ Office 365 nhưng có thể mua được mà không mất phí dưới dạng một ưu đãi độc lập cho mỗi người dùng được cấp phép cho Office 365 trong GCC. Ưu đãi này hiện chỉ giới hạn cho khách hàng mua hàng Office 365 GCC theo Thỏa thuận Doanh nghiệp và Thỏa thuận Đăng ký Doanh nghiệp. Yammer dùng trong các gói GCC cao hoặc DoD. 
+> Yammer Enterprise không phải là một cấu phần của Office 365 dành cho Chính phủ Hoa Kỳ nhưng có thể được mua lại mà không mất phí dưới dạng gói đăng ký độc lập cho mỗi người dùng được cấp phép cho Office 365 trong GCC. Ưu đãi này hiện chỉ giới hạn cho những khách hàng mua Office 365 GCC theo Thỏa thuận dành cho Doanh nghiệp và Thỏa thuận Đăng ký Doanh nghiệp. Yammer không sẵn dùng trong các gói GCC Cao hoặc DoD. 
   
 ## <a name="microsoft-365-apps"></a>Ứng dụng Microsoft 365
 
-Ví dụ Ứng dụng Microsoft 365, chúng tôi cung cấp hướng dẫn cho: 
+Đối với Ứng dụng Microsoft 365, chúng tôi cung cấp hướng dẫn cho: 
 - Giải quyết các vấn đề về triển khai.    
-- Gán giấy phép người dùng cuối bằng cách sử dụng [Trung Microsoft 365 quản trị viên chính](https://go.microsoft.com/fwlink/?linkid=2032704) và Windows PowerShell.    
-- Cài Ứng dụng Microsoft 365 cài đặt từ Office 365 cổng thông tin Doanh nghiệp bằng Click-to-Run.    
-- Cài Office Dành cho thiết bị di động (như Outlook Mobile, Word Mobile, Excel Mobile và PowerPoint Mobile) trên các thiết bị chạy iOS hoặc Android.   
-- Đặt cấu hình thiết đặt cập nhật bằng cách sử Office 365 Công cụ Triển khai.    
-- Thiết lập một máy chủ phân phối tại chỗ duy nhất cho Ứng dụng Microsoft 365, bao gồm hỗ trợ tạo một tệp configuration.xml để sử dụng với Công cụ Triển khai Office 365.    
+- Gán giấy phép người dùng cuối bằng cách sử dụng [Trung tâm quản trị Microsoft 365](https://go.microsoft.com/fwlink/?linkid=2032704) và Windows PowerShell.    
+- Cài đặt Ứng dụng Microsoft 365 từ cổng thông tin Office 365 bằng cách sử dụng Click-to-Run.    
+- Cài đặt các ứng dụng Office Mobile (như Outlook Mobile, Word Mobile, Excel Mobile và PowerPoint Mobile) trên thiết bị iOS hoặc Android của bạn.   
+- Đặt cấu hình thiết đặt cập nhật bằng Công cụ Triển khai Office 365.    
+- Thiết lập một máy chủ phân phối tại chỗ duy nhất cho các Ứng dụng Microsoft 365, bao gồm hỗ trợ tạo một tệp configuration.xml để sử dụng với Công cụ Triển khai Office 365.    
 - Deployment using Microsoft Endpoint Configuration Manager, including assistance with the creation of Microsoft Endpoint Configuration Manager packaging.
     
-![Office Các bước tiếp nhận của ProPlus](media/o365-onboarding-enable-m365-apps-2.png)
+![Các bước tiếp nhận của Office ProPlus](media/o365-onboarding-enable-m365-apps-2.png)
