@@ -14,7 +14,8 @@
           "README.md",
           "LICENSE",
           "LICENSE-CODE",
-          "ThirdPartyNotices"
+          "ThirdPartyNotices",
+          "common/**"
         ]
       }
     ],
@@ -39,7 +40,9 @@
     "globalMetadata": {
       "breadcrumb_path": "/FastTrack/breadcrumb/toc.json",
       "extendBreadcrumb": true,
-      "searchScope": ["FastTrack"],
+      "searchScope": [
+        "FastTrack"
+      ],
       "feedback_system": "GitHub",
       "feedback_github_repo": "MicrosoftDocs/OfficeDocs-FastTrack",
       "feedback_product_url": "https://github.com/MicrosoftDocs/OfficeDocs-FastTrack/issues"
