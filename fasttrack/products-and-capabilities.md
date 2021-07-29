@@ -3,19 +3,19 @@ title: Các sản phẩm và chức năng
 ms.author: v-bermic
 author: rberg-steyer
 manager: jimmuir
-ms.date: 6/16/2021
+ms.date: 7/28/2021
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: Normal
 ms.collection: FastTrack
 description: Chủ đề này bao gồm chi tiết về các kịch bản khối lượng công việc được FastTrack hỗ trợ và kỳ vọng môi trường nguồn cần thiết trước khi chúng ta có thể bắt đầu. Dựa trên thiết lập hiện tại của bạn, chúng tôi làm việc với bạn để tạo kế hoạch khắc phục, đưa môi trường nguồn của bạn đến các yêu cầu tối thiểu để triển năng thành công.
-ms.openlocfilehash: 43c8edc915d45c1af84155d82d995860cd966950
-ms.sourcegitcommit: c4f9375811fd23d01edd308108340ace15ec4db7
+ms.openlocfilehash: 0cef6e5a9296af124d2fa2f3deac964aee825b2d
+ms.sourcegitcommit: d824630e1c1e1b712b36aee1428c97e46d55cbd5
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 07/02/2021
-ms.locfileid: "53255511"
+ms.lasthandoff: 07/28/2021
+ms.locfileid: "53629563"
 ---
 # <a name="products-and-capabilities"></a>Các sản phẩm và chức năng
 
@@ -25,7 +25,7 @@ Chủ đề này bao gồm chi tiết về các kịch bản khối lượng cô
 
 FastTrack cung cấp hướng dẫn để giúp bạn trước tiên với các chức năng cốt lõi (phổ biến với tất cả các Dịch vụ Trực tuyến của Microsoft), sau đó triển hành từng dịch vụ đủ điều kiện:
 
-  - [Chung](#general)
+  - [Nguồn](#general)
   - [Bảo mật và Tuân thủ](#security-and-compliance)
   - [Office 365](#office-365)
   - [Enterprise Mobility + Security](#enterprise-mobility--security)
@@ -37,7 +37,7 @@ FastTrack cung cấp hướng dẫn để giúp bạn trước tiên với các 
 > [!NOTE]
 > Để biết thông tin về các kỳ vọng về môi trường nguồn Office 365 Chính phủ Hoa Kỳ, hãy xem Kỳ vọng Môi trường [Nguồn Office 365 Chính phủ Hoa Kỳ.](/us-gov-appendix-source-environment-expectations) 
  
-## <a name="general"></a>Chung
+## <a name="general"></a>Nguồn
 
 <table>
 <table style="width: 100%">
@@ -97,7 +97,7 @@ Chúng tôi cung cấp hướng dẫn từ xa cho:
 </ul></td>
 </tr>
 <tr class="even">
-<td><strong>Ứng dụng Microsoft 365</strong></td>
+<td><strong>Các ứng dụng Microsoft 365</strong></td>
 <td>  Chúng tôi cung cấp hướng dẫn triển khai từ xa cho:
 <ul>
 <li>  Giải quyết các vấn đề về triển khai.  </li>
@@ -411,7 +411,7 @@ Chúng tôi cung cấp hướng dẫn từ xa cho:
 <li>  Đánh giá phiên bản HĐH và quản lý thiết bị (bao gồm intune, Microsoft Endpoint Configuration Manager, Đối tượng Chính sách Nhóm (GPOs) và cấu hình của bên thứ ba) cũng như trạng thái của các dịch vụ Bộ bảo vệ Windows AV hoặc phần mềm bảo mật điểm cuối khác của bạn.  </li>
 <li>  Đánh giá trạng thái dịch vụ Windows AV hoặc phần mềm bảo mật điểm cuối khác của bạn.  </li>
 <li>  Đánh giá các proxy và tường lửa hạn chế lưu lượng truy nhập mạng.  </li>
-<li>  Bật dịch vụ Điểm cuối của Bộ bảo vệ Microsoft bằng cách giải thích cách triển khai một Bộ bảo vệ cho hồ sơ tác vụ Điểm cuối bằng cách sử dụng điểm cuối triển khai.  </li>
+<li>  Bật dịch vụ Điểm cuối của Bộ bảo vệ Microsoft bằng cách giải thích cách triển khai hồ sơ đại diện Bộ bảo vệ cho phát hiện điểm cuối và phản hồi điểm cuối (EDR) bằng cách sử dụng một trong các phương pháp quản lý được hỗ trợ.  </li>
 <li>  Hướng dẫn triển khai, trợ giúp về cấu hình và giáo dục trên:
 <ul>
 <li>  
@@ -424,7 +424,7 @@ Chúng tôi cung cấp hướng dẫn từ xa cho:
   Bảo vệ thế hệ tiếp theo.  
   </li>
 <li>  
-  Phát hiện và phản hồi điểm cuối.  
+  EDR.  
   </li>
 <li>  
   Điều tra và khắc phục tự động.  
@@ -433,13 +433,14 @@ Chúng tôi cung cấp hướng dẫn từ xa cho:
   Điểm số an toàn cho các thiết bị.  
   </li>
 <li> SmartScreen của Bộ bảo vệ Microsoft hình bằng cách sử Microsoft Endpoint Manager.</li>
+<li> Khám phá thiết bị.</li>
 
 </ul></li>
 <li>  Xem lại mô phỏng và hướng dẫn (như các kịch bản thực hành, phần mềm xấu giả mạo và điều tra tự động).  </li>
 <li>  Tổng quan về các tính năng báo cáo và phân tích mối đe dọa.  </li>
 <li>  Tích hợp Bộ bảo vệ Microsoft dành cho Office 365 với Bộ bảo vệ Microsoft dành cho Điểm cuối.  </li>
 <li>  Tiến hành các hướng dẫn về cổng Trung tâm Bảo mật của Bộ bảo vệ Microsoft tin.  </li>
-<li>  Các hệ điều hành sau:
+<li>  Triển khai và cấu hình các hệ điều hành sau:
 <ul>
 <li>  
   Windows 10.  
@@ -457,7 +458,7 @@ Chúng tôi cung cấp hướng dẫn từ xa cho:
   Windows Server Semi-Annual Channel (SAC) phiên bản 1803.  
   </li>
 <li>  
-  macOS phiên bản 10.13, 10.14 và 10.15.  
+  Các phiên bản macOS được hỗ trợ (xem <a href="/microsoft-365/security/defender-endpoint/microsoft-defender-endpoint-mac?view=o365-worldwide#system-requirements"> Yêu cầu hệ thống </a> để biết thêm chi tiết).  
   </li>
 </ul>
 </li>
@@ -545,6 +546,15 @@ Chúng tôi cung cấp hướng dẫn từ xa cho:
 <li> Bảo vệ thông tin xác thực</li>
 </ul>
 <li> Cấu hình hoặc quản lý BitLocker.</li>
+<li> Cấu hình hoặc quản lý khám phá thiết bị mạng. </li>
+<li> Cấu hình hoặc quản lý các chức năng khám phá thiết bị sau đây:</li>
+<ul>
+<li> Triển thị các thiết bị không được quản lý không nằm trong phạm vi FastTrack (chẳng hạn như Linux).</li>
+<li> Tích hợp với công cụ của bên thứ ba.</li>
+<li> Loại trừ để khám phá thiết bị.</li>
+<li> Trợ giúp sơ bộ về nối mạng. </li>
+<li> Khắc phục sự cố mạng.</li>
+</ul>
 <li>  Đăng ký hoặc cấu hình Chuyên gia về Mối đe dọa của Microsoft.  </li>
 <li>  Cấu hình hoặc đào tạo xem lại API hoặc các kết nối quản lý sự kiện và quản lý sự kiện (SIEM).  </li>
 <li>  Đăng ký hoặc cấu hình Bộ bảo vệ Microsoft 365.  </li>
@@ -1324,25 +1334,26 @@ Liên hệ với Đối <a href="https://go.microsoft.com/fwlink/?linkid=2080150
 <tbody>
 <tr class="even">
 <td><strong>Đảm bảo cho ứng dụng</strong></td>
-<td>  Đảm bảo Ứng dụng là một dịch vụ được thiết kế để giải quyết các sự cố về Windows 10 và Ứng dụng Microsoft 365 tương thích với ứng dụng. Khi bạn yêu cầu dịch vụ Đảm bảo ứng dụng, chúng tôi sẽ làm việc với bạn để giải quyết các sự cố ứng dụng hợp lệ mà không mất thêm chi phí cho bạn với đăng ký đủ điều kiện. Chúng tôi cũng cung cấp hướng dẫn cho những khách hàng gặp phải sự cố về tính tương thích khi triển khai Windows Màn hình nền Ảo và Microsoft Edge và nỗ lực hết sức hợp lý để giải quyết các sự cố về tương thích. Chúng tôi cung cấp trợ giúp khắc phục cho các ứng dụng được triển khai trên các sản phẩm Microsoft sau:
+<td>  Đảm bảo ứng dụng là một dịch vụ được thiết kế để giải quyết các sự cố về Windows ứng dụng Ứng dụng Microsoft 365 tương thích. Khi bạn yêu cầu dịch vụ Đảm bảo ứng dụng, chúng tôi sẽ làm việc với bạn để giải quyết các sự cố ứng dụng hợp lệ mà không mất thêm chi phí cho bạn với đăng ký đủ điều kiện. Chúng tôi cũng cung cấp hướng dẫn cho những khách hàng gặp phải sự cố về tương thích khi triển khai Windows 365 Cloud PC, Windows Virtual Desktop và Microsoft Edge, đồng thời nỗ lực hết sức hợp lý để giải quyết các sự cố về tính tương thích. Chúng tôi cung cấp trợ giúp khắc phục cho các ứng dụng được triển khai trên các sản phẩm Microsoft sau:
 <ul>
-<li>  <strong>Windows 10</strong> tính (bao gồm các thiết bị ARM64)</li>
-<li> <strong>Ứng dụng Microsoft 365</strong>  </li>
+<li>  <strong>Windows 10</strong> và <strong>Windows 11</strong> (bao gồm cả thiết bị ARM64).</li>
+<li> <strong>Ứng dụng Microsoft 365</strong>.  </li>
 <li>  <strong>Microsoft Edge -</strong> Để biết hướng dẫn triển khai, <a href="/DeployEdge/microsoft-edge-channels">hãy xem mục Tổng quan về Microsoft Edge kênh.</a>  </li>
 <li>  <strong>Windows Nền Ảo</strong> - Để biết thêm thông tin, <a href="/azure/virtual-desktop/overview">hãy xem mục Máy tính Windows Ảo là gì?</a> và Câu Windows 10 Enterprise hỏi thường gặp nhiều <a href="/azure/virtual-desktop/windows-10-multisession-faq">phiên.</a>  </li>
+<li> <strong>Windows Đám mây 365 PC</strong> – Để biết thêm thông tin, hãy xem Giới thiệu về kỷ nguyên mới của điện toán cá nhân kết hợp: PC Windows đám mây <a href="https://www.microsoft.com/microsoft-365/blog/2021/07/14/introducing-a-new-era-of-hybrid-personal-computing-the-windows-365-cloud-pc/">365</a>. </li>
 </ul>
 
 <strong>Sau đây là nằm ngoài phạm vi </strong>  
 <ul>
-<li>  Kiểm kê và kiểm tra ứng dụng để xác định xem ứng dụng nào và không hoạt động trên các Windows 10 và Ứng dụng Microsoft 365. Để biết thêm hướng dẫn về quy trình này, hãy truy nhập Trung tâm <a href="https://go.microsoft.com/fwlink/?linkid=2080140">Triển khai Máy tính</a>để bàn . Nếu bạn quan tâm đến hoạt động đánh giá tính sẵn sàng của nâng cấp chuyên sâu, hãy hoàn thành biểu mẫu Yêu cầu Khách hàng <a href="https://go.microsoft.com/fwlink/?linkid=2053818">đối với Đánh giá Máy tính Hiện</a> đại.</li>
-<li>  Nghiên cứu các ứng dụng ISV của bên thứ ba để Windows 10 các tuyên bố tương thích và hỗ trợ khác. Để biết thêm thông tin, hãy xem Phân <a href="/sccm/desktop-analytics/overview">tích Màn hình nền</a>.</li>
-<li>Dịch vụ chỉ đóng gói ứng dụng. Tuy nhiên, các ứng dụng nhóm Đảm bảo rằng chúng tôi đã khắc phục các Windows 10 để đảm bảo chúng có thể được triển khai trong môi trường của khách hàng.</li>
+<li>  Kiểm kê và kiểm tra ứng dụng để xác định xem ứng dụng nào và không hoạt động trên Windows và Ứng dụng Microsoft 365. Để biết thêm hướng dẫn về quy trình này, hãy truy nhập Trung tâm <a href="https://go.microsoft.com/fwlink/?linkid=2080140">Triển khai Máy tính</a>để bàn . Nếu bạn quan tâm đến hoạt động đánh giá tính sẵn sàng của nâng cấp chuyên sâu, hãy hoàn thành biểu mẫu Yêu cầu Khách hàng <a href="https://go.microsoft.com/fwlink/?linkid=2053818">đối với Đánh giá Máy tính Hiện</a> đại.</li>
+<li>  Nghiên cứu về các ứng dụng ISV của bên thứ ba để Windows các tuyên bố tương thích và hỗ trợ khác. Để biết thêm thông tin, hãy xem Phân <a href="/sccm/desktop-analytics/overview">tích Màn hình nền</a>.</li>
+<li>Dịch vụ chỉ đóng gói ứng dụng. Tuy nhiên, các ứng dụng nhóm Đảm bảo ứng dụng mà chúng tôi đã khắc phục Windows nhằm đảm bảo chúng có thể được triển khai trong môi trường của khách hàng.</li>
 </ul>
 
 <strong>Trách nhiệm của khách hàng bao gồm</strong>  
 <ul>
 <li>  Tạo thư mục ứng dụng.</li>
-<li>  Xác thực các ứng dụng đó trên Windows 10 và Ứng dụng Microsoft 365.</li>
+<li>  Xác thực các ứng dụng đó trên Windows và Ứng dụng Microsoft 365.</li>
 </ul>
 <strong>Lưu ý:</strong>  Microsoft không thể thực hiện thay đổi đối với mã nguồn của bạn. Tuy nhiên, nhóm Đảm bảo ứng dụng có thể cung cấp hướng dẫn cho các nhà phát triển ứng dụng nếu mã nguồn sẵn dùng cho các ứng dụng của bạn. 
 
@@ -1350,16 +1361,21 @@ Liên hệ với Đối <a href="https://go.microsoft.com/fwlink/?linkid=2080150
   Liên hệ với Đối <a href="https://go.microsoft.com/fwlink/?linkid=2080150">tác của Microsoft để</a> được trợ giúp về các dịch vụ này.  </td>
 
 </td>
-<td><strong>Windows 10 và Ứng dụng Microsoft 365</strong>
+<td><strong>Windows và Ứng dụng Microsoft 365</strong>
 <ul>
 <li>  
-  Các ứng dụng đã làm việc trên Windows 7, Windows 8.1, Office 2010 và Office 2013 cũng hoạt động trên Windows 10 và Ứng dụng Microsoft 365.  
+  Các ứng dụng làm việc trên Windows 7, Windows 8.1 và Windows 10 cũng hoạt động trên Windows 10 và Windows 11.  
   </li>
+<li> Các ứng dụng đã làm việc vào Office 2010, Office 2013, Office 2016 và Office 2019 cũng hoạt động trên Ứng dụng Microsoft 365.</li>
 </ul>
-<strong>Windows 10 trên ARM</strong>
+<strong>Windows Đám mây 365 PC</strong>
+<ul>
+<li> Các ứng dụng làm việc trên Windows 7, Windows 8.1 và Windows 10 cũng hoạt động trên PC Windows 365 Cloud.</li>
+</ul>
+<strong>Windows trên ARM</strong>
 <ul>
 <li>  
-Ứng dụng hoạt động trên Windows 7, Office 2010 hoặc phiên bản mới hơn cũng hoạt động trên thiết Windows 10 và Ứng dụng Microsoft 365 trên thiết bị ARM64. 
+Các ứng dụng làm việc trên Windows 7, Windows 8.1 và Windows 10 cũng hoạt động trên Windows 10 và Windows 11 trên thiết bị ARM64. 
   </li>
 </ul>
   <strong>Lưu ý:</strong> 
@@ -1384,16 +1400,17 @@ Liên hệ với Đối <a href="https://go.microsoft.com/fwlink/?linkid=2080150
   <strong>Windows Màn hình nền Ảo</strong>  
 <ul>
 <li>  
-  Các ứng dụng được ảo hóa chạy trên Windows Server Remote Desktop Session Host (RDSH) cũng chạy trên Windows 10 Enterprise nhiều phiên như là một phần của Windows Bàn làm việc Ảo.  
+  Các ứng dụng chạy trên Windows 7, Windows 8.1, Windows 10 hoặc Windows Server (dưới dạng ứng dụng được ảo hóa) cũng chạy trên: </li>
+<ul>
+<li>  
+  Windows 10 Enterprise và Windows 11 Enterprise.
   </li>
 <li>  
-  Các ứng dụng chạy trên bất kỳ môi trường cơ sở hạ tầng máy tính ảo (VDI) Windows 7 hoặc Windows 10 nào cũng chạy trên Windows 7 Enterprise và Windows 10 Enterprise như là một phần của Windows Bàn làm việc Ảo.  
-  </li>
-<li>  
-  Ứng dụng chạy trên Windows 7 hoặc Windows 10 máy khách cũng chạy trên Windows 7 Enterprise và Windows 10 Enterprise như một phần của ứng dụng Windows Bàn làm việc Ảo.  
+  Windows 10 Enterprise và Windows đa phiên Enterprise 11.
   </li>
 </ul>
-  <strong>Lưu ý:</strong> Windows 10 Enterprise loại trừ và giới hạn tương thích nhiều phiên bao gồm:
+</ul>
+  <strong>Lưu ý:</strong> Windows loại trừ và giới hạn tương thích nhiều phiên Enterprise bao gồm:
 <ul>
 <li>  
   Chuyển hướng phần cứng hạn chế.  

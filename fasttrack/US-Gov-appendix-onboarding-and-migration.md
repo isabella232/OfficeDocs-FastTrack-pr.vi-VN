@@ -3,19 +3,19 @@ title: Giai đoạn Triển Office 365 cho Chính phủ Hoa Kỳ
 ms.author: v-bermic
 author: rberg-steyer
 manager: jimmuir
-ms.date: 6/16/2021
+ms.date: 7/28/2021
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: None
 ms.collection: FastTrack
 description: Office 365 triển khai cho Office 365 chính phủ Hoa Kỳ có bốn giai đoạn chính — Khởi tạo, Đánh giá, Khắc phục và Bật. Bạn có thể theo dõi các giai đoạn này với giai đoạn di chuyển dữ liệu tùy chọn như minh họa trong hình dưới đây.
-ms.openlocfilehash: 99bc16e1939bbc13a06aa7a93cd735918c652865
-ms.sourcegitcommit: c4f9375811fd23d01edd308108340ace15ec4db7
+ms.openlocfilehash: 087535f5f36c72bf5f1aa50145c1a908187131f6
+ms.sourcegitcommit: d824630e1c1e1b712b36aee1428c97e46d55cbd5
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 07/02/2021
-ms.locfileid: "53255535"
+ms.lasthandoff: 07/28/2021
+ms.locfileid: "53629539"
 ---
 # <a name="onboarding-and-migration-phases-for-office-365-us-government"></a>Giai đoạn Triển Office 365 cho Chính phủ Hoa Kỳ
 
@@ -203,7 +203,7 @@ Ví dụ Yammer, chúng tôi cung cấp hướng dẫn từ xa để bật dịc
 > [!NOTE]
 > Yammer Enterprise không phải là một cấu phần của Chính phủ Hoa Kỳ Office 365 nhưng có thể mua được mà không mất phí dưới dạng một ưu đãi độc lập cho mỗi người dùng được cấp phép cho Office 365 trong GCC. Ưu đãi này hiện chỉ giới hạn cho khách hàng mua hàng Office 365 GCC theo Thỏa thuận Doanh nghiệp và Thỏa thuận Đăng ký Doanh nghiệp. Yammer dùng trong các gói GCC cao hoặc DoD. 
   
-## <a name="microsoft-365-apps"></a>Ứng dụng Microsoft 365
+## <a name="microsoft-365-apps"></a>Các ứng dụng Microsoft 365
 
 Ví dụ Ứng dụng Microsoft 365, chúng tôi cung cấp hướng dẫn từ xa cho: 
 - Giải quyết các vấn đề về triển khai.    

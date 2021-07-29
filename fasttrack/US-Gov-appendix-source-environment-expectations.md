@@ -3,19 +3,19 @@ title: Kỳ vọng Môi trường Nguồn cho Chính Office 365 Chính phủ Hoa
 ms.author: v-bermic
 author: rberg-steyer
 manager: jimmuir
-ms.date: 6/16/2021
+ms.date: 7/28/2021
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: None
 ms.collection: FastTrack
 description: 'Lợi ích Trung tâm FastTrack cung cấp hướng dẫn để bạn thiết lập mức độ tích hợp với môi trường nguồn của mình (ví dụ: nếu bạn đã có các dịch vụ trong môi trường nguồn mà bạn muốn chuyển sang Office 365).'
-ms.openlocfilehash: a1c514f264f9b16ee967084e4dfd2d9e8443e199
-ms.sourcegitcommit: c4f9375811fd23d01edd308108340ace15ec4db7
+ms.openlocfilehash: 7c2c47894110d870ccaa6c5d92a4293f86de80da
+ms.sourcegitcommit: d824630e1c1e1b712b36aee1428c97e46d55cbd5
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 07/02/2021
-ms.locfileid: "53255523"
+ms.lasthandoff: 07/28/2021
+ms.locfileid: "53629455"
 ---
 # <a name="source-environment-expectations-for-office-365-us-government"></a>Kỳ vọng Môi trường Nguồn cho Chính Office 365 Chính phủ Hoa Kỳ
 
