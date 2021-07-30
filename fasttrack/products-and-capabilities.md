@@ -10,12 +10,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.collection: FastTrack
 description: Chủ đề này bao gồm chi tiết về các kịch bản khối lượng công việc được FastTrack hỗ trợ và kỳ vọng môi trường nguồn cần thiết trước khi chúng ta có thể bắt đầu. Dựa trên thiết lập hiện tại của bạn, chúng tôi làm việc với bạn để tạo kế hoạch khắc phục, đưa môi trường nguồn của bạn đến các yêu cầu tối thiểu để triển năng thành công.
-ms.openlocfilehash: 0cef6e5a9296af124d2fa2f3deac964aee825b2d
-ms.sourcegitcommit: d824630e1c1e1b712b36aee1428c97e46d55cbd5
+ms.openlocfilehash: 8b7c1ea3867cebd2dc9f0ec1b309b3084288013d
+ms.sourcegitcommit: fb70cfd530a627505b3f05caba50cd8f846c1a56
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 07/28/2021
-ms.locfileid: "53629563"
+ms.lasthandoff: 07/30/2021
+ms.locfileid: "53661857"
 ---
 # <a name="products-and-capabilities"></a>Các sản phẩm và chức năng
 
@@ -35,7 +35,7 @@ FastTrack cung cấp hướng dẫn để giúp bạn trước tiên với các 
   - [Microsoft Edge](#microsoft-edge)
 
 > [!NOTE]
-> Để biết thông tin về các kỳ vọng về môi trường nguồn Office 365 Chính phủ Hoa Kỳ, hãy xem Kỳ vọng Môi trường [Nguồn Office 365 Chính phủ Hoa Kỳ.](/us-gov-appendix-source-environment-expectations) 
+> Để biết thông tin về các kỳ vọng về môi trường nguồn Office 365 Chính phủ Hoa Kỳ, hãy xem Kỳ vọng Môi trường [Nguồn Office 365 Chính phủ Hoa Kỳ.](/us-gov-appendix-source-environment-expectations)  
  
 ## <a name="general"></a>Nguồn
 

@@ -10,12 +10,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.collection: FastTrack
 description: Trong chủ đề này, chúng tôi vạch ra các yêu cầu đủ điều kiện để nhận hỗ trợ từ xa, có hướng dẫn từ các Chuyên gia FastTrack được bao gồm trong việc mua giấy phép Microsoft 365 và nêu chi tiết về các sản phẩm và chức năng cụ thể được đề cập.
-ms.openlocfilehash: c264b4136ca7d55a54f9244b3dd1f32d627e3034
-ms.sourcegitcommit: d824630e1c1e1b712b36aee1428c97e46d55cbd5
+ms.openlocfilehash: 3ab88165cc36f9b7da37e5e9810922b8c7dc1f27
+ms.sourcegitcommit: fb70cfd530a627505b3f05caba50cd8f846c1a56
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 07/28/2021
-ms.locfileid: "53629491"
+ms.lasthandoff: 07/30/2021
+ms.locfileid: "53661845"
 ---
 # <a name="eligibility"></a>Tính đủ điều kiện
 
@@ -55,7 +55,7 @@ Các Chuyên gia FastTrack có thể cung cấp cho bạn hỗ trợ từ xa, c�
 
 ## <a name="eligible-plans"></a>Các gói đủ điều kiện
 
-Bạn phải mua tối thiểu 150 giấy phép từ một trong các gói bên dưới để đủ điều kiện cho FastTrack. Danh sách này được nhóm theo nhóm sản phẩm để giúp hỗ trợ bạn tìm các gói cụ thể mà công ty bạn đã mua: Microsoft 365, Office 365, Enterprise Mobility & Security và Enterprise Mobility Windows 10.
+Bạn phải mua tối thiểu 150 giấy phép cho mỗi đối tượng thuê từ một trong các gói bên dưới để đủ điều kiện tham gia FastTrack. Danh sách này được nhóm theo nhóm sản phẩm để giúp hỗ trợ bạn tìm các gói cụ thể mà công ty bạn đã mua: Microsoft 365, Office 365, Enterprise Mobility & Security và Enterprise Mobility Windows 10. 
 
 ### <a name="microsoft-365-plans"></a>Microsoft 365 của bạn
 
