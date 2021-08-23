@@ -10,18 +10,18 @@ ms.service: o365-administration
 localization_priority: None
 ms.collection: FastTrack
 description: Office 365 triển khai cho Office 365 chính phủ Hoa Kỳ có bốn giai đoạn chính — Khởi tạo, Đánh giá, Khắc phục và Bật. Bạn có thể theo dõi các giai đoạn này với giai đoạn di chuyển dữ liệu tùy chọn như minh họa trong hình dưới đây.
-ms.openlocfilehash: 427b9720a07c036111e1b4e50a4b38eb0a140175
-ms.sourcegitcommit: 71ec2c25b514f3a21ed58ca3499af1576e8f2c8d
+ms.openlocfilehash: 3498d5797825f59b36cf1478424015144c7dc65f
+ms.sourcegitcommit: f69357b9e3b2edf60c1b9b22f106ac0b1b345d02
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 08/18/2021
-ms.locfileid: "58392436"
+ms.lasthandoff: 08/23/2021
+ms.locfileid: "58468484"
 ---
 # <a name="onboarding-and-migration-phases-for-office-365-us-government"></a>Giai đoạn Triển năng và Di chuyển cho chính Office 365 Chính phủ Hoa Kỳ
 
 Office 365 triển khai có bốn giai đoạn chính—Khởi tạo, Đánh giá, Khắc phục và Bật. Bạn có thể theo dõi các giai đoạn này với giai đoạn di chuyển dữ liệu tùy chọn như minh họa trong hình dưới đây.
   
-![Các giai đoạn của lợi ích Triển năng](media/O365-Onboarding-Phases.png)
+![Các giai đoạn của lợi ích Triển năng.](media/O365-Onboarding-Phases.png)
   
 Để biết các nhiệm vụ chi tiết cho từng giai đoạn, hãy xem [FastTrack Trách](US-Gov-appendix-fasttrack-responsibilities.md) nhiệm đối với Office 365 chính phủ Hoa Kỳ và Trách nhiệm của Bạn đối với các Office 365 chính phủ [Hoa Kỳ](US-Gov-appendix-your-responsibilities.md).
   
@@ -51,7 +51,7 @@ Trong giai đoạn này, chúng tôi sẽ thảo luận về quy trình triển 
   
 Điều này bao gồm làm việc với bạn để hiểu rõ ý định của bạn về cách bạn dự định sử dụng dịch vụ, các mục tiêu và kế hoạch của tổ chức của bạn để thúc đẩy mức sử dụng dịch vụ.
   
-![Các bước triển khai trong giai đoạn Khởi tạo](media/O365-Onboarding-Initiate.png)
+![Các bước triển khai trong giai đoạn Khởi tạo.](media/O365-Onboarding-Initiate.png)
   
 ## <a name="assess-phase"></a>Giai đoạn đánh giá
 
@@ -61,13 +61,13 @@ FastTrack Các chuyên gia làm việc với bạn để đánh giá môi trư�
   
 Dựa trên thiết lập hiện tại của bạn, chúng tôi cung cấp kế hoạch khắc phục, đưa môi trường nguồn của bạn đến các yêu cầu tối thiểu để triển thị thành công Office 365 và nếu cần, để di chuyển thành công hộp thư và/hoặc dữ liệu. Chúng tôi cung cấp một tập hợp các hoạt động được đề xuất để tăng giá trị người dùng cuối và việc tiếp nhận. Chúng tôi cũng thiết lập các cuộc gọi điểm kiểm tra thích hợp cho giai đoạn Khắc phục.
   
-![Các bước triển năng cho giai đoạn Đánh giá](media/O365.png)
+![Các bước triển thị cho giai đoạn Đánh giá.](media/O365.png)
   
 ## <a name="remediate-phase"></a>Giai đoạn khắc phục
 
 Bạn thực hiện các tác vụ khắc phục dựa trên môi trường nguồn của mình để đáp ứng các yêu cầu về triển lãm, tiếp nhận và di chuyển từng dịch vụ khi cần thiết.
   
-![Các bước triển năng trong giai đoạn Khắc phục](media/O365-Onboarding-Remediate.png)
+![Các bước triển năng trong giai đoạn Khắc phục.](media/O365-Onboarding-Remediate.png)
   
 Chúng tôi cũng cung cấp một tập hợp các hoạt động được đề xuất để tăng giá trị và mức tiếp nhận người dùng cuối. Trước khi bắt đầu giai đoạn Bật, chúng tôi sẽ đồng thời xác minh kết quả của các hoạt động khắc phục để đảm bảo rằng bạn sẵn sàng tiếp tục. 
   
@@ -79,11 +79,11 @@ Khi tất cả các hoạt động khắc phục hoàn tất, tiêu điểm sẽ
   
 ## <a name="core"></a>Core
 
-Triển thị cốt lõi bao gồm việc cung cấp dịch vụ và tích hợp đối tượng thuê và danh tính. Tài liệu cũng bao gồm các bước cung cấp nền tảng cho các dịch vụ triển Exchange Online, SharePoint Online Skype for Business Online. Bạn và Người quản lý FastTrack tiếp tục tổ chức thành công các cuộc họp điểm kiểm tra để đánh giá tiến độ so với mục tiêu và xác định xem bạn cần hỗ trợ thêm gì.
+Triển thị cốt lõi bao gồm việc cung cấp dịch vụ và tích hợp đối tượng thuê và danh tính. Tài liệu cũng bao gồm các bước cung cấp nền tảng cho các dịch vụ triển Exchange Online, SharePoint Online Skype for Business Online. Bạn và Người quản lý tài FastTrack tiếp tục tổ chức thành công các cuộc họp điểm kiểm tra để đánh giá tiến độ so với mục tiêu và xác định xem bạn cần hỗ trợ thêm gì.
   
-![Các bước triển thị cốt lõi trong suốt phần Bật phase_1](media/O365-Onboarding-Enable-Core.png)
+![Các bước triển màn hình cốt lõi trong suốt phase_1.](media/O365-Onboarding-Enable-Core.png)
   
-![Các bước triển thị cốt lõi trong suốt phần Bật phase_2](media/204bbb6c-f7fe-4401-aa69-dd828ed44963.png)
+![Các bước triển thị cốt lõi trong suốt phần Bật phase_2.](media/204bbb6c-f7fe-4401-aa69-dd828ed44963.png)
   
 > [!NOTE]
 > WAP là viết tắt của Web Application Proxy. SSL là viết tắt của Secure Sockets Layer . SDS là viết tắt của School Data Sync. Để biết thêm thông tin về SDS, hãy [xem Chào mừng bạn đến với Microsoft School Data Sync](https://go.microsoft.com/fwlink/?linkid=871480). 
@@ -96,16 +96,16 @@ Ví dụ Exchange Online, chúng tôi sẽ hướng dẫn bạn từ xa về quy
   
 - Thiết lập các Exchange Online Protection năng truy nhập (EOP) cho tất cả các tên miền hỗ trợ thư được xác thực trong Office 365.   
     > [!NOTE]
-    > Bản ghi trao đổi thư (MX) của bạn phải trỏ tới một Office 365.   
+    > Bản ghi trao đổi thư (MX) của bạn phải trỏ tới vị Office 365.   
 - Thiết lập tính năng Exchange Online Chống Mối đe dọa Nâng cao (ATP) nếu nó là một phần của dịch vụ thuê bao của bạn sau khi bản ghi MX của bạn trỏ Office 365. Tính năng này được đặt cấu hình như một phần của Exchange Online Protection phần mềm chống phần mềm độc hại.   
 - Cấu hình cổng tường lửa.   
 - Thiết lập DNS, bao gồm các bản ghi Tự động phát hiện, khung chính sách người gửi (SPF) và bản ghi MX bắt buộc (nếu cần).     
-- Thiết lập dòng email giữa môi trường nhắn tin nguồn và thư của Exchange Online (nếu cần).   
-- Thực hiện di chuyển thư từ môi trường gửi thư nguồn của bạn Office 365.   
+- Thiết lập dòng email giữa môi trường nhắn tin nguồn và thư Exchange Online của bạn (nếu cần).   
+- Tiến hành di chuyển thư từ môi trường nhắn tin nguồn của bạn Office 365.   
     > [!NOTE]
     > Để biết thêm thông tin về việc di chuyển thư và dữ liệu, hãy xem [Di chuyển Dữ liệu](data-migration.md). 
   
-![Exchange triển Exchange trong giai đoạn Bật](media/O365-Onboarding-Enable-Exchange.png)
+![Exchange triển tất cả các bước trong giai đoạn Bật.](media/O365-Onboarding-Enable-Exchange.png)
   
 ## <a name="sharepoint-online-and-onedrive-for-business"></a>SharePoint Trực tuyến và Trực OneDrive for Business
 
@@ -113,17 +113,17 @@ Ví dụ Exchange Online, chúng tôi sẽ hướng dẫn bạn từ xa về quy
 - Thiết lập DNS.   
 - Cấu hình cổng tường lửa.   
 - Cấp phép và người dùng.   
-- Đặt cấu hình cho tính năng SharePoint kết hợp, như tìm kiếm kết hợp, site hỗn hợp, phân loại hỗn hợp, kiểu nội dung, tạo site tự phục vụ kết hợp (chỉ SharePoint Server 2013), công cụ khởi động ứng dụng mở rộng, OneDrive for Business kết hợp và site mạng nội bộ mở rộng.
+- Đặt cấu hình cho tính năng SharePoint kết hợp, như tìm kiếm kết hợp, site hỗn hợp, phương pháp phân loại hỗn hợp, kiểu nội dung, tạo site tự phục vụ kết hợp (chỉ SharePoint Server 2013), công cụ khởi động ứng dụng mở rộng, OneDrive for Business kết hợp và site mạng nội bộ mở rộng.
     
 FastTrack Các chuyên gia hướng dẫn về việc di chuyển dữ liệu Office 365 sử dụng kết hợp các công cụ và tài liệu, đồng thời thực hiện các tác vụ cấu hình nếu có thể và khả thi.
   
-![SharePoint và Skype for Business các bước tiếp thị](media/O365-Onboarding-Enable-SP.png)
+![SharePoint và Skype for Business các bước tiếp thị.](media/O365-Onboarding-Enable-SP.png)
   
 ## <a name="onedrive-for-business"></a>OneDrive for Business
 
 Ví OneDrive for Business, các bước sẽ phụ thuộc vào việc bạn hiện có đang dùng SharePoint không và liệu có phải là phiên bản nào hay không. 
   
-![OneDrive triển OneDrive trong giai đoạn Bật](media/O365-Onboarding-Enable-ODB.png)
+![OneDrive triển OneDrive trong giai đoạn Bật.](media/O365-Onboarding-Enable-ODB.png)
   
 ## <a name="skype-for-business-online"></a>Skype for Business Online
 
@@ -132,23 +132,23 @@ Ví dụ Skype for Business Online, chúng tôi cung cấp hướng dẫn từ x
 - Thiết lập DNS.    
 - Tạo tài khoản cho mọi thiết bị hệ thống phòng.    
 - Triển khai máy khách Skype for Business Online được hỗ trợ.   
-- Thiết lập cấu hình máy chủ tên miền tách giữa môi trường máy chủ Lync 2010, Lync 2013 hoặc Skype for Business 2015 tại chỗ của bạn và đối tượng thuê Skype for Business Online tại chỗ (nếu có).
+- Thiết lập cấu hình máy chủ tên miền tách giữa môi trường máy chủ Lync 2010, Lync 2013 hoặc Skype for Business 2015 tại chỗ của bạn và đối tượng Skype for Business Online tại chỗ (nếu có).
 - Bật Gói Gọi điện, Cuộc họp Skype Phát rộng, Hệ thống Điện thoại Và Gọi Điện (ở những thị trường sẵn có – không sẵn dùng trong các gói GCC cao hoặc DoD). 
     
-![Các bước tiếp diễn trong Lync trong phần Bật phase_1](media/O365-Onboarding-Enable-Lync.png)
+![Các bước trình diễn ra trong Lync trong suốt phase_1.](media/O365-Onboarding-Enable-Lync.png)
   
-![Skype for Business các bước tiếp diễn trong phần Bật phase_2](media/SfBOifappborderupdate.png)
+![Skype for Business các bước tiếp diễn trong bước Bật phase_2.](media/SfBOifappborderupdate.png)
   
 ## <a name="microsoft-teams"></a>Microsoft Teams
 
 > [!NOTE]
 > FastTrack hỗ trợ phạm vi dựa trên tính sẵn dùng của các tính năng trong từng môi trường tương ứng. Để biết danh sách các tính năng hiện có sẵn trong mỗi môi trường, hãy xem Tính <a href="/office365/servicedescriptions/teams-service-description#feature-availability">năng có sẵn.</a>
 
-Ví dụ Microsoft Teams, chúng tôi cung cấp hướng dẫn từ xa cho: 
+Ví dụ Microsoft Teams, chúng tôi cung cấp hướng dẫn từ xa để: 
 - Xác nhận các yêu cầu tối thiểu trong Exchange Online, SharePoint Online, Office 365 nhóm sản phẩm và dịch vụ Azure Active Directory (Azure AD) để hỗ Teams.
 - Cấu hình cổng tường lửa.   
 - Thiết lập DNS.  
-- Xác nhận Microsoft Teams bật trên đối tượng thuê Office 365 bạn.    
+- Xác nhận Microsoft Teams được bật trên đối tượng thuê Office 365 bạn.    
 - Bật hoặc tắt giấy phép người dùng.
 - Đánh giá mạng đối với Teams:
     - Kiểm tra cổng và điểm cuối.
@@ -179,7 +179,7 @@ Ví dụ Microsoft Teams, chúng tôi cung cấp hướng dẫn từ xa cho:
 - Thiết lập và tích hợp tổ chức vào Microsoft Stream.
 - Hướng dẫn chuyển Skype for Business chuyển Teams trang. 
     
-![FastTrack Microsoft Teams trang (Bật pha)](media/42a2d990-4e27-4758-b0cd-0024963c1542.png)
+![FastTrack Microsoft Teams kế hoạch (Bật giai đoạn).](media/42a2d990-4e27-4758-b0cd-0024963c1542.png)
   
 ## <a name="power-bi"></a>Power BI
 
@@ -194,7 +194,7 @@ Ví dụ Project Online, chúng tôi cung cấp hướng dẫn cho:
 - Thiết lập Nhóm Tài nguyên Doanh nghiệp (ERP).   
 - Tạo dự án đầu tiên của bạn. 
     
-![Các bước xảy ra trong giai đoạn Bật cho máy Project Online](media/d8dd7d31-1df6-4df4-a1aa-4dbdd34b973e.png)
+![Các bước xảy ra trong giai đoạn Bật cho máy Project Online.](media/d8dd7d31-1df6-4df4-a1aa-4dbdd34b973e.png)
   
 ## <a name="yammer-enterprise"></a>Yammer Enterprise
 
@@ -214,4 +214,4 @@ Ví dụ Ứng dụng Microsoft 365, chúng tôi cung cấp hướng dẫn từ 
 - Thiết lập một máy chủ phân phối tại chỗ duy nhất cho Ứng dụng Microsoft 365, bao gồm hỗ trợ tạo một tệp configuration.xml để sử dụng với Công cụ Triển khai Office 365 động.    
 - Deployment using Microsoft Endpoint Configuration Manager, including assistance with the creation of Microsoft Endpoint Configuration Manager packaging.
     
-![Office Các bước tiếp nhận của ProPlus](media/o365-onboarding-enable-m365-apps-2.png)
+![Office Các bước tiếp nhận của ProPlus.](media/o365-onboarding-enable-m365-apps-2.png)
