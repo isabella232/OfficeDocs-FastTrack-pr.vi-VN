@@ -3,19 +3,19 @@ title: Trách nhiệm của Bạn đối với Office 365 chính phủ Hoa Kỳ
 ms.author: v-bermic
 author: rberg-steyer
 manager: jimmuir
-ms.date: 7/28/2021
+ms.date: 8/18/2021
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: None
 ms.collection: FastTrack
 description: Bạn có trách nhiệm sau trong quá trình thực hiện.
-ms.openlocfilehash: b1a8b6ca52f2329a1012da484247b851d77b683c
-ms.sourcegitcommit: d824630e1c1e1b712b36aee1428c97e46d55cbd5
+ms.openlocfilehash: be41b6a9f0080909d01da1106ab8f1f638381973
+ms.sourcegitcommit: 71ec2c25b514f3a21ed58ca3499af1576e8f2c8d
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 07/28/2021
-ms.locfileid: "53629467"
+ms.lasthandoff: 08/18/2021
+ms.locfileid: "58392388"
 ---
 # <a name="your-responsibilities-for-office-365-us-government"></a>Trách nhiệm của Bạn đối với Office 365 chính phủ Hoa Kỳ
 
@@ -26,9 +26,9 @@ Bạn có trách nhiệm sau trong quá trình thực hiện.
 - Phát triển và thực hiện kế hoạch thành công của bạn.   
 - Cung cấp mọi cải tiến và tích hợp cho đối tượng thuê Office 365 của bạn, ngoài các tùy chọn có thể đặt cấu hình được liệt kê ở đây.    
 - Cung cấp quản lý dự án và chương trình tổng thể, bao gồm:     
-  - Chỉ định người quản lý dự án làm liên hệ chính cho Người quản lý FastTrack.   
-  - Gán một khách hàng tiềm năng kỹ thuật làm liên hệ chính cho Kỹ sư FastTrack.  
-  - Gán các tài nguyên kỹ thuật để thực hiện các tác vụ khắc phục, cấu hình và bật như nhóm FastTrack nêu.   
+  - Gán người quản lý dự án làm liên hệ chính cho Người quản lý FastTrack dự án.   
+  - Gán một khách hàng tiềm năng kỹ thuật làm liên hệ chính cho Kỹ sư của FastTrack.  
+  - Gán các tài nguyên kỹ thuật để thực hiện các tác vụ khắc phục, cấu hình và bật như được nhóm FastTrack phác thảo.   
 - Cung cấp tài nguyên chịu trách nhiệm về việc thúc đẩy việc tiếp nhận dịch vụ của người dùng cuối.    
 - Cung cấp khả năng liên lạc, hướng dẫn sử dụng, đào tạo và quản lý thay đổi cho người dùng cuối.    
 - Xác định và gắn kết các nhà tài trợ doanh nghiệp thích hợp.     
@@ -41,7 +41,7 @@ Bạn có trách nhiệm sau trong quá trình thực hiện.
 - Quản lý, đặt cấu hình và áp dụng các chính sách bảo mật.    
 - Kích hoạt thiết bị di động.    
 - Cung cấp cấu hình mạng, phân tích, xác thực băng thông, thử nghiệm và giám sát. 
-- Thay đổi quy tắc tường lửa để hỗ trợ các URL và dải địa chỉ IP cụ thể mà dịch vụ Office 365 sử dụng (nếu cần thiết).
+- Thay đổi quy tắc tường lửa để hỗ trợ các URL và dải địa chỉ IP cụ thể mà dịch Office 365 của bạn sử dụng (nếu cần thiết).
 - Cung cấp điểm cuối proxy đảo ngược tại cơ sở cho Microsoft (nếu cần thiết).     
 - Alter the network to provide necessary bandwidth for Skype for Business Online services.   
 - Quản lý quy trình phê duyệt quản lý thay đổi kỹ thuật và tạo tài liệu hỗ trợ.    
@@ -52,16 +52,16 @@ Bạn có trách nhiệm sau trong quá trình thực hiện.
     > [!NOTE]
     > Đảm bảo rằng tất cả dữ liệu mong muốn được di chuyển trước khi ngừng hoạt động và loại bỏ môi trường nguồn của bạn.   
 - Xây dựng và duy trì môi trường thử nghiệm của bạn.  
-- Cài đặt Các công cụ quản trị lync 2013 Skype for Business Online 2015 và gói dịch vụ để hỗ trợ cấu hình tên miền tách.    
+- Cài đặt Các công cụ quản trị Lync 2013 Skype for Business Online 2015 và gói dịch vụ để hỗ trợ cấu hình tên miền tách.    
 - Cài đặt gói dịch vụ và các cập nhật bắt buộc khác trên máy chủ cơ sở hạ tầng.     
 - Cung cấp và cấu hình mọi chứng chỉ Tầng Khe Bảo mật (SSL) công cộng. 
     
 ## <a name="initiate-phase"></a>Giai đoạn khởi tạo
 
-- Thiết lập không gian Microsoft Teams cộng tác cho quan hệ đối tác triển năng và mời các thành viên nhóm FastTrack Center (không sẵn dùng trong các gói GCC cao hoặc DoD).   
-- Làm việc với Các chuyên gia FastTrack để bắt đầu triển khai các dịch vụ đủ điều kiện.    
+- Thiết lập không gian Microsoft Teams cộng tác cho quan hệ đối tác triển FastTrack Center và mời các thành viên nhóm Trong Trung tâm Nhóm (không sẵn dùng trong các GCC kế hoạch Cao hoặc DoD).   
+- Làm việc với các Chuyên FastTrack Viên Để bắt đầu triển khai các dịch vụ đủ điều kiện.    
 - Tham gia vào cuộc họp giới chức sự tham gia, quản lý và điều khiển người dự từ tổ chức của bạn và xác nhận đường thời gian khắc phục.    
-- Cung cấp mục tiêu của bạn về Office 365 vụ công cộng (ví dụ: SharePoint Online, Exchange Online, Microsoft Teams và Ứng dụng Microsoft 365) cũng như các mục tiêu của tổ chức.
+- Cung cấp mục tiêu của bạn Office 365 các dịch vụ quản lý (ví dụ như SharePoint Online, Exchange Online, Microsoft Teams và Ứng dụng Microsoft 365) và các mục tiêu của tổ chức.
     
 ## <a name="assess-phase"></a>Giai đoạn đánh giá
 
@@ -86,11 +86,11 @@ Bạn có trách nhiệm sau trong quá trình thực hiện.
     
 ## <a name="enable-phase"></a>Cho phép giai đoạn
 
-- Làm việc với Các chuyên gia FastTrack để hoàn thành việc triển tất cả các dịch vụ đủ điều kiện và:  
+- Làm việc với các Chuyên FastTrack Viên Để hoàn thành việc triển tất cả các dịch vụ đủ điều kiện và:  
   - Thực hiện kế hoạch nhận thức.   
   - Triển khai kế hoạch đào tạo.   
   - Cung cấp tiến độ lập kế hoạch thành công và xác định các khu vực mà bạn cần hướng dẫn.  
-- Cung cấp Cho Chuyên gia FastTrack quyền truy nhập và quyền (nếu bạn chọn cho phép Microsoft thực hiện các tác vụ di chuyển).   
+- Cung cấp FastTrack chuyên gia về quyền truy nhập và quyền truy nhập (nếu bạn chọn để Microsoft thực hiện các tác vụ di chuyển).   
 - Mua và cung cấp tài khoản quản trị để hướng tới các môi trường phù hợp (nếu bạn chọn cho phép Microsoft thực hiện các hoạt động di chuyển).    
 - Quản lý tài nguyên phù hợp.     
 - Đặt cấu hình các mục liên quan đến mạng theo hướng dẫn Microsoft.    

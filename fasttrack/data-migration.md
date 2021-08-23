@@ -3,40 +3,40 @@ title: Di chuyển dữ liệu
 ms.author: v-bermic
 author: rberg-steyer
 manager: jimmuir
-ms.date: 7/28/2021
+ms.date: 8/18/2021
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: Normal
 ms.collection: FastTrack
-description: FastTrack có thể giúp bạn di chuyển dữ liệu thư và tệp trong môi trường nguồn sang Office 365 (Exchange Online, SharePoint Online và OneDrive for Business). Loại hỗ trợ mà chúng tôi cung cấp phụ thuộc vào số lượng giấy phép Office 365 bạn.
-ms.openlocfilehash: f23500293334db525b4146e98498516ffaccff25
-ms.sourcegitcommit: d824630e1c1e1b712b36aee1428c97e46d55cbd5
+description: FastTrack có thể giúp bạn di chuyển dữ liệu thư và tệp trong môi trường nguồn của bạn sang Office 365 (Exchange Online, SharePoint Online, và OneDrive for Business). Loại hỗ trợ mà chúng tôi cung cấp phụ thuộc vào số lượng giấy phép Office 365 bạn.
+ms.openlocfilehash: b046873cfca76ad29105e09e0a3f9355434ec95f
+ms.sourcegitcommit: 71ec2c25b514f3a21ed58ca3499af1576e8f2c8d
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 07/28/2021
-ms.locfileid: "53629515"
+ms.lasthandoff: 08/18/2021
+ms.locfileid: "58392376"
 ---
 # <a name="data-migration"></a>Di chuyển dữ liệu
 
-FastTrack có thể giúp bạn di chuyển dữ liệu thư và tệp trong môi trường nguồn sang Office 365 (Exchange Online, SharePoint Online và OneDrive for Business).
+FastTrack có thể giúp bạn di chuyển dữ liệu thư và tệp trong môi trường nguồn của bạn sang Office 365 (Exchange Online, SharePoint Online, và OneDrive for Business).
 
 Loại hỗ trợ mà chúng tôi cung cấp phụ thuộc vào số lượng giấy phép Office 365 bạn:
 
   - **Đối với Office 365 thuê có 150-499** giấy phép: FastTrack chỉ cung cấp hướng dẫn di chuyển; bạn chịu trách nhiệm thực hiện di chuyển dữ liệu. Chúng tôi hướng dẫn bạn thông qua tài liệu giúp bạn lập kế hoạch và sử dụng các công cụ miễn phí để thực hiện di chuyển tự phục vụ.
-  - **Đối với Office 365 thuê có 500** giấy phép trở lên: FastTrack cung cấp hướng dẫn di chuyển và dịch vụ di chuyển dữ liệu. Chúng tôi cung cấp hướng dẫn để giúp bạn lập kế hoạch di chuyển, đặt cấu hình cho môi trường nguồn và đối tượng thuê Office 365 và tận dụng các dịch vụ di chuyển dữ liệu của chúng tôi để di chuyển dữ liệu của bạn. Bạn tạo và lên lịch cho các sự kiện di chuyển của mình. Chúng tôi sẽ khởi chạy các sự kiện di chuyển theo lịch biểu của bạn, theo dõi tiến độ của sự kiện và cung cấp báo cáo tình trạng.
+  - **Đối với Office 365 thuê có từ 500** giấy phép trở lên : bạn có FastTrack hướng dẫn di chuyển và dịch vụ di chuyển dữ liệu. Chúng tôi cung cấp hướng dẫn để giúp bạn lập kế hoạch di chuyển, đặt cấu hình cho môi trường nguồn và đối tượng thuê Office 365 cũng như tận dụng các dịch vụ di chuyển dữ liệu của chúng tôi để di chuyển dữ liệu của bạn. Bạn tạo và lên lịch cho các sự kiện di chuyển của mình. Chúng tôi sẽ khởi chạy các sự kiện di chuyển theo lịch biểu của bạn, theo dõi tiến độ của sự kiện và cung cấp báo cáo tình trạng.
 
 > [!NOTE]
 > Nếu bạn đã mua hoặc gia hạn gói thương mại trước ngày 01/09/2017, bạn chỉ cần 150 giấy phép để đủ điều kiện sử dụng dịch vụ di chuyển dữ liệu. Đối với các gói dành cho giáo dục, chỉ giấy phép giảng viên và nhân viên trả phí mới đủ điều kiện sử dụng các dịch vụ di chuyển dữ liệu.
 
 ### <a name="considerations"></a>Những điều cần cân nhắc
 
-  - Môi trường nguồn của bạn phải đáp ứng các kỳ vọng cụ thể để di chuyển dữ liệu sang Office 365. Tham khảo [mục Sản phẩm và Khả năng](products-and-capabilities.md) để biết thêm thông tin về dự tính môi trường nguồn cho Exchange, SharePoint và OneDrive for Business.
+  - Môi trường nguồn của bạn phải đáp ứng các kỳ vọng cụ thể để di chuyển dữ liệu sang Office 365. Tham khảo [mục Sản phẩm và Khả](products-and-capabilities.md) năng để biết thêm thông tin về dự tính môi trường nguồn cho Exchange, SharePoint và OneDrive for Business.
   - Chúng tôi yêu cầu quyền truy nhập và quyền thích hợp đối với môi trường nguồn và đối tượng thuê Office 365 cấp dịch vụ di chuyển dữ liệu.
   - Dịch vụ di chuyển dữ liệu của chúng tôi không được thiết kế cũng không dành cho dữ liệu tuân theo các yêu cầu pháp lý hoặc quy định đặc biệt. Khi chúng tôi di chuyển dữ liệu của bạn, dữ liệu đó có thể được chuyển sang, lưu trữ và xử lý ở bất kỳ nơi nào mà chúng tôi duy trì tiện ích (ngoại trừ những điều khác được cung cấp cho dự án di chuyển FastTrack của bạn).
   - Chúng tôi không thể đảm bảo tốc độ di chuyển thư hoặc tệp.
   - Các sự cố bất ngờ (như các mục không đọc được hoặc bị hỏng trong môi trường nguồn) có thể ngăn không cho chúng tôi di chuyển một số mục dữ liệu của bạn.
-  - Các yếu tố bên ngoài nằm ngoài khả năng kiểm soát của chúng tôi (chẳng hạn như những thay đổi đối với giao diện lập trình ứng dụng (API) của bên thứ ba có thể dẫn đến thay đổi, trì hoãn hoặc tạm dừng các dịch vụ di chuyển dữ liệu của chúng tôi.
+  - Các yếu tố bên ngoài nằm ngoài quyền kiểm soát của chúng tôi (chẳng hạn như những thay đổi đối với giao diện lập trình ứng dụng (API) của bên thứ ba có thể dẫn đến thay đổi, trì hoãn hoặc tạm ngừng các dịch vụ di chuyển dữ liệu của chúng tôi.
 
 ### <a name="migration-service-availability"></a>Tính khả dụng của dịch vụ di chuyển
 
@@ -45,13 +45,13 @@ Loại hỗ trợ mà chúng tôi cung cấp phụ thuộc vào số lượng gi
 
 ## <a name="migration-to-exchange-online"></a>Di chuyển sang Exchange Online
 
-Khi bạn chọn sử dụng FastTrack để di chuyển email của mình sang Exchange Online, chúng tôi cung cấp hướng dẫn di chuyển và dịch vụ di chuyển dữ liệu. Chúng tôi cung cấp hướng dẫn để giúp bạn lập kế hoạch di chuyển, đặt cấu hình cho môi trường nguồn và môi trường Exchange Online, cũng như tận dụng các dịch vụ di chuyển dữ liệu của chúng tôi để di chuyển hộp thư của bạn. Bạn tạo và lên lịch cho các sự kiện di chuyển của mình. Chúng tôi sẽ khởi chạy các sự kiện di chuyển theo lịch biểu của bạn, theo dõi tiến độ của sự kiện và cung cấp báo cáo tình trạng. Khi các sự kiện di chuyển của bạn hoàn tất, bạn có thể mong đợi thư từ các hộp thư nguồn được lên lịch và đủ điều kiện thích hợp của môi trường nguồn của bạn đã được di chuyển sang Exchange Online.
+Khi bạn chọn sử dụng dịch FastTrack để di chuyển email của mình sang Exchange Online, chúng tôi cung cấp hướng dẫn di chuyển và dịch vụ di chuyển dữ liệu. Chúng tôi cung cấp hướng dẫn để giúp bạn lập kế hoạch di chuyển, đặt cấu hình cho môi trường nguồn và Exchange Online cũng như tận dụng các dịch vụ di chuyển dữ liệu của chúng tôi để di chuyển hộp thư của bạn. Bạn tạo và lên lịch cho các sự kiện di chuyển của mình. Chúng tôi sẽ khởi chạy các sự kiện di chuyển theo lịch biểu của bạn, theo dõi tiến độ của sự kiện và cung cấp báo cáo tình trạng. Khi các sự kiện di chuyển của bạn hoàn tất, bạn có thể mong đợi thư từ hộp thư nguồn được lên lịch và đủ điều kiện thích hợp của môi trường nguồn của bạn đã được di chuyển sang Exchange Online.
 
 ### <a name="considerations"></a>Những điều cần cân nhắc
 
-  - Trước khi di chuyển, bạn phải hoàn thành triển thị cốt lõi FastTrack cho bản Exchange Online;
+  - Trước khi di chuyển, bạn phải hoàn tất triển FastTrack để triển Exchange Online;
       - Nếu bạn đã tự mình thực hiện tự lập, bạn phải thông qua các kiểm tra và điều kiện tiên quyết bắt buộc. Hãy tham khảo [Sản phẩm và Khả năng](products-and-capabilities.md) để biết chi tiết.
-  - FastTrack chỉ di chuyển đến hộp thư Office 365 động.
+  - FastTrack chuyển chỉ đến hộp thư Office 365 động.
   - Bạn phải thỏa mãn các yêu cầu cụ thể nếu bạn có ý định di chuyển từ môi trường Exchange tại chỗ. Tham khảo [Điều kiện tiên quyết triển khai kết hợp để biết](https://go.microsoft.com/fwlink/?LinkId=787528) chi tiết.
   - Mỗi môi trường nguồn phải nằm trên mức gói dịch vụ (SP) và tổng số (RU)/cập nhật tích lũy (CU) mới nhất cho sản phẩm tương ứng trong môi trường nguồn.
   - Danh sách phân phối ( đối tượng *MailEnabledGroup)* và liên hệ bên ngoài (đối tượng *MailEnabledContact)* tồn tại trong Active Directory tại chỗ của bạn không phải là một phần trong việc di chuyển dữ liệu hộp thư. Tuy nhiên, bạn có thể đồng bộ hóa chúng bằng Azure Active Directory (Azure AD) Kết nối. 
@@ -60,8 +60,8 @@ Khi bạn chọn sử dụng FastTrack để di chuyển email của mình sang 
 
 Dịch vụ di chuyển dữ liệu của chúng tôi di chuyển dữ liệu từ các môi trường nguồn này:
 
-  - Một hoặc nhiều rừng Active Directory với một hoặc nhiều tổ chức Exchange (mỗi hệ thống thư Exchange phải được tính từ Exchange 2010 trở lên).
-  - Một môi trường email có khả năng IMAP đơn lẻ.
+  - Một hoặc nhiều rừng Active Directory với một hoặc nhiều tổ chức Exchange (mỗi tổ chức Exchange phải được tính từ Exchange 2010 trở lên).
+  - Một môi trường email có khả năng IMAP duy nhất.
   - Môi trường G Suite (chỉ Gmail, Danh bạ và Lịch).
 
 Bảng sau đây trình bày chi tiết di chuyển cụ thể cho từng môi trường nguồn:
@@ -79,7 +79,7 @@ Bảng sau đây trình bày chi tiết di chuyển cụ thể cho từng môi t
 <tr class="odd">
 <td><strong>Exchange 2010, Exchange 2013, Exchange 2016, Exchange 2019</strong><br />
 <br />
-<strong>Lưu ý:</strong> Đối với các phụ thuộc Exchange cơ sở, hãy xem Điều kiện tiên quyết <a href="https://go.microsoft.com/fwlink/?LinkId=787528"><span class="underline">triển khai kết hợp.</span></a></td>
+<strong>Lưu ý:</strong> Để biết các phụ thuộc Exchange tại chỗ, hãy xem Điều kiện tiên quyết <a href="https://go.microsoft.com/fwlink/?LinkId=787528"><span class="underline">triển khai kết hợp.</span></a></td>
 <td>Di chuyển với triển khai kết hợp</td>
 <td><ul>
 <li>Email</li>
@@ -160,11 +160,11 @@ Bảng sau đây trình bày chi tiết di chuyển cụ thể cho từng môi t
 </tbody>
 </table>
 
-## <a name="fasttrack-responsibilities-for-exchange-online-migrations"></a>Trách nhiệm của FastTrack đối với Exchange Online chuyển
+## <a name="fasttrack-responsibilities-for-exchange-online-migrations"></a>FastTrack trách nhiệm đối với Exchange Online di chuyển
 
-Các Chuyên gia FastTrack của chúng tôi thực hiện các hoạt động tiêu chuẩn trong dự án di chuyển. Tham khảo thông tin về trách nhiệm di chuyển dữ liệu trong phần [Quy trình và Kỳ vọng](process-and-expectations.md) đối với các chi tiết.
+Chuyên gia FastTrack của chúng tôi thực hiện các hoạt động tiêu chuẩn trong dự án di chuyển. Tham khảo thông tin về trách nhiệm di chuyển dữ liệu trong phần [Quy trình và Kỳ vọng](process-and-expectations.md) đối với các chi tiết.
 
-Các Chuyên gia FastTrack của chúng tôi cũng thực hiện các hoạt động sau đây, dành riêng cho Exchange chuyển:
+Chuyên gia FastTrack của chúng tôi cũng thực hiện các hoạt động sau đây, dành riêng cho Exchange chuyển:
 
   -  Cung cấp hướng dẫn để giúp bạn bật đồng tồn tại định tuyến thư SMTP giữa các môi trường nguồn và trong Exchange Online, nếu có.
 
@@ -174,18 +174,18 @@ Bạn thực hiện các hoạt động tiêu chuẩn trong dự án di chuyển
 
 Bạn cũng có thể thực hiện các hoạt động sau đây, dành riêng cho Exchange chuyển:
 
-  - Hoàn thành triển thị cốt lõi FastTrack cho mọi Exchange Online. Nếu bạn đã tự mình thực hiện tự lập, bạn phải thông qua các kiểm tra và điều kiện tiên quyết bắt buộc. Hãy tham khảo [Sản phẩm và Khả năng](products-and-capabilities.md) để biết chi tiết.
-  -  Cài đặt mức độ thích hợp của phần mềm máy khách theo hướng Office 365 máy khách. Tham khảo Nơi [làm việc Hiện đại để](https://transform.microsoft.com/download?assetname=assets%2FMicrosoft%20365%20%20Security%20Group%20Marketing%20Field%20Advisory%20%20Renaming%20Office%20365%20SMB%20Products%20and%20Office%20365%20ProPlus.msg) biết chi tiết.
+  - Hoàn thành FastTrack triển thị cốt lõi cho mọi Exchange Online. Nếu bạn đã tự mình thực hiện tự lập, bạn phải thông qua các kiểm tra và điều kiện tiên quyết bắt buộc. Hãy tham khảo [Sản phẩm và Khả năng](products-and-capabilities.md) để biết chi tiết.
+  -  Cài đặt mức độ thích hợp của phần mềm máy khách theo hướng Office 365 thích hợp. Tham khảo Nơi [làm việc Hiện đại để](https://transform.microsoft.com/download?assetname=assets%2FMicrosoft%20365%20%20Security%20Group%20Marketing%20Field%20Advisory%20%20Renaming%20Office%20365%20SMB%20Products%20and%20Office%20365%20ProPlus.msg) biết chi tiết.
   -  Thỏa mãn các yêu cầu cụ thể nếu bạn có ý định di chuyển từ môi trường Exchange tại chỗ. Tham khảo [Điều kiện tiên quyết triển khai kết hợp để biết](https://go.microsoft.com/fwlink/?LinkId=787528) chi tiết.
   -  Đảm bảo mỗi môi trường nguồn nằm trên mức gói dịch vụ (SP) và tổng số (RU)/cập nhật tích lũy (CU) mới nhất, nếu có.
-  -  Cấu hình và xác thực đồng tồn tại định tuyến thư SMTP giữa các môi trường nguồn của bạn và Exchange Online, nếu có.
+  -  Cấu hình và xác thực đồng tồn tại định tuyến thư SMTP giữa các môi trường nguồn và Exchange Online, nếu có.
   -  Đảm bảo kích cỡ hộp thư nguồn của bạn không vượt quá hạn mức hộp thư đích. Tùy theo nền tảng nguồn, bạn có thể cần giới hạn dữ liệu nguồn ở 85 phần trăm hạn mức hộp thư đích.
-  -  Di chuyển dữ liệu phía máy khách nếu muốn. Điều này bao gồm, nhưng không giới hạn, sổ địa chỉ cục bộ, dữ liệu trong tệp PST cục bộ, các quy Outlook quy tắc và thiết đặt Outlook quan.
+  -  Di chuyển dữ liệu phía máy khách nếu muốn. Điều này bao gồm, nhưng không giới hạn, sổ địa chỉ cục bộ, dữ liệu trong các tệp PST cục bộ, các quy Outlook quy tắc và thiết đặt Outlook địa phương.
   -  Hỗ trợ người dùng cuối của bạn khắc phục sự cố di chuyển phía máy khách.
 
 ## <a name="migration-to-sharepoint-online"></a>Di chuyển sang SharePoint Online
 
-Khi bạn chọn sử dụng FastTrack để di chuyển tệp sang SharePoint Online, chúng tôi cung cấp hướng dẫn di chuyển và dịch vụ di chuyển dữ liệu. Chúng tôi cung cấp hướng dẫn để giúp bạn lập kế hoạch di chuyển, đặt cấu hình môi trường nguồn và SharePoint Online cũng như tận dụng các dịch vụ di chuyển dữ liệu của chúng tôi để di chuyển tệp của bạn. Bạn tạo và lên lịch cho các sự kiện di chuyển của mình. Chúng tôi sẽ khởi chạy các sự kiện di chuyển theo lịch biểu của bạn, theo dõi tiến độ của sự kiện và cung cấp báo cáo tình trạng. Khi các sự kiện di chuyển của bạn hoàn tất, bạn có thể mong đợi các tệp từ các nguồn được lên lịch và đủ điều kiện thích hợp từ môi trường nguồn của bạn đã được di chuyển SharePoint Online.
+Khi bạn chọn sử dụng dịch FastTrack để di chuyển tệp sang SharePoint Online, chúng tôi cung cấp hướng dẫn di chuyển và dịch vụ di chuyển dữ liệu. Chúng tôi cung cấp hướng dẫn để giúp bạn lập kế hoạch di chuyển, đặt cấu hình cho môi trường nguồn và SharePoint Online, cũng như tận dụng các dịch vụ di chuyển dữ liệu của chúng tôi để di chuyển tệp của bạn. Bạn tạo và lên lịch cho các sự kiện di chuyển của mình. Chúng tôi sẽ khởi chạy các sự kiện di chuyển theo lịch biểu của bạn, theo dõi tiến độ của sự kiện và cung cấp báo cáo tình trạng. Khi các sự kiện di chuyển của bạn hoàn tất, bạn có thể mong đợi các tệp từ các nguồn có lịch biểu và đủ điều kiện thích hợp của môi trường nguồn của bạn đã được di chuyển sang SharePoint Online.
 
 ### <a name="considerations"></a>Những điều cần cân nhắc
 
@@ -197,7 +197,7 @@ Khi bạn chọn sử dụng FastTrack để di chuyển tệp sang SharePoint O
 Các dịch vụ di chuyển dữ liệu của chúng tôi di chuyển dữ liệu từ các môi trường nguồn này:
 
   - Chia sẻ tệp (chia sẻ tệp Chặn Thông báo Máy chủ (SMB) trên thiết bị hỗ trợ trở đi SMB 2.0).
-  - Môi trường G Suite đơn (chỉ Google Drive áp dụng).
+  - Môi trường G Suite đơn (chỉ Google Drive khác).
   - Box (Starter, Business, Enterprise).
   - Dropbox dùng cho Teams (Tiêu chuẩn và Nâng cao).
 
@@ -236,21 +236,21 @@ Bảng sau đây trình bày chi tiết di chuyển cụ thể cho từng môi t
 <li> Chuyển đổi các URL nhúng trong nội dung </li>
 <li> Các phiên bản trước </li>
 <li> Windows thuộc tính tệp và thư mục (như chỉ đọc và ẩn) </li>
-<li> Các quyền nâng Windows Hệ thống Tệp Công nghệ Mới (NTFS) và NTFS nâng cao cũng như các cài đặt đặc biệt: </li>
+<li> Các quyền nâng Windows và cài đặt đặc biệt của NTFS và Hệ thống Tệp Công nghệ Mới (NTFS) và NTFS: </li>
 <li> Các quyền từ chối rõ ràng (bị loại bỏ sau khi di chuyển, nội dung cần phải tuân theo các quyền song song hoặc các quyền trên thư mục mẹ) </li>
 <li> Cấu hình kiểm tra NTFS </li>
 <li> Siêu dữ liệu tệp bổ sung được cung cấp bởi Cơ sở hạ tầng Phân loại Tệp (FCI) </li>
 <li> Tài liệu không thể tiếp cận hoặc bị hỏng </li>
 <li> Chia sẻ ẩn </li>
 <li> Chia sẻ (chẳng hạn như quyền được cấp ở mức chia sẻ) </li>
-<li> Tệp hoặc thư mục vượt quá giới <a href="https://go.microsoft.com/fwlink/?linkid=846724"> <span class="underline">SharePoint Online và hạn</span> chế</a> </li>
+<li> Tệp hoặc thư mục vượt quá giới <a href="https://go.microsoft.com/fwlink/?linkid=846724"> <span class="underline">SharePoint Online và giới hạn</span></a> </li>
 </ul></td>
 </tr>
 <tr class="even">
-<td><strong>Môi trường G Suite Đơn (Google Drive riêng biệt)</strong></td>
+<td><strong>Môi trường G Suite Đơn (Google Drive riêng)</strong></td>
 <td>Truyền một lần hoặc nhiều lần</td>
 <td><ul>
-<li> Tài liệu, Trang tính và Trang chiếu của Google (tệp được chuyển đổi thành định dạng Office tương đương), bao gồm các tệp lớn hơn 10 MB </li>
+<li> Tài liệu, Trang tính và Trang chiếu của Google (tệp được chuyển đổi sang định dạng tệp Office tương đương), bao gồm các tệp lớn hơn 10 MB </li>
 <li> Cấu trúc tệp và thư mục </li>
 <li> Quyền thư mục mức người dùng </li>
 <li> Quyền thư mục mức nhóm </li>
@@ -263,10 +263,10 @@ Bảng sau đây trình bày chi tiết di chuyển cụ thể cho từng môi t
 <li> Sửa đổi lần cuối bởi </li>
 </ul></li>
 <li> Ổ đĩa dùng chung (thư mục và tệp) </li>
-<li> Nội dung chia sẻ thuộc sở hữu của Google Drive khoản người dùng đang được di chuyển </li>
+<li> Nội dung chia sẻ thuộc sở hữu Google Drive khoản người dùng sẽ được di chuyển </li>
 </ul></td>
 <td><ul>
-<li> Lịch sử quyền sở hữu, các phiên bản trước và chú thích </li>
+<li> Lịch sử sở hữu, các phiên bản trước và chú thích </li>
 <li> Mô tả tệp và thư mục, màu thư mục </li>
 <li> Quyền tệp mức người dùng </li>
 <li> Quyền tệp mức nhóm </li>
@@ -279,11 +279,11 @@ Bảng sau đây trình bày chi tiết di chuyển cụ thể cho từng môi t
 <li> Ảnh, Biểu mẫu, Biểu mẫu và Bản đồ các ứng dụng được kết nối khác của Google </li>
 <li> Hình vẽ Google </li>
 <li> Nội dung chia sẻ bên ngoài tổ chức của bạn </li>
-<li> Nội dung không thuộc sở hữu của Google Drive khoản người dùng đang được di chuyển </li>
+<li> Nội dung không thuộc sở hữu của tài Google Drive được di chuyển </li>
 <li> Quyền và siêu dữ liệu cơ bản của người dùng bên ngoài ( Lưu<strong>ý:</strong>Sử dụng báo cáo Google Drive Quản trị Để xác định nội dung được chia sẻ với người dùng bên ngoài. Hướng dẫn người dùng cuối chia sẻ lại nội dung với người dùng bên ngoài sau khi di chuyển.) </li>
 <li> Quyền tư cách thành viên ổ đĩa dùng chung<strong>(Lưu</strong>ý: Sử dụng Google Drive báo cáo người quản trị để xác định tư cách thành viên ổ đĩa dùng chung. Hướng dẫn người dùng cuối cấu hình các thiết đặt tư cách thành viên này theo mục tiêu trước khi di chuyển.) </li>
 <li> Các tệp được đánh dấu là hạn chế hoặc không thể sao chép </li>
-<li> Tệp hoặc thư mục vượt quá giới <a href="https://go.microsoft.com/fwlink/?linkid=846724"> <span class="underline">SharePoint Online và hạn</span> chế</a> </li>
+<li> Tệp hoặc thư mục vượt quá giới <a href="https://go.microsoft.com/fwlink/?linkid=846724"> <span class="underline">SharePoint Online và giới hạn</span></a> </li>
 </ul></td>
 </tr>
 <tr class="odd">
@@ -306,7 +306,7 @@ Bảng sau đây trình bày chi tiết di chuyển cụ thể cho từng môi t
 <li> Ghi chú Box (được chuyển đổi thành định dạng tài liệu Word) </li>
 </ul></td>
 <td><ul>
-<li> Lịch sử quyền sở hữu, các phiên bản trước và chú thích </li>
+<li> Lịch sử sở hữu, các phiên bản trước và chú thích </li>
 <li> Mô tả tệp và thư mục </li>
 <li> Quyền tệp mức người dùng </li>
 <li> Quyền tệp mức nhóm </li>
@@ -319,7 +319,7 @@ Bảng sau đây trình bày chi tiết di chuyển cụ thể cho từng môi t
 <li> Ứng dụng Box, Thẻ đánh dấu, Yêu thích và Dòng công việc </li>
 <li> Nội dung không thuộc sở hữu của tài khoản Box được di chuyển </li>
 <li> Quyền và siêu dữ liệu cơ bản của người dùng bên ngoài ( Lưu<strong>ý:</strong>Báo cáo Use Box để xác định nội dung được chia sẻ với người dùng bên ngoài. Hướng dẫn người dùng cuối chia sẻ lại nội dung với người dùng bên ngoài sau khi di chuyển.) </li>
-<li> Tệp hoặc thư mục vượt quá giới <a href="https://go.microsoft.com/fwlink/?linkid=846724"> <span class="underline">SharePoint Online và hạn</span> chế</a> </li>
+<li> Tệp hoặc thư mục vượt quá giới <a href="https://go.microsoft.com/fwlink/?linkid=846724"> <span class="underline">SharePoint Online và giới hạn</span></a> </li>
 </ul></td>
 </tr>
 <tr class="even">
@@ -339,10 +339,10 @@ Bảng sau đây trình bày chi tiết di chuyển cụ thể cho từng môi t
 <li> Sửa đổi lần cuối bởi </li>
 </ul></li>
 <li> Các thư mục nhóm dùng chung và nội dung </li>
-<li> Nội dung chia sẻ thuộc sở hữu Dropbox khoản người dùng sẽ được di chuyển </li>
+<li> Nội dung chia sẻ thuộc sở hữu của Dropbox khoản người dùng sẽ được di chuyển </li>
 </ul></td>
 <td><ul>
-<li> Lịch sử quyền sở hữu, các phiên bản trước và chú thích </li>
+<li> Lịch sử sở hữu, các phiên bản trước và chú thích </li>
 <li> Mô tả tệp và thư mục </li>
 <li> Quyền tệp mức người dùng </li>
 <li> Quyền tệp mức nhóm </li>
@@ -354,18 +354,18 @@ Bảng sau đây trình bày chi tiết di chuyển cụ thể cho từng môi t
 <li> Thư mục Dropbox không đóng đổi </li>
 <li> Đã xóa hoặc người dùng bị ngắt kết nối </li>
 <li> Dropbox Giấy, Giới thiệu và Khoảng trống </li>
-<li> Dropbox Ứng dụng và Mục yêu thích (Ghim/Sao) </li>
+<li> Dropbox Ứng dụng và Yêu thích (Ghim/Sao) </li>
 <li> Nội dung không thuộc sở hữu của tài khoản Dropbox di chuyển </li>
-<li> Quyền và siêu dữ liệu cơ bản của người dùng bên ngoài ( Lưu<strong>ý:</strong>Dùng báo cáo Dropbox xác định nội dung được chia sẻ với người dùng bên ngoài. Hướng dẫn người dùng cuối chia sẻ lại nội dung với người dùng bên ngoài sau khi di chuyển) </li>
-<li> Tệp hoặc thư mục vượt quá giới <a href="https://go.microsoft.com/fwlink/?linkid=846724"> <span class="underline">SharePoint Online và hạn</span> chế</a> </li>
+<li> Quyền và siêu dữ liệu cơ bản của người dùng bên ngoài ( Lưu<strong>ý:</strong>Dùng báo Dropbox để xác định nội dung được chia sẻ với người dùng bên ngoài. Hướng dẫn người dùng cuối chia sẻ lại nội dung với người dùng bên ngoài sau khi di chuyển) </li>
+<li> Tệp hoặc thư mục vượt quá giới <a href="https://go.microsoft.com/fwlink/?linkid=846724"> <span class="underline">SharePoint Online và giới hạn</span></a> </li>
 </ul></td>
 </tr>
 </tbody>
 </table>
 
-## <a name="fasttrack-responsibilities-for-sharepoint-online-migrations"></a>Trách nhiệm của FastTrack đối với SharePoint di chuyển Trực tuyến
+## <a name="fasttrack-responsibilities-for-sharepoint-online-migrations"></a>FastTrack trách nhiệm đối với SharePoint di chuyển trực tuyến
 
-Các Chuyên gia FastTrack của chúng tôi thực hiện các hoạt động tiêu chuẩn trong dự án di chuyển. Tham khảo thông tin về trách nhiệm di chuyển dữ liệu trong phần [Quy trình và Kỳ vọng](process-and-expectations.md) để biết chi tiết
+Chuyên gia FastTrack của chúng tôi thực hiện các hoạt động tiêu chuẩn trong dự án di chuyển. Tham khảo thông tin về trách nhiệm di chuyển dữ liệu trong phần [Quy trình và Kỳ vọng](process-and-expectations.md) để biết chi tiết
 
 ### <a name="your-responsibilities"></a>Trách nhiệm của bạn
 
@@ -373,11 +373,11 @@ Bạn thực hiện các hoạt động tiêu chuẩn trong dự án di chuyển
 
 Bạn cũng có thể thực hiện các hoạt động sau đây, dành riêng cho SharePoint di chuyển Trực tuyến:
 
-  - Cung cấp tất SharePoint site nhóm được các sự kiện di chuyển của bạn nhắm tới.
+  - Cung cấp tất cả SharePoint site nhóm được các sự kiện di chuyển của bạn nhắm tới.
 
 ## <a name="migration-to-onedrive-for-business"></a>Di chuyển sang OneDrive for Business
 
-Khi bạn chọn sử dụng FastTrack để di chuyển tệp sang thiết bị của OneDrive for Business, chúng tôi cung cấp hướng dẫn di chuyển và dịch vụ di chuyển dữ liệu. Chúng tôi cung cấp hướng dẫn để giúp bạn lập kế hoạch di chuyển, đặt cấu hình cho môi trường nguồn và môi trường OneDrive for Business cũng như tận dụng các dịch vụ di chuyển dữ liệu của chúng tôi để di chuyển tệp của bạn. Bạn tạo và lên lịch cho các sự kiện di chuyển của mình. Chúng tôi sẽ khởi chạy các sự kiện di chuyển theo lịch biểu của bạn, theo dõi tiến độ của sự kiện và cung cấp báo cáo tình trạng. Khi các sự kiện di chuyển của bạn hoàn tất, bạn có thể mong đợi các tệp từ các nguồn có lịch biểu và đủ điều kiện thích hợp của môi trường nguồn của bạn đã được di chuyển sang OneDrive for Business.
+Khi bạn chọn sử dụng dịch FastTrack để di chuyển tệp sang OneDrive for Business, chúng tôi cung cấp hướng dẫn di chuyển và dịch vụ di chuyển dữ liệu. Chúng tôi cung cấp hướng dẫn để giúp bạn lập kế hoạch di chuyển, đặt cấu hình cho môi trường nguồn và OneDrive for Business cũng như tận dụng các dịch vụ di chuyển dữ liệu của chúng tôi để di chuyển tệp của bạn. Bạn tạo và lên lịch cho các sự kiện di chuyển của mình. Chúng tôi sẽ khởi chạy các sự kiện di chuyển theo lịch biểu của bạn, theo dõi tiến độ của sự kiện và cung cấp báo cáo tình trạng. Khi các sự kiện di chuyển của bạn hoàn tất, bạn có thể mong đợi các tệp từ các nguồn có lịch biểu và đủ điều kiện thích hợp của môi trường nguồn của bạn đã được di chuyển sang OneDrive for Business.
 
 ### <a name="considerations"></a>Những điều cần cân nhắc
 
@@ -389,7 +389,7 @@ Khi bạn chọn sử dụng FastTrack để di chuyển tệp sang thiết bị
 
 Các dịch vụ di chuyển dữ liệu của chúng tôi di chuyển dữ liệu từ các môi trường nguồn này:
 
-  - Chia sẻ tệp (chia sẻ tệp SMB trên thiết bị hỗ trợ SMB 2.0 trở đi).
+  - Chia sẻ tệp (chia sẻ tệp SMB trên các thiết bị hỗ trợ SMB 2.0 trở đi).
   - Môi trường G Suite Đơn (Google Drive riêng biệt).
   - Box (Starter, Business, Enterprise).
   - Dropbox dùng cho Teams (Tiêu chuẩn và Nâng cao).
@@ -430,18 +430,18 @@ Bảng sau đây trình bày chi tiết di chuyển cụ thể cho từng môi t
 <li> Chuyển đổi các URL nhúng trong nội dung </li>
 <li> Các phiên bản trước </li>
 <li> Windows thuộc tính tệp và thư mục (như chỉ đọc và ẩn) </li>
-<li> Các quyền nâng Windows Hệ thống Tệp Công nghệ Mới (NTFS) và NTFS nâng cao cũng như các cài đặt đặc biệt: </li>
+<li> Các quyền nâng Windows và cài đặt đặc biệt của NTFS và Hệ thống Tệp Công nghệ Mới (NTFS) và NTFS: </li>
 <li> Các quyền từ chối rõ ràng (bị loại bỏ sau khi di chuyển, nội dung cần phải tuân theo các quyền song song hoặc các quyền trên thư mục mẹ) </li>
 <li> Cấu hình kiểm tra NTFS </li>
 <li> Siêu dữ liệu tệp bổ sung được cung cấp bởi Cơ sở hạ tầng Phân loại Tệp (FCI) </li>
 <li> Tài liệu không thể tiếp cận hoặc bị hỏng </li>
 <li> Chia sẻ ẩn </li>
 <li> Chia sẻ (chẳng hạn như quyền được cấp ở mức chia sẻ) </li>
-<li> Tệp hoặc thư mục vượt quá giới <a href="https://go.microsoft.com/fwlink/?linkid=846724"> <span class="underline">SharePoint Online và hạn</span> chế</a> </li>
+<li> Tệp hoặc thư mục vượt quá giới <a href="https://go.microsoft.com/fwlink/?linkid=846724"> <span class="underline">SharePoint Online và giới hạn</span></a> </li>
 </ul></td>
 </tr>
 <tr class="even">
-<td><strong>Môi trường G Suite Đơn (Google Drive riêng biệt)</strong></td>
+<td><strong>Môi trường G Suite Đơn (Google Drive riêng)</strong></td>
 <td>Truyền một lần hoặc nhiều lần</td>
 <td><ul>
 <li> Tài liệu, Trang tính và Trang chiếu của Google (tệp được chuyển đổi sang định dạng Office tương đương, bao gồm các tệp lớn hơn 10 MB) </li>
@@ -457,10 +457,10 @@ Bảng sau đây trình bày chi tiết di chuyển cụ thể cho từng môi t
 <li> Sửa đổi lần cuối bởi </li>
 </ul></li>
 <li> Ổ đĩa dùng chung (thư mục và tệp) </li>
-<li> Nội dung chia sẻ thuộc sở hữu của Google Drive khoản người dùng đang được di chuyển </li>
+<li> Nội dung chia sẻ thuộc sở hữu Google Drive khoản người dùng sẽ được di chuyển </li>
 </ul></td>
 <td><ul>
-<li> Lịch sử quyền sở hữu, các phiên bản trước và chú thích </li>
+<li> Lịch sử sở hữu, các phiên bản trước và chú thích </li>
 <li> Mô tả tệp và thư mục, màu thư mục </li>
 <li> Quyền tệp mức người dùng </li>
 <li> Quyền tệp mức nhóm </li>
@@ -474,9 +474,9 @@ Bảng sau đây trình bày chi tiết di chuyển cụ thể cho từng môi t
 <li> Hình vẽ Google </li>
 <li> Nội dung chia sẻ bên ngoài tổ chức của bạn </li>
 <li> Nội dung không thuộc sở hữu của Google Drive khoản người dùng đang được di chuyển </li>
-<li> Quyền và siêu dữ liệu cơ bản của người dùng bên ngoài ( Lưu<strong>ý:</strong>Sử dụng báo cáo Google Drive Quản trị Để xác định nội dung được chia sẻ với người dùng bên ngoài. Hướng dẫn người dùng cuối chia sẻ lại nội dung với người dùng bên ngoài sau khi di chuyển.) </li>
-<li> Quyền tư cách thành viên ổ đĩa dùng chung<strong>(Lưu</strong>ý: Sử dụng Google Drive báo cáo người quản trị để xác định tư cách thành viên ổ đĩa dùng chung. Hướng dẫn người dùng cuối cấu hình các thiết đặt tư cách thành viên này theo mục tiêu trước khi di chuyển.) </li>
-<li> Tệp hoặc thư mục vượt quá giới <a href="https://go.microsoft.com/fwlink/?linkid=846724"> <span class="underline">SharePoint Online và hạn</span> chế</a> </li>
+<li> Quyền và siêu dữ liệu cơ bản của người dùng bên ngoài ( Lưu<strong>ý:</strong>Dùng báo cáo Google Drive Quản trị Để xác định nội dung được chia sẻ với người dùng bên ngoài. Hướng dẫn người dùng cuối chia sẻ lại nội dung với người dùng bên ngoài sau khi di chuyển.) </li>
+<li> Quyền tư cách thành viên ổ đĩa<strong>dùng</strong>chung (Lưu ý: Sử dụng Google Drive báo cáo người quản trị để xác định tư cách thành viên ổ đĩa dùng chung. Hướng dẫn người dùng cuối cấu hình các thiết đặt tư cách thành viên này theo mục tiêu trước khi di chuyển.) </li>
+<li> Tệp hoặc thư mục vượt quá giới <a href="https://go.microsoft.com/fwlink/?linkid=846724"> <span class="underline">SharePoint Online và giới hạn</span></a> </li>
 </ul></td>
 </tr>
 <tr class="odd">
@@ -498,7 +498,7 @@ Bảng sau đây trình bày chi tiết di chuyển cụ thể cho từng môi t
 <li> Nội dung chia sẻ thuộc sở hữu của tài khoản Box đang được di chuyển </li>
 </ul></td>
 <td><ul>
-<li> Lịch sử quyền sở hữu, các phiên bản trước và chú thích </li>
+<li> Lịch sử sở hữu, các phiên bản trước và chú thích </li>
 <li> Mô tả tệp và thư mục </li>
 <li> Quyền tệp mức người dùng </li>
 <li> Quyền tệp mức nhóm </li>
@@ -511,7 +511,7 @@ Bảng sau đây trình bày chi tiết di chuyển cụ thể cho từng môi t
 <li> Ứng dụng Box, Thẻ đánh dấu, Yêu thích và Dòng công việc </li>
 <li> Nội dung không thuộc sở hữu của tài khoản Box được di chuyển </li>
 <li> Quyền và siêu dữ liệu cơ bản của người dùng bên ngoài ( Lưu<strong>ý:</strong>Báo cáo Use Box để xác định nội dung được chia sẻ với người dùng bên ngoài. Hướng dẫn người dùng cuối chia sẻ lại nội dung với người dùng bên ngoài sau khi di chuyển.) </li>
-<li> Tệp hoặc thư mục vượt quá giới <a href="https://go.microsoft.com/fwlink/?linkid=846724"> <span class="underline">SharePoint Online và hạn</span> chế</a> </li>
+<li> Tệp hoặc thư mục vượt quá giới <a href="https://go.microsoft.com/fwlink/?linkid=846724"> <span class="underline">SharePoint Online và giới hạn</span></a> </li>
 </ul></td>
 </tr>
 <tr class="even">
@@ -531,10 +531,10 @@ Bảng sau đây trình bày chi tiết di chuyển cụ thể cho từng môi t
 <li> Sửa đổi lần cuối bởi </li>
 </ul></li>
 <li> Các thư mục nhóm dùng chung và nội dung </li>
-<li> Nội dung chia sẻ thuộc sở hữu Dropbox khoản người dùng sẽ được di chuyển </li>
+<li> Nội dung chia sẻ thuộc sở hữu của tài Dropbox được di chuyển </li>
 </ul></td>
 <td><ul>
-<li> Lịch sử quyền sở hữu, các phiên bản trước và chú thích </li>
+<li> Lịch sử sở hữu, các phiên bản trước và chú thích </li>
 <li> Mô tả tệp và thư mục </li>
 <li> Quyền tệp mức người dùng </li>
 <li> Quyền tệp mức nhóm </li>
@@ -546,18 +546,18 @@ Bảng sau đây trình bày chi tiết di chuyển cụ thể cho từng môi t
 <li> Thư mục Dropbox không đóng đổi </li>
 <li> Đã xóa hoặc người dùng bị ngắt kết nối </li>
 <li> Dropbox Giấy, Giới thiệu và Khoảng trống </li>
-<li> Dropbox Ứng dụng và Mục yêu thích (Ghim/Sao) </li>
+<li> Dropbox Ứng dụng và Yêu thích (Ghim/Sao) </li>
 <li> Nội dung không thuộc sở hữu của tài khoản Dropbox di chuyển </li>
-<li> Quyền và siêu dữ liệu cơ bản của người dùng bên ngoài ( Lưu<strong>ý:</strong>Dùng báo cáo Dropbox xác định nội dung được chia sẻ với người dùng bên ngoài. Hướng dẫn người dùng cuối chia sẻ lại nội dung với người dùng bên ngoài sau khi di chuyển.) </li>
-<li> Tệp hoặc thư mục vượt quá giới <a href="https://go.microsoft.com/fwlink/?linkid=846724"> <span class="underline">SharePoint Online và hạn</span> chế</a> </li>
+<li> Quyền và siêu dữ liệu cơ bản của người dùng bên ngoài ( Lưu<strong>ý:</strong>Dùng báo Dropbox để xác định nội dung được chia sẻ với người dùng bên ngoài. Hướng dẫn người dùng cuối chia sẻ lại nội dung với người dùng bên ngoài sau khi di chuyển.) </li>
+<li> Tệp hoặc thư mục vượt quá giới <a href="https://go.microsoft.com/fwlink/?linkid=846724"> <span class="underline">SharePoint Online và giới hạn</span></a> </li>
 </ul></td>
 </tr>
 </tbody>
 </table>
 
-## <a name="fasttrack-responsibilities-for-onedrive-for-business-migrations"></a>Trách nhiệm của FastTrack đối với OneDrive for Business chuyển
+## <a name="fasttrack-responsibilities-for-onedrive-for-business-migrations"></a>FastTrack trách nhiệm đối với OneDrive for Business di chuyển
 
-Các Chuyên gia FastTrack của chúng tôi thực hiện các hoạt động tiêu chuẩn trong dự án di chuyển. Tham khảo thông tin về trách nhiệm di chuyển dữ liệu trong phần [Quy trình và Kỳ vọng](process-and-expectations.md) đối với các chi tiết.
+Chuyên gia FastTrack của chúng tôi thực hiện các hoạt động tiêu chuẩn trong dự án di chuyển. Tham khảo thông tin về trách nhiệm di chuyển dữ liệu trong phần [Quy trình và Kỳ vọng](process-and-expectations.md) đối với các chi tiết.
 
 ### <a name="your-responsibilities"></a>Trách nhiệm của bạn
 
@@ -567,9 +567,9 @@ Bạn cũng có thể thực hiện các hoạt động sau đây, dành riêng 
 
   - Cung cấp tất cả OneDrive for Business site sẽ được định hướng bởi các sự kiện di chuyển của bạn.
 
-## <a name="migration-to-microsoft-teams-and-microsoft-365-groups"></a>Di chuyển đến Microsoft Teams và Microsoft 365 nhóm
+## <a name="migration-to-microsoft-teams-and-microsoft-365-groups"></a>Di chuyển đến Microsoft Teams nhóm Microsoft 365 Nhóm
 
-Khi bạn chọn sử dụng FastTrack để di chuyển tệp sang Nhóm Microsoft Teams và Microsoft 365, chúng tôi cung cấp hướng dẫn di chuyển và dịch vụ di chuyển dữ liệu. Chúng tôi cung cấp hướng dẫn để giúp bạn lên kế hoạch di chuyển, đặt cấu hình môi trường nguồn cũng như nhóm Teams và Microsoft 365 cũng như tận dụng các dịch vụ di chuyển dữ liệu để di chuyển tệp của bạn. Bạn tạo và lên lịch cho các sự kiện di chuyển của mình. Chúng tôi sẽ khởi chạy các sự kiện di chuyển theo lịch biểu của bạn, theo dõi tiến độ của sự kiện và cung cấp báo cáo tình trạng. Khi hoàn tất các sự kiện di chuyển của mình, bạn có thể mong đợi các tệp từ các nguồn môi trường nguồn được lên lịch và đủ điều kiện thích hợp đã được di chuyển đến Teams và Microsoft 365 Nhóm. Teams kênh và nhóm Microsoft 365 Khách hàng phải được khách hàng cung cấp trước trước khi có thể di chuyển dữ liệu vào các loại đích này. Teams nhóm Microsoft 365 ảnh hưởng đến quyền của bạn trên vị trí đích tệp. Teams và Nhóm Microsoft 365 được xây dựng để cho phép cộng tác. Kênh Teams hoặc nhóm Microsoft 365 xác định ai có quyền truy nhập vào các tệp đó khi di chuyển vào các đích đó. FastTrack không thêm người dùng cuối hoặc nhóm vào bất kỳ quyền Teams hoặc Nhóm Microsoft 365 nào trong quá trình di chuyển.
+Khi bạn chọn sử dụng FastTrack để di chuyển tệp sang Nhóm Microsoft Teams và Microsoft 365, chúng tôi cung cấp hướng dẫn di chuyển và dịch vụ di chuyển dữ liệu. Chúng tôi cung cấp hướng dẫn để giúp bạn lên kế hoạch di chuyển, đặt cấu hình môi trường nguồn cũng như nhóm Teams và Microsoft 365 cũng như tận dụng các dịch vụ di chuyển dữ liệu để di chuyển tệp của bạn. Bạn tạo và lên lịch cho các sự kiện di chuyển của mình. Chúng tôi sẽ khởi chạy các sự kiện di chuyển theo lịch biểu của bạn, theo dõi tiến độ của sự kiện và cung cấp báo cáo tình trạng. Khi hoàn tất các sự kiện di chuyển của mình, bạn có thể mong đợi các tệp từ các nguồn được lên lịch và đủ điều kiện thích hợp từ môi trường nguồn của bạn đã được di chuyển đến Teams và Microsoft 365 Mới. Teams kênh và nhóm Microsoft 365 Khách hàng phải được khách hàng cung cấp trước trước khi có thể di chuyển dữ liệu sang các loại đích này. Teams nhóm Microsoft 365 tác động đến quyền của bạn trên vị trí đích tệp. Teams và Nhóm Microsoft 365 được xây dựng để cho phép cộng tác. Kênh Teams hoặc nhóm Microsoft 365 xác định ai có quyền truy nhập vào các tệp đó khi di chuyển vào các đích đó. FastTrack sẽ không thêm người dùng cuối hoặc nhóm vào bất kỳ quyền Teams kênh Microsoft 365 Nhóm nào trong quá trình di chuyển.
 
 ### <a name="considerations"></a>Những điều cần cân nhắc
 
@@ -582,7 +582,7 @@ Khi bạn chọn sử dụng FastTrack để di chuyển tệp sang Nhóm Micros
 Các dịch vụ di chuyển dữ liệu của chúng tôi di chuyển dữ liệu từ các môi trường nguồn này: 
 
 - Chia sẻ tệp (chia sẻ tệp Chặn Thông báo Máy chủ (SMB) trên thiết bị hỗ trợ trở đi SMB 2.0).
--  Môi trường G Suite đơn (chỉ Google Drive áp dụng). 
+-  Môi trường G Suite đơn (chỉ Google Drive khác). 
 - Box (Starter, Business, Enterprise). 
 - Dropbox dùng cho Teams (Tiêu chuẩn và Nâng cao). 
 
@@ -616,24 +616,24 @@ Bảng sau đây trình bày chi tiết di chuyển cụ thể cho từng môi t
 </ul></li>
 </ul>
 <br>
-*Bắt buộc phải có cấu hình đồng bộ hóa thư mục. Chỉ có các quyền NTFS được chuyển Windows File Explorer mới được di chuyển. Các quyền được quản lý trực tiếp trên thiết bị chia sẻ tệp sẽ không được di chuyển. Nếu dữ liệu được lưu trữ trên thiết bị SMB 2.0, các quyền tương đương NTFS mà giao thức SMB cung cấp sẽ được di chuyển. Các quyền bị tác động bởi Microsoft 365 nhóm người dùng và/hoặc Microsoft Teams kênh. Nếu đích là một kênh Microsoft 365 nhóm Microsoft Teams nhóm, nhóm hoặc kênh đó sẽ xác định hồ sơ quyền cuối cùng trên các tệp được di chuyển. Chúng tôi khuyên bạn không nên di chuyển quyền trên các tệp di chuyển sang nhóm Microsoft 365 hoặc kênh Microsoft Teams di chuyển.</td>
+*Bắt buộc phải có cấu hình đồng bộ hóa thư mục. Chỉ có các quyền NTFS được chuyển Windows File Explorer mới được di chuyển. Các quyền được quản lý trực tiếp trên thiết bị chia sẻ tệp sẽ không được di chuyển. Nếu dữ liệu được lưu trữ trên thiết bị SMB 2.0, các quyền tương đương NTFS mà giao thức SMB cung cấp sẽ được di chuyển. Các quyền bị tác động bởi Microsoft 365 nhóm mới và/hoặc Microsoft Teams kênh. Nếu đích là một kênh Microsoft 365 Nhóm hoặc Microsoft Teams nhóm, nhóm hoặc kênh đó sẽ xác định hồ sơ quyền cuối cùng trên các tệp được di chuyển. Chúng tôi khuyên bạn không nên di chuyển quyền trên các tệp di chuyển sang Microsoft 365 Nhóm Microsoft Teams di chuyển.</td>
 <td><ul>
 <li> Lịch sử quyền sở hữu và các phiên bản trước đó </li>
 <li> Chuyển đổi các URL nhúng trong nội dung </li>
 <li> Các phiên bản trước </li>
 <li> Windows thuộc tính tệp và thư mục (như chỉ đọc và ẩn) </li>
-<li> Các quyền nâng Windows Hệ thống Tệp Công nghệ Mới (NTFS) và NTFS nâng cao cũng như các cài đặt đặc biệt: </li>
+<li> Các quyền nâng Windows và cài đặt đặc biệt của NTFS và Hệ thống Tệp Công nghệ Mới (NTFS) và NTFS: </li>
 <li> Các quyền từ chối rõ ràng (bị loại bỏ sau khi di chuyển, nội dung cần phải tuân theo các quyền song song hoặc các quyền trên thư mục mẹ) </li>
 <li> Cấu hình kiểm tra NTFS </li>
 <li> Siêu dữ liệu tệp bổ sung được cung cấp bởi Cơ sở hạ tầng Phân loại Tệp (FCI) </li>
 <li> Tài liệu không thể tiếp cận hoặc bị hỏng </li>
 <li> Chia sẻ ẩn </li>
 <li> Chia sẻ (chẳng hạn như quyền được cấp ở mức chia sẻ) </li>
-<li> Tệp hoặc thư mục vượt quá giới <a href="https://go.microsoft.com/fwlink/?linkid=846724"> <span class="underline">SharePoint Online và hạn</span> chế</a> </li>
+<li> Tệp hoặc thư mục vượt quá giới <a href="https://go.microsoft.com/fwlink/?linkid=846724"> <span class="underline">SharePoint Online và giới hạn</span></a> </li>
 </ul></td>
 </tr>
 <tr class="even">
-<td><strong>Môi trường G Suite Đơn (Google Drive riêng biệt)</strong></td>
+<td><strong>Môi trường G Suite Đơn (chỉ Google Drive áp dụng)</strong></td>
 <td>Truyền một lần hoặc nhiều lần</td>
 <td><ul>
 <li> Tài liệu, Trang tính và Trang chiếu của Google (tệp được chuyển đổi sang định dạng Office tương đương, bao gồm các tệp lớn hơn 10 MB) </li>
@@ -652,10 +652,10 @@ Bảng sau đây trình bày chi tiết di chuyển cụ thể cho từng môi t
 <li> Nội dung chia sẻ thuộc sở hữu của Google Drive khoản người dùng đang được di chuyển </li>
 </ul>
 <br>
-*Các quyền bị ảnh hưởng bởi Microsoft 365 nhóm và/hoặc kênh Microsoft Teams tác. Nếu đích là một kênh Microsoft 365 nhóm Microsoft Teams nhóm, nhóm hoặc kênh đó sẽ xác định hồ sơ quyền cuối cùng trên các tệp được di chuyển. Chúng tôi khuyên bạn không nên di chuyển quyền trên các tệp di chuyển sang nhóm Microsoft 365 hoặc kênh Microsoft Teams di chuyển. 
+*Các quyền bị tác động bởi kênh Microsoft 365 nhóm mới và/hoặc Microsoft Teams kênh. Nếu đích là một kênh Microsoft 365 Nhóm hoặc Microsoft Teams nhóm, nhóm hoặc kênh đó sẽ xác định hồ sơ quyền cuối cùng trên các tệp được di chuyển. Chúng tôi khuyên bạn không nên di chuyển quyền trên các tệp di chuyển sang Microsoft 365 Nhóm Microsoft Teams di chuyển. 
 </td>
 <td><ul>
-<li> Lịch sử quyền sở hữu, các phiên bản trước và chú thích </li>
+<li> Lịch sử sở hữu, các phiên bản trước và chú thích </li>
 <li> Mô tả tệp và thư mục, màu thư mục </li>
 <li> Quyền tệp mức người dùng </li>
 <li> Quyền tệp mức nhóm </li>
@@ -668,10 +668,10 @@ Bảng sau đây trình bày chi tiết di chuyển cụ thể cho từng môi t
 <li> Biểu mẫu Ảnh, Ứng dụng Bản đồ Google và các ứng dụng được kết nối khác </li>
 <li> Hình vẽ Google </li>
 <li> Nội dung chia sẻ bên ngoài tổ chức của bạn </li>
-<li> Nội dung không thuộc sở hữu của Google Drive khoản người dùng đang được di chuyển </li>
+<li> Nội dung không thuộc sở hữu của tài Google Drive được di chuyển </li>
 <li> Quyền và siêu dữ liệu cơ bản của người dùng bên ngoài ( Lưu<strong>ý:</strong>Sử dụng báo cáo Google Drive Quản trị Để xác định nội dung được chia sẻ với người dùng bên ngoài. Hướng dẫn người dùng cuối chia sẻ lại nội dung với người dùng bên ngoài sau khi di chuyển.) </li>
-<li> Quyền tư cách thành viên ổ đĩa dùng chung<strong>(Lưu</strong>ý: Sử dụng Google Drive báo cáo người quản trị để xác định tư cách thành viên ổ đĩa dùng chung. Hướng dẫn người dùng cuối cấu hình các thiết đặt tư cách thành viên này theo mục tiêu trước khi di chuyển.) </li>
-<li> Tệp hoặc thư mục vượt quá giới <a href="https://go.microsoft.com/fwlink/?linkid=846724"> <span class="underline">SharePoint Online và hạn</span> chế</a> </li>
+<li> Quyền tư cách thành viên ổ đĩa<strong>dùng</strong>chung (Lưu ý: Sử dụng Google Drive báo cáo người quản trị để xác định tư cách thành viên ổ đĩa dùng chung. Hướng dẫn người dùng cuối cấu hình các thiết đặt tư cách thành viên này theo mục tiêu trước khi di chuyển.) </li>
+<li> Tệp hoặc thư mục vượt quá giới <a href="https://go.microsoft.com/fwlink/?linkid=846724"> <span class="underline">SharePoint Online và hạn chế</span></a> </li>
 </ul></td>
 </tr>
 <tr class="odd">
@@ -694,9 +694,9 @@ Bảng sau đây trình bày chi tiết di chuyển cụ thể cho từng môi t
 <li> Ghi chú Box (được chuyển đổi thành định dạng tài liệu Word) </li>
 </ul>
 <br>
-*Các quyền bị ảnh hưởng bởi Microsoft 365 nhóm và/hoặc kênh Microsoft Teams tác. Nếu đích là một kênh Microsoft 365 nhóm Microsoft Teams nhóm, nhóm hoặc kênh đó sẽ xác định hồ sơ quyền cuối cùng trên các tệp được di chuyển. Chúng tôi khuyên bạn không nên di chuyển quyền trên các tệp di chuyển sang nhóm Microsoft 365 hoặc kênh Microsoft Teams di chuyển. </td>
+*Các quyền bị tác động bởi kênh Microsoft 365 nhóm mới và/hoặc Microsoft Teams kênh. Nếu đích là một kênh Microsoft 365 Nhóm hoặc Microsoft Teams nhóm, nhóm hoặc kênh đó sẽ xác định hồ sơ quyền cuối cùng trên các tệp được di chuyển. Chúng tôi khuyên bạn không nên di chuyển quyền trên các tệp di chuyển sang Microsoft 365 Nhóm Microsoft Teams di chuyển. </td>
 <td><ul>
-<li> Lịch sử quyền sở hữu, các phiên bản trước và chú thích </li>
+<li> Lịch sử sở hữu, các phiên bản trước và chú thích </li>
 <li> Mô tả tệp và thư mục </li>
 <li> Quyền tệp mức người dùng </li>
 <li> Quyền tệp mức nhóm </li>
@@ -709,11 +709,11 @@ Bảng sau đây trình bày chi tiết di chuyển cụ thể cho từng môi t
 <li> Ứng dụng Box, Thẻ đánh dấu, Yêu thích và Dòng công việc </li>
 <li> Nội dung không thuộc sở hữu của tài khoản Box được di chuyển </li>
 <li> Quyền và siêu dữ liệu cơ bản của người dùng bên ngoài ( Lưu<strong>ý:</strong>Báo cáo Use Box để xác định nội dung được chia sẻ với người dùng bên ngoài. Hướng dẫn người dùng cuối chia sẻ lại nội dung với người dùng bên ngoài sau khi di chuyển.) </li>
-<li> Tệp hoặc thư mục vượt quá giới <a href="https://go.microsoft.com/fwlink/?linkid=846724"> <span class="underline">SharePoint Online và hạn</span> chế</a> </li>
+<li> Tệp hoặc thư mục vượt quá giới <a href="https://go.microsoft.com/fwlink/?linkid=846724"> <span class="underline">SharePoint Online và hạn chế</span></a> </li>
 </ul></td>
 </tr>
 <tr class="even">
-<td><strong>Dropbox dùng cho Teams (Tiêu chuẩn và Nâng cao)</strong></td>
+<td><strong>Dropbox cho người Teams (Tiêu chuẩn và Nâng cao)</strong></td>
 <td>Truyền một lần hoặc nhiều lần</td>
 <td><ul>
 <li> Tài liệu </li>
@@ -729,13 +729,13 @@ Bảng sau đây trình bày chi tiết di chuyển cụ thể cho từng môi t
 <li> Sửa đổi lần cuối bởi </li>
 </ul></li>
 <li> Các thư mục nhóm dùng chung và nội dung </li>
-<li> Nội dung chia sẻ thuộc sở hữu Dropbox khoản người dùng sẽ được di chuyển </li>
+<li> Nội dung chia sẻ thuộc sở hữu của tài Dropbox được di chuyển </li>
 </ul>
 <br>
-*Các quyền bị ảnh hưởng bởi Microsoft 365 nhóm và/hoặc kênh Microsoft Teams tác. Nếu đích là một kênh Microsoft 365 nhóm Microsoft Teams nhóm, nhóm hoặc kênh đó sẽ xác định hồ sơ quyền cuối cùng trên các tệp được di chuyển. Chúng tôi khuyên bạn không nên di chuyển quyền trên các tệp di chuyển sang nhóm Microsoft 365 hoặc kênh Microsoft Teams di chuyển.
+*Các quyền bị tác động bởi kênh Microsoft 365 nhóm mới và/hoặc Microsoft Teams kênh. Nếu đích là một kênh Microsoft 365 Nhóm hoặc Microsoft Teams nhóm, nhóm hoặc kênh đó sẽ xác định hồ sơ quyền cuối cùng trên các tệp được di chuyển. Chúng tôi khuyên bạn không nên di chuyển quyền trên các tệp di chuyển sang Microsoft 365 Nhóm Microsoft Teams di chuyển.
 </td>
 <td><ul>
-<li> Lịch sử quyền sở hữu, các phiên bản trước và chú thích </li>
+<li> Lịch sử sở hữu, các phiên bản trước và chú thích </li>
 <li> Mô tả tệp và thư mục </li>
 <li> Quyền tệp mức người dùng </li>
 <li> Quyền tệp mức nhóm </li>
@@ -744,21 +744,21 @@ Bảng sau đây trình bày chi tiết di chuyển cụ thể cho từng môi t
 <li> Chuyển đổi các URL nhúng trong nội dung </li>
 <li> Các mục đã đổ rác </li>
 <li> Tài liệu không thể tiếp cận hoặc bị hỏng </li>
-<li> Thư mục Dropbox không đóng đổi </li>
+<li> Thư mục chưa được Dropbox liệu </li>
 <li> Đã xóa hoặc người dùng bị ngắt kết nối </li>
 <li> Dropbox Giấy, Giới thiệu và Khoảng trống </li>
-<li> Dropbox Ứng dụng và Mục yêu thích (Ghim/Sao) </li>
+<li> Dropbox Ứng dụng và Yêu thích (Ghim/Sao) </li>
 <li> Nội dung không thuộc sở hữu của tài khoản Dropbox di chuyển </li>
-<li> Quyền và siêu dữ liệu cơ bản của người dùng bên ngoài ( Lưu<strong>ý:</strong>Dùng báo cáo Dropbox xác định nội dung được chia sẻ với người dùng bên ngoài. Hướng dẫn người dùng cuối chia sẻ lại nội dung với người dùng bên ngoài sau khi di chuyển.) </li>
-<li> Tệp hoặc thư mục vượt quá giới <a href="https://go.microsoft.com/fwlink/?linkid=846724"> <span class="underline">SharePoint Online và hạn</span> chế</a> </li>
+<li> Quyền và siêu dữ liệu cơ bản của người dùng bên ngoài ( Lưu<strong>ý:</strong>Dùng báo cáo Dropbox để xác định nội dung được chia sẻ với người dùng bên ngoài. Hướng dẫn người dùng cuối chia sẻ lại nội dung với người dùng bên ngoài sau khi di chuyển.) </li>
+<li> Tệp hoặc thư mục vượt quá giới <a href="https://go.microsoft.com/fwlink/?linkid=846724"> <span class="underline">SharePoint Online và hạn chế</span></a> </li>
 </ul></td>
 </tr>
 </tbody>
 </table>
 
-## <a name="fasttrack-responsibilities-for-microsoft-teams-and-microsoft-365-groups-migrations"></a>Trách nhiệm của FastTrack đối với Microsoft Teams và Microsoft 365 nhóm dự án
+## <a name="fasttrack-responsibilities-for-microsoft-teams-and-microsoft-365-groups-migrations"></a>FastTrack trách nhiệm đối với Microsoft Teams di chuyển Microsoft 365 Nhóm Mới
 
-Các Chuyên gia FastTrack của chúng tôi thực hiện các hoạt động tiêu chuẩn trong dự án di chuyển. Tham khảo thông tin về trách nhiệm di chuyển dữ liệu trong phần [Quy trình và Kỳ vọng](process-and-expectations.md) đối với các chi tiết.
+Chuyên gia FastTrack của chúng tôi thực hiện các hoạt động tiêu chuẩn trong dự án di chuyển. Tham khảo thông tin về trách nhiệm di chuyển dữ liệu trong phần [Quy trình và Kỳ vọng](process-and-expectations.md) đối với các chi tiết.
 
 ### <a name="your-responsibilities"></a>Trách nhiệm của bạn 
 
@@ -768,4 +768,4 @@ Bạn cũng có thể thực hiện các hoạt động sau đây, dành riêng 
 - Cung cấp tất cả Microsoft Teams kênh và nhóm Microsoft 365 nhóm làm mục tiêu bởi các sự kiện di chuyển của bạn.
 
 > [!NOTE]
->FastTrack không cung cấp trước cho kênh Microsoft Teams hoặc Nhóm Microsoft 365 của bạn. FastTrack không thêm người dùng cuối hoặc nhóm vào kênh Microsoft Teams hoặc Nhóm Microsoft 365 của bạn. Bạn phải thêm người dùng cuối hoặc nhóm của mình vào tất cả kênh Microsoft Teams và Nhóm Microsoft 365 trước khi bạn di chuyển dữ liệu vào các đích đó để những người dùng cuối đó có quyền truy nhập vào những tài liệu mới được di chuyển đó
+>FastTrack không cung cấp trước cho kênh Microsoft Teams hoặc Nhóm Microsoft 365 trước. FastTrack thêm người dùng cuối hoặc nhóm vào kênh Microsoft Teams nhóm hoặc nhóm Microsoft 365 khác. Bạn phải thêm người dùng cuối hoặc nhóm của mình vào tất cả các kênh Microsoft Teams và Nhóm Microsoft 365 trước khi bạn di chuyển dữ liệu vào các đích đó để những người dùng cuối đó có quyền truy nhập vào những tài liệu mới được di chuyển đó
