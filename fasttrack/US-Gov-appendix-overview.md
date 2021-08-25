@@ -3,27 +3,27 @@ title: Phụ lục B - Tổng quan về Lợi ích Trung tâm FastTrack dành ch
 ms.author: v-bermic
 author: rberg-steyer
 manager: jimmuir
-ms.date: 8/18/2021
+ms.date: 8/25/2021
 ms.audience: ITPro
 ms.topic: article
 ms.service: o365-administration
 localization_priority: None
-description: Với Lợi ích FastTrack Dành cho Trung tâm Office 365, bạn làm việc từ xa với Các chuyên gia FastTrack để môi trường Office 365 của bạn sẵn sàng sử dụng và lập kế hoạch triển khai và sử dụng trong tổ chức của bạn.
-ms.openlocfilehash: 3980760eb593b8b87180c3c6f6a48c531bf306a1
-ms.sourcegitcommit: 71ec2c25b514f3a21ed58ca3499af1576e8f2c8d
+description: Với Lợi ích FastTrack dành cho Trung tâm Office 365, bạn làm việc từ xa với Các chuyên gia FastTrack để môi trường Office 365 của bạn sẵn sàng sử dụng và lập kế hoạch triển khai và sử dụng trong tổ chức của bạn.
+ms.openlocfilehash: 0afc264a722c5927a0aa2cbe25e4ea6a215b2470
+ms.sourcegitcommit: 7ad41bd0aac5b3e2a0b3843d507b3eff0615941b
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 08/18/2021
-ms.locfileid: "58392424"
+ms.lasthandoff: 08/25/2021
+ms.locfileid: "58517554"
 ---
 # <a name="appendix-b---fasttrack-center-benefit-overview-for-office-365-us-government"></a>Phụ lục B - Tổng quan về Lợi ích Trung tâm FastTrack dành cho Office 365 US Government
 
-Với Lợi ích FastTrack Dành cho Trung tâm Office 365, bạn làm việc từ xa với Các chuyên gia FastTrack để môi trường Office 365 của bạn sẵn sàng sử dụng và lập kế hoạch triển khai và sử dụng trong tổ chức của bạn. 
+Với Lợi ích FastTrack dành cho Trung tâm Office 365, bạn làm việc từ xa với Các chuyên gia FastTrack để môi trường Office 365 của bạn sẵn sàng sử dụng và lập kế hoạch triển khai và sử dụng trong tổ chức của bạn. 
   
 Mặc dù hầu hết các sản phẩm và tính năng giống nhau giữa Office 365 Suite và Office 365 Hoa Kỳ nhưng không phải mọi tính năng đều sẵn dùng trong tất cả các gói. Xem lại [Office 365 mô tả dịch vụ](https://aka.ms/aboutgovcloud) của Chính phủ Hoa Kỳ để biết danh sách các tính năng cập nhật nhất.
 
 > [!NOTE]
-> Để nhận được FastTrack dịch vụ, hãy truy cập [site FastTrack của bạn và](https://go.microsoft.com/fwlink/?linkid=780698) yêu cầu trợ giúp.  
+> Để nhận được FastTrack dịch vụ, hãy truy cập [FastTrack site của bạn và](https://go.microsoft.com/fwlink/?linkid=780698) yêu cầu trợ giúp.  
 
 Chúng tôi đề cập đến các chủ đề sau:
 - [Quy trình và Sự kỳ vọng](process-and-expectations.md) 

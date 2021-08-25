@@ -3,19 +3,19 @@ title: Các sản phẩm và chức năng
 ms.author: v-bermic
 author: rberg-steyer
 manager: jimmuir
-ms.date: 8/18/2021
+ms.date: 8/25/2021
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: Normal
 ms.collection: FastTrack
 description: Chủ đề này bao gồm chi tiết về các kịch bản khối lượng công việc được hỗ trợ FastTrack kỳ vọng môi trường nguồn cần thiết trước khi chúng ta có thể bắt đầu. Dựa trên thiết lập hiện tại của bạn, chúng tôi làm việc với bạn để tạo kế hoạch khắc phục, đưa môi trường nguồn của bạn đến các yêu cầu tối thiểu để triển năng thành công.
-ms.openlocfilehash: b885d646bb7159cc0fdfdfc05884293c98eeec92
-ms.sourcegitcommit: 71ec2c25b514f3a21ed58ca3499af1576e8f2c8d
+ms.openlocfilehash: 09fca3c7f02d260cd335ab04ecc566b0e4e0bd9c
+ms.sourcegitcommit: 7ad41bd0aac5b3e2a0b3843d507b3eff0615941b
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 08/18/2021
-ms.locfileid: "58392412"
+ms.lasthandoff: 08/25/2021
+ms.locfileid: "58517602"
 ---
 # <a name="products-and-capabilities"></a>Các sản phẩm và chức năng
 
@@ -35,7 +35,7 @@ FastTrack cung cấp hướng dẫn để giúp bạn trước tiên với các 
   - [Microsoft Edge](#microsoft-edge)
 
 > [!NOTE]
-> Để biết thông tin về những kỳ vọng về môi trường nguồn Office 365 Chính phủ Hoa Kỳ, hãy xem kỳ vọng môi trường [nguồn Office 365 Chính phủ Hoa Kỳ.](US-Gov-appendix-source-environment-expectations.md)    
+> Để biết thông tin về các kỳ vọng về môi trường nguồn Office 365 Chính phủ Hoa Kỳ, hãy xem mục Kỳ vọng [môi trường nguồn Office 365 Chính phủ Hoa Kỳ.](US-Gov-appendix-source-environment-expectations.md)    
  
 ## <a name="general"></a>Nguồn
 
@@ -70,7 +70,7 @@ Chúng tôi cung cấp hướng dẫn từ xa cho:
 <li>Tạo định danh trên đám mây bao gồm nhập và cấp phép hàng loạt, bao gồm sử dụng cấp phép dựa trên nhóm.</li>
 <li>Chọn và bật phương pháp xác thực chính xác cho hành trình trên đám mây của bạn, Đồng bộ Băm Mật khẩu, Xác thực Chuyển qua hoặc Dịch vụ Liên kết Active Directory (AD FS).</li>
 <li> Chọn và bật trải nghiệm xác thực thuận tiện hơn cho người dùng của bạn với xác thực không cần mật khẩu (Fast Identity Online (FIDO)2 hoặc Microsoft Authenticator App).</li>
-<li>Cho phép AD FS cho khách hàng với một rừng Active Directory duy nhất và các danh tính được đồng bộ hóa với công cụ Kết nối Azure AD. Điều này yêu Windows 2012 R2 Active Directory Federation Services 2.0 trở lên.</li>
+<li>Cho phép AD FS cho khách hàng với một rừng Active Directory duy nhất và các định danh được đồng bộ hóa với công cụ định danh Azure AD Kết nối. Điều này yêu Windows 2012 R2 Active Directory Federation Services 2.0 trở lên.</li>
 <li>Di chuyển xác thực từ AD FS sang Azure AD bằng đồng bộ băm mật khẩu hoặc Xác thực thông qua.</li>
 <li>Di chuyển các ứng dụng tích hợp sẵn (như ứng dụng phần mềm dưới dạng dịch vụ (SaaS) của bộ sưu tập Azure AD) từ AD FS sang Azure AD cho đăng nhập một lần (SSO).</li>
 <li>Bật tích hợp ứng dụng SaaS với SSO từ bộ sưu tập Azure AD.</li>
@@ -79,9 +79,9 @@ Chúng tôi cung cấp hướng dẫn từ xa cho:
 </td>
 
 <td>  <strong>Bật mạng </strong>  
-  <br>Như một phần của lợi ích FastTrack, chúng tôi khuyên bạn nên tìm cách thực hành tốt nhất để kết nối với dịch vụ đám mây nhằm đảm bảo mức hiệu suất cao nhất của dịch Microsoft 365.  
+  <br>Là một phần của lợi ích FastTrack, chúng tôi khuyên bạn nên tìm cách thực hành tốt nhất để kết nối với dịch vụ đám mây nhằm đảm bảo mức hiệu suất cao nhất của dịch vụ Microsoft 365.  
   
-<strong>Rừng Active Directory</strong> Cấp độ rừng chức năng được đặt là không Windows Server 2003 trở đi, với cấu hình rừng sau đây:
+<strong>Rừng Active Directory</strong> Cấp độ rừng chức năng được đặt là Windows Server 2003 trở đi, với cấu hình rừng sau đây:
 <ul>
 <li>  Một rừng Active Directory duy nhất.  </li>
 <li>  Một rừng tài khoản Active Directory và rừng tài nguyên duy nhất (Exchange và/hoặc Lync 2010, Lync 2013 hoặc Skype for Business) .  </li>
@@ -195,12 +195,12 @@ Chúng tôi cung cấp hướng dẫn từ xa cho:
 <li>  
   Bật Azure AD SSPR.  
   </li>
-<li>  Cho phép người dùng tạo và quản lý bảo mật đám mây của riêng Office 365 họ bằng quản lý nhóm tự phục vụ Azure AD.  </li>
+<li>  Cho phép người dùng tạo và quản lý bảo mật đám mây hoặc các nhóm Office 365 của riêng mình bằng quản lý nhóm tự phục vụ Azure AD.  </li>
 <li>  Quản lý quyền truy nhập ủy nhiệm vào các ứng dụng doanh nghiệp bằng quản lý nhóm được ủy nhiệm của Azure AD.  </li>
 <li>  Bật nhóm động Azure AD.  </li>
 <li>  Sắp xếp các ứng dụng trong cổng thông tin Ứng dụng của Tôi bằng cách sử dụng các bộ sưu tập.  </li>
 </ul></td>
-<td>Active Directory tại chỗ và môi trường của nó đã được chuẩn bị cho Azure AD Premium, bao gồm khắc phục các sự cố đã xác định ngăn chặn việc tích hợp với các tính năng Premium Azure AD và Azure AD.</td>
+<td>Active Directory tại chỗ và môi trường của nó đã được chuẩn bị cho Azure AD Premium, bao gồm khắc phục các sự cố được xác định ngăn chặn việc tích hợp với các tính năng Premium Azure AD và Azure AD.</td>
 </tr>
 <tr class="odd">
 <td><strong>Azure Information Protection </strong></td>
@@ -209,7 +209,7 @@ Chúng tôi cung cấp hướng dẫn từ xa cho:
   </td>
 <td>  
   <tr class="odd">
-<td><strong>Khám phá & Phản hồi</strong></td>
+<td><strong>Khám phá & phản hồi</strong></td>
 <td>  
 
 <strong>Advanced eDiscovery</strong>
@@ -314,7 +314,7 @@ Chúng tôi cung cấp hướng dẫn từ xa cho:
 
 <td> <p> Bộ bảo vệ Microsoft 365 là bộ phòng thủ doanh nghiệp trước và sau vi phạm thống nhất, chủ yếu điều phối việc phát hiện, ngăn chặn, điều tra và ứng phó giữa các điểm cuối, danh tính, email và ứng dụng nhằm bảo vệ tích hợp trước các cuộc tấn công tinh vi. Chúng tôi cung cấp hướng dẫn từ xa cho: </p> 
 <ul>
-<li>  Cung cấp thông tin tổng quan về Microsoft 365 tâm bảo mật.  </li>
+<li>  Cung cấp thông tin tổng quan Microsoft 365 tâm bảo mật.  </li>
 <li>  Xem xét các sự cố chéo sản phẩm, bao gồm tập trung vào những điều quan trọng bằng cách đảm bảo phạm vi tấn công toàn bộ, tài sản bị ảnh hưởng và các hành động khắc phục tự động được nhóm lại với nhau.  </li>
 <li>  Thể hiện cách Bộ bảo vệ Microsoft 365 dàn quá trình điều tra tài nguyên, người dùng, thiết bị và hộp thư có thể đã bị xâm phạm thông qua tự động điều tra. </li>
 <li>  Giải thích và cung cấp các ví dụ về cách khách hàng chủ động tìm kiếm các nỗ lực xâm nhập và hoạt động vi phạm tác động đến email, dữ liệu, thiết bị và tài khoản của bạn trên nhiều tập dữ liệu.   </li>
@@ -331,7 +331,7 @@ Chúng tôi cung cấp hướng dẫn từ xa cho:
 <li> Tính năng chống mối đe dọa tùy chỉnh.  </li>
 </ul>
 </li>
-<li> Hỗ <a href=" /fasttrack/us-gov-appendix-overview">trợ GCC-High bản hoặc GCC-DoD quyền (Office 365 chính phủ Hoa Kỳ).</a></li>
+<li> Hỗ <a href=" /fasttrack/us-gov-appendix-overview">trợ GCC-High hoặc GCC-DoD quyền (Office 365 chính phủ Hoa Kỳ).</a></li>
 <li> Tích hợp quản lý sự kiện và thông tin bảo mật (SIEM) hoặc API.</li>
 </td>
 </tr>
@@ -365,7 +365,7 @@ Chúng tôi cung cấp hướng dẫn từ xa cho:
 <li> Ứng dụng xử lý và không cấp phép.</li>
 <li> Xem lại bảng điều Cloud App Security Cloud Discovery.</li>
 <li> Kết nối các <a href="/cloud-app-security/enable-instant-visibility-protection-and-governance-actions-for-your-apps"> ứng dụng nổi</a> bật bằng trình kết nối ứng dụng.</li>
-<li> Bảo vệ ứng dụng bằng Kiểm soát Ứng dụng Truy nhập có Điều kiện trong Truy nhập có Điều kiện trong Azure AD và Cloud App Security cổng thông tin.</li>
+<li> Bảo vệ ứng dụng bằng Kiểm soát ứng dụng truy nhập có điều kiện trong Truy nhập có điều kiện trong Azure AD và Cloud App Security cổng thông tin.</li>
 <li> Triển khai Kiểm soát Ứng dụng Truy nhập có Điều kiện cho các ứng dụng nổi bật.</li>
 <li> Sử dụng hoạt động và nhật ký tệp.</li>
 <li> Quản lý ứng dụng OAuth.</li>
@@ -385,7 +385,7 @@ Chúng tôi cung cấp hướng dẫn từ xa cho:
 <li> Đặt cấu hình cho Cloud App Security đáp ứng các yêu cầu tuân thủ hoặc quy định cụ thể.</li>
 <li> Triển khai dịch vụ cho môi trường sản xuất không thử nghiệm.</li>
 <li> Triển khai Khám phá Ứng dụng Đám mây làm bằng chứng khái niệm.</li>
-<li> Hỗ <a href=" /fasttrack/us-gov-appendix-overview">trợ GCC-High bản hoặc GCC-DoD quyền (Office 365 chính phủ Hoa Kỳ).</a></li>
+<li> Hỗ <a href=" /fasttrack/us-gov-appendix-overview">trợ GCC-High hoặc GCC-DoD quyền (Office 365 chính phủ Hoa Kỳ).</a></li>
 <li> Thiết lập cơ sở hạ tầng, cài đặt hoặc triển khai các bản tải lên nhật ký tự động cho các báo cáo liên tục bằng cách dùng Docker hoặc bộ thu thập nhật ký. </li>
 <li> Tạo báo cáo hiện trạng Khám phá Điện toán đám mây.</li>
 <li> Chặn mức sử dụng ứng dụng bằng tập lệnh chặn.</li>
@@ -408,10 +408,10 @@ Chúng tôi cung cấp hướng dẫn từ xa cho:
 <ul>
 <li>  Triển khai các công nghệ để bảo mật điểm cuối của bạn.  </li>
 <li>  Cấu hình bảo vệ điểm cuối và cấu hình hạn chế thiết bị.  </li>
-<li>  Đánh giá phiên bản HĐH và quản lý thiết bị (bao gồm intune, Microsoft Endpoint Configuration Manager, Đối tượng Chính sách Nhóm (GPOs) và cấu hình của bên thứ ba) cũng như trạng thái của các dịch vụ Bộ bảo vệ Windows AV hoặc phần mềm bảo mật điểm cuối khác của bạn.  </li>
+<li>  Đánh giá phiên bản HĐH và quản lý thiết bị (bao gồm Intune, Microsoft Endpoint Configuration Manager, Đối tượng Chính sách Nhóm (GPOs) và cấu hình của bên thứ ba) cũng như trạng thái của các dịch vụ Bộ bảo vệ Windows AV hoặc phần mềm bảo mật điểm cuối khác của bạn.  </li>
 <li>  Đánh giá trạng thái dịch Windows AV hoặc phần mềm bảo mật điểm cuối khác của bạn.  </li>
 <li>  Đánh giá các proxy và tường lửa hạn chế lưu lượng truy nhập mạng.  </li>
-<li>  Bật dịch vụ Điểm cuối của Bộ bảo vệ Microsoft bằng cách giải thích cách triển khai hồ sơ đại diện Bộ bảo vệ cho phát hiện điểm cuối và phản hồi điểm cuối (EDR) bằng cách sử dụng một trong các phương pháp quản lý được hỗ trợ.  </li>
+<li>  Bật dịch vụ Điểm cuối của Bộ bảo vệ Microsoft bằng cách giải thích cách triển khai hồ sơ tác vụ Bộ bảo vệ cho phát hiện điểm cuối và phản hồi điểm cuối (EDR) bằng cách sử dụng một trong các phương pháp quản lý được hỗ trợ.  </li>
 <li>  Hướng dẫn triển khai, trợ giúp về cấu hình và giáo dục trên:
 <ul>
 <li>  
@@ -471,7 +471,7 @@ Chúng tôi cung cấp hướng dẫn từ xa cho:
 <strong>Sau đây là nằm ngoài phạm vi </strong>  
 <ul>
 <li>  Project lý hoạt động khắc phục của khách hàng.  </li>
-<li> Hỗ <a href=" /fasttrack/us-gov-appendix-overview">trợ GCC-High bản hoặc GCC-DoD quyền (Office 365 chính phủ Hoa Kỳ).</a></li>
+<li> Hỗ <a href=" /fasttrack/us-gov-appendix-overview">trợ GCC-High hoặc GCC-DoD quyền (Office 365 chính phủ Hoa Kỳ).</a></li>
 <li>  Hỗ trợ tại chỗ.  </li>
 <li>  Quản lý liên tục và ứng phó với mối đe dọa.  </li>
 <li>  Việc tích hợp hoặc cấu hình cho các tác nhân của Microsoft Defender dành cho Điểm cuối sau đây:
@@ -741,7 +741,7 @@ Chúng tôi cung cấp hướng dẫn từ xa cho:
 <li>  Biết được dữ liệu của bạn với trình khám phá nội dung và activity explorer (được hỗ trợ trong E5).  </li>
 <li>  Phát hành nhãn bằng các chính sách (thủ công và tự động) (được hỗ trợ trong E5).  </li>
 <li>  Tạo chính sách Ngăn mất dữ liệu điểm cuối (DLP) cho thiết Windows 10 của bạn (được hỗ trợ trong E5).  </li>
-<li>  Tạo chính sách DLP cho Microsoft Teams chuyện và kênh.  </li>
+<li>  Tạo chính sách DLP cho việc Microsoft Teams chuyện và kênh.  </li>
 </ul>
 
 <strong> Trình quản lý Tuân thủ</strong>
@@ -762,7 +762,7 @@ Chúng tôi cung cấp hướng dẫn từ xa cho:
 <li>  Kích hoạt và cấu hình đối tượng thuê của bạn.  </li>
 <li>  Tạo và thiết lập nhãn và chính sách (được hỗ trợ trong P1 và P2).  </li>
 <li>  Áp dụng bảo vệ thông tin cho tài liệu (được hỗ trợ trong P1 và P2).  </li>
-<li>  Tự động phân loại và đánh nhãn thông tin trong các ứng dụng Office (như Word, PowerPoint, Excel và Outlook) chạy trên Windows và sử dụng Máy khách Azure Information Protection (được hỗ trợ trong P2).  </li>
+<li>  Tự động phân loại và đánh nhãn thông tin trong các ứng dụng Office (như Word, PowerPoint, Excel và Outlook) chạy trên Windows và sử dụng máy khách Azure Information Protection (được hỗ trợ trong P2).  </li>
 <li>  Khám phá và ghi nhãn tệp khi còn lại bằng trình quét Azure Information Protection (được hỗ trợ trong P1 và P2).  </li>
 <li>  Giám sát email khi chuyển tiếp bằng Exchange Online tắc dòng thư.  </li>
 </ul>
@@ -868,12 +868,12 @@ Trách nhiệm tiên quyết của khách hàng bao gồm:
 </ul> 
 
 <strong>Triển khai Outlook di động cho iOS và Android một cách bảo mật</strong> Chúng tôi có thể cung cấp hướng dẫn để giúp bạn triển khai Outlook mobile for iOS và Android một cách an toàn trong tổ chức của bạn để đảm bảo người dùng đã cài đặt tất cả các ứng dụng bắt buộc.  
-  Các bước để triển khai bảo mật Outlook thiết bị di động cho iOS và Android với Intune phụ thuộc vào môi trường nguồn của bạn. Nó có thể bao gồm:
+  Các bước để triển khai bảo mật Outlook thiết bị di động cho iOS và Android với Intune tùy thuộc vào môi trường nguồn của bạn. Nó có thể bao gồm:
 <ul>
 <li>  Tải xuống ứng Outlook cho iOS và Android, Microsoft Authenticator và Intune Company Portal thông qua Apple App Store hoặc Google Play Store.  </li>
 <li>  Cung cấp hướng dẫn thiết lập:
 <ul>
-<li>  Công Outlook cho việc triển khai ứng dụng Microsoft Authenticator, cũng như Intune Company Portal của iOS và Android với Intune.  </li>
+<li>  Tính Outlook cho việc triển khai ứng dụng Microsoft Authenticator, cũng như Intune Company Portal của iOS và Android với Intune.  </li>
 <li>  Chính sách bảo vệ ứng dụng.  </li>
 <li>  Chính sách Truy nhập có Điều kiện.  </li>
 <li>  Chính sách cấu hình ứng dụng.  </li>
@@ -881,9 +881,9 @@ Trách nhiệm tiên quyết của khách hàng bao gồm:
 </ul>  
   </td>
 <td>  Người quản trị CNTT cần có các cơ sở hạ tầng Certificate Authority, mạng không dây và VPN hiện đang hoạt động trong môi trường sản xuất của mình khi lên kế hoạch triển khai mạng không dây và cấu hình VPN với Intune.  
-  <strong>Lưu</strong>ý : Lợi ích dịch vụ FastTrack của Apple không bao gồm hỗ trợ thiết lập hoặc cấu hình Cơ quan cấp chứng chỉ, mạng không dây, cơ sở hạ tầng VPN hoặc chứng chỉ đẩy MDM của Apple cho Intune.  
+  <strong>Lưu</strong>ý : Lợi ích dịch vụ FastTrack này không bao gồm hỗ trợ thiết lập hoặc cấu hình Cơ quan cấp chứng chỉ, mạng không dây, cơ sở hạ tầng VPN hoặc chứng chỉ đẩy MDM của Apple cho Intune.  
  
-  <strong>Lưu</strong>ý : Lợi ích dịch FastTrack vụ Cao cấp không bao gồm hỗ trợ thiết lập hoặc nâng cấp máy chủ site Trình quản lý Cấu hình hoặc máy khách Trình quản lý Cấu hình lên các yêu cầu tối thiểu cần thiết để hỗ trợ đính kèm điện toán đám mây. Liên hệ với Đối <a href="https://go.microsoft.com/fwlink/?linkid=2080150">tác của Microsoft để</a> được trợ giúp về vấn đề này.
+  <strong>Lưu</strong>ý : Lợi ích dịch vụ FastTrack quan hệ thống không bao gồm hỗ trợ thiết lập hoặc nâng cấp máy chủ site Trình quản lý Cấu hình hoặc máy khách Trình quản lý Cấu hình lên các yêu cầu tối thiểu cần thiết để hỗ trợ đính kèm điện toán đám mây. Liên hệ với Đối <a href="https://go.microsoft.com/fwlink/?linkid=2080150">tác của Microsoft để</a> được trợ giúp về vấn đề này.
 
   <strong>Intune được tích hợp với Microsoft Defender dành cho Điểm cuối</strong> 
  
@@ -891,7 +891,7 @@ Trách nhiệm tiên quyết của khách hàng bao gồm:
   
 <strong>Windows Autopilot</strong> 
  
-  Người quản trị CNTT chịu trách nhiệm đăng ký thiết bị của mình cho tổ chức của mình bằng cách thay mặt nhà cung cấp phần cứng tải lên ID phần cứng hoặc bằng cách tải thiết bị lên dịch vụ Autopilot của Windows.  
+  Người quản trị CNTT chịu trách nhiệm đăng ký thiết bị của mình cho tổ chức của mình bằng cách thay mặt nhà cung cấp phần cứng tải lên ID phần cứng của mình hoặc bằng cách tự tải thiết bị lên dịch vụ Autopilot của Windows.  
   
 </td>
 </tr>
@@ -923,7 +923,7 @@ Trách nhiệm tiên quyết của khách hàng bao gồm:
 <ul>
 <li>  Thiết lập các Exchange Online Protection năng truy nhập (EOP) cho tất cả các tên miền hỗ trợ thư được xác thực trong Office 365.  </li>
 <li>  Trỏ bản ghi trao đổi thư (MX) của bạn đến một Office 365.  </li>
-<li>  Thiết lập tính năng Bộ bảo vệ Microsoft Office 365 này nếu đây là một phần trong dịch vụ đăng ký của bạn. Để biết thêm thông tin, hãy xem <strong>mục Bộ bảo vệ Microsoft Office 365</strong> phần trong bảng này.  </li>
+<li>  Thiết lập tính năng Microsoft Defender cho Office 365 này nếu đây là một phần trong dịch vụ đăng ký của bạn. Để biết thêm thông tin, hãy xem <strong>mục Bộ bảo vệ Microsoft Office 365</strong> phần trong bảng này.  </li>
 <li>  Thiết lập tính năng ngăn mất dữ liệu (DLP) cho tất cả các tên miền hỗ trợ thư được xác thực trong Office 365 như là một phần của dịch vụ đăng ký của bạn. Điều này được thực hiện sau khi bản ghi MX của bạn trỏ tới Office 365.  </li>
 <li>  Thiết lập Mã hóa Thư Office 365 (OME) cho tất cả các miền hỗ trợ thư được xác thực trong Office 365 như một phần của dịch vụ đăng ký của bạn. Điều này được thực hiện sau khi bản ghi MX của bạn trỏ tới Office 365.  </li>
 </ul>
@@ -975,7 +975,7 @@ Phần mềm máy khách trực tuyến như Project for Office 365, Outlook for
 <td><strong>Microsoft Teams</strong></td>
 <td>  Chúng tôi cung cấp hướng dẫn từ xa cho:
 <ul>
-<li>  Xác nhận các yêu cầu tối thiểu Exchange Online nhóm, SharePoint Online, Office 365 nhóm và Azure AD để hỗ trợ Teams.  </li>
+<li>  Xác nhận các yêu cầu tối thiểu Exchange Online nhóm, SharePoint Nhóm Office 365, Trực tuyến và Azure AD để hỗ trợ Teams.  </li>
 <li>  Cấu hình cổng tường lửa.  </li>
 <li>  Thiết lập DNS.  </li>
 <li>  Xác nhận Teams được bật trên đối tượng thuê Office 365 bạn.  </li>
@@ -987,7 +987,7 @@ Phần mềm máy khách trực tuyến như Project for Office 365, Outlook for
 <li>  Ước tính băng thông.  </li>
 </ul>
 <ul>
-<li>  Đặt cấu hình Teams cho ứng dụng (Teams web app, Teams trên Máy tính và Teams cho ứng dụng iOS và Android).  </li>
+<li>  Đặt cấu hình Teams cho ứng dụng (Teams web app, Teams desktop app và Teams dành cho ứng dụng iOS và Android).  </li>
 </ul>
 Nếu có thể, chúng tôi cũng cung cấp hướng dẫn cho:
 <ul>
@@ -1022,31 +1022,31 @@ Nếu có thể, chúng tôi cũng cung cấp hướng dẫn cho:
 
 </ul></li>
 </ul></li>
-<li>  Cho phép Teams kiện trực tiếp.  </li>
+<li>  Bật các Teams kiện trực tiếp.  </li>
 <li>  Thiết lập và tích hợp tổ chức vào Microsoft Stream.  </li>
 <li>  Hướng dẫn chuyển Skype for Business chuyển Teams trang.  </li>
 </ul></td>
 <td><ul>
-<li>  Danh tính được bật trong Azure AD cho một Office 365.  </li>
+<li>  Danh tính được bật trong Azure AD cho Office 365.  </li>
 <li>  Người dùng được kích hoạt SharePoint Online.  </li>
 <li>  Exchange hiện diện (trực tuyến và tại chỗ trong cấu hình Exchange kết hợp).  </li>
 <li>  Được bật cho Office 365 Nhóm.  </li>
 </ul>
-  <strong>Lưu ý:</strong> Nếu người dùng chưa được gán và kích hoạt với giấy phép SharePoint Online, họ sẽ không có dung lượng lưu trữ OneDrive for Business lưu trữ Office 365. Tính năng chia sẻ tệp vẫn tiếp tục hoạt động trong Kênh, nhưng người dùng không thể chia sẻ tệp trong Cuộc trò chuyện mà không OneDrive for Business lưu trữ trong Office 365. Teams không hỗ trợ SharePoint tại chỗ.  <br>
-  <strong>Lưu ý:</strong> Trạng thái lý tưởng là tất cả người dùng đều có hộp thư ở nhà trên Exchange Online. Người dùng có hộp thư tại cơ sở phải được đồng bộ hóa danh tính với thư mục Office 365 thông qua Azure AD Kết nối. Đối với những Exchange khách hàng kết hợp này, nếu hộp thư của người dùng là tại chỗ, người dùng không thể thêm hoặc cấu hình Trình kết nối.  
-  Chương trình cài đặt cho máy khách Microsoft Teams Windows máy tính Mac và Máy Mac có thể được tải xuống từ <a href="https://go.microsoft.com/fwlink/?linkid=839411">https://go.microsoft.com/fwlink/?linkid=839411</a> .  </td>
+  <strong>Lưu ý:</strong> Nếu người dùng chưa được gán và kích hoạt với giấy phép SharePoint Online, họ sẽ không có dung lượng OneDrive for Business lưu trữ Office 365. Tính năng chia sẻ tệp vẫn tiếp tục hoạt động trong Kênh, nhưng người dùng không thể chia sẻ tệp trong Cuộc trò chuyện mà OneDrive for Business lưu trữ trong Office 365. Teams không hỗ trợ SharePoint tại chỗ.  <br>
+  <strong>Lưu ý:</strong> Trạng thái lý tưởng là để tất cả người dùng có hộp thư của họ ở Exchange Online. Người dùng có hộp thư tại cơ sở phải được đồng bộ hóa danh tính với thư mục Office 365 thông qua Azure AD Kết nối. Đối với những Exchange khách hàng kết hợp này, nếu hộp thư của người dùng là tại chỗ, người dùng không thể thêm hoặc cấu hình Trình kết nối.  
+  Trình cài đặt cho máy khách Microsoft Teams Windows máy tính Mac và Máy Mac có thể được tải xuống từ <a href="https://go.microsoft.com/fwlink/?linkid=839411">https://go.microsoft.com/fwlink/?linkid=839411</a> .  </td>
 </tr>
 
 <tr class="even">
 <td><strong>Outlook cho iOS và Android</strong></td>
 <td>  Chúng tôi cung cấp hướng dẫn từ xa cho:
 <ul>
-<li>  Tải xuống Outlook cho iOS và Android từ Apple App Store và Google Play.  </li>
+<li>  Tải Outlook cho iOS và Android từ Apple App Store và Google Play.  </li>
 <li>  Cấu hình tài khoản và truy nhập hộp Exchange Online của bạn.  </li>
-<li>  Bảo mật cho Outlook di động <a href="/exchange/clients-and-mobile-in-exchange-online/outlook-for-ios-and-android/secure-outlook-for-ios-and-android">(xem mục Bảo Outlook cho iOS và Android trong Exchange Online thêm</a> thông tin).  </li>
+<li>  Bảo mật cho Outlook di động <a href="/exchange/clients-and-mobile-in-exchange-online/outlook-for-ios-and-android/secure-outlook-for-ios-and-android">(xem mục Bảo mật thiết Outlook cho iOS</a> và Android trong Exchange Online thêm thông tin).  </li>
 </ul></td>
 <td><ul>
-<li>  Danh tính được bật trong Azure AD cho một Office 365.  </li>
+<li>  Danh tính được bật trong Azure AD cho Office 365.  </li>
 <li>  Exchange Online cấu hình và giấy phép đã gán.  </li>
 </ul></td>
 </tr>
@@ -1055,7 +1055,7 @@ Nếu có thể, chúng tôi cũng cung cấp hướng dẫn cho:
 <td>  Chúng tôi cung cấp hướng dẫn từ xa cho:
 <ul>
 <li>  Gán giấy phép Power BI.  </li>
-<li>  Triển khai ứng Power BI Desktop Dụng Chính.  </li>
+<li>  Triển khai ứng Power BI Desktop dụng.  </li>
 </ul></td>
 <td>Phần mềm máy khách trực Power BI Desktop phải ở mức tối thiểu như được xác định trong Yêu cầu hệ thống cho máy <a href="https://go.microsoft.com/fwlink/?LinkID=723597">Microsoft 365 và Office.</a></td>
 </tr>
@@ -1078,8 +1078,8 @@ Nếu có thể, chúng tôi cũng cung cấp hướng dẫn cho:
 <li>  Gán giấy phép người dùng cuối bằng cách sử dụng Trung tâm quản trị Microsoft 365 và Windows PowerShell.  </li>
 <li>  Cài Project Online trên Máy khách trên máy tính từ Office 365 cổng thông tin bằng Click-to-Run.  </li>
 <li>  Đặt cấu hình thiết đặt cập nhật bằng cách dùng Office 365 Công cụ Triển khai.  </li>
-<li>  Thiết lập một máy chủ phân phối tại chỗ duy nhất cho máy khách Project Online trên máy tính, bao gồm hỗ trợ tạo tệp configuration.xml để sử dụng với Công cụ Triển khai Office 365.  </li>
-<li>  Kết nối Project Online máy khách để bàn với máy Project Online Professional hoặc Project Online Premium.  </li>
+<li>  Thiết lập một máy chủ phân phối tại chỗ duy nhất cho máy khách Project Online trên máy tính, bao gồm hỗ trợ tạo một tệp configuration.xml để sử dụng với Công cụ Triển khai Office 365.  </li>
+<li>  Kết nối Project Online máy khách để bàn Project Online Professional hoặc máy Project Online Premium.  </li>
 </ul></td>
 <td>Phần mềm máy khách trực Project for Office 365 phải ở mức tối thiểu như được xác định trong Yêu cầu hệ thống cho máy <a href="https://go.microsoft.com/fwlink/?LinkID=723597">Microsoft 365 và Office.</a></td>
 </tr>
@@ -1093,37 +1093,37 @@ Nếu có thể, chúng tôi cũng cung cấp hướng dẫn cho:
 <li>Cho phép tạo site cho người quản SharePoint Online của bạn.</li>
 <li>Lập kế hoạch tuyển tập site.</li>
 <li>Bảo mật nội dung và quản lý quyền.</li>
-<li>Đặt cấu hình SharePoint năng Online.</li>
-<li>  Đặt cấu hình cho tính năng SharePoint kết hợp, như tìm kiếm kết hợp, site hỗn hợp, phân loại hỗn hợp, kiểu nội dung, tạo site tự phục vụ kết hợp (chỉ SharePoint Server 2013), công cụ khởi động ứng dụng mở rộng, OneDrive for Business kết hợp và site mạng nội bộ mở rộng.  </li>
+<li>Đặt cấu hình cho SharePoint năng Online.</li>
+<li>  Đặt cấu hình cho tính năng SharePoint kết hợp, như tìm kiếm kết hợp, site hỗn hợp, phương pháp phân loại hỗn hợp, kiểu nội dung, tạo site tự phục vụ kết hợp (chỉ SharePoint Server 2013), công cụ khởi động ứng dụng mở rộng, OneDrive for Business kết hợp và site mạng nội bộ mở rộng.  </li>
 <li>  Phương pháp di chuyển của bạn.  </li>
 </ul>
 Hướng dẫn bổ sung được cung cấp OneDrive for Business tùy thuộc vào phiên bản SharePoint của bạn, như:
 <ul>
 <li>  Xác định các tùy chọn tích hợp và xem lại cơ sở hạ tầng mạng và băng thông tại cơ sở cũng như trực tuyến.  </li>
-<li>  Cài SharePoint Online 2013 SP1 (nếu có), lập kế hoạch và thực hiện các yêu cầu về đồng bộ hóa và danh tính cũng như xác định máy khách đồng bộ OneDrive for Business bạn.  </li>
+<li>  Cài SharePoint 2013 SP1 (nếu có), lập kế hoạch và thực hiện các yêu cầu về đồng bộ hóa và danh tính cũng như xác định máy khách đồng bộ OneDrive for Business của bạn.  </li>
 <li>  Lập kế hoạch và thực hiện một triển khai duy nhất cho tất cả người dùng (hoặc triển khai theo giai đoạn).  </li>
-<li>  Gán giấy phép, chuyển hướng Site của Tôi và thư viện tài liệu cá nhân tới Office 365 (áp dụng cho SharePoint Online 2013), thiết lập người xem để kiểm soát quyền truy nhập vào OneDrive (áp dụng cho SharePoint Online 2013).  </li>
+<li>  Gán giấy phép, chuyển hướng Site của Tôi và thư viện tài liệu cá nhân tới Office 365 (áp dụng cho SharePoint Online 2013), thiết lập khán giả để kiểm soát truy nhập vào OneDrive (áp dụng cho SharePoint Online 2013).  </li>
 <li>Chuyển hướng hoặc di chuyển thư mục đã biết đến OneDrive.</li>
 <li>  Triển khai đồng bộ OneDrive for Business khách hàng mới.  </li>
 </ul>
   <strong>Di chuyển dữ liệu</strong>  <br>
 Để biết thông tin về việc sử dụng lợi FastTrack di chuyển dữ liệu sang các Office 365, hãy xem <a href="/fasttrack/data-migration">Di chuyển Dữ liệu</a>.
 </ul></td>
-<td><br><strong>Đối với SharePoint hợp:</strong>  
+<td><br><strong>Đối với SharePoint kết hợp:</strong>  
 <ul>
 <li>  SharePoint cấu hình kết hợp bao gồm cấu hình tìm kiếm hỗn hợp, site, tư cách phân loại, kiểu nội dung, OneDrive for Business, công cụ khởi động ứng dụng mở rộng, các site mạng nội bộ mở rộng và tạo site tự phục vụ được kết nối từ môi trường tại chỗ đến một môi trường SharePoint Online đích duy nhất.  </li>
 </ul>
   <strong>Lưu ý:</strong> Tính năng tạo site tự phục vụ không nằm trong phạm vi các máy chủ tại chỗ chạy SharePoint 2013.  
 <ul>
-<li>  Để bật SharePoint kết hợp, bạn phải có một trong các môi trường SharePoint Server tại chỗ sau: 2013, 2016 hoặc 2019.  </li>
+<li>  Để bật SharePoint kết hợp, bạn phải có một trong các môi trường tại chỗ SharePoint Server sau: 2013, 2016 hoặc 2019.  </li>
 </ul>
   <strong>Lưu ý:</strong> Nâng cấp các môi trường SharePoint tại chỗ thành SharePoint Server không có phạm vi. Liên hệ với Đối <a href="https://go.microsoft.com/fwlink/?linkid=2080150">tác của Microsoft để</a> được trợ giúp. Để biết thêm thông tin, hãy xem <a href="https://go.microsoft.com/fwlink/?linkid=853548">Mức cập nhật công khai tối thiểu cho các SharePoint hợp khác.</a><em></em>  <br>
-  <strong>Lưu ý:</strong> Để biết thông tin về Khả năng Đa Địa lý, <a href="https://go.microsoft.com/fwlink/?linkid=831056">hãy xem mục Multi-Geo Capabilities trong OneDrive và SharePoint Online Office 365</a><em>.</em>  </td>
+  <strong>Lưu ý:</strong> Để biết thông tin về Khả năng Đa Địa lý, hãy <a href="https://go.microsoft.com/fwlink/?linkid=831056">xem Mục Multi-Geo Capabilities trong OneDrive và SharePoint Online Office 365</a><em>.</em>  </td>
 </tr>
 <tr class="even">
 <td><strong>Yammer Enterprise</strong></td>
 <td>
-Chúng tôi cung cấp hướng dẫn từ xa để bật dịch Yammer Enterprise cụ thể.  
+Chúng tôi cung cấp hướng dẫn từ xa để bật dịch Yammer Enterprise này.  
 </td>
 <td>Phần mềm máy khách trực tuyến phải ở mức tối thiểu như được xác định trong Yêu cầu hệ thống cho máy <a href="https://go.microsoft.com/fwlink/?LinkID=723597">Microsoft 365 và Office.</a></td>
 </tr>
@@ -1153,14 +1153,14 @@ Chúng tôi cung cấp hướng dẫn từ xa để bật dịch Yammer Enterpri
 </tr>
 <tr class="odd">
 <td><strong>Azure Information Protection </strong></td>
-<td>  Để biết thêm thông tin về Azure Information Protection, hãy xem <strong>Bảo vệ thông tin của Microsoft</strong> phần Bảo <a href="/fasttrack/products-and-capabilities#security-and-compliance">mật và Tuân thủ</a>.  </td>
+<td>  Để biết thêm thông tin về Azure Information Protection, hãy xem <strong>Bảo vệ thông tin của Microsoft</strong> mục Bảo <a href="/fasttrack/products-and-capabilities#security-and-compliance">mật và Tuân thủ</a>.  </td>
 <td>  
   
 </td>
 </tr>
 <tr class="even">
 <td><strong>Microsoft Intune</strong></td>
-<td>  Để biết thêm thông tin, hãy <strong>xem Microsoft Intune</strong> bảo mật và <a href="/fasttrack/products-and-capabilities#security-and-compliance">tuân thủ</a>.
+<td>  Để biết thêm thông tin, hãy <strong>xem Microsoft Intune</strong> phần Bảo mật và <a href="/fasttrack/products-and-capabilities#security-and-compliance">Tuân thủ</a>.
   </td>
 <td>  
   
@@ -1199,8 +1199,8 @@ Chúng tôi cung cấp hướng dẫn từ xa để bật dịch Yammer Enterpri
 <li>  Tạo danh sách kiểm tra khắc phục về những điều bạn cần làm để đưa môi trường nguồn của bạn đến tối thiểu các yêu cầu tối thiểu để triển khai thành công.  </li>
 <li>  Cung cấp hướng dẫn nâng cấp cho các thiết bị hiện có của bạn Windows 10 Enterprise nếu chúng đáp ứng các yêu cầu về phần cứng thiết bị cần thiết.  </li>
 <li>  Cung cấp hướng dẫn nâng cấp để hỗ trợ chuyển động triển khai hiện có của bạn. FastTrack đề xuất và cung cấp hướng dẫn nâng cấp tại chỗ lên phiên Windows 10. Hướng dẫn cũng có sẵn để cài Windows đặt hình ảnh sạch và Windows các kịch bản triển khai Autopilot.  </li>
-<li>  Triển khai Ứng dụng Microsoft 365 sử dụng Trình quản lý Cấu hình như là một phần của quá trình triển Windows 10 công việc.   </li>
-<li>  Cung cấp hướng dẫn giúp tổ chức của bạn luôn cập nhật thông tin về Windows 10 Enterprise và Ứng dụng Microsoft 365 sử dụng môi trường Trình quản lý Cấu hình hiện có hoặc thiết Microsoft 365.  </li> 
+<li>  Triển khai Ứng dụng Microsoft 365 sử dụng Trình quản lý Cấu hình như là một phần của quá trình triển Windows 10 Công cụ.   </li>
+<li>  Cung cấp hướng dẫn để giúp tổ chức của bạn luôn cập nhật thông tin về Windows 10 Enterprise và Ứng dụng Microsoft 365 sử dụng môi trường Trình quản lý Cấu hình hiện có hoặc thiết Microsoft 365.  </li> 
 </ul>
   
 <strong>Sau đây là nằm ngoài phạm vi </strong>  
@@ -1209,22 +1209,22 @@ Chúng tôi cung cấp hướng dẫn từ xa để bật dịch Yammer Enterpri
 <li>  Tạo hình ảnh tùy chỉnh để Windows 10 triển khai.  </li>
 <li>  Tạo và hỗ trợ tập lệnh triển khai để Windows 10 triển khai.  </li>
 <li>  Converting a Windows 10 system from BIOS to Unified Extensible Firmware Interface (UEFI).  </li>
-<li>  Bật tính Windows 10 năng bảo mật.  </li>
-<li>  Đặt cấu hình Windows khởi động Môi trường Thực thi Trước (PXE) cho Môi trường Thực thi Khởi động trước (PXE).  </li>
+<li>  Kích hoạt Windows 10 năng bảo mật mới.  </li>
+<li>  Đặt cấu hình Windows các Dịch vụ Triển khai (WDS) để khởi động Môi trường Thực thi Khởi động Trước (PXE).  </li>
 <li>  Sử dụng Bộ công cụ Triển khai Microsoft (MDT) để chụp và triển khai các Windows 10 ảnh.  </li>
 <li>  Sử dụng Công cụ Di chuyển Trạng thái Người dùng (USMT).  </li>
 </ul>
 Liên hệ với Đối <a href="https://go.microsoft.com/fwlink/?linkid=2080150">tác của Microsoft để</a> được trợ giúp về các dịch vụ này.  </td>
 <td>  Để nâng cấp PC, bạn phải đáp ứng các yêu cầu sau:
 <ul>
-<li>  HĐH Nguồn: Windows 7 Enterprise hoặc Professional, Windows 8.1 Enterprise Professional.  </li>
+<li>  HĐH Nguồn: Windows 7 Enterprise hoặc Professional, Windows 8.1 Enterprise hoặc Professional.  </li>
 <li>  Thiết bị: Yếu tố biểu mẫu máy tính để bàn, sổ tay hoặc máy tính bảng.  </li>
 <li>  HĐH Đích: Cửa sổ 10 Enterprise.  </li>
 </ul>
 Để nâng cấp cơ sở hạ tầng, bạn phải đáp ứng các yêu cầu sau:
 <ul>
 <li>  Microsoft Endpoint Configuration Manager.  </li>
-<li>  Phiên bản Bộ quản lý Cấu hình phải được hỗ trợ Windows 10 đích mới. Để biết thêm thông tin, hãy xem bảng hỗ trợ Trình quản lý Cấu <a href="/sccm/core/plan-design/configs/support-for-windows-10">hình tại Hỗ trợ cho Windows 10 trong Trình quản lý Cấu hình.</a>  </li>
+<li>  Phiên bản Bộ quản lý Cấu hình phải được hỗ trợ bởi Windows 10 đích mới. Để biết thêm thông tin, hãy xem bảng hỗ trợ Trình quản lý Cấu <a href="/sccm/core/plan-design/configs/support-for-windows-10">hình tại Hỗ trợ cho Windows 10 trong Trình quản lý Cấu hình.</a>  </li>
 </ul>
 
 <tr class="odd">
@@ -1262,26 +1262,26 @@ Liên hệ với Đối <a href="https://go.microsoft.com/fwlink/?linkid=2080150
 <li>Hình ảnh được chia sẻ.</li>
 <li>Office Bộ công cụ Triển khai (ODT).</li>
 </ul></li>
-<li>Đặt cấu hình Ứng dụng Microsoft 365 cho FSLogix trong màn hình nền Windows nền Ảo. Đối với FSLogix:
+<li>Cấu hình Ứng dụng Microsoft 365 thoại cho FSLogix trong một màn hình Windows nền Ảo. Đối với FSLogix:
 <ul>
 <li>Triển khai Tác nhân.</li>
-<li>Cấu hình Hồ sơ và Office chứa.</li>
-<li>Đặt cấu hình loại trừ nội dung và chuyển hướng thư mục cho mọi Ứng dụng Microsoft 365.</li>
+<li>Cấu hình Hồ sơ và Office chứa tài liệu.</li>
+<li>Đặt cấu hình loại trừ nội dung và chuyển hướng thư mục cho người Ứng dụng Microsoft 365.</li>
 </ul></li>
 <li>Triển khai Microsoft Edge.</li>
-<li>Triển khai tối ưu Microsoft Teams tối ưu hóa.</li>
+<li>Triển khai tối Microsoft Teams tối ưu hóa.</li>
 </ul>
 
 <strong>Sau đây là nằm ngoài phạm vi</strong>
 <ul>
 <li>Project triển khai cơ sở hạ tầng Máy tính Ảo Windows khách hàng.</li>
 <li>Ảo hóa và triển khai ứng dụng của bên thứ ba.</li>
-<li>Tạo hình ảnh tùy chỉnh cho màn Windows Bàn làm việc Ảo.</li>
+<li>Tạo hình ảnh tùy chỉnh cho Windows Bàn làm việc Ảo.</li>
 <li>Di chuyển và kịch bản liên quan đến VMware và Citrix.</li>
 <li>Kịch bản Linux.</li>
 <li>Chuyển đổi hoặc di chuyển hồ sơ người dùng.</li>
-<li>Microsoft Endpoint Configuration Manager và cài Microsoft Endpoint Manager cho Máy tính Windows Nền Ảo (bao gồm việc vá lỗi và quản lý). </li>
-<li>Bộ bảo vệ Microsoft 365 tác với Windows 10 nhiều phiên.</li>
+<li>Microsoft Endpoint Configuration Manager và thay Microsoft Endpoint Manager cho máy tính Windows nền Ảo (bao gồm việc vá lỗi và quản lý). </li>
+<li>Bộ bảo vệ Microsoft 365 tác Windows 10 nhiều phiên.</li>
 </ul>
 Liên hệ với Đối <a href="https://go.microsoft.com/fwlink/?linkid=2080150">tác của Microsoft để</a> được trợ giúp về các dịch vụ này.</td>
 <td>Bạn nên có những nội dung sau:
@@ -1289,7 +1289,7 @@ Liên hệ với Đối <a href="https://go.microsoft.com/fwlink/?linkid=2080150
 <li><a href="/azure/virtual-desktop/overview#requirements">Windows cầu cấp phép Máy tính Ảo.</a></li>
 <li> Cơ <a href="/azure/virtual-desktop/overview">sở hạ tầng cần thiết để hỗ Windows Virtual Deskstop.</a> </li>
 <ul>
-<li><a href="/azure/virtual-desktop/store-fslogix-profile">Dung lượng lưu trữ cho bộ chứa hồ sơ FSLogix Windows Virtual Deskstop</a>. </li>
+<li><a href="/azure/virtual-desktop/store-fslogix-profile">Storage for FSLogix profile containers in Windows Virtual Deskstop</a>. </li>
 </ul>
 <li>Kết nối mạng Azure:
 <ul>
@@ -1334,20 +1334,20 @@ Liên hệ với Đối <a href="https://go.microsoft.com/fwlink/?linkid=2080150
 <tbody>
 <tr class="even">
 <td><strong>Đảm bảo cho ứng dụng</strong></td>
-<td>  Đảm bảo Ứng dụng là một dịch vụ được thiết kế để giải quyết các sự cố về Windows ứng dụng Ứng dụng Microsoft 365 tương thích. Khi bạn yêu cầu dịch vụ Đảm bảo ứng dụng, chúng tôi sẽ làm việc với bạn để giải quyết các sự cố ứng dụng hợp lệ mà không mất thêm chi phí cho bạn với đăng ký đủ điều kiện. Chúng tôi cũng cung cấp hướng dẫn cho những khách hàng gặp phải sự cố về tính tương thích khi triển khai Windows 365 Cloud PC, Windows Virtual Desktop và Microsoft Edge, đồng thời nỗ lực hết sức hợp lý để giải quyết các sự cố về tính tương thích. Chúng tôi cung cấp trợ giúp khắc phục cho các ứng dụng được triển khai trên các sản phẩm Microsoft sau:
+<td>  Đảm bảo Ứng dụng là một dịch vụ được thiết kế để giải quyết sự cố về Windows ứng dụng Ứng dụng Microsoft 365 của bạn. Khi bạn yêu cầu dịch vụ Đảm bảo ứng dụng, chúng tôi sẽ làm việc với bạn để giải quyết các sự cố ứng dụng hợp lệ mà không mất thêm chi phí cho bạn với đăng ký đủ điều kiện. Chúng tôi cũng cung cấp hướng dẫn cho những khách hàng gặp phải sự cố về tính tương thích khi triển khai Windows 365 Cloud PC, Windows Virtual Desktop và Microsoft Edge, đồng thời nỗ lực hết sức hợp lý để giải quyết các sự cố về tương thích. Chúng tôi cung cấp trợ giúp khắc phục cho các ứng dụng được triển khai trên các sản phẩm Microsoft sau:
 <ul>
-<li>  <strong>Windows 10</strong> và Windows <strong>11</strong> (bao gồm cả thiết bị ARM64).</li>
+<li>  <strong>Windows 10</strong> và <strong>Windows 11</strong> (bao gồm cả thiết bị ARM64).</li>
 <li> <strong>Ứng dụng Microsoft 365</strong>.  </li>
 <li>  <strong>Microsoft Edge -</strong> Để biết hướng dẫn triển khai, <a href="/DeployEdge/microsoft-edge-channels">hãy xem mục Tổng quan về Microsoft Edge kênh.</a>  </li>
 <li>  <strong>Windows Bàn làm việc Ảo</strong> - Để biết thêm thông tin, <a href="/azure/virtual-desktop/overview">hãy xem mục Màn Windows Bàn làm</a> việc Ảo là <a href="/azure/virtual-desktop/windows-10-multisession-faq">gì? Windows 10 Enterprise hỏi thường gặp nhiều phiên.</a>  </li>
-<li> Windows đám mây <strong>365 TRÊN PC</strong> – Để biết thêm thông tin, hãy xem Giới thiệu về thời đại điện toán cá nhân kết hợp mới: PC Windows đám mây <a href="https://www.microsoft.com/microsoft-365/blog/2021/07/14/introducing-a-new-era-of-hybrid-personal-computing-the-windows-365-cloud-pc/">365</a>. </li>
+<li> Windows đám mây <strong>365 PC</strong> – Để biết thêm thông tin, hãy xem Giới thiệu về kỷ nguyên mới của điện toán cá nhân kết hợp: PC Windows đám mây <a href="https://www.microsoft.com/microsoft-365/blog/2021/07/14/introducing-a-new-era-of-hybrid-personal-computing-the-windows-365-cloud-pc/">365</a>. </li>
 </ul>
 
 <strong>Sau đây là nằm ngoài phạm vi </strong>  
 <ul>
 <li>  Kiểm kê và kiểm tra ứng dụng để xác định xem ứng dụng nào và không hoạt động trên Windows và Ứng dụng Microsoft 365. Để biết thêm hướng dẫn về quy trình này, hãy truy nhập Trung tâm <a href="https://go.microsoft.com/fwlink/?linkid=2080140">Triển khai Máy tính</a>để bàn . Nếu bạn quan tâm đến hoạt động đánh giá tính sẵn sàng của nâng cấp chuyên sâu, hãy hoàn thành biểu mẫu Yêu cầu Khách hàng <a href="https://go.microsoft.com/fwlink/?linkid=2053818">đối với Đánh giá Máy tính Hiện</a> đại.</li>
-<li>  Nghiên cứu về các ứng dụng ISV của bên thứ ba để Windows về tính tương thích và các tuyên bố hỗ trợ khác. Để biết thêm thông tin, hãy xem Phân <a href="/sccm/desktop-analytics/overview">tích Màn hình nền</a>.</li>
-<li>Dịch vụ chỉ đóng gói ứng dụng. Tuy nhiên, các ứng dụng nhóm Đảm bảo rằng chúng tôi đã khắc phục Windows để đảm bảo chúng có thể được triển khai trong môi trường của khách hàng.</li>
+<li>  Nghiên cứu các ứng dụng ISV của bên thứ ba để Windows về tính tương thích và các điều khoản hỗ trợ khác. Để biết thêm thông tin, hãy xem Phân <a href="/sccm/desktop-analytics/overview">tích Màn hình nền</a>.</li>
+<li>Dịch vụ chỉ đóng gói ứng dụng. Tuy nhiên, các ứng dụng nhóm Đảm bảo rằng chúng tôi đã khắc phục các Windows nhằm đảm bảo chúng có thể được triển khai trong môi trường của khách hàng.</li>
 </ul>
 
 <strong>Trách nhiệm của khách hàng bao gồm</strong>  
@@ -1368,7 +1368,7 @@ Liên hệ với Đối <a href="https://go.microsoft.com/fwlink/?linkid=2080150
   </li>
 <li> Các ứng dụng đã làm việc vào Office 2010, Office 2013, Office 2016 và Office 2019 cũng hoạt động trên Ứng dụng Microsoft 365.</li>
 </ul>
-<strong>Windows đám mây 365 PC</strong>
+<strong>Windows Đám mây 365 PC</strong>
 <ul>
 <li> Các ứng dụng làm việc trên Windows 7, Windows 8.1 và Windows 10 cũng hoạt động trên PC Windows 365 Cloud.</li>
 </ul>
@@ -1380,9 +1380,9 @@ Các ứng dụng làm việc trên Windows 7, Windows 8.1 và Windows 10 cũng 
 </ul>
   <strong>Lưu ý:</strong> 
 <ul>
-<li> Tính năng mô phỏng x64 (64 bit) có sẵn ở chế độ xem trước cho khách hàng tham gia vào <a href="https://insider.windows.com/">Chương trình Người dùng Windows nội bộ .</a>  </li>
+<li> Tính năng mô phỏng x64 (64 bit) sẵn dùng trong bản xem trước dành cho khách hàng tham gia vào <a href="https://insider.windows.com/">Chương trình Người Windows Nội bộ .</a>  </li>
 <li>  
- Đối với khách hàng Windows dùng nội bộ trên Windows 10 2004 (trở lên), ARM64 Photoshop được hỗ trợ sử dụng Gói Tương thích OpenCL và <a href="https://www.microsoft.com/p/opencl-and-opengl-compatibility-pack/9nqpsl29bfff?rtc=1&activetab=pivot:overviewtab">OpenGL.</a> 
+ Đối với khách hàng Windows dùng nội bộ Windows 10 2004 (trở lên), ARM64 Photoshop được hỗ trợ sử dụng Gói Tương thích OpenCL và <a href="https://www.microsoft.com/p/opencl-and-opengl-compatibility-pack/9nqpsl29bfff?rtc=1&activetab=pivot:overviewtab">OpenGL.</a> 
   </li>
 <li>  
   Khách hàng trong Chương trình Người Windows Nội bộ của Office có thể tải xuống phiên bản Người dùng nội bộ của Gói Tương thích OpenCL và OpenGL để sử dụng với các ứng dụng bổ sung.    
@@ -1400,7 +1400,7 @@ Các ứng dụng làm việc trên Windows 7, Windows 8.1 và Windows 10 cũng 
   <strong>Windows Màn hình nền Ảo</strong>  
 <ul>
 <li>  
-  Các ứng dụng chạy trên Windows 7, Windows 8.1, Windows 10 hoặc Windows Server (dưới dạng ứng dụng được ảo hóa) cũng chạy trên: </li>
+  Các ứng dụng chạy trên Windows 7, Windows 8.1, Windows 10 hoặc Windows Server (dưới dạng ứng dụng ảo hóa) cũng chạy trên: </li>
 <ul>
 <li>  
   Windows 10 Enterprise và Windows 11 Enterprise.
@@ -1446,16 +1446,16 @@ Các ứng dụng làm việc trên Windows 7, Windows 8.1 và Windows 10 cũng 
 <tr class="even">
 <td><strong>Microsoft Edge</strong> </td>
 <td>
-Chúng tôi cung cấp hướng dẫn triển khai và tiếp nhận từ xa cũng như hỗ trợ tương thích cho: <ul> <li>Triển khai Microsoft Edge trên Windows 10 với các Microsoft Endpoint Manager (Microsoft Endpoint Configuration Manager hoặc Intune).  </li>
+Chúng tôi cung cấp hướng dẫn triển khai và tiếp nhận từ xa cũng như hỗ trợ tương thích cho: <ul> <li>Triển khai Microsoft Edge trên Windows 10 với Microsoft Endpoint Manager tác (Microsoft Endpoint Configuration Manager hoặc Intune).  </li>
 <li>  Đặt cấu hình cho Microsoft Edge (sử dụng chính sách nhóm hoặc cấu hình ứng dụng Intune và chính sách ứng dụng).  </li>
 <li>  Kiểm kê danh sách các site có thể yêu cầu sử dụng trong chế độ Internet Explorer.  </li>
-<li>  Bật chế độ Internet Explorer với Danh sách Site Doanh nghiệp hiện có. (Để biết thêm thông tin, hãy <a href="/fasttrack/process-and-expectations#engaging-fasttrack">xem mục Các tùy FastTrack</a>. Ngoài ra, nếu bạn có ứng dụng web hoặc trang web hoạt động với Internet Explorer hoặc Google Chrome và bạn gặp phải sự cố về tính tương thích, chúng tôi cung cấp hướng dẫn để giải quyết sự cố mà không mất thêm phí. Để yêu cầu hỗ trợ tương thích cho Đảm bảo Ứng dụng, hãy đăng nhập <a href="https://fasttrack.microsoft.com/portal#/signin">vào cổng thông FastTrack của bạn</a> để bắt đầu sự gắn kết.  </li>
+<li>  Bật chế độ Internet Explorer với Danh sách Site Doanh nghiệp hiện có. (Để biết thêm thông tin, hãy <a href="/fasttrack/process-and-expectations#engaging-fasttrack">xem mục Các tùy FastTrack.</a> Ngoài ra, nếu bạn có ứng dụng web hoặc trang web hoạt động với Internet Explorer hoặc Google Chrome và bạn gặp phải sự cố về tính tương thích, chúng tôi cung cấp hướng dẫn để giải quyết sự cố mà không mất thêm phí. Để yêu cầu hỗ trợ tương thích cho Đảm bảo Ứng dụng, hãy đăng nhập <a href="https://fasttrack.microsoft.com/portal#/signin">vào cổng FastTrack của bạn</a> để bắt đầu sự gắn kết.  </li>
 <li> Hướng dẫn lập kế hoạch cho hướng dẫn tiếp nhận và cấu hình Edge Tìm kiếm của Microsoft đánh dấu.</li>
 </ul>
 
 <strong>Sau đây là nằm ngoài phạm vi </strong>  
 <ul>
-<li>Project triển khai hiệu quả công Microsoft Edge khách hàng.</li>
+<li>Project triển khai hiệu quả công việc của Microsoft Edge khách hàng.</li>
 <li>  Hỗ trợ tại chỗ.</li>
 
 </td>

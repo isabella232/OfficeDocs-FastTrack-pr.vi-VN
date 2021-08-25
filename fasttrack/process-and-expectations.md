@@ -3,18 +3,18 @@ title: Quy trình và Sự kỳ vọng
 ms.author: v-bermic
 author: rberg-steyer
 manager: jimmuir
-ms.date: 8/18/2021
+ms.date: 8/25/2021
 ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: Normal
 ms.collection: FastTrack
 description: Trong chủ đề này, chúng tôi sẽ đề cập đến cách thu hút sự hỗ trợ của FastTrack, cách cung cấp hỗ trợ, gợi ý các mẹo để trải nghiệm thành công và hiểu trách nhiệm chính của cả FastTrack và công ty của bạn.
-ms.openlocfilehash: 769aa6c0ce3d37da322d1c6bcdfaa45c4211d639
-ms.sourcegitcommit: 71ec2c25b514f3a21ed58ca3499af1576e8f2c8d
+ms.openlocfilehash: bede9ca238ec77b86867eaa5c30a63298ef04c78
+ms.sourcegitcommit: 7ad41bd0aac5b3e2a0b3843d507b3eff0615941b
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 08/18/2021
-ms.locfileid: "58392448"
+ms.lasthandoff: 08/25/2021
+ms.locfileid: "58517518"
 ---
 # <a name="process-and-expectations"></a>Quy trình và Sự kỳ vọng
 
@@ -96,7 +96,7 @@ Chúng tôi cũng khuyên bạn nên cân nhắc và xác định những điề
 
 ## <a name="fasttrack-and-customer-responsibilities"></a>FastTrack trách nhiệm của khách hàng 
 
-Trách nhiệm rõ ràng đối với tất cả các bên là cần thiết để tiếp tục diễn ra suôn sẻ Microsoft 365. Phần này nêu các trách nhiệm đó dựa trên các giai đoạn khác nhau của FastTrack việc này. FastTrack chịu trách nhiệm cung cấp quyền truy nhập liên tục đến Chuyên gia FastTrack trong toàn bộ thời hạn của đăng ký đối với Microsoft 365 đủ điều kiện,Enterprise Mobility & Security (EMS) và dịch vụ Windows 10 động. Các Chuyên gia này cung cấp hỗ trợ có hướng dẫn từ xa trong giờ làm việc bình thường, tại đó trung tâm FastTrack có mặt và thực hiện di chuyển email và tệp được hỗ trợ (từ 500 chỗ trở lên). Hỗ trợ có hướng dẫn này bao gồm các phương pháp tốt nhất, quyền truy nhập vào các tài nguyên trực tuyến và các công cụ tự phục vụ. Khách hàng hoặc Đối tác làm việc thay mặt họ, chịu trách nhiệm quản lý dự án, thực hiện khắc phục và cấu hình thực hành, thực hiện quản lý thay đổi và tối ưu hóa quy trình, tính sẵn sàng tại chỗ và đào tạo. Bảng sau đây đưa ra một danh sách đầy đủ về những trách nhiệm này.
+Trách nhiệm rõ ràng đối với tất cả các bên là cần thiết để tổ chức tiếp tục suôn sẻ Microsoft 365. Phần này trình bày đại cương các trách nhiệm đó dựa trên các giai đoạn khác nhau của FastTrack tương tác. FastTrack chịu trách nhiệm cung cấp quyền truy nhập liên tục đến Chuyên gia FastTrack trong toàn bộ thời hạn của đăng ký đối với Microsoft 365,Enterprise Mobility & Security (EMS) và dịch vụ Windows 10 hợp lệ. Các Chuyên gia này cung cấp hỗ trợ có hướng dẫn từ xa trong giờ làm việc bình thường, tại đó trung tâm FastTrack có mặt và thực hiện di chuyển email và tệp được hỗ trợ (từ 500 chỗ trở lên). Hỗ trợ có hướng dẫn này bao gồm các phương pháp tốt nhất, quyền truy nhập vào các tài nguyên trực tuyến và các công cụ tự phục vụ. Khách hàng hoặc Đối tác làm việc thay mặt họ, chịu trách nhiệm quản lý dự án, thực hiện khắc phục và cấu hình thực hành, thực hiện quản lý thay đổi và tối ưu hóa quy trình, tính sẵn sàng tại chỗ và đào tạo. Bảng sau đây đưa ra một danh sách đầy đủ về những trách nhiệm này.
 
 <table>
 <thead>
@@ -117,7 +117,7 @@ Trách nhiệm rõ ràng đối với tất cả các bên là cần thiết đ�
 </ul></td>
 <td><ul>
 <li>  Phát triển và thực hiện kế hoạch thành công của bạn.  </li>
-<li>  Cung cấp mọi cải tiến và tích hợp cho đối tượng thuê Office 365 của bạn, ngoài các tùy chọn có thể đặt cấu hình được liệt kê ở đây.  </li>
+<li>  Cung cấp mọi cải tiến và tích hợp cho đối tượng thuê Office 365 bạn ngoài các tùy chọn có thể đặt cấu hình được liệt kê ở đây.  </li>
 <li>  Cung cấp quản lý dự án và chương trình tổng thể, bao gồm:
 <ul>
 <li>  Chỉ định người quản lý dự án làm liên hệ chính cho Chuyên gia FastTrack Dự án.  </li>
@@ -144,7 +144,7 @@ Trách nhiệm rõ ràng đối với tất cả các bên là cần thiết đ�
 <li>  Ngừng hoạt động và loại bỏ các môi trường nguồn (như nhắn tin và cộng tác).  <strong>Lưu ý:</strong> Đảm bảo rằng tất cả dữ liệu mong muốn được di chuyển trước khi ngừng hoạt động và loại bỏ môi trường nguồn của bạn.  </li>
 <ul>
 <li>  Xây dựng và duy trì môi trường thử nghiệm của bạn.  </li>
-<li>  Cài đặt Các công cụ quản trị Lync 2013 Skype for Business Online 2015 và gói dịch vụ để hỗ trợ cấu hình tên miền tách.  </li>
+<li>  Cài đặt các công cụ quản trị Lync 2013 Skype for Business Online 2015 và các gói dịch vụ để hỗ trợ cấu hình tên miền tách.  </li>
 <li>  Cài đặt gói dịch vụ và các cập nhật bắt buộc khác trên máy chủ cơ sở hạ tầng.  </li>
 <li>  Cung cấp và cấu hình mọi chứng chỉ Tầng Khe Bảo mật (SSL) công cộng.  </li>
 </ul></td>
@@ -153,21 +153,21 @@ Trách nhiệm rõ ràng đối với tất cả các bên là cần thiết đ�
 <td><strong>Khởi tạo</strong></td>
 <td><ul>
 <li>  Làm việc với bạn để hiểu rõ mục đích, mục tiêu tổ chức và kế hoạch sử dụng dịch vụ của mình.  </li>
-<li>  Làm việc với bạn bằng cách Office 365 các dịch vụ cộng tác (chẳng Microsoft Teams) để bắt đầu giới trí.  </li>
+<li>  Làm việc với bạn bằng cách sử dụng các dịch vụ cộng tác Office 365 (như Microsoft Teams) để bắt đầu trình phát hành.  </li>
 <li>  Xác định những dịch vụ đủ điều kiện mà bạn muốn sử dụng.  </li>
 </ul></td>
 <td><ul>
 <li>  
-  Thiết lập không gian cộng Microsoft Teams cho quan hệ đối tác triển FastTrack viên nhóm.  
+  Thiết lập không gian Microsoft Teams mang tính cộng tác cho quan hệ đối tác triển năng và mời các thành viên nhóm FastTrack.  
   </li>
 <li>  
-  Làm việc với các Chuyên FastTrack Viên Để bắt đầu triển khai các dịch vụ đủ điều kiện.  
+  Làm việc với Các chuyên gia FastTrack để bắt đầu triển khai các dịch vụ đủ điều kiện.  
   </li>
 <li>  
   Tham dự cuộc họp giới chức sự gắn kết và quản lý và điều hành người dự từ tổ chức của bạn.  
   </li>
 <li>  
-  Cung cấp mục tiêu của bạn về Office 365 vụ (ví dụ: SharePoint Online, Exchange Online, Teams và Ứng dụng Microsoft 365) và các mục tiêu của tổ chức.  
+  Cung cấp mục tiêu của bạn cho các dịch vụ Office 365 (ví dụ, Các ứng dụng SharePoint Online, Exchange Online, Teams và Microsoft 365) cũng như các mục tiêu của tổ chức.  
   </li>
 </ul></td>
 </tr>
@@ -206,26 +206,26 @@ Trách nhiệm rõ ràng đối với tất cả các bên là cần thiết đ�
   Cung cấp danh sách kiểm tra khắc phục.  
   </li>
 <li>  
-  Đánh giá quy trình SharePoint server 2013 hoặc SharePoint hạ tầng Server 2016 hiện có, bao gồm: 
+  Đánh giá cơ sở hạ tầng SharePoint Server 2013 hoặc SharePoint Server 2016 hiện có bao gồm: 
 <ul>
 <li>  
-  Điều kiện tiên quyết cho SharePoint Online kết hợp.  
+  Điều kiện tiên quyết cho kết hợp SharePoint Online.  
   </li>
 <li>  
-  Tính sẵn sàng của cơ sở hạ tầng tại cơ sở SharePoint tính năng kết hợp Trực tuyến.  
+  Tính sẵn sàng của cơ sở hạ tầng tại cơ sở cho các tính năng hỗn hợp của SharePoint Online.  
   </li>
 <li>  
-  Truy nhập vào các điểm SharePoint Online bắt buộc.  
+  Truy nhập vào các điểm cuối SharePoint Online bắt buộc.  
   </li>
 <li>  
-  Người xem cho triển OneDrive for Business kết hợp.  
+  Người xem OneDrive for Business kết hợp.  
   </li>
 </ul></li>
 <li>  
-  Đánh giá cơ sở hạ tầng Lync, Skype for Business Online, hoặc Cơ sở Microsoft Teams có, bao gồm: 
+  Đánh giá cơ sở hạ tầng Lync, Skype for Business Online hoặc Microsoft Teams hiện có bao gồm: 
 <ul>
 <li>  
-  Các máy khách Skype for Business hoặc máy khách được Teams chiến lược triển khai máy khách được hỗ trợ.  
+  Máy khách Skype for Business được hỗ trợ hoặc chiến lược triển khai máy khách Teams.  
   </li>
 <li>  
   Truy nhập vào điểm cuối.  
@@ -240,7 +240,7 @@ Trách nhiệm rõ ràng đối với tất cả các bên là cần thiết đ�
   Điều kiện tiên quyết để hỗ trợ cấu hình máy chủ tên miền tách.  
   </li>
 <li>  
-  Tính sẵn sàng của người dùng được xác định để di chuyển Skype for Business Online hoặc Teams.  
+  Tính sẵn sàng của người dùng được xác định để chuyển sang Skype for Business Online hoặc Teams.  
   </li>
 </ul></li>
 <li>  
@@ -257,7 +257,7 @@ Trách nhiệm rõ ràng đối với tất cả các bên là cần thiết đ�
   </li>
 </ul></li>
 <li>  
-  Cung cấp di chuyển dữ liệu nếu dịch FastTrack chuyển dữ liệu được sử dụng và nếu bạn đáp ứng điều kiện tham gia.  
+  Cung cấp di chuyển dữ liệu nếu dịch vụ di chuyển dữ liệu FastTrack được sử dụng và nếu bạn đáp ứng điều kiện tham gia.  
   </li>
 </ul></td>
 <td><ul>
@@ -293,14 +293,14 @@ Trách nhiệm rõ ràng đối với tất cả các bên là cần thiết đ�
 <td><strong>Bật </strong></td>
 <td><ul>
 <li>  Đánh giá tiến độ lập kế hoạch thành công và xác định sự hỗ trợ thêm mà bạn cần.  </li>
-<li>  Kích hoạt đối tượng Office 365 của bạn.  </li>
+<li>  Kích hoạt đối tượng thuê Office 365 của bạn.  </li>
 <li>  Đặt cấu hình giao thức TCP/IP và cổng tường lửa.  </li>
 <li>  Cấu hình DNS cho các dịch vụ đủ điều kiện.  </li>
-<li>  Xác thực khả năng kết nối Office 365.  </li>
-<li>  Kết nối Active Directory tại chỗ của bạn bằng Azure Active Directory dụng (Azure AD):
+<li>  Xác thực kết nối với Office 365.  </li>
+<li>  Kết nối Active Directory tại chỗ của bạn với Azure Active Directory (Azure AD):
 <ul>
-<li>  Cài đặt máy chủ đồng bộ hóa thư mục giữa Dịch vụ Miền Active Directory (AD DS) và máy Office 365 của bạn (nếu cần).  </li>
-<li>  Đặt cấu hình đồng bộ hóa mật khẩu (băm mật khẩu) Office 365 (Azure AD) bằng công cụ Azure AD Kết nối (nếu cần).  </li>
+<li>  Cài đặt máy chủ đồng bộ hóa thư mục giữa Dịch vụ Miền Active Directory (AD DS) và Office 365 (nếu cần).  </li>
+<li>  Đặt cấu hình đồng bộ hóa mật khẩu (băm mật khẩu) với Office 365 (Azure AD) bằng công cụ Azure AD Connect (nếu cần).  </li>
 <li>  Đối với các môi trường một rừng và nhiều rừng:
 <ul>
 <li>  Đặt cấu hình Xác thực Chuyển qua Azure AD (nếu cần).  </li>
@@ -309,12 +309,12 @@ Trách nhiệm rõ ràng đối với tất cả các bên là cần thiết đ�
 </ul></li>
 </ul></td>
 <td><ul>
-<li>  Làm việc với các Chuyên FastTrack Viên Để hoàn thành việc triển tất cả các dịch vụ đủ điều kiện và:
+<li>  Làm việc với Các chuyên gia FastTrack để hoàn thành việc triển tất cả các dịch vụ đủ điều kiện và:
 <ul>
 <li>  Thực hiện kế hoạch nhận thức.  </li>
 <li>  Triển khai kế hoạch đào tạo.  </li>
 <li>  Cung cấp tiến độ lập kế hoạch thành công và xác định các khu vực cần có hướng dẫn thêm.  </li>
-<li>  Cung cấp FastTrack chuyên gia về quyền truy nhập và quyền truy nhập (nếu bạn chọn để Microsoft thực hiện các tác vụ di chuyển).  </li>
+<li>  Cung cấp Cho Chuyên gia FastTrack quyền truy nhập và quyền (nếu bạn chọn cho phép Microsoft thực hiện các tác vụ di chuyển).  </li>
 <li>  Mua và cung cấp tài khoản quản trị để hướng tới các môi trường phù hợp (nếu bạn chọn cho phép Microsoft thực hiện các hoạt động di chuyển).  </li>
 <li>  Quản lý tài nguyên phù hợp.  </li>
 <li>  Đặt cấu hình các mục liên quan đến mạng theo hướng dẫn Microsoft.  </li>
@@ -332,10 +332,10 @@ Trách nhiệm rõ ràng đối với tất cả các bên là cần thiết đ�
 <td><strong>Di chuyển dữ liệu</strong></td>
 <td><ul>
 <li>  Cung cấp một hội thảo di chuyển bao gồm phương pháp tiếp cận và quy trình cho kịch bản di chuyển đã chọn của bạn.  </li>
-<li>  Cung cấp yêu cầu về môi trường nguồn và quyền truy Office 365 đối tượng thuê mà chúng tôi yêu cầu để cung cấp các dịch vụ di chuyển dữ liệu.  </li>
+<li>  Cung cấp yêu cầu về môi trường nguồn và quyền truy nhập đối tượng thuê Office 365 mà chúng tôi yêu cầu để cung cấp các dịch vụ di chuyển dữ liệu.  </li>
 <li>  Cung cấp tham chiếu đến các công cụ miễn phí và các tính năng môi trường nguồn gốc đánh giá môi trường nguồn của bạn và tạo báo cáo.  </li>
-<li>  Cung cấp hướng dẫn về việc đặt cấu hình môi trường nguồn và cho đối Office 365 của bạn để kích hoạt các dịch vụ di chuyển dữ liệu.  </li>
-<li>  Đặt cấu FastTrack vụ di chuyển để thực hiện di chuyển.  </li>
+<li>  Cung cấp hướng dẫn về việc đặt cấu hình môi trường nguồn và đối tượng thuê Office 365 để cho phép các dịch vụ di chuyển dữ liệu.  </li>
+<li>  Đặt cấu hình các dịch vụ di chuyển FastTrack để thực hiện di chuyển của bạn.  </li>
 <li>  Cung cấp hướng dẫn về việc lên lịch sự kiện di chuyển.  </li>
 <li>  Tiến hành các sự kiện di chuyển theo lịch biểu mà bạn cung cấp.  </li>
 <li>  Cung cấp báo cáo trạng thái cho các sự kiện di chuyển hiện hoạt.  </li>
@@ -347,8 +347,8 @@ Trách nhiệm rõ ràng đối với tất cả các bên là cần thiết đ�
 <td><ul>
 <li>  Cung cấp tài nguyên dự án để tiến hành các hoạt động di chuyển. Các ví dụ bao gồm:
 <ul>
-<li>  Project lý tài liệu.  </li>
-<li>  Môi trường nguồn và quản Office 365 của đối tượng thuê.  </li>
+<li>  Quản lý dự án.  </li>
+<li>  Môi trường nguồn và quản trị đối tượng thuê Office 365.  </li>
 <li>  Đánh giá và khắc phục nội dung môi trường nguồn.  </li>
 <li>  Lên kế hoạch và lên lịch cho sự kiện di chuyển.  </li>
 <li>  Kiểm tra Chấp nhận Người dùng (UAT).  </li>
@@ -357,8 +357,8 @@ Trách nhiệm rõ ràng đối với tất cả các bên là cần thiết đ�
 <li>  Cung cấp môi trường nguồn và quyền truy Office 365 đối tượng thuê mà chúng tôi yêu cầu để cung cấp dịch vụ di chuyển dữ liệu.  </li>
 <li>  Dùng các công cụ được đề xuất và các tính năng môi trường nguồn riêng để đánh giá môi trường nguồn của bạn và tạo báo cáo.  </li>
 <li>  Xem lại và khắc phục sự cố được phát hiện trong quá trình đánh giá và các hoạt động trước di chuyển  </li>
-<li>  Đặt cấu hình môi trường nguồn và đối tượng Office 365 cho phép các dịch vụ di chuyển dữ liệu của chúng tôi.  </li>
-<li>  Cung cấp thông tin cần thiết để đặt cấu hình cho dịch FastTrack di chuyển của chúng tôi để tiến hành di chuyển.  </li>
+<li>  Đặt cấu hình môi trường nguồn và đối Office 365 cho đối tượng thuê để kích hoạt các dịch vụ di chuyển dữ liệu của chúng tôi.  </li>
+<li>  Cung cấp thông tin cần thiết để đặt cấu hình cho dịch FastTrack di chuyển trực tuyến của chúng tôi để tiến hành di chuyển.  </li>
 <li>  Lập kế hoạch, tạo, sửa đổi và lên lịch cho các sự kiện di chuyển của bạn bằng cách sử dụng mẫu và hướng dẫn của chúng tôi, theo hạn chót đã nêu.  </li>
 <li>  Giám sát các báo cáo sự kiện di chuyển và giải quyết các sự cố di chuyển trong quyền kiểm soát của bạn.  </li>
 <li>  Tiến hành kiểm tra chấp nhận người dùng trong sự kiện di chuyển và báo cáo sự cố trong khoảng thời gian 5 ngày sau khi sự kiện di chuyển hoàn tất.  </li>

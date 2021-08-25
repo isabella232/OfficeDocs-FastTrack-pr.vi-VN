@@ -3,19 +3,19 @@ title: Trách nhiệm của Bạn đối với Office 365 chính phủ Hoa Kỳ
 ms.author: v-bermic
 author: rberg-steyer
 manager: jimmuir
-ms.date: 8/18/2021
+ms.date: 8/25/2021
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: None
 ms.collection: FastTrack
 description: Bạn có trách nhiệm sau trong quá trình thực hiện.
-ms.openlocfilehash: be41b6a9f0080909d01da1106ab8f1f638381973
-ms.sourcegitcommit: 71ec2c25b514f3a21ed58ca3499af1576e8f2c8d
+ms.openlocfilehash: 2127589d1c0f10e2836081bc2e28286a8d6eacef
+ms.sourcegitcommit: 7ad41bd0aac5b3e2a0b3843d507b3eff0615941b
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 08/18/2021
-ms.locfileid: "58392388"
+ms.lasthandoff: 08/25/2021
+ms.locfileid: "58517566"
 ---
 # <a name="your-responsibilities-for-office-365-us-government"></a>Trách nhiệm của Bạn đối với Office 365 chính phủ Hoa Kỳ
 
@@ -24,10 +24,10 @@ Bạn có trách nhiệm sau trong quá trình thực hiện.
 ## <a name="general"></a>Nguồn
 
 - Phát triển và thực hiện kế hoạch thành công của bạn.   
-- Cung cấp mọi cải tiến và tích hợp cho đối tượng thuê Office 365 của bạn, ngoài các tùy chọn có thể đặt cấu hình được liệt kê ở đây.    
+- Cung cấp mọi cải tiến và tích hợp cho đối tượng thuê Office 365 bạn ngoài các tùy chọn có thể đặt cấu hình được liệt kê ở đây.    
 - Cung cấp quản lý dự án và chương trình tổng thể, bao gồm:     
-  - Gán người quản lý dự án làm liên hệ chính cho Người quản lý FastTrack dự án.   
-  - Gán một khách hàng tiềm năng kỹ thuật làm liên hệ chính cho Kỹ sư của FastTrack.  
+  - Gán một người quản lý dự án làm liên hệ chính cho Người quản FastTrack Kế hoạch.   
+  - Gán một khách hàng tiềm năng kỹ thuật làm liên hệ chính cho Kỹ sư FastTrack Công cụ.  
   - Gán các tài nguyên kỹ thuật để thực hiện các tác vụ khắc phục, cấu hình và bật như được nhóm FastTrack phác thảo.   
 - Cung cấp tài nguyên chịu trách nhiệm về việc thúc đẩy việc tiếp nhận dịch vụ của người dùng cuối.    
 - Cung cấp khả năng liên lạc, hướng dẫn sử dụng, đào tạo và quản lý thay đổi cho người dùng cuối.    
@@ -52,7 +52,7 @@ Bạn có trách nhiệm sau trong quá trình thực hiện.
     > [!NOTE]
     > Đảm bảo rằng tất cả dữ liệu mong muốn được di chuyển trước khi ngừng hoạt động và loại bỏ môi trường nguồn của bạn.   
 - Xây dựng và duy trì môi trường thử nghiệm của bạn.  
-- Cài đặt Các công cụ quản trị Lync 2013 Skype for Business Online 2015 và gói dịch vụ để hỗ trợ cấu hình tên miền tách.    
+- Cài đặt Lync 2013 hoặc Skype for Business quản trị Online 2015 và gói dịch vụ để hỗ trợ cấu hình tên miền tách.    
 - Cài đặt gói dịch vụ và các cập nhật bắt buộc khác trên máy chủ cơ sở hạ tầng.     
 - Cung cấp và cấu hình mọi chứng chỉ Tầng Khe Bảo mật (SSL) công cộng. 
     
@@ -61,7 +61,7 @@ Bạn có trách nhiệm sau trong quá trình thực hiện.
 - Thiết lập không gian Microsoft Teams cộng tác cho quan hệ đối tác triển FastTrack Center và mời các thành viên nhóm Trong Trung tâm Nhóm (không sẵn dùng trong các GCC kế hoạch Cao hoặc DoD).   
 - Làm việc với các Chuyên FastTrack Viên Để bắt đầu triển khai các dịch vụ đủ điều kiện.    
 - Tham gia vào cuộc họp giới chức sự tham gia, quản lý và điều khiển người dự từ tổ chức của bạn và xác nhận đường thời gian khắc phục.    
-- Cung cấp mục tiêu của bạn Office 365 các dịch vụ quản lý (ví dụ như SharePoint Online, Exchange Online, Microsoft Teams và Ứng dụng Microsoft 365) và các mục tiêu của tổ chức.
+- Cung cấp mục tiêu của bạn về Office 365 vụ (ví dụ: SharePoint Online, Exchange Online, Microsoft Teams và Ứng dụng Microsoft 365) và các mục tiêu của tổ chức.
     
 ## <a name="assess-phase"></a>Giai đoạn đánh giá
 
@@ -86,7 +86,7 @@ Bạn có trách nhiệm sau trong quá trình thực hiện.
     
 ## <a name="enable-phase"></a>Cho phép giai đoạn
 
-- Làm việc với các Chuyên FastTrack Viên Để hoàn thành việc triển tất cả các dịch vụ đủ điều kiện và:  
+- Làm việc với các Chuyên FastTrack Viên Để hoàn thành việc triển lý tất cả các dịch vụ đủ điều kiện và:  
   - Thực hiện kế hoạch nhận thức.   
   - Triển khai kế hoạch đào tạo.   
   - Cung cấp tiến độ lập kế hoạch thành công và xác định các khu vực mà bạn cần hướng dẫn.  

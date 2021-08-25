@@ -3,7 +3,7 @@ title: Lợi ích Trung tâm FastTrack dành cho Microsoft 365
 ms.author: v-bermic
 author: rberg-steyer
 manager: jimmuir
-ms.date: 8/18/2021
+ms.date: 8/25/2021
 ms.audience: ITPro
 ms.topic: overview
 f1_keywords:
@@ -12,12 +12,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.collection: FastTrack
 description: FastTrack là một lợi ích được thiết kế để giúp bạn triển khai Microsoft 365 (được bao gồm trong các đăng ký đủ điều kiện) mà không mất thêm phí. Bạn có thể sử FastTrack dịch vụ với một đăng ký đủ điều kiện mới hoặc hiện có.
-ms.openlocfilehash: e62a288411d6d03b189c2f56c0cb9388968a4e34
-ms.sourcegitcommit: 71ec2c25b514f3a21ed58ca3499af1576e8f2c8d
+ms.openlocfilehash: 886d88266d4c5ff4d3975259f914c80022f59e4d
+ms.sourcegitcommit: 7ad41bd0aac5b3e2a0b3843d507b3eff0615941b
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 08/18/2021
-ms.locfileid: "58392350"
+ms.lasthandoff: 08/25/2021
+ms.locfileid: "58517470"
 ---
 # <a name="fasttrack-center-benefit-for-microsoft-365"></a>Lợi ích Trung tâm FastTrack dành cho Microsoft 365
 
@@ -29,7 +29,7 @@ Tất cả FastTrack sẽ được cung cấp cho bạn hoặc đại diện c�
 
 Như đã đề cập trước đó, FastTrack chuyên gia sẽ làm việc với bạn từ xa. Họ cố gắng hiểu các kế hoạch và cách dùng của bạn cho các sản phẩm Microsoft đủ điều kiện mà bạn đã mua và cung cấp cho bạn một phương pháp tiếp cận được đề xuất phù hợp với môi trường của bạn để giúp bạn đạt được mục tiêu của mình. FastTrack Các chuyên gia có thể bao gồm nhân viên Microsoft, nhà cung cấp được Microsoft phê duyệt và đối tác được Microsoft phê duyệt.
 
-FastTrack cung cấp hỗ trợ trong các ngôn ngữ sau: Tiếng Trung Truyền thống và Tiếng Trung Giản thể (các tài nguyên chỉ nói tiếng Quan thoại), Tiếng Anh, Tiếng Pháp, Tiếng Đức, Tiếng Ý, Tiếng Nhật, Tiếng Hàn, Tiếng Bồ Đào Nha (Brazil), Tiếng Tây Ban Nha, Tiếng Thái và Tiếng Việt.
+FastTrack cung cấp hỗ trợ trong các ngôn ngữ sau: Tiếng Trung Truyền thống và Tiếng Trung Giản thể (các tài nguyên chỉ nói tiếng Quan thoại), Tiếng Anh, Tiếng Pháp, Tiếng Đức, Tiếng Ý, Tiếng Nhật, Tiếng Hàn, Tiếng Bồ Đào Nha (Brazil), Tiếng Tây Ban Nha, Tiếng Thái và Tiếng Việt. 
 
 > [!NOTE]
 > Vì FastTrack được thiết kế phù hợp với bạn và môi trường nên trải nghiệm của bạn có thể bị ảnh hưởng nếu bạn chọn triển khai bên ngoài hướng dẫn này.
