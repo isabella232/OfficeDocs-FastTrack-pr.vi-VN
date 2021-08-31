@@ -7,22 +7,22 @@ ms.date: 7/01/2020
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
-localization_priority: None
+ms.localizationpriority: ''
 ms.collection: FastTrack
-description: Quy trình FastTrack trình cấp phép cho người dùng và tiếp nhận.
-ms.openlocfilehash: 2e4e7a33b44e999c468e041d737d65797009fba6
-ms.sourcegitcommit: f69357b9e3b2edf60c1b9b22f106ac0b1b345d02
+description: Quy trình FastTrack trình này cung cấp các dịch vụ triển ngoài và tiếp nhận người dùng.
+ms.openlocfilehash: 9a5725c6dffffb66ff364465acc5fb4f90875887
+ms.sourcegitcommit: 3d086ab6c4743afbedebed55a3ddb65f05422a1b
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 08/23/2021
-ms.locfileid: "58468468"
+ms.lasthandoff: 08/30/2021
+ms.locfileid: "58710295"
 ---
 # <a name="the-fasttrack-process"></a>Quy trình FastTrack
 
 > [!CAUTION]
 > Nội dung này không còn mới nhất và được lên lịch loại bỏ. Sử dụng mục lục trong dẫn hướng bên trái cho nội dung hiện tại.
 
-Quy trình FastTrack trình cấp phép cho người dùng và tiếp nhận. 
+Quy trình FastTrack trình này cung cấp các dịch vụ triển ngoài và tiếp nhận người dùng. 
   
 Triển năng bao gồm:
   
@@ -32,7 +32,7 @@ Triển năng bao gồm:
 Dịch vụ tiếp nhận của người dùng bao gồm các tác vụ cung cấp hướng dẫn để bạn đảm bảo người dùng của bạn biết các dịch vụ đủ điều kiện và có thể sử dụng chúng để thúc đẩy giá trị kinh doanh. Trợ giúp này xảy ra song song với các hoạt động triển trí.
   
 > [!NOTE]
-> FastTrack cung cấp cho khách hàng phương pháp tiếp cận, hướng dẫn và thực hành tốt nhất được đề xuất, được thiết kế để cung cấp kết quả nhanh chóng và có thể dự đoán. Nếu bạn chọn triển khai ngoài hướng dẫn này, trải nghiệm triển khai và việc sử dụng dịch vụ có thể bị ảnh hưởng. Hướng dẫn được xác định là sự kết hợp giữa hỗ trợ bằng lời nói và bằng văn bản. Khi FastTrack chuyên gia cung cấp hướng dẫn, FastTrack nhân viên không thể thay mặt bạn hành động. Bạn có thể sử dụng FastTrack năng để triển năng và áp dụng mọi khối lượng công việc sản phẩm đủ điều kiện miễn là đăng ký của bạn là hiện tại. 
+> FastTrack cung cấp cho khách hàng phương pháp tiếp cận, hướng dẫn và thực hành tốt nhất được đề xuất, được thiết kế để cung cấp kết quả nhanh chóng và có thể dự đoán. Nếu bạn chọn triển khai ngoài hướng dẫn này, trải nghiệm triển khai và việc sử dụng dịch vụ có thể bị ảnh hưởng. Hướng dẫn được xác định là sự kết hợp giữa hỗ trợ bằng lời nói và bằng văn bản. Khi FastTrack chuyên gia cung cấp hướng dẫn, FastTrack nhân sự không thể thay mặt bạn hành động. Bạn có thể sử dụng FastTrack tại cơ quan và áp dụng mọi khối lượng công việc sản phẩm đủ điều kiện miễn là đăng ký của bạn là hiện thời. 
   
 ## <a name="the-onboarding-process"></a>Quy trình triển năng
 
@@ -40,18 +40,18 @@ Sơ đồ sau đây minh họa quy trình triển khai.
   
 ![Đường thời gian để sử dụng lợi ích Onboarding.](media/o365-onboarding-timeline-m365-apps.png)
   
-Bạn có thể nhận trợ giúp [qua Trung tâm quản trị Microsoft 365](https://go.microsoft.com/fwlink/?linkid=2032704) hoặc site [FastTrack trang.](https://go.microsoft.com/fwlink/?linkid=780698) 
+Bạn có thể nhận trợ giúp qua [Trung tâm quản trị Microsoft 365](https://go.microsoft.com/fwlink/?linkid=2032704) hoặc [site FastTrack định.](https://go.microsoft.com/fwlink/?linkid=780698) 
 
-Để nhận trợ giúp thông qua [Trung tâm quản trị Microsoft 365](https://go.microsoft.com/fwlink/?linkid=2032704), người quản trị của bạn đăng nhập vào trung tâm quản trị, rồi bấm vào **tiện ích Bạn cần trợ** giúp?. 
+Để nhận trợ giúp thông qua [trung Trung tâm quản trị Microsoft 365](https://go.microsoft.com/fwlink/?linkid=2032704), người quản trị của bạn đăng nhập vào trung tâm quản trị, rồi bấm vào tiện ích Bạn **cần trợ** giúp?. 
 
-Để được trợ giúp thông [qua site FastTrack sau:](https://go.microsoft.com/fwlink/?linkid=780698) 
-1.    Đăng nhập vào [site FastTrack của bạn.](https://go.microsoft.com/fwlink/?linkid=780698) 
-2.    Chọn **Yêu cầu hỗ trợ Microsoft 365** lời từ các tác **vụ** nhanh ở đầu trang đích của bạn.
+Để được trợ giúp qua [site FastTrack:](https://go.microsoft.com/fwlink/?linkid=780698) 
+1.    Đăng nhập vào [trang FastTrack đầu tiên.](https://go.microsoft.com/fwlink/?linkid=780698) 
+2.    Chọn **Yêu cầu hỗ trợ Microsoft 365** từ các tác **vụ** nhanh ở đầu trang đích của bạn.
 3.    Hoàn thành biểu **mẫu Yêu cầu Hỗ Microsoft 365.**
   
-Các đối tác cũng có thể nhận trợ [giúp FastTrack thay](https://go.microsoft.com/fwlink/?linkid=780698) mặt khách hàng qua site FastTrack nhân danh khách hàng. Cách thực hiện:
-1.    Đăng nhập vào [site FastTrack của bạn.](https://go.microsoft.com/fwlink/?linkid=780698) 
-2.    Chọn **Yêu cầu hỗ trợ Microsoft 365** lời từ các tác **vụ** nhanh ở đầu trang đích của bạn.
+Các đối tác cũng có thể nhận trợ [giúp FastTrack thay](https://go.microsoft.com/fwlink/?linkid=780698) mặt cho khách hàng qua trang web. Cách thực hiện:
+1.    Đăng nhập vào [trang FastTrack đầu tiên.](https://go.microsoft.com/fwlink/?linkid=780698) 
+2.    Chọn **Yêu cầu hỗ trợ Microsoft 365** từ các tác **vụ** nhanh ở đầu trang đích của bạn.
 3.    Tìm kiếm khách hàng của bạn bằng cách nhập tên khách hàng, miền hoặc TPID.
 4.    Chọn khách hàng từ kết quả tìm kiếm.
 5.    Hoàn thành biểu **mẫu Yêu cầu Hỗ Microsoft 365.**

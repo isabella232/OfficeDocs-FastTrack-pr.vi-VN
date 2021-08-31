@@ -1,6 +1,6 @@
 ---
-title: Trách nhiệm của FastTrack
-description: Trách nhiệm của FastTrack khi khách hàng sử dụng Lợi ích Trung tâm FastTrack cho EMS
+title: FastTrack trách nhiệm
+description: FastTrack trách nhiệm của khách hàng khi khách hàng sử dụng Lợi ích Trung FastTrack Cho EMS
 keywords: ''
 author: andredm7
 ms.author: andredm
@@ -9,26 +9,26 @@ ms.date: 7/01/2020
 ms.topic: article
 ms.prod: ''
 ms.service: microsoft-intune
-localization_priority: None
+ms.localizationpriority: ''
 ms.collection: FastTrack
 ms.assetid: c8fd871e-f1bc-43ec-a5f3-ad025df9b026
 ms.reviewer: ''
 ms.suite: ems
-ms.openlocfilehash: 46d059e97dc2eae307fed2596cd339be11062ad2
-ms.sourcegitcommit: ed3a1ad4b24b7b6b78070e21139b3a38f7a6ed69
+ms.openlocfilehash: e5ef12570381b1a6aba7cc895a99c87a98127c10
+ms.sourcegitcommit: 3d086ab6c4743afbedebed55a3ddb65f05422a1b
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 05/08/2021
-ms.locfileid: "52283524"
+ms.lasthandoff: 08/30/2021
+ms.locfileid: "58710333"
 ---
 # <a name="fasttrack-responsibilities"></a>Trách nhiệm của FastTrack
 
 > [!CAUTION]
 > Nội dung này không còn mới nhất và được lên lịch loại bỏ. Sử dụng mục lục trong dẫn hướng bên trái cho nội dung hiện tại.
 
-FastTrack có trách nhiệm sau đây trong quá trình triển năng.
+FastTrack trách nhiệm sau đây trong quá trình thực hiện.
 
-## <a name="general"></a>Chung
+## <a name="general"></a>Nguồn
 
 -   Cung cấp trợ giúp từ xa cho bạn về các hoạt động cấu hình bắt buộc như được liệt kê trong mô tả giai đoạn chi tiết.
 
@@ -75,14 +75,14 @@ Cung cấp hướng dẫn về:
 
 -   Đối với môi trường một rừng:
 
-    -   Cài đặt máy chủ đồng bộ hóa thư mục giữa Dịch vụ Miền Active Directory (AD DS) và các dịch vụ trực tuyến đủ điều kiện của Microsoft (chỉ hướng dẫn nếu cần).
+    -   Cài đặt một máy chủ đồng bộ hóa thư mục giữa Dịch vụ Miền Active Directory (AD DS) và các dịch vụ trực tuyến đủ điều kiện của Microsoft (chỉ hướng dẫn nếu cần).
 
     -   Đặt cấu hình xác thực được quản lý (Đồng bộ Băm Mật khẩu hoặc Xác thực Thông qua) bằng công Azure Active Directory Kết nối mật khẩu. (chỉ hướng dẫn nếu cần thiết).
 
         > [!NOTE]
         > Việc phát triển và thực hiện đối với các phần mở rộng quy tắc tùy chỉnh không có phạm vi.
 
--   Đối với một rừng duy nhất khi đích được liên kết: Cài đặt và cấu hình Dịch vụ Liên kết Active Directory (AD FS) để xác thực miền cục bộ với Intune trong một cấu hình dung sai số trang, nếu cần.
+-   Đối với một rừng duy nhất khi đích được liên kết: Cài đặt và cấu hình Dịch vụ Liên kết Active Directory (AD FS) để xác thực miền cục bộ với Intune trong một cấu hình dung sai số trên site đơn, nếu cần.
 
     > [!NOTE]
     > Đối với tất cả các cấu hình nhiều rừng, triển khai AD FS không có phạm vi.
@@ -93,7 +93,7 @@ Cung cấp hướng dẫn về:
 
 Cung cấp hướng dẫn về:
 
-- Kích hoạt đối tượng thuê Azure AD Premium của bạn.
+- Kích hoạt đối tượng thuê azure AD Premium của bạn.
 
 - Cấu hình cổng tường lửa.
 
@@ -109,16 +109,16 @@ Cung cấp hướng dẫn về:
 
 - Đối với môi trường nhiều rừng:
 
-  -   Cài đặt đồng bộ Kết nối Azure AD, thiết lập cho nhiều kịch bản rừng.
+  -   Cài đặt Đồng Kết nối Azure AD, thiết lập cho nhiều kịch bản rừng.
 - Đối với các môi trường một rừng và nhiều rừng:
   - Cấu hình Azure Active Directory Xác thực Chuyển qua, nếu cần.
   - Nếu cần thiết, Azure Active Directory đặt cấu hình cho Sign-On Liền mạch Đơn (SSO).
     > [!NOTE]
-    > Azure Active Directory Tính năng Xác thực Chuyển qua cho môi trường nhiều rừng được hỗ trợ nếu có tin cậy rừng giữa các rừng Active Directory của bạn và nếu định tuyến hậu tố tên được cấu hình đúng. Nhân viên bổ sung có thể được cài đặt trên nhiều máy chủ tại chỗ để cung cấp tính khả dụng cao cho các yêu cầu đăng nhập.
+    > Azure Active Directory Tính năng Xác thực Chuyển qua cho môi trường nhiều rừng được hỗ trợ nếu có tin cậy rừng giữa các rừng Active Directory của bạn và nếu định tuyến hậu tố tên được đặt cấu hình đúng. Nhân viên bổ sung có thể được cài đặt trên nhiều máy chủ tại chỗ để cung cấp tính khả dụng cao cho các yêu cầu đăng nhập.
 
-  - Để biết thêm thông tin, hãy xem Azure Active Directory Xác thực Chuyển [qua: Bắt](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect-pass-through-authentication-quick-start#step-1-check-prerequisites) đầu nhanh Azure Active Directory Đăng nhập Một lần Liền [mạch: Bắt đầu nhanh](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect-sso-quick-start#step-1-check-prerequisites).
-  - Để biết thêm thông tin về giới hạn xác thực chuyển qua, hãy [xem Azure Active Directory Xác thực chuyển qua: Các giới hạn hiện tại](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect-pass-through-authentication-current-limitations).
-  - Để biết thêm thông tin về các sự cố seamless SSO, hãy [xem Khắc phục Azure Active Directory đăng nhập một lần liền mạch.](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect-troubleshoot-sso)
+  - Để biết thêm thông tin, hãy xem Azure Active Directory Xác thực Chuyển [qua: Bắt](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect-pass-through-authentication-quick-start#step-1-check-prerequisites) đầu nhanh Azure Active Directory Đăng nhập Một lần [Liền mạch: Bắt đầu nhanh](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect-sso-quick-start#step-1-check-prerequisites).
+  - Để biết thêm thông tin về giới hạn xác thực chuyển qua, hãy [xem Azure Active Directory Xác thực Chuyển qua: Các giới hạn hiện tại](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect-pass-through-authentication-current-limitations).
+  - Để biết thêm thông tin về các sự cố seamless SSO, xem [mục Khắc Azure Active Directory đăng nhập một lần liền mạch.](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect-troubleshoot-sso)
 
       > [!NOTE]
       > Đồng bộ hóa băm mật khẩu và ghi lại hỗ trợ nhiều rừng. Tuy nhiên, các kịch bản ghi lại khác không được hỗ trợ.
@@ -137,7 +137,7 @@ Cung cấp hướng dẫn về:
 
 - Kiểm tra chức năng SSO (nếu đã triển khai).
 
-### <a name="enable-phase---azure-ad-premium---with-azure-ad-connect-and-ad-fs"></a>Giai đoạn bật - Azure AD Premium - với Azure AD Kết nối VÀ AD FS
+### <a name="enable-phase---azure-ad-premium---with-azure-ad-connect-and-ad-fs"></a>Giai đoạn bật - Azure AD Premium - với Azure AD Kết nối và AD FS
 
 Cung cấp hướng dẫn về việc thiết lập:
 
@@ -178,11 +178,11 @@ Cung cấp hướng dẫn về việc thiết lập:
 ### <a name="enable-phase---intune"></a>Cho phép giai đoạn - Intune
 
 > [!IMPORTANT]
-> FastTrack không hỗ trợ quản Windows 10 PC cổ điển với Intune. FastTrack chỉ hỗ trợ quản Windows 10 thông qua quản lý thiết bị di động Intune (MDM).
+> FastTrack không hỗ trợ quản lý Windows 10 PC cổ điển với Intune. FastTrack hỗ trợ quản lý Windows 10 thiết bị thông qua quản lý thiết bị di động Intune (MDM).
 
 Cung cấp hướng dẫn về:
 
--   Intune sẽ đặt cấu hình định danh để sử dụng, bằng cách tận dụng Active Directory tại chỗ hoặc danh tính đám mây của bạn (Azure Active Directory).
+-   Đặt cấu hình định danh để Intune sử dụng, bằng cách tận dụng Active Directory tại chỗ hoặc danh tính đám mây của bạn (Azure Active Directory).
 
 -   Cấp phép cho người dùng cuối của bạn.
 
@@ -216,7 +216,7 @@ Cung cấp hướng dẫn về:
 
     -   Đặt cấu hình và triển khai các chính sách bảo vệ ứng dụng của Intune cho từng nền tảng được hỗ trợ.
 
-    -   Chuẩn bị các ứng dụng dòng nghiệp vụ (LOB) cho chính sách bảo vệ ứng dụng Intune, kèm theo hướng dẫn về các tùy chọn khả dụng.
+    -   Chuẩn bị ứng dụng dòng nghiệp vụ (LOB) cho chính sách bảo vệ ứng dụng Intune, kèm theo hướng dẫn về các tùy chọn khả dụng.
 
     -   Đăng ký thiết bị của mỗi nền tảng được hỗ trợ vào Intune hoặc Trình quản lý Cấu hình Microsoft Intune vụ.
 
@@ -229,7 +229,7 @@ Cung cấp hướng dẫn về:
 
         -   Telecom expense management solutions (Telecom expense management solution subscription is required).
 
-        -   Tính năng Chống Mối đe dọa Nâng cao của Bộ bảo vệ Microsoft (bắt Windows E5 hoặc Microsoft 365 E5 phải có giấy phép).
+        -   Tính năng Chống Mối đe dọa Nâng cao của Bộ Windows Microsoft (bắt buộc phải có giấy Microsoft 365 E5 E5 hoặc Microsoft 365 E5 của Họ).
 
     -   Cấu hình Cập nhật phần mềm cho các nền tảng được hỗ trợ áp dụng.
 
@@ -250,7 +250,7 @@ Cung cấp hướng dẫn về:
     - Đặt cấu hình Tự động đăng ký MDM trong Azure AD và Intune.
 
     > [!NOTE]
-    > Việc thiết Windows Dụng Autopilot bên ngoài Intune không thuộc phạm vi dành cho lợi ích FastTrack.
+    > Việc thiết lập Windows Autopilot bên ngoài Intune không nằm ngoài phạm vi dành cho lợi FastTrack người dùng.
 
 ### <a name="enable-phase---cloud-attach"></a>Cho phép giai đoạn - Đính kèm đám mây
 
@@ -264,7 +264,7 @@ Cung cấp hướng dẫn về:
 
 -   Thiết lập kết hợp Azure Active Directory Gia nhập.
 
--   Thiết lập đăng Azure Active Directory cho tự động đăng ký MDM.
+-   Thiết lập Azure Active Directory cho tự động đăng ký MDM.
 
 -   Thiết lập Cổng kết nối Quản lý Đám mây.
 
@@ -298,14 +298,14 @@ Hướng dẫn được cung cấp về:
 
 - Khi sử dụng tệp khi lưu trữ với trình quét Azure Information Protection.
 
-- Giám sát email khi truyền bằng Exchange Online tắc dòng thư.
+- Giám sát email khi chuyển tiếp bằng Exchange Online tắc dòng thư.
 
-Hướng dẫn cũng được cung cấp cho khách hàng muốn áp dụng bảo vệ bằng microsoft Azure Rights Management Services (Azure RMS), Mã hóa Thư Office 365 (OME) và ngăn mất dữ liệu (DLP).
+Hướng dẫn cũng được cung cấp cho khách hàng muốn áp dụng bảo vệ bằng Microsoft Azure Rights Management Services (Azure RMS), Mã hóa Thư Office 365 (OME) và ngăn mất dữ liệu (DLP).
 
 > [!NOTE]
 > **Bạn muốn tìm hiểu thêm?** xem [Enterprise Mobility + Security](https://www.microsoft.com/cloud-platform/enterprise-mobility).
 
 ## <a name="next-steps"></a>Các bước tiếp theo
 
-[Lợi ích FastTrack cho EMS - Trách nhiệm của bạn](EMS-your-responsibilities.md)
+[FastTrack lợi ích cho EMS - Trách nhiệm của bạn](EMS-your-responsibilities.md)
 

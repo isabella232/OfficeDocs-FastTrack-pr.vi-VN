@@ -7,21 +7,21 @@ ms.date: 8/25/2021
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.collection: FastTrack
-description: Trong chủ đề này, chúng tôi phác thảo các yêu cầu về điều kiện đủ điều kiện để nhận trợ giúp từ xa, có hướng dẫn từ các Chuyên gia FastTrack được bao gồm trong việc mua giấy phép Microsoft 365 và nêu chi tiết về các sản phẩm và chức năng cụ thể được đề cập.
-ms.openlocfilehash: e8d3529ee9f94f52137b2eb5dce0011a489a0639
-ms.sourcegitcommit: 7ad41bd0aac5b3e2a0b3843d507b3eff0615941b
+description: Trong chủ đề này, chúng tôi vạch ra các yêu cầu về điều kiện đủ điều kiện để nhận hỗ trợ từ xa, có hướng dẫn từ các Chuyên gia FastTrack được bao gồm trong việc mua giấy phép Microsoft 365 và nêu chi tiết về các sản phẩm và chức năng cụ thể được đề cập.
+ms.openlocfilehash: ff9fdea073bebc9f24781c88c452b9b32c17f476
+ms.sourcegitcommit: 3d086ab6c4743afbedebed55a3ddb65f05422a1b
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 08/25/2021
-ms.locfileid: "58517482"
+ms.lasthandoff: 08/30/2021
+ms.locfileid: "58710543"
 ---
 # <a name="eligibility"></a>Tính đủ điều kiện
 
-Trong chủ đề này, chúng tôi phác thảo các yêu cầu về điều kiện đủ điều kiện để nhận trợ giúp từ xa, có hướng dẫn từ các Chuyên gia FastTrack được bao gồm trong việc mua giấy phép Microsoft 365 và nêu chi tiết về các sản phẩm và chức năng cụ thể được đề cập.
+Trong chủ đề này, chúng tôi vạch ra các yêu cầu về điều kiện đủ điều kiện để nhận hỗ trợ từ xa, có hướng dẫn từ các Chuyên gia FastTrack được bao gồm trong việc mua giấy phép Microsoft 365 và nêu chi tiết về các sản phẩm và chức năng cụ thể được đề cập.
 
-FastTrack trợ dành cho khách hàng có từ 150 giấy phép trở lên từ một trong các gói đủ điều kiện từ các nhóm sản phẩm Microsoft sau: Microsoft 365, Office 365, Enterprise Mobility & Security và Enterprise Mobility Windows 10. Những gói này có thể dành cho một sản phẩm riêng lẻ (Exchange Online) hoặc một bộ sản phẩm (Office 365 E3). Vì Microsoft cung cấp nhiều tùy chọn mua hàng nên danh sách các gói đủ điều kiện sẽ được tìm thấy trong các gói [Đủ điều kiện](#eligible-plans).
+FastTrack trợ dành cho khách hàng có từ 150 giấy phép trở lên từ một trong các gói đủ điều kiện từ các nhóm sản phẩm Microsoft sau: Microsoft 365, Office 365, Enterprise Mobility & Security và Windows 10. Những gói này có thể dành cho một sản phẩm riêng lẻ (Exchange Online) hoặc một bộ sản phẩm (Office 365 E3). Vì Microsoft cung cấp nhiều tùy chọn mua hàng nên danh sách các gói đủ điều kiện sẽ được tìm thấy trong các gói [Đủ điều kiện](#eligible-plans).
 
 ## <a name="products-and-capabilities-covered"></a>Sản phẩm và khả năng được đề cập
 
@@ -33,7 +33,7 @@ FastTrack Các chuyên gia có thể cung cấp cho bạn hỗ trợ từ xa, c�
   - Các ứng dụng Microsoft 365
 
 > [!NOTE]
-> Office 365 ProPlus đã được đổi tên thành Ứng dụng Microsoft 365. Trong một số trường hợp, bạn có thể tìm thấy các sử dụng tên thừa tự. Để biết chi tiết khi nào thay đổi này có hiệu lực, vui [lòng xem mục Thay đổi tên cho Office 365 ProPlus.](/deployoffice/name-change)
+> Office 365 ProPlus đã được đổi tên thành Ứng dụng Microsoft 365. Trong một số trường hợp, bạn có thể tìm thấy các sử dụng tên thừa tự. Để biết chi tiết khi nào thay đổi này có hiệu lực, vui lòng [xem mục Thay đổi tên Office 365 ProPlus.](/deployoffice/name-change)
 
   - Bộ bảo vệ Microsoft 365
   - Microsoft Cloud App Security
@@ -55,7 +55,7 @@ FastTrack Các chuyên gia có thể cung cấp cho bạn hỗ trợ từ xa, c�
 
 ## <a name="eligible-plans"></a>Các gói đủ điều kiện
 
-Bạn phải mua tối thiểu 150 giấy phép cho mỗi đối tượng thuê từ một trong các gói bên dưới để đủ điều kiện tham gia FastTrack. Danh sách này được nhóm theo nhóm sản phẩm để giúp hỗ trợ bạn tìm các gói cụ thể mà công ty bạn đã mua: Microsoft 365, Office 365, Enterprise Mobility & Security và Enterprise Mobility Windows 10. 
+Bạn phải mua ít nhất 150 giấy phép cho mỗi đối tượng thuê từ một trong các gói dưới đây để đủ điều kiện tham gia FastTrack. Danh sách này được nhóm theo nhóm sản phẩm để giúp hỗ trợ bạn tìm các gói cụ thể mà công ty bạn đã mua: Microsoft 365, Office 365, Enterprise Mobility & Security và Enterprise Mobility Windows 10. 
 
 ### <a name="microsoft-365-plans"></a>Microsoft 365 của bạn
 
@@ -65,8 +65,8 @@ Bạn phải mua tối thiểu 150 giấy phép cho mỗi đối tượng thuê 
   - Microsoft 365 E5\*
   - Microsoft 365 E5 Security\*
   - Microsoft 365 E5 Compliance\*
-  - Microsoft 365 E5 Xuất Khám phá Điện tử & Tra\*
-  - Microsoft 365 E5 Bảo vệ Thông tin & quản trị\*
+  - Microsoft 365 E5 khám phá Điện tử & Tra\*
+  - Microsoft 365 E5 Quản trị Trung & Bảo vệ Thông tin\*
   - Microsoft 365 E5 Quản lý Rủi ro Người dùng Nội bộ\*
   - Microsoft 365 F1\*
   - Microsoft 365 F3\*
@@ -86,12 +86,12 @@ Bạn phải mua tối thiểu 150 giấy phép cho mỗi đối tượng thuê 
   - Microsoft 365 A5\*
   - Microsoft 365 A5 Bảo mật\*
   - Microsoft 365 A5 Tuân thủ\*
-  - Microsoft 365 A5 Khám phá Điện tử & tra\*
-  - Microsoft 365 A5 Bảo vệ Thông tin & quản trị\*
+  - Microsoft 365 A5 xuất Khám phá Điện tử & Tra\*
+  - Microsoft 365 A5 Quản trị Trung & Bảo vệ Thông tin\*
   - Microsoft 365 A5 Quản lý Rủi ro Người dùng Nội bộ\*
   - Ứng dụng Microsoft 365 for Education (thiết bị)\*
 
-### <a name="office-365-plans"></a>Office 365 của bạn 
+### <a name="office-365-plans"></a>Office 365 phí 
  
 #### <a name="office-365-enterprise"></a>Office 365 Enterprise
 
@@ -149,7 +149,7 @@ Bạn phải mua tối thiểu 150 giấy phép cho mỗi đối tượng thuê 
 
 <br>
 
-\*Chỉ khả dụng cho các tính năng FastTrack toán đám mây đủ điều kiện được mô tả trong mô tả lợi ích này.  
+\*Chỉ khả dụng cho các dịch FastTrack điện toán đám mây đủ điều kiện dùng với các tính năng được mô tả trong mô tả lợi ích này.  
       
 \*\*Để biết thêm thông tin về Quyền FastTrack cho Chính phủ Hoa Kỳ, vui lòng xem Office 365 [chính phủ Hoa Kỳ.](https://aka.ms/aboutgovcloud)  
        
@@ -174,9 +174,9 @@ Bạn phải mua tối thiểu 150 giấy phép cho mỗi đối tượng thuê 
 
   - Microsoft Intune
 
-#### <a name="microsoft-intune-and-configuration-manager"></a>Microsoft Intune lý Cấu hình
+#### <a name="microsoft-intune-and-configuration-manager"></a>Microsoft Intune và Trình quản lý Cấu hình
 
-  - Microsoft Intune lý Cấu hình
+  - Microsoft Intune và Trình quản lý Cấu hình
 
 #### <a name="microsoft-intune-for-education"></a>Microsoft Intune for Education
 
@@ -184,7 +184,7 @@ Bạn phải mua tối thiểu 150 giấy phép cho mỗi đối tượng thuê 
       
 <br>
 
-\*\*\*\*Sẵn dùng cho các dịch vụ đám mây đủ điều kiện hưởng FastTrack lợi ích khác. Nếu không, phần này được định tuyến đến Chuyên gia FastTrack chuyên gia hoặc để được giới thiệu đối tác.    
+\*\*\*\*Sẵn dùng cho các dịch vụ đám mây đủ điều kiện nhận lợi FastTrack khác. Nếu không, phần này được định tuyến đến Chuyên gia FastTrack chuyên gia hoặc để được giới thiệu đối tác.    
 
 ### <a name="windows-10-plans"></a>Windows 10 của bạn
 
@@ -201,10 +201,10 @@ Bạn phải mua tối thiểu 150 giấy phép cho mỗi đối tượng thuê 
       
       
 > [!NOTE]
-> Không có yêu cầu cấp phép tối thiểu cho nhà cung cấp phần mềm độc lập thương mại (ISVs) xây dựng các Windows 10 dụng. Tất cả các yêu cầu ứng dụng phải hướng tới một Windows 10 hoặc Ứng dụng Microsoft 365 cũ hiện đang nằm trong cửa sổ dịch vụ chính.
+> Không có yêu cầu cấp phép tối thiểu cho nhà cung cấp phần mềm độc lập thương mại (ISVs) xây dựng Windows 10 dụng. Tất cả các yêu cầu ứng dụng phải hướng tới một Windows 10 hoặc Ứng dụng Microsoft 365 mình hiện đang ở trong cửa sổ dịch vụ chính.
 
 > [!NOTE]
-> Điều kiện tham gia Lợi ích FastTrack Tâm Tài chính được dựa trên việc mua giấy phép đã thanh toán cho các gói đủ điều kiện đã được đề cập trước đó. Ngoại lệ, FastTrack đang hỗ trợ việc phát hành giấy phép dùng thử Office 365 E1 từ ngày 6 tháng 8 đến ngày 30 tháng 9 năm 2021 cho các khách hàng đủ điều kiện tại Indonesia để giúp phản hồi sự tăng lên của COVID-19 hiện tại.  
+> Điều kiện tham gia Lợi ích FastTrack Tâm Tài chính được dựa trên việc mua giấy phép trả phí cho các gói đủ điều kiện đã được đề cập trước đó. Ngoại lệ, FastTrack đang hỗ trợ việc phát hành giấy phép dùng thử Office 365 E1 từ ngày 6 tháng 8 đến ngày 30 tháng 9 năm 2021 cho các khách hàng đủ điều kiện tại Indonesia để giúp phản hồi sự tăng lên của COVID-19 hiện tại.  
 
 ### <a name="ineligible-plans"></a>Các gói không sử dụng được 
  Các gói không đủ điều kiện cho FastTrack vụ bao gồm (nhưng không giới hạn ở):
@@ -212,8 +212,8 @@ Bạn phải mua tối thiểu 150 giấy phép cho mỗi đối tượng thuê 
 
 |**Gói**   |**Chi tiết** |
 |---------|---------|
-|**Exchange Online Archiving**    |   FastTrack dành cho gói này sẵn dùng khi có được thông qua gói đủ điều kiện, như Enterprise E3 và E5.      |
-|**Office 365 vận hành bởi 21Vianet**    |   Để biết thêm thông tin về Quyền FastTrack Cho người Office 365 do 21Vianet vận hành, hãy liên hệ với bộ phận hỗ trợ [của 21Vianet.](https://go.microsoft.com/fwlink/?linkid=852156)      |
+|**Exchange Online Archiving**    |   FastTrack của bạn dành cho gói này là sẵn dùng khi có được thông qua gói đủ điều kiện, như Enterprise E3 và E5.      |
+|**Office 365 vận hành bởi 21Vianet**    |   Để biết thêm thông tin về Lợi ích FastTrack cho doanh nghiệp Office 365 vận hành bởi 21Vianet, hãy liên hệ với bộ phận hỗ trợ [của 21Vianet.](https://go.microsoft.com/fwlink/?linkid=852156)      |
 | **Microsoft Office 365 Các gói Chuyên dụng và ITAR/Liên bang**     |         |
 |**Các gói không mất phí (như gói Office 365 A1 sinh viên sử dụng gói lợi ích)**   |         |
 

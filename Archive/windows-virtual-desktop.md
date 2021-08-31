@@ -7,15 +7,15 @@ ms.date: 7/01/2020
 audience: ITPro
 ms.topic: overview
 ms.service: virtual-desktop
-localization_priority: None
+ms.localizationpriority: ''
 ms.collection: FastTrack
 description: FastTrack cung cấp hướng Windows triển khai Máy tính Ảo để giúp bạn triển khai máy tính này.
-ms.openlocfilehash: 9e8712b7a1f324d02715527b22eca3f7e4db4656
-ms.sourcegitcommit: ed3a1ad4b24b7b6b78070e21139b3a38f7a6ed69
+ms.openlocfilehash: 5dcd6724c6ce7c86acecd0ecf7310b59cf59858a
+ms.sourcegitcommit: 3d086ab6c4743afbedebed55a3ddb65f05422a1b
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 05/08/2021
-ms.locfileid: "52283520"
+ms.lasthandoff: 08/30/2021
+ms.locfileid: "58710219"
 ---
 # <a name="windows-virtual-desktop"></a>Windows Màn hình nền Ảo
 
@@ -23,15 +23,15 @@ ms.locfileid: "52283520"
 <thead>
 <tr class="header">
 <th><strong>Service</strong></th>
-<th><strong>Chi tiết Hướng dẫn FastTrack</strong></th>
+<th><strong>FastTrack Chi tiết hướng dẫn</strong></th>
 <th><strong>Kỳ vọng về môi trường nguồn</strong></th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
 <td>Windows Màn hình nền Ảo</td>
-<td><p>FastTrack cung cấp hướng dẫn triển khai Máy tính Ảo Windows để giúp bạn triển khai dịch vụ ảo hóa máy tính và ứng dụng này một cách dễ dàng trong khi tận dụng trải nghiệm nhiều phiên của Windows 10, được tối ưu hóa cho Ứng dụng Microsoft 365 for Enterprise với khả năng bảo mật và quản lý tích hợp dành cho máy tính để Microsoft 365.</p>
-<p>Bạn làm việc với Các chuyên gia FastTrack để:</p>
+<td><p>FastTrack cung cấp hướng dẫn triển khai Windows Virtual Desktop để giúp bạn triển khai dịch vụ ảo hóa máy tính và ứng dụng này một cách dễ dàng trong khi tận dụng lợi thế của trải nghiệm nhiều phiên của Windows 10, được tối ưu hóa cho Ứng dụng Microsoft 365 for Enterprise với khả năng bảo mật và quản lý tích hợp cho Microsoft 365.</p>
+<p>Bạn làm việc với các Chuyên FastTrack chuyên gia để:</p>
 <ul>
 <li><p>Triển khai môi trường WVD Windows 10 Enterprise nhiều phiên + Ứng dụng Microsoft 365 cho Doanh nghiệp theo các cách sau:</p>
 <ul>
@@ -78,8 +78,8 @@ ms.locfileid: "52283520"
 <ul>
 <li><p>Chiến lược Định <strong>danh (Chọn CHỈ 1 trong 3 tùy chọn sau)</strong></p>
 <ul>
-<li><p>Active Directory với Azure AD Kết nối Azure</p></li>
-<li><p>Active Directory với Azure AD Kết nối tại Chỗ qua VPN / ER</p></li>
+<li><p>Active Directory với Azure AD Kết nối Trong Azure</p></li>
+<li><p>Active Directory với Azure AD Kết nối tại chỗ qua VPN / ER</p></li>
 <li><p>Dịch vụ Miền Active Directory</p></li>
 </ul></li>
 </ul></li>

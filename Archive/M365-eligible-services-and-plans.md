@@ -7,58 +7,58 @@ ms.date: 7/01/2020
 ms.audience: ITPro
 ms.topic: overview
 ms.service: m365-administration
-localization_priority: None
+ms.localizationpriority: ''
 ms.collection: FastTrack
-description: Khi bạn mua bất cứ dịch vụ Microsoft 365 nào, Các chuyên gia FastTrack sẽ cung cấp hướng dẫn để bạn triển khai Microsoft 365 bắt đầu sử dụng các dịch vụ này.
-ms.openlocfilehash: 71f746cd5193c3c912e3cf08b3a89a369ad7d97c
-ms.sourcegitcommit: ed3a1ad4b24b7b6b78070e21139b3a38f7a6ed69
+description: Khi bạn mua bất kỳ dịch vụ Microsoft 365 nào, Các chuyên gia FastTrack sẽ cung cấp hướng dẫn để bạn triển khai và Microsoft 365 bắt đầu sử dụng các dịch vụ đó.
+ms.openlocfilehash: 52f68f0bfa836d1bcb54d726ee0d663696f12d94
+ms.sourcegitcommit: 3d086ab6c4743afbedebed55a3ddb65f05422a1b
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 05/08/2021
-ms.locfileid: "52283563"
+ms.lasthandoff: 08/30/2021
+ms.locfileid: "58710312"
 ---
 # <a name="eligible-services-and-plans"></a>Dịch vụ và gói đủ điều kiện
 
 > [!CAUTION]
 > Nội dung này không còn mới nhất và được lên lịch loại bỏ. Sử dụng mục lục trong dẫn hướng bên trái cho nội dung hiện tại.
 
-Khi bạn mua bất cứ dịch vụ Microsoft 365 nào, Các chuyên gia FastTrack sẽ cung cấp hướng dẫn để bạn triển khai Microsoft 365 bắt đầu sử dụng các dịch vụ này.
+Khi bạn mua bất kỳ dịch vụ Microsoft 365 nào, Các chuyên gia FastTrack sẽ cung cấp hướng dẫn để bạn triển khai và Microsoft 365 bắt đầu sử dụng các dịch vụ đó.
 
 > [!IMPORTANT]
-> Bạn phải mua tối *thiểu* 150 giấy phép từ các gói đủ điều kiện được liệt kê để nhận được dịch vụ FastTrack.  
+> Bạn phải mua tối *thiểu* 150 giấy phép từ những gói đủ điều kiện được liệt kê để nhận được FastTrack vụ.  
   
-Bạn có thể nhận trợ giúp thông [qua trung Microsoft 365 quản trị Chính](https://go.microsoft.com/fwlink/?linkid=2032704) hoặc site [FastTrack.](https://go.microsoft.com/fwlink/?linkid=780698) 
+Bạn có thể nhận trợ giúp qua [Trung tâm quản trị Microsoft 365](https://go.microsoft.com/fwlink/?linkid=2032704) hoặc [site FastTrack định.](https://go.microsoft.com/fwlink/?linkid=780698) 
 
-Để nhận trợ giúp thông qua [trung Microsoft 365](https://go.microsoft.com/fwlink/?linkid=2032704)trị viên, người quản trị của bạn đăng nhập vào trung tâm quản trị, rồi bấm vào tiện ích Bạn **cần trợ** giúp?. 
+Để nhận trợ giúp thông qua [trung Trung tâm quản trị Microsoft 365](https://go.microsoft.com/fwlink/?linkid=2032704), người quản trị của bạn đăng nhập vào trung tâm quản trị, rồi bấm vào tiện ích Bạn **cần trợ** giúp?. 
 
-Để được trợ giúp qua [site FastTrack:](https://go.microsoft.com/fwlink/?linkid=780698) 
-1.    Đăng nhập vào [site FastTrack.](https://go.microsoft.com/fwlink/?linkid=780698) 
-2.    Chọn **Yêu cầu hỗ trợ Microsoft 365** lời từ các tác **vụ** nhanh ở đầu trang đích của bạn.
+Để nhận trợ giúp qua [site FastTrack:](https://go.microsoft.com/fwlink/?linkid=780698) 
+1.    Đăng nhập vào [trang FastTrack đầu.](https://go.microsoft.com/fwlink/?linkid=780698) 
+2.    Chọn **Yêu cầu trợ giúp Microsoft 365** từ các tác vụ **nhanh** ở đầu trang đích.
 3.    Hoàn thành biểu **mẫu Yêu cầu Hỗ Microsoft 365.**
   
-Đối tác cũng có thể nhận trợ giúp [thông qua site FastTrack](https://go.microsoft.com/fwlink/?linkid=780698) thay mặt cho khách hàng. Cách thực hiện:
-1.    Đăng nhập vào [site FastTrack.](https://go.microsoft.com/fwlink/?linkid=780698) 
-2.    Chọn **Yêu cầu hỗ trợ Microsoft 365** lời từ các tác **vụ** nhanh ở đầu trang đích của bạn.
+Các đối tác cũng có thể nhận trợ [giúp FastTrack thay](https://go.microsoft.com/fwlink/?linkid=780698) mặt cho khách hàng qua trang web. Cách thực hiện:
+1.    Đăng nhập vào [trang FastTrack đầu.](https://go.microsoft.com/fwlink/?linkid=780698) 
+2.    Chọn **Yêu cầu trợ giúp Microsoft 365** từ các tác vụ **nhanh** ở đầu trang đích.
 3.    Tìm kiếm khách hàng của bạn bằng cách nhập tên khách hàng, miền hoặc TPID.
 4.    Chọn khách hàng từ kết quả tìm kiếm.
 5.    Hoàn thành biểu **mẫu Yêu cầu Hỗ Microsoft 365.**
 
-Bạn cũng có thể yêu cầu Trợ giúp Về Trung tâm FastTrack từ [site FastTrack](https://go.microsoft.com/fwlink/?linkid=780698) trong danh sách các dịch vụ sẵn có cho đối tượng thuê của mình. 
+Bạn cũng có thể yêu cầu FastTrack giúp từ [site FastTrack trong](https://go.microsoft.com/fwlink/?linkid=780698) danh sách các dịch vụ sẵn dùng cho đối tượng thuê của mình. 
 
 > [!NOTE]
-> Môi trường tại chỗ của bạn phải vượt qua kiểm tra Trung tâm FastTrack trước khi Chuyên gia FastTrack có thể đưa ra mọi hướng dẫn. 
+> Môi trường tại chỗ của bạn phải vượt qua kiểm tra của Trung tâm FastTrack trước khi chuyên gia FastTrack thể đưa ra bất kỳ hướng dẫn nào. 
   
 ## <a name="eligible-services"></a>Các dịch vụ đủ điều kiện
 
-Trung tâm FastTrack cung cấp hỗ trợ cho các dịch vụ sau:
+FastTrack Trung tâm cung cấp hỗ trợ cho các dịch vụ sau:
   
 - Azure Active Directory Premium
 - Azure Information Protection
 - Exchange Online 
-- Ứng dụng Microsoft 365
+- Các ứng dụng Microsoft 365
 - Tính năng Chống Mối đe dọa Nâng cao của Bộ bảo vệ Microsoft
 - Quản trị Thông tin Microsoft
-- Microsoft Information Protection
+- Bảo vệ thông tin của Microsoft
 - Microsoft Intune
 - Microsoft Teams
 - Office 365 Tính năng Chống Mối đe dọa Nâng cao
@@ -71,7 +71,7 @@ Trung tâm FastTrack cung cấp hỗ trợ cho các dịch vụ sau:
 - Yammer Enterprise 
 
 > [!NOTE]
-> Office 365 ProPlus đã được đổi tên thành Ứng dụng Microsoft 365. Trong một số trường hợp, bạn có thể tìm thấy các sử dụng tên thừa tự. Để biết chi tiết thời điểm thay đổi này có hiệu [lực, hãy xem mục Thay đổi tên Office 365 ProPlus.](https://docs.microsoft.com/deployoffice/name-change) 
+> Office 365 ProPlus đã được đổi tên thành Ứng dụng Microsoft 365. Trong một số trường hợp, bạn có thể tìm thấy các sử dụng tên thừa tự. Để biết chi tiết khi nào thay đổi này có hiệu [lực, hãy xem mục Thay đổi tên Office 365 ProPlus.](https://docs.microsoft.com/deployoffice/name-change) 
 
 ## <a name="eligible-microsoft-365-plans"></a>Các gói Microsoft 365 đủ điều kiện
   
@@ -85,11 +85,11 @@ Trung tâm FastTrack cung cấp hỗ trợ cho các dịch vụ sau:
 - Microsoft 365 E5 Bảo vệ Thông tin & Quản trị\*
 - Microsoft 365 E5 Quản lý Rủi ro Người dùng Nội bộ\*
 - Microsoft 365 F1\*
-- Microsoft 365 Business\*
+- Microsoft 365 Doanh nghiệp\*
 - Ứng dụng Microsoft 365 dành cho doanh nghiệp\*
 - Ứng dụng Microsoft 365 dành cho doanh nghiệp lớn (thiết bị)\*
     
- **Microsoft 365 Business**
+ **Microsoft 365 Doanh nghiệp**
 
  - Microsoft 365 Business Basic\*
  - Microsoft 365 Business Standard\*
@@ -99,11 +99,11 @@ Trung tâm FastTrack cung cấp hỗ trợ cho các dịch vụ sau:
 
 - Microsoft 365 A3\*
 - Microsoft 365 A5\*
-- Microsoft 365 Bảo mật A5\*
-- Microsoft 365 Tuân thủ A5\*
-- Microsoft 365 Kiểm & Xuất Điện tử A5\*
-- Microsoft 365 A5 Information Protection & Governance\*
-- Microsoft 365 Quản lý Rủi ro Người dùng nội bộ A5\*
+- Microsoft 365 A5 Bảo mật\*
+- Microsoft 365 A5 Tuân thủ\*
+- Microsoft 365 A5 xuất Khám phá Điện tử & Tra\*
+- Microsoft 365 A5 Quản trị Trung & Bảo vệ Thông tin\*
+- Microsoft 365 A5 Quản lý Rủi ro Người dùng Nội bộ\*
 - Ứng dụng Microsoft 365 for Education (thiết bị)\*
  
 ## <a name="eligible-office-365-plans"></a>Các gói Office 365 đủ điều kiện
@@ -163,16 +163,16 @@ Trung tâm FastTrack cung cấp hỗ trợ cho các dịch vụ sau:
   
 - Yammer Enterprise 
 
-\*Chỉ khả dụng cho các dịch vụ đám mây đủ điều kiện FastTrack và các tính năng được mô tả trong mô tả lợi ích này.
+\*Chỉ khả dụng cho các tính năng FastTrack toán đám mây đủ điều kiện được mô tả trong mô tả lợi ích này.
 
-\*\*Để biết thêm thông tin về Lợi ích FastTrack cho Chính phủ Hoa Kỳ, hãy [xem Office 365 chính phủ Hoa Kỳ.](https://aka.ms/aboutgovcloud)
+\*\*Để biết thêm thông tin về Lợi FastTrack cho Chính phủ Hoa Kỳ, hãy xem Office 365 [chính phủ Hoa Kỳ.](https://aka.ms/aboutgovcloud)
 
-\*\*\*Có thể được sử dụng cho cả Skype for Business Online và người Microsoft Teams được cấp phép. Yêu cầu mua hàng đủ điều kiện Skype for Business hoặc Microsoft Teams. 
+\*\*\*Có thể sử dụng cho cả người Skype for Business Online và người Microsoft Teams được cấp phép. Yêu cầu mua hàng đủ điều kiện Skype for Business hoặc Microsoft Teams. 
 
 > [!NOTE]
-> Điều kiện tham gia Lợi ích Trung tâm FastTrack được dựa trên việc mua giấy phép trả phí cho các gói đủ điều kiện đã được đề cập trước đó. Mới vào tháng Ba năm 2020, Microsoft sẽ cung cấp giấy phép dùng thử [Office 365 E1](https://docs.microsoft.com/microsoftteams/e1-trial-license) và [Office 365 G1](https://docs.microsoft.com/microsoftteams/g1-trial-license) trong sáu tháng nhằm hỗ trợ việc làm việc và học tập từ xa khi khách hàng phản hồi cho sự cố bùng phát COVID-19 (coronavirus). Ngoại lệ, FastTrack đang hỗ trợ triển thị các giấy phép miễn phí này từ tháng 3 năm 2020 đến tháng 8 năm 2020. 
+> Điều kiện tham gia Lợi ích FastTrack Tâm Tài chính được dựa trên việc mua giấy phép trả phí cho các gói đủ điều kiện đã được đề cập trước đó. Mới vào tháng Ba năm 2020, Microsoft sẽ cung cấp giấy phép dùng thử [Office 365 E1](https://docs.microsoft.com/microsoftteams/e1-trial-license) và [Office 365 G1](https://docs.microsoft.com/microsoftteams/g1-trial-license) trong sáu tháng nhằm hỗ trợ việc làm việc và học tập từ xa khi khách hàng phản hồi cho hiện tượng COVID-19 (vi rút corona). Ngoại lệ, ứng FastTrack trợ việc tiếp nhận các giấy phép miễn phí này từ tháng Ba năm 2020 đến tháng 8 năm 2020. 
  
-Để biết thêm thông tin, hãy [xem mục Lợi ích Trung tâm FastTrack Office 365.](https://go.microsoft.com/fwlink/?linkid=2044752)
+Để biết thêm thông tin, hãy [xem FastTrack tâm Lợi ích Trung tâm Để Office 365.](https://go.microsoft.com/fwlink/?linkid=2044752)
 
 ## <a name="eligible-enterprise-mobility--security-plans"></a>Các gói Enterprise Mobility + Security đủ điều kiện
 
@@ -202,11 +202,11 @@ Trung tâm FastTrack cung cấp hỗ trợ cho các dịch vụ sau:
 
 - Microsoft Intune for Education
 
-\*\*\*\*Khả dụng cho các dịch vụ đám mây đủ điều kiện nhận các lợi ích FastTrack. Nếu không, phần này được định tuyến đến Chuyên gia FastTrack hoặc để giới thiệu đối tác.
+\*\*\*\*Sẵn dùng cho các dịch vụ đám mây đủ điều kiện nhận các lợi FastTrack khác. Nếu không, hoạt động này được định tuyến đến Chuyên gia FastTrack chuyên gia hoặc để được giới thiệu đối tác.
 
-\*\*\*\*\*Sẵn dùng cho P2, như là một phần của E5 hoặc dưới dạng gói độc lập. Khả dụng cho các dịch vụ đám mây đủ điều kiện nhận các lợi ích FastTrack. Đối với Cloud Services P1, FastTrack chia sẻ hướng dẫn tự triển khai.
+\*\*\*\*\*Sẵn dùng cho P2, như là một phần của E5 hoặc dưới dạng gói độc lập. Sẵn dùng cho các dịch vụ đám mây đủ điều kiện nhận lợi FastTrack khác. Đối với Cloud Services P1, chúng FastTrack sẻ hướng dẫn tự triển khai.
 
-Để biết thêm thông tin, hãy [xem mục Lợi ích Trung tâm FastTrack dành cho Enterprise Mobility + Security](EMS-fasttrack-benefit-for-EMS.md).
+Để biết thêm thông tin, hãy [xem FastTrack tâm Lợi ích dành cho Enterprise Mobility + Security](EMS-fasttrack-benefit-for-EMS.md).
 
 ## <a name="eligible-windows-10-plans"></a>Các gói Windows 10 đủ điều kiện
 
@@ -214,31 +214,31 @@ Trung tâm FastTrack cung cấp hỗ trợ cho các dịch vụ sau:
 
 - Windows 10 E3
 - Windows 10 E5
-- Windows 10 Enterprise software Assurance
+- Windows 10 Enterprise với Software Assurance
 
 **Windows Giáo dục**
 
 - Windows 10 A3
 - Windows 10 A5
 
-Để biết thêm thông tin, hãy [xem mục Lợi ích Trung tâm FastTrack để Windows 10.](https://go.microsoft.com/fwlink/?linkid=2044661)
+Để biết thêm thông tin, hãy [xem FastTrack lợi ích Trung tâm Để biết Windows 10.](https://go.microsoft.com/fwlink/?linkid=2044661)
 
 > [!NOTE]
-> Không có yêu cầu cấp phép tối thiểu cho nhà cung cấp phần mềm độc lập thương mại (ISVs) xây dựng các Windows 10 dụng. Tất cả các yêu cầu ứng dụng phải hướng tới Windows 10 hoặc Ứng dụng Microsoft 365 cũ hiện đang nằm trong cửa sổ dịch vụ chính.
+> Không có yêu cầu cấp phép tối thiểu đối với nhà cung cấp phần mềm độc lập thương mại (ISVs) xây dựng các Windows 10 dụng. Tất cả các yêu cầu ứng dụng phải hướng tới một Windows 10 hoặc Ứng dụng Microsoft 365 cũ hiện đang nằm trong cửa sổ dịch vụ chính.
 
 ## <a name="ineligible-plans"></a>Các gói không sử dụng được
 
-Các gói không đủ điều kiện cho các dịch vụ FastTrack bao gồm (nhưng không giới hạn ở):
+Các gói không đủ điều kiện cho FastTrack vụ Bao gồm (nhưng không giới hạn):
     
 
 |Gói  |Chi tiết  |
 |---------|---------|
-|**Exchange Online Archiving**    |   Hướng dẫn FastTrack dành cho gói này khả dụng khi có được thông qua gói đủ điều kiện, như Enterprise E3 và E5.      |
-|**Office 365 vận hành bởi 21Vianet**      |    Để biết thêm thông tin về Lợi ích FastTrack cho người Office 365 vận hành bởi 21Vianet, hãy liên hệ với bộ phận hỗ trợ [của 21Vianet.](https://go.microsoft.com/fwlink/?linkid=852156)     |
+|**Exchange Online Archiving**    |   FastTrack của bạn dành cho gói này là sẵn dùng khi có được thông qua gói đủ điều kiện, như Enterprise E3 và E5.      |
+|**Office 365 vận hành bởi 21Vianet**      |    Để biết thêm thông tin về Lợi ích FastTrack cho doanh nghiệp Office 365 vận hành bởi 21Vianet, hãy liên hệ với bộ phận hỗ trợ [của 21Vianet.](https://go.microsoft.com/fwlink/?linkid=852156)     |
 |**Microsoft Office 365 Các gói Chuyên dụng và ITAR/Liên bang**      |         |
 |**Các gói không mất phí (như gói Office 365 A1 sinh viên sử dụng gói lợi ích)**      |         |
   
-## <a name="fasttrack-center-additional-benefit-eligibility"></a>Điều kiện tham gia lợi ích bổ sung của Trung tâm FastTrack
+## <a name="fasttrack-center-additional-benefit-eligibility"></a>FastTrack Tính đủ điều kiện hưởng lợi ích bổ sung của Trung tâm
 
-Những khách hàng mua tối thiểu 20.000 giấy phép cho một đối tượng thuê Office 365 sẽ đủ điều kiện sử dụng các dịch vụ bổ sung từ Trung tâm FastTrack. Để biết thêm thông tin, hãy [xem Phụ lục A - Lợi ích Bổ sung của Trung tâm FastTrack.](O365-fasttrack-additional-benefits.md)
+Những khách hàng mua tối thiểu 20.000 giấy phép cho đối tượng thuê Office 365 sẽ đủ điều kiện sử dụng các dịch vụ bổ sung từ Trung tâm FastTrack. Để biết thêm thông tin, hãy [xem Phụ lục A - Trợ FastTrack Lợi Bổ sung cho Trung tâm](O365-fasttrack-additional-benefits.md).
   

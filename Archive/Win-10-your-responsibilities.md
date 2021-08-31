@@ -7,15 +7,15 @@ ms.date: 7/01/2020
 ms.audience: ITPro
 ms.topic: overview
 ms.service: windows-10-administration
-localization_priority: None
+ms.localizationpriority: ''
 ms.collection: FastTrack
-description: Bạn có trách nhiệm sau trong quá trình Windows 10 trình.
-ms.openlocfilehash: 224268f4aff2775f101cb9c44dd173d4dfe9b9d5
-ms.sourcegitcommit: ed3a1ad4b24b7b6b78070e21139b3a38f7a6ed69
+description: Bạn có trách nhiệm sau đây trong Windows 10 trình.
+ms.openlocfilehash: 4f8db048fa309a0961fb609c34de55d8f575a49b
+ms.sourcegitcommit: 3d086ab6c4743afbedebed55a3ddb65f05422a1b
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 05/08/2021
-ms.locfileid: "52283517"
+ms.lasthandoff: 08/30/2021
+ms.locfileid: "58710214"
 ---
 # <a name="your-responsibilities"></a>Trách nhiệm của bạn
 > [!CAUTION]
@@ -23,7 +23,7 @@ ms.locfileid: "52283517"
 
 Bạn có trách nhiệm sau trong quá trình thực hiện.
 
-## <a name="general"></a>Chung
+## <a name="general"></a>Nguồn
 
 - Cung cấp việc quản lý dự án và chương trình tổng thể cho các tài nguyên của bạn.
 - Cung cấp khả năng liên lạc, hướng dẫn sử dụng, đào tạo và quản lý thay đổi cho người dùng cuối.
@@ -45,7 +45,7 @@ Bạn có trách nhiệm sau trong quá trình thực hiện.
 ## <a name="assess-phase"></a>Giai đoạn đánh giá
 
 - Xác định các bên liên quan thích hợp (bao gồm người quản lý dự án) để hoàn thành các hoạt động đánh giá cần thiết.
-- Chia sẻ màn hình với nhóm FastTrack nếu cần hướng dẫn khi chạy các công cụ đánh giá đối với môi trường hoặc đăng ký dịch vụ đám mây của bạn (nếu bạn chọn).
+- Chia sẻ màn hình của bạn với nhóm FastTrack nếu cần hướng dẫn khi chạy các công cụ đánh giá đối với môi trường hoặc đăng ký dịch vụ đám mây của bạn (nếu bạn chọn).
 - Tham dự cuộc họp để tạo danh sách kiểm tra khắc phục và đóng góp vào kế hoạch tổng thể, bao gồm cơ sở hạ tầng, mạng, quản trị, chuẩn bị đồng bộ hóa thư mục, bảo mật mạng và chủ đề định danh có liên kết.
 
 ## <a name="remediate-phase"></a>Giai đoạn khắc phục
@@ -55,8 +55,8 @@ Bạn có trách nhiệm sau trong quá trình thực hiện.
 
 ## <a name="enable-phase"></a>Cho phép giai đoạn
 
-- Chia sẻ màn hình với nhóm FastTrack nếu cần hướng dẫn khi chạy các công cụ đánh giá đối với môi trường hoặc đăng ký dịch vụ đám mây của bạn (nếu bạn chọn).
-- Đặt cấu hình các mục liên quan đến mạng theo hướng dẫn từ nhóm FastTrack.
+- Chia sẻ màn hình của bạn với nhóm FastTrack nếu cần hướng dẫn khi chạy các công cụ đánh giá đối với môi trường hoặc đăng ký dịch vụ đám mây của bạn (nếu bạn chọn).
+- Đặt cấu hình các mục liên quan đến mạng theo hướng dẫn FastTrack nhóm.
 - Thực hiện tính sẵn sàng của thư mục và đặt cấu hình đồng bộ hóa thư mục theo hướng dẫn từ nhóm FastTrack khi triển khai đồng bộ thư Ứng dụng Microsoft 365 với Windows 10.
 - Đặt cấu hình phương pháp xác thực, như được quản lý hoặc liên kết.
 

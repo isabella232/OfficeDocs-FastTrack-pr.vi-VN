@@ -1,6 +1,6 @@
 ---
 title: Giai đoạn triển năng và di chuyển
-description: Các giai đoạn của Lợi FastTrack tâm Tài chính
+description: Các giai đoạn của Lợi ích FastTrack tâm Tài chính
 keywords: ''
 author: andredm7
 ms.author: andredm
@@ -9,21 +9,21 @@ ms.date: 7/01/2020
 ms.topic: article
 ms.prod: ''
 ms.service: microsoft-intune
-localization_priority: None
+ms.localizationpriority: ''
 ms.collection: FastTrack
-ms.openlocfilehash: b8bfcc316f47fa2b63208bd10c9b7ad960aa7e23
-ms.sourcegitcommit: f69357b9e3b2edf60c1b9b22f106ac0b1b345d02
+ms.openlocfilehash: 281873562613e8962adb0f59560e0e8bc1c2b088
+ms.sourcegitcommit: 3d086ab6c4743afbedebed55a3ddb65f05422a1b
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 08/23/2021
-ms.locfileid: "58468470"
+ms.lasthandoff: 08/30/2021
+ms.locfileid: "58710331"
 ---
 # <a name="onboarding-phases"></a>Các giai đoạn triển khai
 
 > [!CAUTION]
 > Nội dung này không còn mới nhất và được lên lịch loại bỏ. Sử dụng mục lục trong dẫn hướng bên trái cho nội dung hiện tại.
 
-Khi bạn [](M365-eligible-services-and-plans.md) sử dụng Dịch vụ và Gói Đủ điều kiện để chuẩn bị cho Microsoft Azure Active Directory Premium, Microsoft Intune và Azure Information Protection sẵn sàng để sử dụng, có một số giai đoạn liên quan đến quy trình. Các phần sau đây mô tả từng giai đoạn của quy trình triển năng.
+Khi bạn sử dụng [Dịch](M365-eligible-services-and-plans.md) vụ và Gói Đủ điều kiện để chuẩn bị cho Microsoft Azure Active Directory Premium, Microsoft Intune và Azure Information Protection sẵn sàng để sử dụng, có một số giai đoạn liên quan đến quy trình. Các phần sau đây mô tả từng giai đoạn của quy trình triển năng.
 
 Triển năng có bốn giai đoạn chính:
 
@@ -32,26 +32,26 @@ Triển năng có bốn giai đoạn chính:
 
 ## <a name="initiate-phase"></a>Giai đoạn khởi tạo
 
-Sau khi bạn mua số lượng giấy phép thích hợp, hãy làm theo hướng dẫn từ email xác nhận mua hàng để liên kết giấy phép với đối tượng thuê hiện có hoặc đối tượng thuê mới của bạn. Khi đó Microsoft xác nhận tính đủ điều kiện để nhận Lợi ích FastTrack Tâm Quản lý và cố gắng liên hệ với bạn để cung cấp hỗ trợ triển vọng.
+Sau khi bạn mua số lượng giấy phép thích hợp, hãy làm theo hướng dẫn từ email xác nhận mua hàng để liên kết giấy phép với đối tượng thuê hiện có hoặc đối tượng thuê mới của bạn. Khi đó Microsoft xác nhận khả năng đủ điều kiện tham gia của bạn cho Lợi ích FastTrack Và cố gắng liên hệ với bạn để cung cấp hỗ trợ triển vọng.
 
 > [!NOTE]
 > Bạn cũng có thể yêu cầu hỗ trợ [từ FastTrack site nếu](https://go.microsoft.com/fwlink/?linkid=780698) bạn đã sẵn sàng triển khai các dịch vụ này cho tổ chức của mình.
 
 ### <a name="to-request-assistance"></a>Để yêu cầu hỗ trợ
 
-1. Đăng nhập vào [site FastTrack của bạn.](https://go.microsoft.com/fwlink/?linkid=780698)
-2. Chọn **Yêu cầu trợ giúp**  Microsoft 365 từ các hành động nhanh ở đầu trang đích của bạn hoặc bằng cách chọn Yêu cầu trợ giúp **Microsoft 365** trên thẻ triển khai.
-3. Hoàn thành Biểu **mẫu Yêu cầu Hỗ Microsoft 365 .**
+1. Đăng nhập vào [trang FastTrack đầu.](https://go.microsoft.com/fwlink/?linkid=780698)
+2. Chọn Yêu cầu trợ giúp  **Microsoft 365** từ các hành động nhanh ở đầu trang đích của bạn hoặc bằng cách chọn Yêu cầu trợ giúp **Microsoft 365** trên thẻ triển khai.
+3. Hoàn thành biểu **mẫu Yêu cầu Hỗ Microsoft 365.**
 
 Sau khi hỗ trợ triển năng bắt đầu, chúng tôi sẽ thiết lập lịch biểu cho các cuộc họp trực tuyến.
 
-Các đối tác của Microsoft cũng có thể nhận [trợ giúp FastTrack thay](https://go.microsoft.com/fwlink/?linkid=780698) mặt khách hàng qua trang web FastTrack nhân danh khách hàng. Cách thực hiện:
+Các đối tác của Microsoft cũng có thể nhận [trợ giúp FastTrack thay](https://go.microsoft.com/fwlink/?linkid=780698) mặt cho khách hàng trong trang web. Cách thực hiện:
 
-1. Đăng nhập vào [site FastTrack của bạn.](https://go.microsoft.com/fwlink/?linkid=780698)
+1. Đăng nhập vào [trang FastTrack đầu.](https://go.microsoft.com/fwlink/?linkid=780698)
 2. Chọn Khách **hàng của Tôi.**
 3. Tìm kiếm khách hàng của bạn hoặc chọn khách hàng từ danh sách khách hàng của bạn.
 4. Chọn **Dịch vụ**.
-5. Hoàn thành Biểu **mẫu Yêu cầu Hỗ Microsoft 365 .**
+5. Hoàn thành biểu **mẫu Yêu cầu Hỗ Microsoft 365.**
 
 Sau khi bộ trợ giúp triển khai bắt đầu, FastTrack thiết lập lịch biểu các cuộc họp trực tuyến với bạn để thảo luận về quy trình triển khai, xác minh dữ liệu và thiết lập cuộc họp khởi động.
 
@@ -59,11 +59,11 @@ Sau khi bộ trợ giúp triển khai bắt đầu, FastTrack thiết lập lị
 
 ## <a name="assess-phase"></a>Giai đoạn đánh giá
 
-Sau khi quy trình triển khai bắt đầu, Trung tâm FastTrack sẽ làm việc với bạn để đánh giá môi trường nguồn và yêu cầu của bạn. Các công cụ được chạy để đánh giá môi trường của bạn, và Các chuyên gia FastTrack hướng dẫn bạn đánh giá Active Directory, trình duyệt Internet, hệ điều hành trên thiết bị khách, Hệ thống Tên Miền (DNS), mạng, cơ sở hạ tầng và hệ thống định danh để xác định xem có bất kỳ thay đổi nào để triển khai hay không.
+Sau khi quá trình triển khai bắt đầu, Trung tâm FastTrack sẽ làm việc với bạn để đánh giá môi trường nguồn của bạn và các yêu cầu. Các công cụ được chạy để đánh giá môi trường của bạn, và Các chuyên gia FastTrack hướng dẫn bạn đánh giá Active Directory, trình duyệt Internet, hệ điều hành trên thiết bị khách, Hệ thống Tên Miền (DNS), mạng, cơ sở hạ tầng và hệ thống định danh để xác định xem có bất kỳ thay đổi nào để triển khai hay không.
 
 Trung tâm FastTrack kết nối bạn với hướng dẫn về cách thúc đẩy việc tiếp nhận thành công các dịch vụ đủ điều kiện.
 
-Dựa trên thiết lập hiện tại của bạn, chúng tôi cung cấp một kế hoạch khắc phục, đưa môi trường nguồn của bạn đến các yêu cầu tối thiểu để triển năng thành công cho EMS hoặc dịch vụ đám mây riêng lẻ của chúng tôi. Chúng tôi cũng thiết lập các cuộc gọi điểm kiểm tra thích hợp cho giai đoạn khắc phục.
+Dựa trên thiết lập hiện tại của bạn, chúng tôi cung cấp kế hoạch khắc phục, đưa môi trường nguồn của bạn đến các yêu cầu tối thiểu để triển năng triển năng thành công cho EMS hoặc dịch vụ đám mây riêng lẻ của môi trường đó. Chúng tôi cũng thiết lập các cuộc gọi điểm kiểm tra thích hợp cho giai đoạn khắc phục.
 
 ![Giai đoạn đánh giá triển năng.](./media/ft-assess-phase.png)
 
@@ -96,9 +96,9 @@ Có thể thiết lập môi trường Azure AD Premium bằng cách sử dụng
 
 Đối với các kịch bản Azure AD Premium bao gồm đồng bộ định danh tại chỗ với đám mây, chúng tôi sẽ trợ giúp bạn bằng cách thêm người quản trị và người dùng CNTT vào đăng ký của mình, đặt cấu hình điều kiện tiên quyết quản lý, thiết lập Azure AD Premium, thiết lập đồng bộ hóa thư mục với xác thực và AD FS được quản lý bằng cách sử dụng công cụ Azure AD Kết nối, đặt cấu hình cho người dùng thử nghiệm và xác thực các trường hợp sử dụng chính của bạn cho dịch vụ.
 
-Azure AD giúp Premium lập các tính năng sau:
+Azure AD bao Premium các tính năng sau:
 
--   Azure Active Directory Self-Service đặt lại Mật khẩu (SSPR).
+-   Azure Active Directory Self-Service lại Mật khẩu (SSPR).
 
 -   Azure Multi-Factor Authentication (Azure MFA).
 
@@ -188,7 +188,7 @@ Azure AD giúp Premium lập các tính năng sau:
     -   Sử dụng các báo cáo phần mềm và phần cứng có sẵn trong Intune.
 
     > [!IMPORTANT]
-    > FastTrack không hỗ trợ quản Windows 10 PC cổ điển bằng Intune. FastTrack hỗ trợ quản lý Windows 10 thiết bị thông qua quản lý thiết bị di động Intune (MDM).
+    > FastTrack không hỗ trợ quản lý Windows 10 PC cổ điển với Intune. FastTrack hỗ trợ quản lý thiết Windows 10 thông qua quản lý thiết bị di động Intune (MDM).
 
 #### <a name="windows-autopilot"></a>Windows Autopilot
 
@@ -196,16 +196,16 @@ FastTrack có thể giúp bạn thông qua việc đơn giản hóa việc cung 
 
 FastTrack hỗ trợ các kịch bản AutoPilot sau đây:
 
-- **Tự phục vụ trong Azure AD:** Thiết bị tham gia Azure AD và đăng ký vào Intune. Kịch bản này được hỗ trợ khi sử dụng Windows 10 1703 và các phiên bản mới nhất.
+- **Tự phục vụ trong Azure AD:** Thiết bị tham gia Azure AD và đăng ký vào Intune. Kịch bản này được hỗ trợ khi sử Windows 10 1703 và các phiên bản mới nhất.
 
 - **Tự phục vụ AAD kết hợp:** Thiết bị liên kết cả AD tại chỗ và Azure AD và đăng ký vào Intune. Kịch bản này được hỗ trợ khi sử Windows 10 1809 và các phiên bản mới nhất.
 
-- **Tự cấp phép:** Thiết bị tự động tham gia Azure AD. Kịch bản này được hỗ trợ khi sử dụng Windows 1809 và các phiên bản mới nhất.
+- **Tự cấp phép:** Thiết bị tự động tham gia Azure AD. Kịch bản này được hỗ trợ khi sử Windows 1809 và các phiên bản mới nhất.
 
     > [!IMPORTANT]
     > FastTrack hỗ trợ các kịch bản Autopilot được khởi tạo từ Trình quản lý Cấu hình.
 
-Các bước để thiết lập Windows Autopilot phụ thuộc vào môi trường nguồn của bạn và có thể bao gồm:
+Các bước thiết lập Autopilot Windows phụ thuộc vào môi trường nguồn của bạn và có thể bao gồm:
 
 - Đặt cấu hình và thiết Microsoft Intune cho Windows Autopilot.
 
@@ -213,7 +213,7 @@ Các bước để thiết lập Windows Autopilot phụ thuộc vào môi trư�
 
 - Thêm thương hiệu Công ty của bạn vào Azure AD.
 
-- Tạo và gán thiết bị cho Windows hồ sơ Autopilot (ví dụ: một hồ sơ Windows Autopilot giới hạn việc tạo tài khoản Người quản trị Cục bộ).
+- Tạo và gán thiết bị vào Windows hồ sơ Autopilot (ví dụ: một hồ sơ Windows Autopilot giới hạn việc tạo tài khoản Người quản trị Cục bộ).
 
 - Tùy chỉnh trải nghiệm sử dụng ngay (OOBE) để tuân thủ các yêu cầu của tổ chức.
 
@@ -221,7 +221,7 @@ Các bước để thiết lập Windows Autopilot phụ thuộc vào môi trư�
 
 #### <a name="deploy-outlook-for-ios-and-android-securely"></a>Triển Outlook cho iOS và Android một cách bảo mật
 
-FastTrack thể giúp bạn bằng cách triển khai Outlook cho iOS và Android một cách an toàn trong tổ chức của bạn để đảm bảo người dùng đã cài đặt tất cả các ứng dụng bắt buộc.
+FastTrack thể giúp bạn bằng cách triển khai Outlook cho iOS và Android một cách bảo mật trong tổ chức của bạn để đảm bảo người dùng đã cài đặt tất cả các ứng dụng bắt buộc.
 
 Các bước để triển khai bảo mật Outlook Mobile for iOS và Android với Intune phụ thuộc vào môi trường nguồn của bạn và có thể bao gồm:
 
@@ -233,7 +233,7 @@ Các bước để triển khai bảo mật Outlook Mobile for iOS và Android v
     - Chính sách cấu hình ứng dụng
 
     > [!IMPORTANT]
-    > FastTrack hỗ trợ bảo mật thiết Outlook cho iOS và Android bằng chính sách hộp Exchange di động.
+    > FastTrack không hỗ trợ bảo mật thiết Outlook cho iOS và Android bằng chính sách hộp Exchange di động.
 
 #### <a name="cloud-attach"></a>Đính kèm đám mây
 
@@ -276,9 +276,9 @@ Khách hàng được cung cấp hướng dẫn về cách:
 - Áp dụng bảo vệ thông tin cho tài liệu. 
 - Tự động phân loại và đánh nhãn thông tin trong Office dụng (như Word, PowerPoint, Excel và Outlook) chạy trên Windows và sử dụng máy khách Azure Information Protection.
 - Sử dụng tệp khi lưu trữ bằng cách sử dụng trình quét Azure Information Protection.
-- Giám sát email khi chuyển tiếp bằng Exchange Online tắc dòng thư.
+- Giám sát email khi truyền bằng cách sử Exchange Online quy tắc dòng thư.
 
-Hướng dẫn cũng được cung cấp cho khách hàng muốn áp dụng bảo vệ bằng microsoft Azure Rights Management Services (Azure RMS), Mã hóa Thư Office 365 (OME) và ngăn mất dữ liệu (DLP).
+Hướng dẫn cũng được cung cấp cho khách hàng muốn áp dụng bảo vệ bằng Microsoft Azure Rights Management Services (Azure RMS), Mã hóa Thư Office 365 (OME) và ngăn mất dữ liệu (DLP).
 
 > [!NOTE]
 > **Bạn muốn tìm hiểu thêm?** xem [Enterprise Mobility + Security](https://www.microsoft.com/cloud-platform/enterprise-mobility).

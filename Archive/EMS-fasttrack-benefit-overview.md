@@ -9,17 +9,17 @@ ms.date: 7/01/2020
 ms.topic: article
 ms.prod: ''
 ms.service: microsoft-intune
-localization_priority: None
+ms.localizationpriority: ''
 ms.collection: FastTrack
 ms.assetid: e60e3714-5120-41e2-9878-83ac75107967
 ms.reviewer: ''
 ms.suite: ems
-ms.openlocfilehash: 26cbc2a8062a69f0162847ce4ac41dc58739fa1f
-ms.sourcegitcommit: f69357b9e3b2edf60c1b9b22f106ac0b1b345d02
+ms.openlocfilehash: 8ce01d247a99244f1643aaf30c4fe32cb034d95b
+ms.sourcegitcommit: 3d086ab6c4743afbedebed55a3ddb65f05422a1b
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 08/23/2021
-ms.locfileid: "58468472"
+ms.lasthandoff: 08/30/2021
+ms.locfileid: "58710470"
 ---
 # <a name="fasttrack-center-benefit-overview"></a>Tổng quan về Lợi ích của Trung tâm FastTrack
 
@@ -32,11 +32,11 @@ Hiện có hai thành phần chính:
 
 -   **Triển thị cốt lõi** - Các tác vụ cần thiết cho cấu hình đối tượng thuê và tích Azure Active Directory hoạt động, nếu cần. Triển năng cốt lõi cũng cung cấp đường cơ sở để triển thị các dịch vụ đủ điều kiện khác của Microsoft Online.
 
--   **Triển khai dịch vụ** - Các tác vụ bắt buộc để đặt cấu hình cho mọi biến thể độc lập của khối lượng công việc EMS (Azure AD Premium, Intune và Azure Information Protection).
+-   **Triển khai dịch** vụ - Các tác vụ cần thiết để đặt cấu hình cho mọi biến thể độc lập của khối lượng công việc EMS (Azure AD Premium, Intune và Azure Information Protection).
 
 Sơ đồ sau mô tả các giai đoạn triển khai cấp cao cho Lợi ích Trung FastTrack Cao.
 
-![Giai đoạn triển trí mức cao bằng cách sử dụng Lợi FastTrack tâm Chính.](./media/ft-onboarding-process.png)
+![Các giai đoạn triển thị mức cao sử dụng Lợi ích Trung FastTrack Cao.](./media/ft-onboarding-process.png)
 
 Đây là cách hoạt động của quy trình:
 
@@ -44,11 +44,11 @@ Sơ đồ sau mô tả các giai đoạn triển khai cấp cao cho Lợi ích T
 
 -   Nhóm FastTrack trợ giúp bạn trước tiên với các chức năng cốt lõi (phổ biến với tất cả các Dịch vụ Trực tuyến của Microsoft), sau đó triển thị từng dịch vụ đủ điều kiện.
 
-Toàn bộ hướng dẫn trình diễn ra được chỉ định từ xa bởi các nhân FastTrack viên:
+Tất cả các hướng dẫn trình diễn ra đều được chỉ định từ xa bởi FastTrack nhân viên:
 
 -   Nhóm FastTrack trợ giúp bạn từ xa với các hoạt động triển màn hình khác nhau bằng cách sử dụng kết hợp các công cụ, tài liệu và hướng dẫn.
 
--   Trung tâm Hỗ trợ triển FastTrack đã cung cấp hướng dẫn triển FastTrack và sẵn dùng trong giờ làm việc bình thường cho một khu vực nhất định.
+-   Trung tâm Quản trị cung cấp hướng dẫn triển FastTrack và sẵn dùng trong giờ làm việc bình thường cho một khu vực nhất định.
 
 -   Hỗ trợ triển khai có sẵn bằng tiếng Trung Truyền thống, tiếng Trung Giản thể (các tài nguyên chỉ nói tiếng Quan Thoại), tiếng Anh, tiếng Pháp, tiếng Đức, tiếng Ý, tiếng Nhật, tiếng Hàn, tiếng Bồ Đào Nha (Brazil), tiếng Tây Ban Nha, tiếng Thái và tiếng Việt.
 

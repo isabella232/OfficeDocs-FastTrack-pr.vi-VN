@@ -7,32 +7,32 @@ ms.date: 7/01/2020
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
-localization_priority: None
+ms.localizationpriority: ''
 ms.collection: FastTrack
-description: Các Chuyên gia FastTrack có trách nhiệm sau đây trong quá trình triển năng.
-ms.openlocfilehash: b0387ee7c525469e999f52f8f1994c8f41fb20fe
-ms.sourcegitcommit: ed3a1ad4b24b7b6b78070e21139b3a38f7a6ed69
+description: FastTrack Các chuyên gia có trách nhiệm sau đây trong quá trình đào tạo.
+ms.openlocfilehash: 7e19589fe4b1e79716fb81d62df258defda49807
+ms.sourcegitcommit: 3d086ab6c4743afbedebed55a3ddb65f05422a1b
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 05/08/2021
-ms.locfileid: "52283556"
+ms.lasthandoff: 08/30/2021
+ms.locfileid: "58710293"
 ---
 # <a name="fasttrack-responsibilities"></a>Trách nhiệm của FastTrack
 
 > [!CAUTION]
 > Nội dung này không còn mới nhất và được lên lịch loại bỏ. Sử dụng mục lục trong dẫn hướng bên trái cho nội dung hiện tại.
 
-Các Chuyên gia FastTrack có trách nhiệm sau đây trong quá trình triển năng.\*
+FastTrack Các chuyên gia có trách nhiệm sau đây trong quá trình đào tạo.\*
   
-## <a name="general"></a>Chung
+## <a name="general"></a>Nguồn
 
-- Cung cấp hỗ trợ từ xa cho bạn trong việc lập kế hoạch phát triển và thực hiện thành công và cho các hoạt động cấu hình bắt buộc như được mô tả chi tiết trong giai đoạn.
+- Cung cấp hỗ trợ từ xa cho bạn trong việc lập kế hoạch phát triển và thực hiện thành công và cho các hoạt động cấu hình bắt buộc như được mô tả chi tiết trong phần mô tả giai đoạn.
 - Cung cấp tài liệu và công cụ phần mềm sẵn có, bảng điều khiển quản trị và tập lệnh để cung cấp hướng dẫn cho bạn nhằm giảm hoặc loại bỏ các tác vụ cấu hình và tài nguyên lập kế hoạch thành công. 
     
 ## <a name="initiate-phase"></a>Giai đoạn khởi tạo
 
 - Làm việc với bạn để hiểu rõ mục đích, mục tiêu tổ chức và kế hoạch sử dụng dịch vụ của mình.
-- Làm việc với bạn bằng cách Office 365 các dịch vụ cộng tác (chẳng Microsoft Teams) để bắt đầu giới trí.   
+- Làm việc với bạn bằng cách Office 365 các dịch vụ cộng tác khác (chẳng Microsoft Teams) để bắt đầu giới trí.   
 - Xác định những dịch vụ đủ điều kiện mà bạn muốn sử dụng. 
     
 ## <a name="assess-phase"></a>Giai đoạn đánh giá
@@ -51,7 +51,7 @@ Các Chuyên gia FastTrack có trách nhiệm sau đây trong quá trình triể
   - Điều kiện tiên quyết cho SharePoint Online kết hợp. 
   - Tính sẵn sàng của cơ sở hạ tầng tại cơ sở SharePoint tính năng kết hợp Online.
   - Truy nhập vào các điểm SharePoint Online bắt buộc.
-  - Người xem cho triển OneDrive for Business kết hợp. 
+  - Người xem cho OneDrive for Business kết hợp. 
 - Đánh giá cơ sở hạ tầng Lync, Skype for Business Online hoặc cơ sở Microsoft Teams có, bao gồm:
   - Chiến lược triển Skype for Business máy khách hoặc máy Teams khách được hỗ trợ.
   - Truy nhập vào điểm cuối.
@@ -63,7 +63,7 @@ Các Chuyên gia FastTrack có trách nhiệm sau đây trong quá trình triể
   - Nguyên tắc định tuyến và dòng thư tổng thể.
   - Truy nhập máy khách (bao gồm các điểm cuối truy nhập máy khách đã phát hành hiện có).
   - Môi trường nhắn tin nguồn cho nhu cầu tích hợp.
-- Cung cấp di chuyển dữ liệu nếu dịch vụ di chuyển dữ liệu của Trung tâm FastTrack được sử dụng và nếu bạn đáp ứng điều kiện tham gia.
+- Cung cấp di chuyển dữ liệu nếu dịch FastTrack di chuyển dữ liệu của Trung tâm Tài chính được sử dụng và nếu bạn đáp ứng điều kiện tham gia.
     
 ## <a name="remediate-phase"></a>Giai đoạn khắc phục
 
@@ -77,17 +77,17 @@ Cung cấp hướng dẫn về:
 - Kích hoạt đối tượng thuê Office 365 bạn.  
 - Cấu hình giao thức TCP/IP và cổng tường lửa.
 - Đặt cấu hình DNS cho các dịch vụ đủ điều kiện. 
-- Xác thực khả năng kết nối Office 365.
+- Xác thực kết nối với tài Office 365.
 - Kết nối Active Directory tại chỗ của bạn với Azure Active Directory:
   - Cài đặt máy chủ đồng bộ hóa thư mục giữa Dịch vụ Miền Active Directory (AD DS) và máy Office 365, nếu cần. 
-  - Cấu hình đồng bộ hóa mật khẩu (băm mật khẩu) để Office 365 dụng (Azure Active Directory) bằng công cụ Azure Active Directory Kết nối, nếu cần.
+  - Cấu hình đồng bộ hóa mật khẩu (băm mật khẩu) Office 365 dụng (Azure Active Directory) bằng công cụ Azure Active Directory Kết nối, nếu cần.
   - Đối với các môi trường một rừng và nhiều rừng:
       - Cấu hình Azure Active Directory Xác thực Chuyển qua, nếu cần.\*\*
       - Nếu cần thiết, Azure Active Directory đặt cấu hình cho Sign-On Liền mạch Đơn (SSO).\*\*\*
     > [!NOTE]
-    > Azure Active Directory Tính năng Xác thực Chuyển qua cho môi trường nhiều rừng được hỗ trợ nếu có tin cậy rừng giữa các rừng Active Directory của bạn và nếu định tuyến hậu tố tên được cấu hình đúng. Nhân viên bổ sung có thể được cài đặt trên nhiều máy chủ tại chỗ để cung cấp tính khả dụng cao cho các yêu cầu đăng nhập. Để biết thêm thông tin, hãy xem Azure Active Directory Xác thực Chuyển [qua: Bắt](https://go.microsoft.com/fwlink/?linkid=860094) đầu nhanh Azure Active Directory Đăng nhập Một lần Liền [mạch: Bắt đầu nhanh](https://go.microsoft.com/fwlink/?linkid=860095). 
+    > Azure Active Directory Tính năng Xác thực Chuyển qua cho môi trường nhiều rừng được hỗ trợ nếu có tin cậy rừng giữa các rừng Active Directory của bạn và nếu định tuyến hậu tố tên được đặt cấu hình đúng. Nhân viên bổ sung có thể được cài đặt trên nhiều máy chủ tại chỗ để cung cấp tính khả dụng cao cho các yêu cầu đăng nhập. Để biết thêm thông tin, hãy xem Azure Active Directory Xác thực Chuyển [qua: Bắt](https://go.microsoft.com/fwlink/?linkid=860094) đầu nhanh Azure Active Directory Đăng nhập Một lần [Liền mạch: Bắt đầu nhanh](https://go.microsoft.com/fwlink/?linkid=860095). 
 - Đối với một rừng riêng lẻ trong đó các căn cước liên kết là đích: 
-  - Cài đặt và cấu hình AD FS để xác thực miền cục bộ với Office 365 trong một cấu hình dung sai số một site, nếu cần.
+  - Cài đặt và đặt cấu hình AD FS để xác thực miền cục bộ với Office 365 trong một cấu hình dung sai số một site, nếu cần.
   - Cài đặt và đặt cấu hình WAP để phát hành cơ sở hạ tầng AD FS của bạn lên internet, nếu cần.
     > [!NOTE]
     > Đối với tất cả các cấu hình nhiều rừng, triển khai AD FS không có phạm vi. 
@@ -96,30 +96,30 @@ Cung cấp hướng dẫn về:
     
 \*\*Để biết thêm thông tin về giới hạn xác thực chuyển qua, hãy [xem Azure Active Directory Xác thực chuyển qua: Các giới hạn hiện tại](https://go.microsoft.com/fwlink/?linkid=860356). 
 
-\*\*\*Để biết thêm thông tin về các sự cố seamless SSO, hãy [xem Khắc phục Azure Active Directory đăng nhập một lần liền mạch.](https://go.microsoft.com/fwlink/?linkid=841926)
+\*\*\*Để biết thêm thông tin về các sự cố seamless SSO, hãy [xem Khắc phục Azure Active Directory Đăng nhập Một lần Liền mạch.](https://go.microsoft.com/fwlink/?linkid=841926)
 
 ## <a name="exchange-online"></a>Exchange Online
 
 Cung cấp hướng dẫn về:
 - Tạo hoặc cập nhật bản ghi DNS. 
 - Cho phép định tuyến email giữa hệ thống gửi thư nguồn và môi Office 365 khác nhau. 
-- Đặt cấu hình cho Exchange Online Protection, bảo vệ mất dữ liệu (DLP) và Mã hóa Thư Office 365 (OME) và Office 365 Bảo vệ Mối đe dọa Nâng cao (ATP) (nếu có sẵn trong đăng ký của bạn) và xác minh bản ghi MX của bạn trỏ tới Office 365 cho tất cả các miền hỗ trợ thư được xác thực.
+- Đặt cấu hình cho Exchange Online Protection, bảo vệ mất dữ liệu (DLP) và Mã hóa Thư Office 365 (OME) và Bảo vệ Mối đe dọa Nâng cao (ATP) của Office 365 bạn (nếu có sẵn trong đăng ký) và xác minh bản ghi MX của bạn trỏ tới Office 365 cho tất cả các miền hỗ trợ thư được xác thực.
 - Đặt cấu hình thiết lập hỗn hợp giữa tổ chức Exchange tại chỗ và tổ chức Office 365 hoặc giữa nhiều tổ chức tại Exchange cơ sở và tổ chức Office 365.   
-- Đặt cấu hình cho máy khách hộp Outlook cho Windows, Outlook trên web và Outlook cho iOS và Android).
-- Đặt cấu hình tự động hóa, điều tra và phản hồi Office 365 ATP của bạn (nếu có sẵn trong thuê bao của bạn).
+- Đặt cấu hình cho máy khách hộp thư (Outlook cho Windows, Outlook trên web và Outlook cho iOS và Android).
+- Đặt cấu hình tự động hóa, điều tra và phản hồi Office 365 ATP (nếu có sẵn trong thuê bao của bạn).
     
 Để biết thêm thông tin về trách nhiệm di chuyển dữ liệu, hãy xem [Di chuyển Dữ liệu](O365-data-migration.md).
   
-## <a name="microsoft-365-apps"></a>Ứng dụng Microsoft 365
+## <a name="microsoft-365-apps"></a>Các ứng dụng Microsoft 365
 
 Cung cấp hướng dẫn về:
 - Giải quyết các vấn đề về triển khai.
-- Gán giấy phép dựa trên thiết bị và người dùng cuối bằng cách [sử dụng trung Microsoft 365 quản trị viên và](https://go.microsoft.com/fwlink/?linkid=2032704) Windows PowerShell.
+- Gán giấy phép dựa trên thiết bị và người dùng cuối bằng cách [sử Trung tâm quản trị Microsoft 365](https://go.microsoft.com/fwlink/?linkid=2032704) và Windows PowerShell.
 - Cài Ứng dụng Microsoft 365 cài đặt từ Office 365 cổng thông tin Doanh nghiệp bằng Click-to-Run.
-- Cài Office mobile (như Outlook cho iOS và Android, Word Mobile, Excel Mobile và PowerPoint Mobile) trên iOS hoặc Android của bạn. 
-- Đặt cấu hình thiết đặt cập nhật bằng cách sử Office 365 Công cụ Triển khai.
+- Cài Office Mobile (như Outlook for iOS và Android, Word Mobile, Excel Mobile và PowerPoint Mobile) trên iOS hoặc Android. 
+- Đặt cấu hình thiết đặt cập nhật bằng cách dùng Office 365 Công cụ Triển khai.
 - Chọn và thiết lập bản cài đặt cục bộ hoặc trên đám mây.
-- Tạo cấu hình Office Công cụ Triển khai XML với Công cụ Tùy chỉnh Office hoặc XML gốc để cấu hình gói triển khai.
+- Tạo cấu Office Công cụ Triển khai XML với Công cụ Tùy chỉnh Office hoặc XML gốc để cấu hình gói triển khai.
 - Deployment using Microsoft Endpoint Configuration Manager, including assistance with the creation of Microsoft Endpoint Configuration Manager packaging.
 
 ## <a name="microsoft-information-governance"></a>Quản trị Thông tin Microsoft 
@@ -133,9 +133,9 @@ Cung cấp hướng dẫn về:
   - Xem lại các mục cho bố trí.
 - Quản lý rủi ro người dùng nội bộ.
   - Bật nhật Office 365 kiểm tra Tài liệu.
-  - Đặt cấu hình cài đặt trong quản lý rủi ro người dùng nội bộ.
+  - Đặt cấu hình thiết đặt trong quản lý rủi ro người dùng nội bộ.
   - Tạo chính sách rủi ro người dùng nội bộ bằng sách chơi tích hợp sẵn.
-  - Đặt cấu hình quyền để tuân thủ giao tiếp.
+  - Đặt cấu hình quyền để tuân thủ liên lạc.
   - Tạo chính sách tuân thủ truyền thông bằng cách sử dụng mẫu có thể tùy chỉnh.
   - Giám sát và xem lại các cảnh báo.
 - Quản trị thông tin.
@@ -153,7 +153,7 @@ Cung cấp hướng dẫn về:
   - Xem lại tập hợp.
   - Xuất nội dung.
 
-## <a name="microsoft-information-protection"></a>Microsoft Information Protection
+## <a name="microsoft-information-protection"></a>Bảo vệ thông tin của Microsoft
 
 Cung cấp hướng dẫn về:
 - Phân loại dữ liệu.
@@ -184,7 +184,7 @@ Cung cấp hướng dẫn về:
 - Thiết lập tổ chức cho thiết đặt mặc định cầu nối hội thảo.
 - Gán cầu nối hội thảo cho người dùng được cấp phép.
 - Bật Hỗ Hệ thống Điện thoại.
-- Bật triển Hệ thống Điện thoại và Gói gọi điện (ở những thị trường có sẵn).
+- Bật triển Hệ thống Điện thoại và Triển thị Gói gọi điện (ở những thị trường có sẵn).
 - Gán số cho người dùng được cấp phép.
 - Hướng dẫn nối cổng số nội bộ thông qua giao diện người dùng tối đa là 999.
 - Hỗ trợ nối cổng số nội bộ SR trên 999. 
@@ -204,19 +204,19 @@ Cung cấp hướng dẫn về:
 ## <a name="onedrive-for-business"></a>OneDrive for Business
 
 Cung cấp hướng dẫn về:
-- Xác định các tùy chọn tích hợp SharePoint phiên bản và tích hợp tại chỗ. 
+- Xác định các tùy chọn tích hợp SharePoint và phiên bản tại chỗ. 
 - Xác định tùy chọn đồng bộ hóa và danh tính.
 - Chọn tùy chọn triển khai:   
   - Triển khai chỉ trong thời gian thực.
   - Triển khai theo giai đoạn (theo trình tự và theo giai đoạn).
-- Chuẩn bị môi trường tại chỗ để triển OneDrive for Business:
-  - Xác định đúng máy khách OneDrive for Business đồng bộ.
+- Chuẩn bị môi trường tại chỗ để triển OneDrive for Business như sau:
+  - Xác định máy khách đồng OneDrive for Business chính xác.
   - Cấu hình DNS, cổng mạng và tường lửa. 
 - Gán giấy phép người dùng cuối. 
-- Thiết lập để SharePoint Online kiểm soát và chi phối người nhận nội OneDrive for Business. 
-- Triển khai máy khách đồng OneDrive for Business trên máy tính.   
-- Cách cấu hình SharePoint chuyển OneDrive for Business Online kết hợp (chỉ SharePoint 2013 và SharePoint 2016).
-- Di chuyển dữ liệu nếu dịch vụ di chuyển dữ liệu Trung tâm FastTrack được sử dụng và nếu bạn đáp ứng điều kiện tham gia.
+- Thiết lập SharePoint Người xem trực tuyến để kiểm soát và chi phối người nhận OneDrive for Business. 
+- Triển khai máy khách đồng OneDrive for Business cho máy tính để bàn.   
+- Cách cấu hình SharePoint chuyển hướng OneDrive for Business Online kết hợp (chỉ SharePoint 2013 và SharePoint 2016).
+- Di chuyển dữ liệu nếu dịch FastTrack vụ di chuyển dữ liệu của Trung tâm Tài chính được sử dụng và nếu bạn đáp ứng điều kiện tham gia.
     
 ## <a name="outlook-for-ios-and-android"></a>Outlook cho iOS và Android
 
@@ -229,7 +229,7 @@ Cung cấp hướng dẫn về:
 Cung cấp hướng dẫn về:
 - Xem lại các gói đăng ký Power BI. 
 - Thêm dịch vụ Power BI. 
-- Tải xuống ứng Power BI Desktop này.
+- Tải xuống ứng Power BI Desktop của bạn.
     
 ## <a name="project-online"></a>Project Online
 
@@ -244,8 +244,8 @@ Cung cấp hướng dẫn về:
 
 Cung cấp hướng dẫn về:
 - Giải quyết các vấn đề về triển khai.
-- Gán giấy phép người dùng cuối bằng cách sử dụng [Trung Microsoft 365 quản trị viên chính](https://go.microsoft.com/fwlink/?linkid=2032704) và Windows PowerShell.
-- Tải xuống và cài Project Online máy khách để bàn từ cổng thông tin.   
+- Gán giấy phép người dùng cuối bằng cách sử [dụng Trung tâm quản trị Microsoft 365](https://go.microsoft.com/fwlink/?linkid=2032704) và Windows PowerShell.
+- Tải xuống và cài đặt Project Online Máy khách để bàn từ cổng thông tin.   
 - Đặt cấu hình thiết đặt cập nhật bằng Office 365 Mẫu Công cụ Triển khai hoặc Chính sách Nhóm.
 - Thiết lập một máy chủ phân phối tại chỗ duy nhất cho máy khách Project Online trên máy tính, bao gồm hướng dẫn tạo một tệp configuration.xml cho Công cụ Triển khai Office 2016. 
 - Kết nối Project Online trên Máy khách để bàn Project Online.
@@ -258,35 +258,35 @@ Cung cấp hướng dẫn về:
 - Lập kế hoạch tuyển tập site. 
 - Bảo mật nội dung và quản lý quyền.
 - Bật site cá nhân và các tính năng xã hội.
-- Đặt cấu hình SharePoint năng Online. 
-- Cung cấp di chuyển dữ liệu nếu dịch vụ di chuyển dữ liệu của Trung tâm FastTrack được sử dụng và nếu bạn đáp ứng điều kiện tham gia.
-- Đánh giá cấu hình cơ sở hạ tầng SharePoint sở hạ tầng của farm cần thiết SharePoint Online kết hợp. 
+- Đặt cấu hình cho SharePoint năng Online. 
+- Cung cấp di chuyển dữ liệu nếu dịch FastTrack di chuyển dữ liệu của Trung tâm Tài chính được sử dụng và nếu bạn đáp ứng điều kiện tham gia.
+- Đánh giá cấu hình cơ sở hạ tầng SharePoint cơ sở hạ tầng farm tại cơ sở cần thiết SharePoint Online kết hợp. 
 - Sử dụng công cụ và tự động hóa để:
   - Cấu hình các ứng dụng dịch vụ tìm kiếm điện toán đám mây tại cơ sở. 
-  - Đặt cấu hình tin cậy SharePoint môi trường tại chỗ và điện toán đám mây.
-- Đặt cấu hình site SharePoint cơ sở để sử dụng các SharePoint tính năng kết hợp Online.
+  - Cấu hình độ tin cậy SharePoint môi trường tại chỗ và điện toán đám mây.
+- Cấu hình các site SharePoint cơ sở để sử dụng các tính SharePoint Online kết hợp khác.
     
 ## <a name="skype-for-business-online"></a>Skype for Business Online
 
 Cung cấp hướng dẫn về:
-- Việc cung cấp Skype for Business tính cá nhân cho Office 365. 
-- Cho phép các tính năng hội thảo trực tuyến, nhắn tin tức thời (IM) và hiện diện cho tất Office 365. 
+- Việc cung Skype for Business danh tính cho người Office 365. 
+- Cho phép các tính năng hội thảo trực tuyến, nhắn tin tức thời (IM) và hiện diện Office 365. 
 - Tạo tài khoản để liên kết với các thiết bị hệ thống phòng được hỗ trợ (tối đa 10 tài khoản). 
 - Cấu hình môi trường máy chủ tên miền tách để hỗ trợ các kịch bản hỗn hợp Lync Skype for Business Online kết hợp (nếu áp dụng).
 - Cho phép Hội thảo Âm thanh:
   - Thiết lập tổ chức cho thiết đặt mặc định cầu nối hội thảo.
   - Gán cầu nối hội thảo cho người dùng được cấp phép.
 - Cho phép Hệ thống Điện thoại:
-  - Bật triển Hệ thống Điện thoại và Gói gọi điện (ở những thị trường có sẵn).
+  - Bật triển Hệ thống Điện thoại và Triển thị Gói Gọi điện (ở những thị trường có sẵn).
   - Gán số cho người dùng được cấp phép.
   - Hướng dẫn nối cổng số nội bộ thông qua giao diện người dùng tối đa là 999.
   - Hỗ trợ nối cổng số nội bộ SR trên 999.
 - Kích hoạt Skype for Business Meeting Broadcast:
-  - Kích hoạt Skype for Business thảo Truyền phát Cuộc họp.
+  - Bật hướng Skype for Business phát rộng Cuộc họp.
   - Thiết lập tổ chức để liên kết với dịch vụ Meeting Broadcast.
     
 ## <a name="yammer-enterprise"></a>Yammer Enterprise
 
-Cung cấp hướng dẫn về việc chuyển đổi Yammer Basic đơn của bạn thành một mạng Yammer Enterprise đơn.
+Cung cấp hướng dẫn về việc chuyển đổi Yammer Basic đơn lẻ của bạn thành một mạng Yammer Enterprise duy nhất.
   
-\*Để biết thông tin về trách nhiệm của FastTrack đối với Office 365 chính phủ Hoa Kỳ, hãy xem Trách nhiệm FastTrack đối với Office 365 [chính phủ Hoa Kỳ.](US-Gov-appendix-fasttrack-responsibilities.md)
+\*Để biết thông tin FastTrack trách nhiệm đối với Office 365 chính phủ Hoa Kỳ, hãy xem FastTrack trách nhiệm của [Office 365 chính phủ Hoa Kỳ.](US-Gov-appendix-fasttrack-responsibilities.md)
