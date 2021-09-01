@@ -10,12 +10,12 @@ ms.service: o365-administration
 ms.localizationpriority: medium
 ms.collection: FastTrack
 description: Trong chủ đề này, chúng tôi vạch ra các yêu cầu về điều kiện đủ điều kiện để nhận hỗ trợ từ xa, có hướng dẫn từ các Chuyên gia FastTrack được bao gồm trong việc mua giấy phép Microsoft 365 và nêu chi tiết về các sản phẩm và chức năng cụ thể được đề cập.
-ms.openlocfilehash: ff9fdea073bebc9f24781c88c452b9b32c17f476
-ms.sourcegitcommit: 3d086ab6c4743afbedebed55a3ddb65f05422a1b
+ms.openlocfilehash: 46e7cee8c160f29a2558e86eb3f6abe0249f1c3b
+ms.sourcegitcommit: afb7b49daa1241dd2158dc81221afdc740fd4535
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 08/30/2021
-ms.locfileid: "58710543"
+ms.lasthandoff: 08/31/2021
+ms.locfileid: "58826116"
 ---
 # <a name="eligibility"></a>Tính đủ điều kiện
 
@@ -55,7 +55,7 @@ FastTrack Các chuyên gia có thể cung cấp cho bạn hỗ trợ từ xa, c�
 
 ## <a name="eligible-plans"></a>Các gói đủ điều kiện
 
-Bạn phải mua ít nhất 150 giấy phép cho mỗi đối tượng thuê từ một trong các gói dưới đây để đủ điều kiện tham gia FastTrack. Danh sách này được nhóm theo nhóm sản phẩm để giúp hỗ trợ bạn tìm các gói cụ thể mà công ty bạn đã mua: Microsoft 365, Office 365, Enterprise Mobility & Security và Enterprise Mobility Windows 10. 
+Bạn phải mua tối thiểu 150 giấy phép từ một trong các gói dưới đây để đủ điều kiện để sử dụng FastTrack. Danh sách này được nhóm theo nhóm sản phẩm để giúp hỗ trợ bạn tìm các gói cụ thể mà công ty bạn đã mua: Microsoft 365, Office 365, Enterprise Mobility & Security và Enterprise Mobility Windows 10. 
 
 ### <a name="microsoft-365-plans"></a>Microsoft 365 của bạn
 
@@ -71,7 +71,7 @@ Bạn phải mua ít nhất 150 giấy phép cho mỗi đối tượng thuê t�
   - Microsoft 365 F1\*
   - Microsoft 365 F3\*
   - Microsoft 365 Doanh nghiệp\*
-  - Ứng dụng Microsoft 365 dành cho Enterprise\*
+  - Ứng dụng Microsoft 365 for Enterprise\*
   - Ứng dụng Microsoft 365 dành cho Enterprise (thiết bị)\*
 
 #### <a name="microsoft-365-business"></a>Microsoft 365 Doanh nghiệp
@@ -86,8 +86,8 @@ Bạn phải mua ít nhất 150 giấy phép cho mỗi đối tượng thuê t�
   - Microsoft 365 A5\*
   - Microsoft 365 A5 Bảo mật\*
   - Microsoft 365 A5 Tuân thủ\*
-  - Microsoft 365 A5 xuất Khám phá Điện tử & Tra\*
-  - Microsoft 365 A5 Quản trị Trung & Bảo vệ Thông tin\*
+  - Microsoft 365 A5 Khám phá Điện tử & Tra\*
+  - Microsoft 365 A5 Bảo vệ Thông tin & Quản trị\*
   - Microsoft 365 A5 Quản lý Rủi ro Người dùng Nội bộ\*
   - Ứng dụng Microsoft 365 for Education (thiết bị)\*
 
