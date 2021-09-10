@@ -8,13 +8,13 @@ ms.audience: ITPro
 ms.topic: article
 ms.service: o365-administration
 ms.localizationpriority: medium
-description: 'Nếu bạn có Thỏa thuận Liên kết Kinh doanh HIPAA (BAA) với Microsoft cho Dịch vụ FastTrack thì mọi dịch vụ được liệt kê trong Lợi ích Liên kết Kinh doanh của FastTrack dành cho Office 365 đều được bao gồm trong BAA đó, ngoại trừ:'
+description: 'Nếu bạn có Thỏa thuận Liên kết Kinh doanh HIPAA (BAA) với Microsoft cho Dịch vụ FastTrack thì tất cả dịch vụ được liệt kê trong Lợi ích Trung tâm FastTrack dành cho Office 365 đều được bao gồm trong BAA đó, ngoại trừ:'
 ms.openlocfilehash: c53d40764cc26260cb27dca6122b861be2ba96ea
-ms.sourcegitcommit: 3d086ab6c4743afbedebed55a3ddb65f05422a1b
+ms.sourcegitcommit: 79f14ca91bf967bdb9f7f222e2e174c2f4a62bf5
 ms.translationtype: MT
 ms.contentlocale: vi-VN
-ms.lasthandoff: 08/30/2021
-ms.locfileid: "58710209"
+ms.lasthandoff: 09/10/2021
+ms.locfileid: "58971272"
 ---
 # <a name="appendix-a---fasttrack-center-hipaa-business-associate-agreement"></a>Phụ lục A - Thỏa thuận Liên kết Kinh doanh HIPAA của Trung tâm FastTrack
 
